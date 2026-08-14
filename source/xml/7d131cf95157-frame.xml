@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<frame class="SideBar" ipi="Console" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Console" position.height="300" position.relative="0" position.width="1600" position.x="0" position.y="0" SideBarType="2" transparent="0" TXDFileName="UI\256WindowTech.txd" TXDName="PromptFrame" visible="1">
+    <input-redirect source="AddLine" target="buffer" targetname="AddLine" />
+    <output-connect source="OnUnhide" target="commandline" targetname="TakeFocus" />
+    <output-connect source="OnUnhide" target="commandline" targetname="Clear" />
+    <control class="CommandBox" DrawWithoutFocus="1" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" LoseFocusOnCommand="0" MatchParentHeight="0" MatchParentWidth="1" MaxHistory="100" moveable="0" Name="commandline" position.height="24" position.relative="0" position.width="344" position.x="5" position.y="270" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="Console" targetname="OnCommand" />
+    </control>
+    <control class="MultiText" MatchParentHeight="0" MatchParentWidth="1" moveable="0" Name="buffer" position.height="263" position.relative="0" position.width="343" position.x="5" position.y="5" TXDName="VerticalScrollbar" visible="1" />
+</frame>

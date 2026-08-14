@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="BrushDialog" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="BrushDialog" position.height="118" position.relative="0" position.width="200" position.x="700" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetBrushFalloff" target="falloffvalue" targetname="SetText" />
+    <input-redirect source="SetBrushPower" target="powervalue" targetname="SetText" />
+    <input-redirect source="SetBrushPowerMax" target="powerslider" targetname="SetMax" />
+    <input-redirect source="SetBrushPowerMin" target="powerslider" targetname="SetMin" />
+    <input-redirect source="SetBrushShapeChunk" target="chunk" targetname="SetChecked" />
+    <input-redirect source="SetBrushShapeCircle" target="circle" targetname="SetChecked" />
+    <input-redirect source="SetBrushShapeRectangle" target="rectangle" targetname="SetChecked" />
+    <input-redirect source="SetBrushShapeScatter" target="scatter" targetname="SetChecked" />
+    <input-redirect source="SetBrushSize" target="sizevalue" targetname="SetText" />
+    <input-redirect source="SetBrushSizeMax" target="sizeslider" targetname="SetMax" />
+    <input-redirect source="SetBrushSizeMin" target="sizeslider" targetname="SetMin" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="18" position.relative="0" position.width="192" position.x="8" position.y="4" Text="Brush" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="fallofftitle" position.height="16" position.relative="0" position.width="27" position.x="5" position.y="67" Text="F/O" TextID="0" TXDName="Text" visible="1" />
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="falloffvalue" position.height="18" position.relative="0" position.width="40" position.x="155" position.y="66" Text="1.00" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="BrushDialog" targetname="OnSetBrushFalloff" />
+        <output-connect source="OnEditBoxChange" target="falloffslider" targetname="SetValue" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="sizetitle" position.height="16" position.relative="0" position.width="27" position.x="5" position.y="26" Text="Size" TextID="0" TXDName="Text" visible="1" />
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="sizevalue" position.height="18" position.relative="0" position.width="40" position.x="155" position.y="26" Text="1" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="BrushDialog" targetname="OnSetBrushSize" />
+        <output-connect source="OnEditBoxChange" target="sizeslider" targetname="SetValue" />
+    </control>
+    <control class="FloatSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="63.000000" minimum="0.250000" moveable="0" Name="sizeslider" position.height="11" position.relative="0" position.width="120" position.x="30" position.y="28" precision="3" step="1.000000" TotalSteps="64" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1">
+        <output-connect source="OnScrollChange" target="sizevalue" targetname="SetText" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="powertitle" position.height="16" position.relative="0" position.width="28" position.x="5" position.y="47" Text="Pow" TextID="0" TXDName="Text" visible="1" />
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="powervalue" position.height="18" position.relative="0" position.width="40" position.x="155" position.y="46" Text="0.00" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="BrushDialog" targetname="OnSetBrushPower" />
+        <output-connect source="OnEditBoxChange" target="powerslider" targetname="SetValue" />
+    </control>
+    <control class="FloatSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="1.000000" minimum="0.000000" moveable="0" Name="powerslider" position.height="11" position.relative="0" position.width="120" position.x="30" position.y="49" precision="2" step="0.050000" TotalSteps="21" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1">
+        <output-connect source="OnScrollChange" target="powervalue" targetname="SetText" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rectangle" position.height="24" position.relative="0" position.width="40" position.x="56" position.y="88" PressedTextOffset.x="2" PressedTextOffset.y="2" Text="Rect" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="BrushDialog" targetname="OnSetBrushShapeRectangle" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scatter" position.height="24" position.relative="0" position.width="40" position.x="104" position.y="88" PressedTextOffset.x="2" PressedTextOffset.y="2" Text="Scatter" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="BrushDialog" targetname="OnSetBrushShapeScatter" />
+    </control>
+    <control class="FloatSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="1.000000" minimum="0.000000" moveable="0" Name="falloffslider" position.height="11" position.relative="0" position.width="120" position.x="30" position.y="69" precision="2" step="0.050000" TotalSteps="21" TXDName="HorizontalScrollbar" Value="20" visible="1" VisibleSteps="1">
+        <output-connect source="OnScrollChange" target="falloffvalue" targetname="SetText" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="circle" position.height="24" position.relative="0" position.width="40" position.x="9" position.y="88" PressedTextOffset.x="2" PressedTextOffset.y="2" Text="Circle" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="BrushDialog" targetname="OnSetBrushShapeCircle" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="chunk" position.height="24" position.relative="0" position.width="40" position.x="151" position.y="88" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Chunk" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="BrushDialog" targetname="OnSetBrushShapeChunk" />
+    </control>
+</frame>

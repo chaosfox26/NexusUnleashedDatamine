@@ -1,0 +1,85 @@
+Id	Description	RippleColorTex	RippleNormalTex	Scale	Rotation	Speed	OscFrequency	OscMagnitude	OscRotation	OscPhase	OscMinLayerWeight	OscMaxLayerWeight	OscLayerWeightPhase	MaterialBlend
+1	Preview Layer Do Not Edit	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1	0	0.1	0	0	0	0	1	1	0	0
+2	Lake_+X	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1.48438	1.1781	0.109375	0.195313	0.34375	4.85965	1.5708	0.476563	0.71875	5	0
+3	Lake_-X	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1	3.1415927	0.1	2.30469	0.0390625	2.45437	0	0.507813	0.523438	0	0
+4	Lake_+Z	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1	1.5708	0.1	0	0	0	0	0.34375	0.453125	0	0
+28	Lake_-Z	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1	0	0.1	0	0	0	0	0.398438	0.234375	0	0
+30	Shoreline01	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Pond_Ripple_001_normal.tex	0.15625	0	0	3.984375	0.015625	0	1.3253596	0.6640625	1	0	0
+31	Shoreline02	Art\Water\Temp\Water_ShorelineRippleTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_ShorelineRippleTEMP_BlueGreen_000_Normal.tex	0.703125	0	0	3.125	0.01	0	1.5708	0.6875	0.835938	1.17188	0
+32	Pond+X	Art\Water\Temp\Water_BaseShapesTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseShapesTEMP_BlueGreen_000_Normal.tex	0.15625	0	0	3.59375	0.005	4.85965	0	0.390625	0.6640625	0	0
+33	Pond -X	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_PondTEMP_Grey_000_Normal.tex	0.9375	1.5708	0.148438	3.55469	0.015625	3.43612	1.5708	0.0859375	0.140625	0.15625	0
+34	Pond +Z	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_CircularRipples_Grey_000_Normal.tex	0.46875	3.14159	0	3.86719	0.005	2.30711	3.14159	0.28125	0.203125	0.3125	0
+35	Pond -Z	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_CircularRipples_Grey_000_Normal.tex	0.3125	4.71239	0	4.29688	0.005	4.85965	4.71239	0.539063	1	0.625	0
+59	river_base_slow	Art\Water\Temp\test_001_color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.3125	1.5707966	0.3	0	0	3.1415932	0	0.09375	0.12	-4.140625	0
+60	River_ripples_falls_splash_large	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\Water_Test_02_normal.tex	0.12	1.5707966	2.2	0.7421875	0	1.12901	0	0.8125	1	0.703125	0
+61	River_vert_splash_slow	Art\Water\Temp\test_003_color.tex	Art\Water\Temp\water_003_normal.tex	0.15625	1.5707965	0.4	0	0.6015625	1.12901	0	0	1	5	0
+62	River_vert_splash_fast	Art\Water\Temp\test_003_color.tex	Art\Water\Temp\water_003_normal.tex	0.15625	1.5707966	0.7	0	0.6	1.12901	0	0	1	5	0
+67	River_base_alt	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\water_river_ripples_000_normal.tex	1.25	-1.5707965	0.859375	0	0	1.12901	0	0	0.1171875	-4.140625	0.4609375
+68	waterfall_med	Art\Water\Temp\waterfall_001_color.tex	Art\Water\Temp\waterfall_000_normal.tex	0.25	1.5707966	3	0	0.609375	1.12901	0	1	1	5	0.5703125
+70	waterfall_large	Art\Water\Temp\waterfall_001_color.tex	Art\Water\Temp\waterfall_000_normal.tex	0.1	1.5358899	7	0	0.6171875	1.12901	1.3744469	1	1	5	1
+74	Shoreline03	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	1	0	0	1.5	0.0546875	0	1.4235343	0.6015625	0.7890625	-5	0
+75	Foam	Art\Water\Temp\test_005_color.tex	Art\Water\Temp\Water_Pond_Ripple_001_normal.tex	1	1.5707965	0.0031005729	1.171875	0.0625	1.48353	1.3744469	0.6640625	0.9375	0	0
+76	Lake_ripples_Original	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.351563	0	0.3	0	0	1.12901	0	0.85	1	0	0
+78	Shoreline05	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	0.1	0	0	1.5	0.05	0	4.1233406	0.71875	1	2	0
+79	Tar_base	Art\Water\Temp\Water_TarPit_000_Color.tex	Art\Water\Temp\tar_000_Normal.tex	1.5	0	0	1.6015625	0.000625	0	0.78539824	0.734375	1	0	0
+80	Ocean_small_wave_eastcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.07	-1.5707965	3	0	0	0.5399613	5.399613	1	1	5	0
+81	Ocean_base_Small02	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.08	1.2762723	0	0.1953125	0.7890625	3.38703	5.4977875	0.4921875	0.6875	-4.921875	0.21875
+82	Ocean_large_wave_eastcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.01	-1.308997	3	0	0	0	6.283186	1	1	5	0
+83	River_ripples_falls_splash_small	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\Water_Test_02_normal.tex	0.4	1.5707966	1	0	0	1.12901	0	1	1	-5	0
+84	River_ripples_falls_splash_medium	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\Water_Test_02_normal.tex	0.15625	1.5707966	0.5	0	0	1.12901	0	1	1	-5	0
+85	Test_lake	Art\Water\Waterfall\Deradune\PRP_Waterfall_DeraduneLargeWaterfall_000_Color.tex	Art\Dev\Temp\Temp_Water_Normal.tex	0.9375	1.5707966	0.05269605	0	0.046875	3.1415932	1.767146	0.1484375	0.1484375	-4.140625	0.0546875
+86	Andy Normal Test Lake_ripples	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\Water_Test_normal.tex	0.390625	0	0.382802	0	0	1.12901	0.017453294	0.484375	0.5546875	-0.234375	0
+87	f Andy Normal Test Lake_ripples 2	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\water_002_normal.tex	0.3125	0	0.382802	0	0	1.12901	0.017453294	0.875	1	-0.234375	0
+88	of Andy Normal Test Lake_ripples	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\water_002_normal.tex	0.3125	0	0.382802	0	0	1.12901	0.017453294	0.875	1	-0.234375	0
+89	Copy of Lake_ripples 1	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.351563	0.26179942	0.3	0	0	1.12901	0	0.85	1	0	0
+90	Copy of Copy of Lake_ripples 1	Art\Water\Temp\Water_Pond_Ripple_001_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.351563	-0.26179942	0.3	0	0	1.12901	0	0.85	1	0	0
+91	Jason of Lake_nipples 1	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.5	3.141593	0.07211908	0	0.2734375	1.12901	0	0.625	0.9296875	0.390625	1
+93	Shoreline_E	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	1	0	0.18474875	0	0.0859375	0	4.5651274	1	1	3.046875	0.3046875
+94	Shoreline_N	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	1	1.5707966	0	3.7109375	0.015625	0	1.3253597	1	1	0	0
+95	Shoreline_W	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	1	3.1415932	0	3.984375	0.03125	0	0.8344857	1	1	0	0
+96	Shoreline_S	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	1	4.7123895	0	3.71094	0.015625	0	1.3253597	1	1	0	0
+97	Lake_ripples_N	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.390625	3.141593	0.18	0	0.015625	0	2.7488937	0.9296875	1	0	0
+98	Lake_ripples_S	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.351563	0	0.15	0	0	1.12901	1.767146	0.6484375	1	0	0
+99	Lake_ripples_E	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.351563	1.5707965	0.15	0	0	1.12901	0	0.85	1	0	0
+100	Lake_ripples_W	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.351563	4.7123895	0.15	0	0	1.12901	0	0.85	1	0	0
+105	Copy of Shoreline_W	Art\Water\Temp\Waterfall_Foam_001_color.tex	Art\Water\Temp\Water_TestRef_000_Normal.tex	3.671875	1.5707966	0	2.5390625	0.3	0	3.9760785	1	1	4.140625	0.3828125
+106	Copy of Copy of Shoreline_W	Art\Water\Temp\Waterfall_Foam_001_color.tex	Art\Water\Temp\Water_TestRef_000_Normal.tex	1	1.5707966	0	1.953125	0.6875	0	3.9760785	1	1	4.140625	0.3828125
+110	Shoreline_Default_001	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Shorline_Wave_000_normal.tex	1	0	0.4	0	0.0859375	0	4.565137	1	1	0	0
+111	Shoreline_Default_002	Art\Water\Temp\Water_Shorline_Wave_000_color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.625	0	0.40458307	0	0.28125	0	4.565137	1	1	0	0
+112	lake_calm	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_CircularRipples_Grey_000_Normal.tex	0.18	1.5707966	0.021080084	0.2734375	0.125	3.1415932	1.767146	0.265625	0.421875	-4.14063	0
+113	River_base_slow	Art\Water\Temp\test_001_color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.3125	1.5707966	1.5	0	0	3.1415932	0	0.09375	0.12	-4.140625	0
+114	lake_calm2	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_CircularRipples_Grey_000_Normal.tex	0.18	1.5707966	0.003	0.4	0.03	3.1415932	3.3379426	0.2578125	0.4765625	-4.14063	0
+116	test_blend	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\waterfall_001_normal.tex	0.18	1.5707966	0	0	0	3.141593	0	0	0	-5	1
+118	Slow_Lake_ripples_N	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.25	3.141593	0.08	1.64	0	0	2.7488937	0.65	0.75	0	0
+119	Slow_Lake_ripples_S	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.25	0	0.08	1.64	0	1.12901	1.767146	0.65	0.75	0	0
+120	Slow_Lake_ripples_E	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.39	1.5707965	0.08	1.64	0	1.12901	0	0.65	0.75	0	0
+121	Slow_Lake_ripples_W	Art\Water\Temp\Water_Pond_Ripple_002_color.tex	Art\Water\Temp\Water_Test_001_normal.tex	0.39	4.7123895	0.08	1.64	0	1.12901	2.7488937	0.65	0.75	0	0
+122	river_base_fast	Art\Water\Temp\test_001_color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.3125	1.5707966	7	0	0	3.1415932	0	0.09375	0.12	-4.140625	0
+123	waterfall_foam_fast	Art\Water\Temp\test_001_color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.3125	1.5707966	7	0	0	3.1415932	0	0.09375	0.12	-4.140625	0
+124	Lava_medium	Art\Terrain\_Skullcano\Terrain_Lava_Water_Skullcano_000_Color.tex	Art\Terrain\_Skullcano\terrain_lava_skullcano_000_dxtnormal.tex	0.15625	1.5707966	0.5	0	0	1.12901	0	1	1	-5	1
+125	Lava_medium_slow	Art\Terrain\_Skullcano\Terrain_Lava_Water_Skullcano_000_Color.tex	Art\Terrain\_Skullcano\terrain_lava_skullcano_000_dxtnormal.tex	0.15625	1.5707966	0.056173075	0	0	1.12901	0	1	1	-5	1
+126	Toxic_calm	Art\Terrain\_Whitevale\terrain_toxic_water_000_color.tex	Art\Terrain\_Whitevale\terrain_toxic_water_000_normal.tex	0.382813	1.5707966	0.00382755	0.625	0.03125	4.4669523	0.68722343	1	1	-2.65625	0
+127	Tech_calm	Art\Terrain\_Whitevale\terrain_toxic_water_000_color.tex	Art\Terrain\_Whitevale\terrain_toxic_water_000_normal.tex	0.382813	1.5707966	0.00382755	0.625	0.03125	4.4669523	0.68722343	1	1	-2.65625	0
+128	Blood_-Z	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	0.7	0	0	0	0	0	0	0	0	0	1
+129	Blood_-X	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	0.7	1.5707966	0	0	0	0	0	0	0	0	1
+130	Warplots_Toxic_calm	Art\Terrain\_Whitevale\terrain_toxic_water_000_color.tex	Art\Terrain\_Whitevale\terrain_toxic_water_000_normal.tex	0.390625	1.5707966	0.00382755	0.625	0.03125	4.4669523	0.68722343	1	1	-2.65625	0
+131	Lava_medium_slow - 90	Art\Terrain\_Skullcano\Terrain_Lava_Water_Skullcano_000_Color.tex	Art\Terrain\_Skullcano\terrain_lava_skullcano_000_dxtnormal.tex	0.15625	-1.5707965	0.056173075	0	0	1.12901	0	1	1	-5	1
+132	Ocean_calm	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\water_ocean_calm_normal.tex	0.3	-1.2217306	1.1459279	0.6640625	0	0	0	1	1	-5	0
+133	Ocean_small02_wave_eastcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.08	-0.3490659	2.6	0	0	0.5399613	5.399613	1	1	5	0
+134	Copy of Ocean_small02_wave_westcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.08	0.3490659	2.6	0	0	0.5399613	5.399613	1	1	5	0
+136	Copy of Ocean_small01_wave_westcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.07	1.5707965	3	0	0	0.5399613	5.399613	1	1	5	0
+137	Copy of Ocean_large_wave_westcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.01	-1.5707965	6	0	0.015625	0	0	1	1	5	1
+138	Copy of Shoreline_Default_001	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Dev\BLANK_Normal.tex	0.5	-0.78539824	0.3	0.1	0.05	0	3.4906588	1	1	1	0
+139	Ocean_small_wave_westcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	0.01	1.308997	3	0.75	0.05	3.1415932	6.2831864	1	1	0.1	0
+140	Ocean_large_wave_westcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	0.03	1.308997	4	0.75	0.05	0	6.283186	1	1	5	0
+141	Strain_calm	Art\Terrain\_Whitevale\terrain_toxic_water_000_color.tex	Art\Terrain\_Whitevale\terrain_toxic_water_000_normal.tex	0.382813	1.5707966	0.00382755	0.625	0.03125	4.4669523	0.68722343	1	1	-2.65625	0
+142	Ocean_small_wave_northcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	0.01	0	3	0.75	0.05	0	0	1	1	5	0
+143	Ocean_large_wave_northcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	0.03	0	4	0.75	0.05	0	0	1	1	5	0
+144	Ocean_small_wave_southcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	0.01	2.8797936	3	0.75	0.05	0	6.2831864	1	1	5	0
+145	Ocean_large_wave_southcoast	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	0.03	2.8797936	4	0.75	0.05	0	6.283186	1	1	5	0
+146	Liquid_Metal_000	Art\Water\Temp\Liquid_Metal_000_color.tex	Art\Water\Temp\Liquid_Metal_000_normal.tex	0.15625	-1.767146	0.02857086	1.875	0	1.9144082	0	1	1	5	1
+147	Copy of Tar_base	Art\Water\Temp\Water_TarPit_000_Color.tex	Art\Water\Temp\tar_000_Normal.tex	1.5	0	0	1.6015625	0.000625	0	0.78539824	0.734375	1	0	0
+148	Lazy_river	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	0.3125	1.5707966	0.5	0	0	3.1415932	0	0.09375	0.12	-4.140625	0
+1150	NPE_Ocean_calm_W>E	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_001_Normal.tex	3.28125	0.39269912	0.019446718	0.546875	0.3046875	1.9634956	0.39269912	0.0859375	0.125	0.15625	0.265625
+1152	NPE_River_calm	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\water_ocean_calm_normal.tex	3	0	0	0.273438	0.0625	0	0.736311	0.242188	0.429688	-5	1
+1153	NPE_Ocean_calm_N>S	Art\Water\Temp\Water_Ocean_Generic_000_Color.tex	Art\Water\Temp\Water_Ocean_Generic_000_Normal.tex	4.140625	3.3379426	0.019446718	0.3515625	0.2578125	0.8344857	5.7923126	0.015625	0.109375	2.1875	0.359375

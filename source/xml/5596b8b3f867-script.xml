@@ -1,0 +1,32 @@
+    <!-- Setup Install -->
+    <script id='tpl-sideMenu' type="text/x-handlebars-template">
+        <div id='sideMenu'>
+            <img class="logo" src="asset://Launcher/assets/w-logo.png"/>
+            <span id="sideMenuClose" class="close"><i class="fa fa-angle-double-left"></i></span>
+            <div class="menu">
+                <div id='sideMenuTop' class="menu-sect">
+                    <h2>{{sideMenuTitle}}</h2>
+                    <ul>
+                    {{#each menuTop}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <li><a href="javascript:void(0);" class="link-out" id='{{this.id}}' type='button'>{{this.buttonText}}</a></li>
+                    {{/each}}
+                    </ul>
+                </div>
+                <div class="divider"></div>
+                <div id='sideMenuBot' class="menu-sect">
+                    {{#each menuBot}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <a href="javascript:void(0);" class="link-out" id='{{this.id}}' type='button'>{{this.buttonText}}</a>
+                    {{/each}}
+                </div>
+                <div id='sideMenuFooter' class="menu-sect">
+                    {{#each menuFooter}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <a href="javascript:void(0);" id='{{this.id}}' type='button'>{{this.buttonText}}</a>
+                    {{/each}}
+                </div>
+            </div>
+        </div>
+    </script>                
+

@@ -1,0 +1,9 @@
+# Static object placements for CombatRolesTraining, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/CombatRolesTraining/CombatRolesTraining.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_CombatTraining_001_STR_Ship_ShipHand_CombatTraining_001.dgn	-282.0618	-85.5066	-242.9109	0.000000	0.000000	0.000000	1.000000
+Map/CombatRolesTraining/CombatRolesTraining.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_CombatTraining_001_STR_Ship_ShipHand_CombatTraining_001.dgn	200.0000	-85.5066	-242.9109	0.000000	0.000000	0.000000	1.000000
+Map/CombatRolesTraining/CombatRolesTraining.403f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_CombatTraining_001_STR_Ship_ShipHand_CombatTraining_001.dgn	-282.0618	-85.5066	445.8118	0.000000	0.000000	0.000000	1.000000
+Map/CombatRolesTraining/CombatRolesTraining.4040.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_CombatTraining_001_STR_Ship_ShipHand_CombatTraining_001.dgn	200.0000	-85.5066	445.8118	0.000000	0.000000	0.000000	1.000000
+Map/CombatRolesTraining/CombatRolesTraining.413f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_CombatTraining_001_STR_Ship_ShipHand_CombatTraining_001.dgn	-282.0618	-85.5066	445.8118	0.000000	0.000000	0.000000	1.000000
+Map/CombatRolesTraining/CombatRolesTraining.4140.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_CombatTraining_001_STR_Ship_ShipHand_CombatTraining_001.dgn	200.0000	-85.5066	445.8118	0.000000	0.000000	0.000000	1.000000

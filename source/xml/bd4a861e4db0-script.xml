@@ -1,0 +1,26 @@
+<!-- Patch/Install Progress -->
+<script id='tpl-progress' type="text/x-handlebars-template">
+  <div class='progress sect'>
+  	<div class="wrap">
+    
+  		<div id="progressBarGlow"></div>
+      <div id="progressBarContainer">
+        <div id="progressBar">
+        <div id="progressBarCore"></div>
+        </div>
+      </div>
+      <div id='leftInfo'>
+        <p id="stageText"></p>
+        <p id="fileText"></p>
+      </div>
+      <p id="buildNum"></p><p id="percentText"></p>
+      <div class="infoProgress cta">
+        <i class='fa fa-info-circle' id='infoIcon'></i>
+        <div class='bub arrow-south left'>
+           <p id="networkText"></p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</script>

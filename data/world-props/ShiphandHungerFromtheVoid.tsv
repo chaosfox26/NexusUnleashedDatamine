@@ -1,0 +1,27 @@
+# Static object placements for ShiphandHungerFromtheVoid, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-53.3621	-845.0906	-29.7470	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	1	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_003_STR_ShipHand_003.dgn	-77.3865	-845.1600	-127.0478	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	2	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Connector_000_STR_Ship_Shiphand_Connector_000.dgn	-53.3663	-845.0906	-84.7338	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	3	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.2795	-844.7957	-11.3842	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	4	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.3614	-844.7946	-84.6936	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	5	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-29.3867	-844.8640	-127.0119	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f3f.area	6	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_006_STR_ShipHands_006.dgn	-220.0129	-842.6149	18.1074	0.000000	-0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-53.3621	-845.0906	-29.7470	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f40.area	1	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	45.8566	-849.8735	-163.9755	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.3f40.area	2	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_003_STR_ShipHand_003.dgn	-77.3865	-845.1600	-127.0478	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-53.3621	-845.0906	-29.7470	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	1	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	0.1530	-844.8640	119.0246	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	2	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.3983	-844.3550	76.6770	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	3	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.3335	-844.7946	160.7786	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	4	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.3117	-844.7946	197.8874	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	5	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.3490	-842.1825	233.2671	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	6	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-53.3236	-842.1818	270.1297	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	7	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_006_STR_ShipHands_006.dgn	-220.0129	-842.6149	18.1074	0.000000	-0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	8	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-393.5449	-841.8716	119.2161	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	9	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Shuttle_000_STR_Ship_ShipHand_Shuttle_000.dgn	-186.0501	-842.6166	118.8283	0.000000	-0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	10	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Connector_000_STR_Ship_Shiphand_Connector_000.dgn	-149.5288	-842.6149	118.8323	0.000000	-0.707106	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.403f.area	11	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-186.0025	-842.3189	118.7584	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.4040.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-53.3621	-845.0906	-29.7470	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandHungerFromtheVoid/ShiphandHungerFromtheVoid.4040.area	1	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	0.1530	-844.8640	119.0246	0.000000	0.707107	0.000000	0.707107

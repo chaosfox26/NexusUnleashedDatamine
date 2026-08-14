@@ -1,0 +1,6 @@
+# Static object placements for AugmentorsRaid, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/AugmentorsRaid/AugmentorsRaid.4142.area	0	Art\Prop\Constructed\Floors\Eldan\PRP_Floor_Pod_Base_001.m3	1268.0907	-802.3132	877.1152	0.000000	0.137219	0.000000	0.990541
+Map/AugmentorsRaid/AugmentorsRaid.4142.area	1	Art\Structure\Model\Dungeon_Kits\AugmentorsArena\STR_Augmentors_Arena_00_STR_Augmentors_Arena_00.dgn	1268.0822	-817.9972	1343.9205	0.000000	0.000000	0.000000	1.000000
+Map/AugmentorsRaid/AugmentorsRaid.4242.area	0	Art\Structure\Model\Dungeon_Kits\AugmentorsArena\STR_Augmentors_Arena_00_STR_Augmentors_Arena_00.dgn	1268.0822	-817.9972	1343.9205	0.000000	0.000000	0.000000	1.000000

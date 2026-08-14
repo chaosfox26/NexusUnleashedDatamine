@@ -1,0 +1,839 @@
+# Apollo call sites mined from the CLIENT'S OWN Lua (docs/client-extract/lua).
+# argCounts lists every distinct arity seen - several means optional arguments,
+# and collapsing them to one number would invent a signature.
+# inBinary: whether the method name is also in WildStar64.exe.
+namespace	method	argCounts	inBinary	example	exampleFrom
+AbilityBook	ActivateSpell	2	no	AbilityBook.ActivateSpell(nAbilityIdToLearn, true)	5c281cb1a475-Client-Lua-Script-for-AbilityVendor.lua
+AbilityBook	CheckSpellActivateRequirements	2	no	AbilityBook.CheckSpellActivateRequirements(tBaseAbility.nId, idx)	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+AbilityBook	ClearCachedEldanAugmentationSpec	0	yes	AbilityBook.ClearCachedEldanAugmentationSpec()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	ClearCachedLASUpdates	0	yes	AbilityBook.ClearCachedLASUpdates()	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+AbilityBook	CommitEldanAugmentationSpec	0	no	AbilityBook.CommitEldanAugmentationSpec()	5c281cb1a475-Client-Lua-Script-for-AbilityVendor.lua
+AbilityBook	GetAbilitiesList	1	yes	AbilityBook.GetAbilitiesList(Spell.CodeEnumSpellTag.Misc)	2f87c1ed4d51-Client-Lua-Script-for-NonCombatSpellbook.lua
+AbilityBook	GetAbilityInfo	2,3	yes	AbilityBook.GetAbilityInfo(tReward.splAbility:GetId(), 0)	5c28165cb69d-Client-Lua-Script-for-PrimalMatrix.lua
+AbilityBook	GetAvailableLockedInPower	0	yes	AbilityBook.GetAvailableLockedInPower()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	GetAvailablePower	0	yes	AbilityBook.GetAvailablePower()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	GetCurrentSpec	0	yes	AbilityBook.GetCurrentSpec()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	GetEldanAugmentationData	1	yes	AbilityBook.GetEldanAugmentationData(AbilityBook.GetCurrentSpec())	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	GetEldanAugmentationRespecCost	0,2	yes	AbilityBook.GetEldanAugmentationRespecCost()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	GetNumUnlockedSpecs	0	yes	AbilityBook.GetNumUnlockedSpecs()	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+AbilityBook	GetTotalPower	0	yes	AbilityBook.GetTotalPower()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	NextSpec	0	no	AbilityBook.NextSpec()	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+AbilityBook	PrevSpec	0	no	AbilityBook.PrevSpec()	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+AbilityBook	RespecEldanAugmentations	0,2	no	AbilityBook.RespecEldanAugmentations()	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	UpdateEldanAugmentationSpec	1,3	yes	AbilityBook.UpdateEldanAugmentationSpec(tAugment.nId)	14da7e1d5f05-Client-Lua-Script-for-AbilityAMPs.lua
+AbilityBook	UpdateSpellTier	2	yes	AbilityBook.UpdateSpellTier(wndHandler:GetData().nId, wndHandler:GetData().nTier)	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+AccountItemLib	ClaimPendingItemGroup	1	no	AccountItemLib.ClaimPendingItemGroup(nEscrowIndex)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+AccountItemLib	GetAccountCurrency	1	yes	AccountItemLib.GetAccountCurrency(AccountItemLib.CodeEnumAccountCurrency.ServiceToken)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+AccountItemLib	GetAccountEntitlement	1	yes	AccountItemLib.GetAccountEntitlement(AccountItemLib.CodeEnumEntitlement.BaseCharacterSlots)	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+AccountItemLib	GetAccountEntitlements	0	yes	AccountItemLib.GetAccountEntitlements()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+AccountItemLib	GetAccountItems	0	yes	AccountItemLib.GetAccountItems()	1f68bda0a7f1-Client-Lua-Script-for-AccountInventory.lua
+AccountItemLib	GetAlternativeCurrency	0	yes	AccountItemLib.GetAlternativeCurrency()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+AccountItemLib	GetCharacterEntitlements	0	yes	AccountItemLib.GetCharacterEntitlements()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+AccountItemLib	GetCharacterNames	0	yes	AccountItemLib.GetCharacterNames()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+AccountItemLib	GetDailyLoginRewards	0	yes	AccountItemLib.GetDailyLoginRewards()	10497c839f40-Client-Lua-Script-for-WelcomeWindow.lua
+AccountItemLib	GetDailyLoginRewardsAvailable	0	yes	AccountItemLib.GetDailyLoginRewardsAvailable()	10497c839f40-Client-Lua-Script-for-WelcomeWindow.lua
+AccountItemLib	GetEntitlementCount	1	yes	AccountItemLib.GetEntitlementCount(AccountItemLib.CodeEnumEntitlement.LoyaltyBonusCoordinateCraftingRadius)	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+AccountItemLib	GetEntitlementInfo	1	yes	AccountItemLib.GetEntitlementInfo(idEntitlement)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+AccountItemLib	GetExternalCurrency	0	yes	AccountItemLib.GetExternalCurrency()	a98c47244377-Client-Lua-Script-for-Storefront.lua
+AccountItemLib	GetLoginDays	0	yes	AccountItemLib.GetLoginDays()	10497c839f40-Client-Lua-Script-for-WelcomeWindow.lua
+AccountItemLib	GetMaxEntitlementCount	1	yes	AccountItemLib.GetMaxEntitlementCount(AccountItemLib.CodeEnumEntitlement.ExtraCommodityOrders)	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+AccountItemLib	GetPendingAccountItemGroups	0	yes	AccountItemLib.GetPendingAccountItemGroups()	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+AccountItemLib	GetPlayerRewardProperty	1	yes	AccountItemLib.GetPlayerRewardProperty(AccountItemLib.CodeEnumRewardProperty.GuildHolomarkUnlimited)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+AccountItemLib	GetPremiumCurrency	0	yes	AccountItemLib.GetPremiumCurrency()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+AccountItemLib	GetPremiumLockboxKeyInfo	0	yes	AccountItemLib.GetPremiumLockboxKeyInfo()	10497c839f40-Client-Lua-Script-for-WelcomeWindow.lua
+AccountItemLib	GetPremiumSystem	0	yes	AccountItemLib.GetPremiumSystem()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+AccountItemLib	GetPremiumTier	0	yes	AccountItemLib.GetPremiumTier()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+AccountItemLib	GetPremiumTierMax	0	yes	AccountItemLib.GetPremiumTierMax()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+AccountItemLib	GetRewardPropertyName	2	yes	AccountItemLib.GetRewardPropertyName(tReward.tRewardProperty.idRewardProperty, tReward.tRewardProperty.idSubRewardProperty)	5c28165cb69d-Client-Lua-Script-for-PrimalMatrix.lua
+AccountItemLib	GetStaticRewardPropertyForTier	2,4	yes	AccountItemLib.GetStaticRewardPropertyForTier(nMaxTier, AccountItemLib.CodeEnumRewardProperty.CommodityOrders)	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+AccountItemLib	GetStaticRewardPropertyValueForTier	3	yes	AccountItemLib.GetStaticRewardPropertyValueForTier(1, AccountItemLib.CodeEnumRewardProperty.CurrencyType, Money.CodeEnumCurrencyType.Credits)	dee225626d36-Client-Lua-Script-for-ExitWindow.lua
+AccountItemLib	GetTrustedIPList	0	yes	AccountItemLib.GetTrustedIPList()	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+AccountItemLib	GiftPendingItemGroupToAccount	2	no	AccountItemLib.GiftPendingItemGroupToAccount(nIndex, tFriend.nId)	fb1981881224-Client-Lua-Script-for-AccountInventory.lua
+AccountItemLib	GiftPendingItemGroupToCharacter	2	no	AccountItemLib.GiftPendingItemGroupToCharacter(nIndex, tFriend.nId)	fb1981881224-Client-Lua-Script-for-AccountInventory.lua
+AccountItemLib	IsRedeemCREDDInProgress	0	yes	AccountItemLib.IsRedeemCREDDInProgress()	fb1981881224-Client-Lua-Script-for-AccountInventory.lua
+AccountItemLib	MarkAllInventoryItemsAsSeen	0	no	AccountItemLib.MarkAllInventoryItemsAsSeen()	fb1981881224-Client-Lua-Script-for-AccountInventory.lua
+AccountItemLib	MarkAllPendingItemsAsSeen	0	no	AccountItemLib.MarkAllPendingItemsAsSeen()	fb1981881224-Client-Lua-Script-for-AccountInventory.lua
+AccountItemLib	RedeemCREDD	0	no	AccountItemLib.RedeemCREDD()	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+AccountItemLib	RequestDailyLoginRewards	0	yes	AccountItemLib.RequestDailyLoginRewards()	10497c839f40-Client-Lua-Script-for-WelcomeWindow.lua
+AccountItemLib	RequestPremiumLockboxKey	0	yes	AccountItemLib.RequestPremiumLockboxKey()	10497c839f40-Client-Lua-Script-for-WelcomeWindow.lua
+AccountItemLib	RequestTrustedIPList	0	yes	AccountItemLib.RequestTrustedIPList()	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+AccountItemLib	RevokeTrustedIP	1	no	AccountItemLib.RevokeTrustedIP(arListOfIPsToForget)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+AccountItemLib	TakeAccountItem	1	no	AccountItemLib.TakeAccountItem(tTakeData.tData.index)	fb1981881224-Client-Lua-Script-for-AccountInventory.lua
+AchievementsLib	GetAchievementCategoryTree	1	yes	AchievementsLib.GetAchievementCategoryTree(self.bShowGuild)	3cf713cfb868-Client-Lua-Script-for-Achievements.lua
+AchievementsLib	GetAchievementPoints	0	yes	AchievementsLib.GetAchievementPoints()	3cf713cfb868-Client-Lua-Script-for-Achievements.lua
+AchievementsLib	GetAchievementsForCategory	2,3	yes	AchievementsLib.GetAchievementsForCategory(tCategoryInfo.nCategoryId, true)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+AchievementsLib	GetCategoryForMatchingGame	1	yes	AchievementsLib.GetCategoryForMatchingGame(self.matchDisplayed)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+AchievementsLib	GetCategoryParent	1	yes	AchievementsLib.GetCategoryParent(eCategory)	3cf713cfb868-Client-Lua-Script-for-Achievements.lua
+AchievementsLib	GetGuildAchievementPoints	0	yes	AchievementsLib.GetGuildAchievementPoints()	3cf713cfb868-Client-Lua-Script-for-Achievements.lua
+AchievementsLib	GetRecentCompletedAchievements	2	yes	AchievementsLib.GetRecentCompletedAchievements(10, self.bShowGuild)	3cf713cfb868-Client-Lua-Script-for-Achievements.lua
+AchievementsLib	GetTradeskillAchievementCategoryTree	1	yes	AchievementsLib.GetTradeskillAchievementCategoryTree(tCurrTradeskill.eId)	5298bf61f912-Client-Lua-Script-for-TradeskillSchemati.lua
+AchievementsLib	GetTradeskillAchievementLayout	1	yes	AchievementsLib.GetTradeskillAchievementLayout(nCurrentSelection)	649fc3c35f32-Client-Lua-Script-for-TradeskillTree.lua
+ActionSetLib	GetCurrentActionSet	0	yes	ActionSetLib.GetCurrentActionSet()	ada3e326e2af-Client-Lua-Script-for-PathFrame.lua
+ActionSetLib	IsSlotUnlocked	1	yes	ActionSetLib.IsSlotUnlocked(idx - 1)	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+ActionSetLib	RequestActionSetChanges	1	yes	ActionSetLib.RequestActionSetChanges(tActionSet)	ada3e326e2af-Client-Lua-Script-for-PathFrame.lua
+AlienFxLib	CanUse	0	yes	AlienFxLib.CanUse()	32899bcea07b-Client-Lua-Script-for-AlienFx.lua
+AlienFxLib	HasDevice	0	yes	AlienFxLib.HasDevice()	a16fc7de9162-Client-Lua-Script-for-Options.lua
+AlienFxLib	IsReady	0	yes	AlienFxLib.IsReady()	32899bcea07b-Client-Lua-Script-for-AlienFx.lua
+AlienFxLib	SetLocationColor	2	yes	AlienFxLib.SetLocationColor(knAllLocations, ApolloColor.new(string.format('%02XFF0000', nHealthPrecent)))	32899bcea07b-Client-Lua-Script-for-AlienFx.lua
+Apollo	AddAddonErrorText	2	yes	Apollo.AddAddonErrorText(self, "Could not load the main window for some reason.")	10228cdc0ea2-Client-Lua-Script-for-MasterCraftsman.lua
+Apollo	BeginClickStick	4	no	Apollo.BeginClickStick(wndControl, "DDSupplySatchelItem", wndControl:FindChild("Icon"):GetSprite(), wndControl:GetData().id)	ab88b8c522b2-Client-Lua-Script-for-SupplySatchel.lua
+Apollo	BeginDragDrop	4	no	Apollo.BeginDragDrop(wndControl, self.strTransferType, itemSelected:GetIcon(), 0)	2d9bf4db6c09-Client-Lua-Script-for-WarpartyBank.lua
+Apollo	CreateTimer	3	yes	Apollo.CreateTimer("ShareTimeout", Quest.kQuestShareAcceptTimeoutMs / 1000.0, false)	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	DPF	1	no	Apollo.DPF("GroupDisplay:OnGroupInviteResult")	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+Apollo	DisableAddon	1	yes	Apollo.DisableAddon(tAddon.strName)	15498df0222e-Client-lua-script.lua
+Apollo	FormatNumber	1,3	no	Apollo.FormatNumber(nRewardMax)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+Apollo	GetAPIVersion	0	yes	Apollo.GetAPIVersion()	a16fc7de9162-Client-Lua-Script-for-Options.lua
+Apollo	GetAddon	1	yes	Apollo.GetAddon("ActionBarFrame")	ada3e326e2af-Client-Lua-Script-for-PathFrame.lua
+Apollo	GetConsoleVariable	1,2	yes	Apollo.GetConsoleVariable("ui.showCombatFloater")	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+Apollo	GetDisplaySize	0	yes	Apollo.GetDisplaySize()	15498df0222e-Client-lua-script.lua
+Apollo	GetGameFonts	0	yes	Apollo.GetGameFonts()	558b635346b8-CombatFloaterConfig.lua.lua
+Apollo	GetMetaKeysDown	0	yes	Apollo.GetMetaKeysDown()	717beec9a660-Client-Lua-Script-for-Keybind.lua
+Apollo	GetMouse	0	yes	Apollo.GetMouse()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+Apollo	GetMouseTargetWindow	0	yes	Apollo.GetMouseTargetWindow()	717beec9a660-Client-Lua-Script-for-Keybind.lua
+Apollo	GetString	1	yes	Apollo.GetString("QuestLog_QuestAccepted")	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	GetTextWidth	2	yes	Apollo.GetTextWidth("CRB_InterfaceMedium_O", strKeybindFullText)	291027e48c27-Client-Lua-Script-for-HUDInteract.lua
+Apollo	IsAltKeyDown	0	yes	Apollo.IsAltKeyDown()	87d4f71c7925-ItemWindowSubclass-new.lua
+Apollo	IsControlKeyDown	0	yes	Apollo.IsControlKeyDown()	87d4f71c7925-ItemWindowSubclass-new.lua
+Apollo	IsShiftKeyDown	0	yes	Apollo.IsShiftKeyDown()	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	LinkAddon	2	no	Apollo.LinkAddon(luaOwner, self)	756ef062907c-Client-Lua-Script-for-SuggestedMenu.lua
+Apollo	LoadForm	2,3,4	yes	Apollo.LoadForm("UI\\CombatFloaterConfig.xml", "CombatFloaterConfig")	558b635346b8-CombatFloaterConfig.lua.lua
+Apollo	LoadSprites	1	yes	Apollo.LoadSprites("UI\\SpriteDocs\\CRB_NumberFloaters.xml")	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+Apollo	ParseInput	1	no	Apollo.ParseInput("/resetinstances")	f1135fafb764-Client-Lua-Script-for-GroupDisplayOption.lua
+Apollo	RegisterAddon	1,3,4	yes	Apollo.RegisterAddon(self)	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	RegisterEventHandler	2,3	yes	Apollo.RegisterEventHandler("CombatFloaters_Configure", "CombatFloaterConfig_Show")	558b635346b8-CombatFloaterConfig.lua.lua
+Apollo	RegisterSlashCommand	3	yes	Apollo.RegisterSlashCommand("Tutorials", "OnTutorialMenuOn", self)	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+Apollo	RegisterTimerHandler	3	yes	Apollo.RegisterTimerHandler("ShareTimeout", "OnShareTimeout", self)	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	RegisterWindowSubclass	3	yes	Apollo.RegisterWindowSubclass("ItemWindowSubclass", self, tEventHandlers)	87d4f71c7925-ItemWindowSubclass-new.lua
+Apollo	RemoveEventHandler	2	yes	Apollo.RemoveEventHandler("UnitDestroyed", self)	02cc6c55a29a-Client-Lua-Script-for-PathSoldierMission.lua
+Apollo	ResetConsoleVariable	1	yes	Apollo.ResetConsoleVariable(tVar.consoleVar)	a16fc7de9162-Client-Lua-Script-for-Options.lua
+Apollo	SetConsoleVariable	2	yes	Apollo.SetConsoleVariable("hud.skillsBarDisplay", 1)	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+Apollo	SetGlobalAnchor	4	yes	Apollo.SetGlobalAnchor("CenterTextBottom", 0.0, nRectTop, true)	d852bcf0c4a5-Client-Lua-Script-for-CastBar.lua
+Apollo	SetNavTextAnchor	4	yes	Apollo.SetNavTextAnchor(tMouse.x + 10, true, tMouse.y + 10, false)	950b06eedd13-Client-Lua-Script-for-ToolTips.lua
+Apollo	StartTimer	1,2,3	yes	Apollo.StartTimer("ShareTimeout")	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	StopTimer	1	yes	Apollo.StopTimer("ShareTimeout")	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	StringLength	1	no	Apollo.StringLength(queSelected:GetCompletedSummary())	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Apollo	StringToLower	1	no	Apollo.StringToLower(wndHandler:GetText())	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+Apollo	SuspendAddon	1	no	Apollo.SuspendAddon(tAddon.strName)	15498df0222e-Client-lua-script.lua
+Apollo	UnlinkAddon	2	no	Apollo.UnlinkAddon(self.luaOwner, self)	756ef062907c-Client-Lua-Script-for-SuggestedMenu.lua
+ApolloColor	new	1,3,4	no	ApolloColor.new("ItemQuality_Inferior")	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+ApolloTimer	Create	4	yes	ApolloTimer.Create(0.4, true, "OnSoldierTimer", self)	02cc6c55a29a-Client-Lua-Script-for-PathSoldierMission.lua
+ApolloTimer	is	1	no	ApolloTimer.is(contractOnWindow)	4b708561e510-Client-Lua-Script-for-Contracts.lua
+CColor	new	4	no	CColor.new(49/255, 252/255, 246/255, 1)	04e2218a1a75-Client-lua-script.lua
+CREDDExchangeLib	CancelOrder	1	yes	CREDDExchangeLib.CancelOrder(aucCurrent)	97f9084b286a-Client-Lua-Script-for-MarketplaceListing.lua
+CREDDExchangeLib	GetCREDDHistory	0	yes	CREDDExchangeLib.GetCREDDHistory()	f155066b6b68-Client-Lua-Script-for-MarketplaceCREDD.lua
+CREDDExchangeLib	RequestExchangeInfo	0	yes	CREDDExchangeLib.RequestExchangeInfo()	97f9084b286a-Client-Lua-Script-for-MarketplaceListing.lua
+CSIsLib	CSIProcessInteraction	1	no	CSIsLib.CSIProcessInteraction(false)	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+CSIsLib	CancelActiveCSI	0	yes	CSIsLib.CancelActiveCSI()	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+CSIsLib	GetActiveCSI	0	yes	CSIsLib.GetActiveCSI()	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+CSIsLib	GetTimeRemainingForActiveCSI	0	yes	CSIsLib.GetTimeRemainingForActiveCSI()	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+CSIsLib	IsCSIRunning	0	yes	CSIsLib.IsCSIRunning()	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+CSIsLib	SelectCSIOption	1	no	CSIsLib.SelectCSIOption(tonumber(self.strKeypadDisplay))	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+CSIsLib	StartActiveCSI	0	yes	CSIsLib.StartActiveCSI()	12eb0cfc86db-Client-Lua-Script-for-CSI.lua
+Challenges	is	1	no	Challenges.is(oChallenge)	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+ChallengesLib	AbandonChallenge	1	no	ChallengesLib.AbandonChallenge(self.nSelectedListItem)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	AcceptSharedChallenge	1	no	ChallengesLib.AcceptSharedChallenge(self.wndChallengeShare:GetData())	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	ActivateChallenge	1	no	ChallengesLib.ActivateChallenge(self.nSelectedListItem)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	GetActiveChallengeList	0	yes	ChallengesLib.GetActiveChallengeList()	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	GetRewardTrackByZone	1	yes	ChallengesLib.GetRewardTrackByZone(self.nSelectedBigZone)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	GetRewardTrackInfo	0	yes	ChallengesLib.GetRewardTrackInfo()	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	GetRewardTrackPoints	1	yes	ChallengesLib.GetRewardTrackPoints(keRewardTrack.Bronze)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	GetTimeRemaining	2	yes	ChallengesLib.GetTimeRemaining(clgCurrent:GetId(), ChallengesLib.ChallengeTimerFlags_LeftArea)	f3c8012daff6-Client-Lua-Script-for-ChallengeDisplay.lua
+ChallengesLib	RejectSharedChallenge	1	no	ChallengesLib.RejectSharedChallenge(self.wndChallengeShare:GetData())	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+ChallengesLib	ShowHintArrow	1	yes	ChallengesLib.ShowHintArrow(self.nSelectedListItem)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+CharacterScreenLib	ApplyCharacterToCostumeWindow	2	no	CharacterScreenLib.ApplyCharacterToCostumeWindow(idx, wndItem:FindChild("CharacterPortrait"))	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	DeleteCharacter	1	no	CharacterScreenLib.DeleteCharacter(g_controls:FindChild("EnterBtn"):GetData())	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	ExitToRealmSelect	0	no	CharacterScreenLib.ExitToRealmSelect()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	GetBaseCharacterSlots	0	no	CharacterScreenLib.GetBaseCharacterSlots()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	GetFactionRestriction	0	yes	CharacterScreenLib.GetFactionRestriction()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	GetFreeLevel50sRemaining	0	yes	CharacterScreenLib.GetFreeLevel50sRemaining()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	GetGameMode	0	yes	CharacterScreenLib.GetGameMode()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	GetRealmInfo	0	yes	CharacterScreenLib.GetRealmInfo()	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	GetRealmTransferDestinations	1	yes	CharacterScreenLib.GetRealmTransferDestinations(false)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	HasReceivedCharacterList	0	yes	CharacterScreenLib.HasReceivedCharacterList()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterScreenLib	InitiatePTRCharacterCopy	1	no	CharacterScreenLib.InitiatePTRCharacterCopy(self.nCharacterSelectedPos)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	IsCharacterNamePartValid	1	yes	CharacterScreenLib.IsCharacterNamePartValid(strFirstName)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	IsCharacterNameValid	1	yes	CharacterScreenLib.IsCharacterNameValid(strFullName)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	RealmTransfer	3	no	CharacterScreenLib.RealmTransfer(self.nCharacterSelectedPos, wndHandler:GetData().nRealmId, bPaid)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	RenameCharacter	2	no	CharacterScreenLib.RenameCharacter(self.nCharacterSelectedPos, strFullName)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+CharacterScreenLib	SelectCharacter	1	no	CharacterScreenLib.SelectCharacter(tId)	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+CharacterTitle	CanUseTitle	1	yes	CharacterTitle.CanUseTitle(ttlSelected)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CharacterTitle	GetAvailableTitles	0	yes	CharacterTitle.GetAvailableTitles()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CharacterTitle	IsActiveTitle	1	yes	CharacterTitle.IsActiveTitle(titleCurr)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CharacterTitle	SetTitle	1	yes	CharacterTitle.SetTitle(nil)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+ChatSystemLib	Command	1	no	ChatSystemLib.Command(strText)	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+ChatSystemLib	GetChannels	0	yes	ChatSystemLib.GetChannels()	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+ChatSystemLib	GetCommands	0	yes	ChatSystemLib.GetCommands()	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+ChatSystemLib	GetEmotes	0	yes	ChatSystemLib.GetEmotes()	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+ChatSystemLib	JoinChannel	1	no	ChatSystemLib.JoinChannel(strName)	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+ChatSystemLib	PostOnChannel	2,3	no	ChatSystemLib.PostOnChannel(ChatSystemLib.ChatChannel_System, String_GetWeaselString(ktChatNotificationStrings[eState], queUpdated:GetTitle()))	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+ChatSystemLib	PrepareInfractionReport	1	no	ChatSystemLib.PrepareInfractionReport(nReportId)	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+ChatSystemLib	SplitInput	1	no	ChatSystemLib.SplitInput(wndEdit:GetText())	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+CollectiblesLib	GetMountList	0	yes	CollectiblesLib.GetMountList()	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+CollectiblesLib	GetVanityPetList	0	yes	CollectiblesLib.GetVanityPetList()	8a95d9ffc4ce-Client-Lua-Script-for-VanityPets.lua
+CollectiblesLib	HasPurchasedAllStorePets	0	yes	CollectiblesLib.HasPurchasedAllStorePets()	8a95d9ffc4ce-Client-Lua-Script-for-VanityPets.lua
+CombatFloater	AddDigitSpriteSet	1	yes	CombatFloater.AddDigitSpriteSet("sprFloater_Normal")	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+CombatFloater	AddTextBGSprite	1	yes	CombatFloater.AddTextBGSprite("sprFloater_BackerCritical")	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+CombatFloater	SetMaxFloaterCount	1	yes	CombatFloater.SetMaxFloaterCount(500)	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+CombatFloater	SetMaxFloaterPerUnitCount	1	yes	CombatFloater.SetMaxFloaterPerUnitCount(500)	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+CombatFloater	ShowTextFloater	3,4	yes	CombatFloater.ShowTextFloater(unitTarget, strMessage, tTextOption)	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+CombatFloaters	CombatMessageStringCount	0	no	CombatFloaters.CombatMessageStringCount()	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	CombatMessageString_None	0	no	CombatFloaters.CombatMessageString_None()	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	FormatDisplayName	1	no	CombatFloaters.FormatDisplayName(format)	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	GetAttachments	0	yes	CombatFloaters.GetAttachments()	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	GetFormats	0	yes	CombatFloaters.GetFormats()	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	GetLocations	0	yes	CombatFloaters.GetLocations()	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	GetNodes	0	yes	CombatFloaters.GetNodes()	558b635346b8-CombatFloaterConfig.lua.lua
+CombatFloaters	SaveNode	1	yes	CombatFloaters.SaveNode(data)	558b635346b8-CombatFloaterConfig.lua.lua
+CommodityOrder	newBuyOrder	1	no	CommodityOrder.newBuyOrder(tCurrItem:GetItemId())	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+CommodityOrder	newSellOrder	1	no	CommodityOrder.newSellOrder(tCurrItem:GetItemId())	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+CommunicatorLib	CallContact	1	no	CommunicatorLib.CallContact(queSelected)	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+CommunicatorLib	CallbackLastContact	0	no	CommunicatorLib.CallbackLastContact()	04e2218a1a75-Client-lua-script.lua
+CommunicatorLib	GetMessageLayoutForQuest	1	yes	CommunicatorLib.GetMessageLayoutForQuest(queCurr)	04e2218a1a75-Client-lua-script.lua
+CommunicatorLib	GetMessageLayoutForSpam	1	yes	CommunicatorLib.GetMessageLayoutForSpam(idMsg)	04e2218a1a75-Client-lua-script.lua
+CommunicatorLib	GetPathMissionDelivered	1	yes	CommunicatorLib.GetPathMissionDelivered(idMsg)	04e2218a1a75-Client-lua-script.lua
+CommunicatorLib	IgnoreCallback	0	no	CommunicatorLib.IgnoreCallback()	04e2218a1a75-Client-lua-script.lua
+CommunicatorLib	PlaySpamVO	1	no	CommunicatorLib.PlaySpamVO(tMessage.idMsg)	f3e60f3cf52a-Client-lua-script.lua
+CommunicatorLib	QueueMessage	1	no	CommunicatorLib.QueueMessage(tCommToQueue)	f3e60f3cf52a-Client-lua-script.lua
+CommunicatorLib	QueueNextCall	1	no	CommunicatorLib.QueueNextCall(self.idSpamMsg)	04e2218a1a75-Client-lua-script.lua
+ContentFinderLib	GetSuggestedContent	0	yes	ContentFinderLib.GetSuggestedContent()	7c3b194f7674-Client-Lua-Script-for-WelcomeWindow.lua
+Contract	is	1	no	Contract.is(contractOnWindow)	4b708561e510-Client-Lua-Script-for-Contracts.lua
+ContractsLib	GetActiveContracts	0	yes	ContractsLib.GetActiveContracts()	4b708561e510-Client-Lua-Script-for-Contracts.lua
+ContractsLib	GetMaxActiveContracts	0	yes	ContractsLib.GetMaxActiveContracts()	4b708561e510-Client-Lua-Script-for-Contracts.lua
+ContractsLib	GetPeriodicContracts	0	yes	ContractsLib.GetPeriodicContracts()	4b708561e510-Client-Lua-Script-for-Contracts.lua
+ContractsLib	IsAtContractBoard	0	yes	ContractsLib.IsAtContractBoard()	4b708561e510-Client-Lua-Script-for-Contracts.lua
+CostumesLib	GetActiveMannequinCostume	0	yes	CostumesLib.GetActiveMannequinCostume()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+CostumesLib	GetCostume	1	yes	CostumesLib.GetCostume(idCostume)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CostumesLib	GetCostumeCooldownTimeRemaining	0	yes	CostumesLib.GetCostumeCooldownTimeRemaining()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+CostumesLib	GetCostumeCount	0	yes	CostumesLib.GetCostumeCount()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CostumesLib	GetCostumeIndex	0	yes	CostumesLib.GetCostumeIndex()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CostumesLib	GetCostumeMaxCount	0	yes	CostumesLib.GetCostumeMaxCount()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CostumesLib	GetUnlockItemCount	0	yes	CostumesLib.GetUnlockItemCount()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+CostumesLib	GetUnlockedSlotItems	2	yes	CostumesLib.GetUnlockedSlotItems(eSlotId, self.bShowUnusable)	598cc3894697-Client-Lua-Script-for-Costumes.lua
+CostumesLib	SetCostumeIndex	1	yes	CostumesLib.SetCostumeIndex(idCostume)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+CraftingLib	AddAdditive	1	yes	CraftingLib.AddAdditive(itemData)	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+CraftingLib	CompleteCraft	0,1	no	CraftingLib.CompleteCraft()	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+CraftingLib	CraftItem	1,2	no	CraftingLib.CraftItem(tSchematicInfo.nSchematicId)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetAvailableAdditives	2	yes	CraftingLib.GetAvailableAdditives(tSchematicInfo.eTradeskillId, idSchematic)	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+CraftingLib	GetAvailableCatalysts	2	yes	CraftingLib.GetAvailableCatalysts(tSchematicInfo.eTradeskillId, idSchematic)	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+CraftingLib	GetAvailablePowerCores	1	yes	CraftingLib.GetAvailablePowerCores(tSchematic.nSchematicId)	5298bf61f912-Client-Lua-Script-for-TradeskillSchemati.lua
+CraftingLib	GetAvailableProperties	1	yes	CraftingLib.GetAvailableProperties(self.tSchematicInfo.nSchematicId)	861728c0ecd4-Client-Lua-Script-for-Crafting.lua
+CraftingLib	GetCurrentCraft	0,1	yes	CraftingLib.GetCurrentCraft()	10228cdc0ea2-Client-Lua-Script-for-MasterCraftsman.lua
+CraftingLib	GetEngravingInfo	1	yes	CraftingLib.GetEngravingInfo(tRuneData.itemSource)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetKnownTradeskills	0	yes	CraftingLib.GetKnownTradeskills()	5298bf61f912-Client-Lua-Script-for-TradeskillSchemati.lua
+CraftingLib	GetPreviewInfo	2	yes	CraftingLib.GetPreviewInfo(self.tSchematicInfo.nSchematicId, self.tSocketInfo)	861728c0ecd4-Client-Lua-Script-for-Crafting.lua
+CraftingLib	GetRelearnCooldown	0	yes	CraftingLib.GetRelearnCooldown()	76e10ca38298-Client-Lua-Script-for-TradeskillTrainer.lua
+CraftingLib	GetRelearnCost	1	yes	CraftingLib.GetRelearnCost(idTradeskill)	76e10ca38298-Client-Lua-Script-for-TradeskillTrainer.lua
+CraftingLib	GetRuneSetSchematicFilters	1	yes	CraftingLib.GetRuneSetSchematicFilters(idSet)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetRuneSetSchematicList	4	yes	CraftingLib.GetRuneSetSchematicList(self.tFilters.idElementOrSet, self.tFilters.nLevel, self.wndMain:FindChild("ShowCraftable"):IsChecked(), self.tFilters.eSlot	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetRuneSets	1	yes	CraftingLib.GetRuneSets(self.tFilters.eClass)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetRunecraftingLevels	0	yes	CraftingLib.GetRunecraftingLevels()	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetRunecraftingSchematicFilters	1	yes	CraftingLib.GetRunecraftingSchematicFilters(Item.CodeEnumRuneType.Fusion)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetRunecraftingSchematicList	4	yes	CraftingLib.GetRunecraftingSchematicList(self.tFilters.idElementOrSet, self.tFilters.nLevel, self.wndMain:FindChild("ShowCraftable"):IsChecked(), self.tFilters.	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetSchematicInfo	1	yes	CraftingLib.GetSchematicInfo(self.tSelectedSchematic.nSchematicId)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	GetSchematicList	4	yes	CraftingLib.GetSchematicList(tTopLevelBtnData[1], nil, tTopLevelBtnData[2], bFilterLocked)	5298bf61f912-Client-Lua-Script-for-TradeskillSchemati.lua
+CraftingLib	GetTradeskillInfo	1	yes	CraftingLib.GetTradeskillInfo(tSchematicInfo.eTradeskillId)	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+CraftingLib	GetTradeskillTalentRespecCost	1	yes	CraftingLib.GetTradeskillTalentRespecCost(tCurrTradeskill.eId)	f27887641c1e-Client-Lua-Script-for-TradeskillTalents.lua
+CraftingLib	GetTradeskillTalents	1	yes	CraftingLib.GetTradeskillTalents(tCurrTradeskill.eId)	f27887641c1e-Client-Lua-Script-for-TradeskillTalents.lua
+CraftingLib	GetUniversalSchematicsOwned	0	yes	CraftingLib.GetUniversalSchematicsOwned()	10228cdc0ea2-Client-Lua-Script-for-MasterCraftsman.lua
+CraftingLib	GetValidRuneItems	2	yes	CraftingLib.GetValidRuneItems(tRuneData.itemSource, tRuneData.nSlotIndex)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	InstallRuneIntoSlot	2	no	CraftingLib.InstallRuneIntoSlot(tConfirmData.itemSource, tListOfRunes)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	IsAtCraftingStation	0	yes	CraftingLib.IsAtCraftingStation()	1b2bd36c961e-Client-Lua-Script-for-CraftingGrid.lua
+CraftingLib	IsAtEngravingStation	0	yes	CraftingLib.IsAtEngravingStation()	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+CraftingLib	IsAtMasterCraftsman	0	yes	CraftingLib.IsAtMasterCraftsman()	861728c0ecd4-Client-Lua-Script-for-Crafting.lua
+CraftingLib	LearnTradeskill	1,2	no	CraftingLib.LearnTradeskill(nCurrentTradeskill)	76e10ca38298-Client-Lua-Script-for-TradeskillTrainer.lua
+CraftingLib	PickTradeskillTalent	3	no	CraftingLib.PickTradeskillTalent(tData.idTradeskill, tData.nLevel, tData.idTalent)	f27887641c1e-Client-Lua-Script-for-TradeskillTalents.lua
+CraftingLib	ResetTradeskillTalents	1	yes	CraftingLib.ResetTradeskillTalents(wndHandler:GetData())	f27887641c1e-Client-Lua-Script-for-TradeskillTalents.lua
+CraftingLib	ShowTradeskillTutorial	0	yes	CraftingLib.ShowTradeskillTutorial()	861728c0ecd4-Client-Lua-Script-for-Crafting.lua
+CustomerSurveyLib	GetPending	0,1	yes	CustomerSurveyLib.GetPending()	dee225626d36-Client-Lua-Script-for-ExitWindow.lua
+CustomerSurveyLib	GetPendingCount	0	yes	CustomerSurveyLib.GetPendingCount()	08a462de63e5-Client-Lua-Script-for-CustomerSurvey.lua
+DatacubeLib	GetDatacubesForVolume	1	yes	DatacubeLib.GetDatacubesForVolume(tListData.nDatacubeId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetDatacubesForZone	1	yes	DatacubeLib.GetDatacubesForZone(tCurrZone.nZoneId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetJournalsForZone	1	yes	DatacubeLib.GetJournalsForZone(tCurrZone.nZoneId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetLastUpdatedDatacube	2	yes	DatacubeLib.GetLastUpdatedDatacube(idArg, bIsVolume)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetTalesForZone	1	yes	DatacubeLib.GetTalesForZone(tCurrZone.nZoneId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetTotalDatacubesForZone	1	yes	DatacubeLib.GetTotalDatacubesForZone(tCurrZone.nZoneId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetTotalJournalsForZone	1	yes	DatacubeLib.GetTotalJournalsForZone(tCurrZone.nZoneId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetTotalTalesForZone	1	yes	DatacubeLib.GetTotalTalesForZone(tCurrZone.nZoneId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetZonesWithDatacubes	0	yes	DatacubeLib.GetZonesWithDatacubes()	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetZonesWithJournals	0	yes	DatacubeLib.GetZonesWithJournals()	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	GetZonesWithTales	0	yes	DatacubeLib.GetZonesWithTales()	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	PlayDatacubeSound	1	no	DatacubeLib.PlayDatacubeSound(tArticleData.nDatacubeId)	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DatacubeLib	StopDatacubeSound	0	yes	DatacubeLib.StopDatacubeSound()	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+DialogSys	End	0	no	DialogSys.End()	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+DialogSys	GetCommCreatureId	0	yes	DialogSys.GetCommCreatureId()	04e2218a1a75-Client-lua-script.lua
+DialogSys	GetNPC	0	yes	DialogSys.GetNPC()	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+DialogSys	GetNPCText	1	yes	DialogSys.GetNPCText(idQuest)	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+DialogSys	GetResponseText	0	yes	DialogSys.GetResponseText()	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+DialogSys	GetResponses	1	yes	DialogSys.GetResponses(idQuest)	04e2218a1a75-Client-lua-script.lua
+DialogSys	GetViewableQuest	1	yes	DialogSys.GetViewableQuest(idQuest)	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+DialogSys	IsItemQuestGiver	0	yes	DialogSys.IsItemQuestGiver()	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+Episode	is	1	no	Episode.is(oData)	7c3b194f7674-Client-Lua-Script-for-WelcomeWindow.lua
+FortunesLib	GetFortunesLootList	0	yes	FortunesLib.GetFortunesLootList()	5a12c8ca3d8a-Client-Lua-Script-for-Gacha.lua
+FriendshipLib	AccountAddByEmail	2	no	FriendshipLib.AccountAddByEmail(strName, strAddFriendNote)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	AccountAddByUpgrade	1	no	FriendshipLib.AccountAddByUpgrade(tCharacterData.tFriend.nId)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+FriendshipLib	AccountInviteMarkSeen	1	no	FriendshipLib.AccountInviteMarkSeen(tInviteId)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	AccountInviteRespond	2	no	FriendshipLib.AccountInviteRespond(tInviteId, true)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	AccountRemove	1	no	FriendshipLib.AccountRemove(tFriend.nId)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	AddByName	2,4	yes	FriendshipLib.AddByName(FriendshipLib.CharacterFriendshipType_Ignore, self.strTarget)	86ab7d68053c-Client-lua-script.lua
+FriendshipLib	GetAccountById	1	yes	FriendshipLib.GetAccountById(nFriendId)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetAccountInviteById	1	yes	FriendshipLib.GetAccountInviteById(idLeft)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetAccountInviteList	0	yes	FriendshipLib.GetAccountInviteList()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+FriendshipLib	GetAccountList	0	yes	FriendshipLib.GetAccountList()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+FriendshipLib	GetById	1	yes	FriendshipLib.GetById(nFriendId)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetInviteById	1	yes	FriendshipLib.GetInviteById(idLeft)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetInviteList	0	yes	FriendshipLib.GetInviteList()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+FriendshipLib	GetList	0	yes	FriendshipLib.GetList()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+FriendshipLib	GetLocations	1	yes	FriendshipLib.GetLocations(tOnlineFriends)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetPersonalStatus	0	yes	FriendshipLib.GetPersonalStatus()	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetSuggestedById	1	yes	FriendshipLib.GetSuggestedById(nSuggestedId)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetSuggestedList	0	yes	FriendshipLib.GetSuggestedList()	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	GetUnitById	1	yes	FriendshipLib.GetUnitById(tFriend.nId)	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+FriendshipLib	InviteMarkSeen	1	no	FriendshipLib.InviteMarkSeen(nFriendId)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	IsLoaded	0	yes	FriendshipLib.IsLoaded()	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	IsLocked	0	yes	FriendshipLib.IsLocked()	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	PrepareInfractionReportInvite	1	no	FriendshipLib.PrepareInfractionReportInvite(nInviteId)	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+FriendshipLib	Remove	2	yes	FriendshipLib.Remove(tFriend.nId, ktTypesIntoEnums[self.tWndRefs.wndListContainer:GetData()])	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	RespondToInvite	2	no	FriendshipLib.RespondToInvite(idFriend, FriendshipLib.FriendshipResponse_Mutual)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetFriendPrivateData	2	yes	FriendshipLib.SetFriendPrivateData(tFriend.nId, wndNote:FindChild("NoteEditBox"):GetText())	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetLock	1	yes	FriendshipLib.SetLock(bBlocked)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetNote	2	yes	FriendshipLib.SetNote(tFriend.nId, wndNote:FindChild("NoteEditBox"):GetText())	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetPersonalIgnoreStrangersState	1	yes	FriendshipLib.SetPersonalIgnoreStrangersState(bBlocked)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetPersonalPresenceState	1	yes	FriendshipLib.SetPersonalPresenceState(self.ePresenceState)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetPublicDisplayName	1	yes	FriendshipLib.SetPublicDisplayName(wndNote:FindChild("NameEditBox"):GetText())	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+FriendshipLib	SetPublicNote	1	yes	FriendshipLib.SetPublicNote(self.strPublicNote)	34d47ec0f86d-Client-Lua-Script-for-FriendsList.lua
+GalacticArchiveArticle	GetAllCategories	0	yes	GalacticArchiveArticle.GetAllCategories()	8a66c701588c-Client-Lua-Script-for-GalacticArchive.lua
+GalacticArchiveArticle	GetArticles	0	yes	GalacticArchiveArticle.GetArticles()	4a7d550cb83b-Client-Lua-Script-for-LoreWindow.lua
+GameLib	AcceptDuel	0	no	GameLib.AcceptDuel()	f1ed9440db56-Client-Lua-Script-for-MatchMaker.lua
+GameLib	AreQuestUnitCalloutsVisible	0	no	GameLib.AreQuestUnitCalloutsVisible()	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	AreSettlerStructureCalloutsVisible	0	no	GameLib.AreSettlerStructureCalloutsVisible()	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	AssignMasterLoot	2	no	GameLib.AssignMasterLoot(tData.tItem.nLootId, tData.unitLooter)	d22ca27f6a55-Client-Lua-Script-for-Masterloot.lua
+GameLib	CanEditKeySet	1	yes	GameLib.CanEditKeySet(self.eCurrKeySet)	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	CanSetNavPoint	0	yes	GameLib.CanSetNavPoint()	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+GameLib	CanShowGuildHolomark	1	yes	GameLib.CanShowGuildHolomark(eHoloMark)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+GameLib	CanVacuum	0	yes	GameLib.CanVacuum()	291027e48c27-Client-Lua-Script-for-HUDInteract.lua
+GameLib	ClearNavPoint	0	yes	GameLib.ClearNavPoint()	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+GameLib	DeclineDuel	0	no	GameLib.DeclineDuel()	f1ed9440db56-Client-Lua-Script-for-MatchMaker.lua
+GameLib	DoAnyItemsBeginQuest	0	no	GameLib.DoAnyItemsBeginQuest()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+GameLib	ForfeitDuel	1	no	GameLib.ForfeitDuel(unitTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	GetAbilityPoints	0	yes	GameLib.GetAbilityPoints()	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+GameLib	GetAllTutorials	0	yes	GameLib.GetAllTutorials()	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+GameLib	GetAllZoneCompletionMapZones	0	yes	GameLib.GetAllZoneCompletionMapZones()	363dc1da9437-Client-Lua-Script-for-ZoneCompletion.lua
+GameLib	GetAvailableTargetMarkers	0	yes	GameLib.GetAvailableTargetMarkers()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	GetCCStateStunTimeRemaining	0	yes	GameLib.GetCCStateStunTimeRemaining()	3b2df54ac6de-Client-Lua-Script-for-CrowdControlGamepl.lua
+GameLib	GetClassInnateAbilitySpells	0	yes	GameLib.GetClassInnateAbilitySpells()	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+GameLib	GetClassName	1	yes	GameLib.GetClassName(eClass)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+GameLib	GetControlledUnit	0	yes	GameLib.GetControlledUnit()	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	GetCurrInputKeySet	0	yes	GameLib.GetCurrInputKeySet()	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	GetCurrentZoneId	0	yes	GameLib.GetCurrentZoneId()	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+GameLib	GetCurrentZoneMap	0,1	yes	GameLib.GetCurrentZoneMap()	1af3e856cecb-Client-Lua-Script-for-TaxiMap.lua
+GameLib	GetCurrentZonePvpRules	0	yes	GameLib.GetCurrentZonePvpRules()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	GetDefaultRecallCommand	0	yes	GameLib.GetDefaultRecallCommand()	3fc67b514929-Client-Lua-Script-for-RecallFrame.lua
+GameLib	GetDuelOpponent	1	yes	GameLib.GetDuelOpponent(unitPlayer)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	GetDuelState	0	yes	GameLib.GetDuelState()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	GetEmptyInventorySlots	0	yes	GameLib.GetEmptyInventorySlots()	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+GameLib	GetErrorCategories	0	yes	GameLib.GetErrorCategories()	15498df0222e-Client-lua-script.lua
+GameLib	GetFrameRate	0	yes	GameLib.GetFrameRate()	46a9a517dbb3-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	GetGameCommand	1	yes	GameLib.GetGameCommand(id)	2f87c1ed4d51-Client-Lua-Script-for-NonCombatSpellbook.lua
+GameLib	GetGameExitInfo	0	yes	GameLib.GetGameExitInfo()	dee225626d36-Client-Lua-Script-for-ExitWindow.lua
+GameLib	GetGameMode	0	yes	GameLib.GetGameMode()	950b06eedd13-Client-Lua-Script-for-ToolTips.lua
+GameLib	GetGameTime	0	yes	GameLib.GetGameTime()	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	GetGuildHolomarkDistance	0	yes	GameLib.GetGuildHolomarkDistance()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+GameLib	GetGuildHolomarkVisible	1	yes	GameLib.GetGuildHolomarkVisible(GameLib.GuildHolomark.Left)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+GameLib	GetInputActionCategories	0	yes	GameLib.GetInputActionCategories()	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	GetInputActionNameByEnum	1	yes	GameLib.GetInputActionNameByEnum(eInputAction)	fc602a499f0f-Client-Lua-Script-for-LevelUpUnlocks.lua
+GameLib	GetInputKeyNameText	1	yes	GameLib.GetInputKeyNameText(tBinding.arInputs[1])	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	GetInputKeySet	1	yes	GameLib.GetInputKeySet(GameLib.CodeEnumInputSets.Default1)	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	GetInstanceSettings	0	yes	GameLib.GetInstanceSettings()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	GetInteractHintArrowObject	0	yes	GameLib.GetInteractHintArrowObject()	ace5d42fe544-Client-Lua-Script-for-ChallengeTracker.lua
+GameLib	GetKeyBinding	1	yes	GameLib.GetKeyBinding("CastObjectiveAbility")	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+GameLib	GetKeyBindingByEnum	1	yes	GameLib.GetKeyBindingByEnum(GameLib.CodeEnumInputAction.Codex)	262960445afa-Client-Lua-Script-for-ChallengeLog.lua
+GameLib	GetKeyBindings	0	yes	GameLib.GetKeyBindings()	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	GetKnownDyes	0	yes	GameLib.GetKnownDyes()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+GameLib	GetLastTargetedPlayerName	1	yes	GameLib.GetLastTargetedPlayerName(idx)	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+GameLib	GetLevelCap	0	yes	GameLib.GetLevelCap()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	GetLevelUpUnlock	1	yes	GameLib.GetLevelUpUnlock(GameLib.LevelUpUnlock.Runecrafting)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+GameLib	GetLocalTime	0	yes	GameLib.GetLocalTime()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	GetLootRolls	0	yes	GameLib.GetLootRolls()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GameLib	GetMasterLoot	0	yes	GameLib.GetMasterLoot()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GameLib	GetMoneyTradeLimit	0	yes	GameLib.GetMoneyTradeLimit()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+GameLib	GetNavPoint	0	yes	GameLib.GetNavPoint()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	GetNearestRapidTransportNodeForWorldLocation	2	yes	GameLib.GetNearestRapidTransportNodeForWorldLocation(self.tNearestNodeRequest.nWorldId, self.tNearestNodeRequest.tPosition)	1af3e856cecb-Client-Lua-Script-for-TaxiMap.lua
+GameLib	GetNumBankBagSlots	0	yes	GameLib.GetNumBankBagSlots()	b17f5cc02327-Client-Lua-Script-for-RealmBankViewer.lua
+GameLib	GetOmnibitsBonusInfo	0	yes	GameLib.GetOmnibitsBonusInfo()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+GameLib	GetPendingLevelUpUnlocks	0	yes	GameLib.GetPendingLevelUpUnlocks()	fc602a499f0f-Client-Lua-Script-for-LevelUpUnlocks.lua
+GameLib	GetPendingRemovalWarningRemaining	0	yes	GameLib.GetPendingRemovalWarningRemaining()	25489e576693-Client-Lua-Script-for-InstanceSettings.lua
+GameLib	GetPendingTutorials	0	yes	GameLib.GetPendingTutorials()	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	GetPetDismissCommand	1	yes	GameLib.GetPetDismissCommand(unitTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	GetPlayerBaseFaction	0	yes	GameLib.GetPlayerBaseFaction()	32899bcea07b-Client-Lua-Script-for-AlienFx.lua
+GameLib	GetPlayerCharacterName	0	yes	GameLib.GetPlayerCharacterName()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+GameLib	GetPlayerCurrency	0,1,2	yes	GameLib.GetPlayerCurrency()	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+GameLib	GetPlayerDeathState	0	yes	GameLib.GetPlayerDeathState()	da8ecc498f70-Client-Lua-Script-for-Death.lua
+GameLib	GetPlayerLevel	0,1	yes	GameLib.GetPlayerLevel()	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+GameLib	GetPlayerMountUnit	0	yes	GameLib.GetPlayerMountUnit()	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	GetPlayerPets	0	yes	GameLib.GetPlayerPets()	8a95d9ffc4ce-Client-Lua-Script-for-VanityPets.lua
+GameLib	GetPlayerTaxiUnit	0	yes	GameLib.GetPlayerTaxiUnit()	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	GetPlayerUnit	0	yes	GameLib.GetPlayerUnit()	02cc6c55a29a-Client-Lua-Script-for-PathSoldierMission.lua
+GameLib	GetPrimeLevelAchieved	1	yes	GameLib.GetPrimeLevelAchieved(tVetInfo.nGameId)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	GetPvpFlagInfo	0	yes	GameLib.GetPvpFlagInfo()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+GameLib	GetRapidTransportCooldown	0	yes	GameLib.GetRapidTransportCooldown()	1af3e856cecb-Client-Lua-Script-for-TaxiMap.lua
+GameLib	GetRapidTransportDestinationsForWorld	1	yes	GameLib.GetRapidTransportDestinationsForWorld(self.tZoneInfo.nWorldId)	1af3e856cecb-Client-Lua-Script-for-TaxiMap.lua
+GameLib	GetRealmName	0	yes	GameLib.GetRealmName()	756ef062907c-Client-Lua-Script-for-SuggestedMenu.lua
+GameLib	GetRepairAllCost	0	yes	GameLib.GetRepairAllCost()	9988653bbdd1-Client-Lua-Script.lua
+GameLib	GetReputationInfo	0	yes	GameLib.GetReputationInfo()	d0937f7f7b83-Client-Lua-Script-for-Reputation.lua
+GameLib	GetReputationLevels	0	yes	GameLib.GetReputationLevels()	d0937f7f7b83-Client-Lua-Script-for-Reputation.lua
+GameLib	GetRewardRotation	2	yes	GameLib.GetRewardRotation(tblMatchInfo.nRewardRotationContentId, matchGame:IsVeteran())	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	GetRewardRotations	0	yes	GameLib.GetRewardRotations()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	GetServerTime	0	yes	GameLib.GetServerTime()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	GetSpell	1	yes	GameLib.GetSpell(tData.tTiers[tData.nCurrentTier].nTierSpellId)	2f87c1ed4d51-Client-Lua-Script-for-NonCombatSpellbook.lua
+GameLib	GetSpellThresholdTimePrcntDone	1	yes	GameLib.GetSpellThresholdTimePrcntDone(self.tCurrentOpSpell.id)	d852bcf0c4a5-Client-Lua-Script-for-CastBar.lua
+GameLib	GetStuckCooldowns	0	yes	GameLib.GetStuckCooldowns()	68c2f4bdb353-Client-Lua-Script-for-Stuck.lua
+GameLib	GetTargetUnit	0	yes	GameLib.GetTargetUnit()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GameLib	GetTeleportIlliumSpell	0	yes	GameLib.GetTeleportIlliumSpell()	3fc67b514929-Client-Lua-Script-for-RecallFrame.lua
+GameLib	GetTeleportThaydSpell	0	yes	GameLib.GetTeleportThaydSpell()	3fc67b514929-Client-Lua-Script-for-RecallFrame.lua
+GameLib	GetTextTypeMaxLength	1	yes	GameLib.GetTextTypeMaxLength(GameLib.CodeEnumUserText.GuildRankName)	2dc9b0a92658-Client-Lua-Script-for-Communities.lua
+GameLib	GetTickCount	0	yes	GameLib.GetTickCount()	8a66c701588c-Client-Lua-Script-for-GalacticArchive.lua
+GameLib	GetTotalAbilityPoints	0	yes	GameLib.GetTotalAbilityPoints()	ee71e6143602-Client-Lua-Script-for-Abilities.lua
+GameLib	GetTotalInventorySlots	0	yes	GameLib.GetTotalInventorySlots()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+GameLib	GetTutorial	1	yes	GameLib.GetTutorial(nTutorialId)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	GetTutorialAnchorInfo	1	yes	GameLib.GetTutorialAnchorInfo(eAnchor)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	GetTutorialLayouts	0	yes	GameLib.GetTutorialLayouts()	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	GetTutorialVisibilityFlags	0	yes	GameLib.GetTutorialVisibilityFlags()	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+GameLib	GetTutorialsForCategory	1	yes	GameLib.GetTutorialsForCategory(self.tCategoryBtns[nDefault].nCatEnum)	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+GameLib	GetUnitById	1	yes	GameLib.GetUnitById(tSavedData.idPartner)	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+GameLib	GetUnlocksForLevel	2,3	yes	GameLib.GetUnlocksForLevel(nCurrPlayerLevel, GameLib.LevelUpUnlockSystem.Level)	fc602a499f0f-Client-Lua-Script-for-LevelUpUnlocks.lua
+GameLib	GetWorldCompletionPercent	0	yes	GameLib.GetWorldCompletionPercent()	363dc1da9437-Client-Lua-Script-for-ZoneCompletion.lua
+GameLib	GetWorldMaxPrimeLevel	0	yes	GameLib.GetWorldMaxPrimeLevel()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	GetWorldTooltipContainer	0	yes	GameLib.GetWorldTooltipContainer()	950b06eedd13-Client-Lua-Script-for-ToolTips.lua
+GameLib	GetZoneCompletion	1	yes	GameLib.GetZoneCompletion(nZoneId)	363dc1da9437-Client-Lua-Script-for-ZoneCompletion.lua
+GameLib	GetZoneCompletionTypes	0	yes	GameLib.GetZoneCompletionTypes()	363dc1da9437-Client-Lua-Script-for-ZoneCompletion.lua
+GameLib	GetZoneMap	3	yes	GameLib.GetZoneMap(tQuestLoc.nWorldId, tQuestLoc.nWorldZoneId, tQuestLoc.tIndicator)	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+GameLib	HasBindPoint	0	yes	GameLib.HasBindPoint()	3fc67b514929-Client-Lua-Script-for-RecallFrame.lua
+GameLib	HasTutorialSound	2	yes	GameLib.HasTutorialSound(nTutorialId, nPassedPage)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	HasXPBonus	0	yes	GameLib.HasXPBonus()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+GameLib	InitiateDuel	1	no	GameLib.InitiateDuel(unitTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	IsCharacterLoaded	0	yes	GameLib.IsCharacterLoaded()	46a9a517dbb3-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	IsControlledUnit	1	yes	GameLib.IsControlledUnit(unitTarget)	19fec399661c-Client-Lua-Script-for-FloatTextPanel.lua
+GameLib	IsCurrentInnateAbilityActive	0	yes	GameLib.IsCurrentInnateAbilityActive()	e4399f90286b-Client-Lua-Script-for-ClassResources.lua
+GameLib	IsIgnoringDuelRequests	0	yes	GameLib.IsIgnoringDuelRequests()	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	IsInLocation	1	yes	GameLib.IsInLocation(idLocation)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+GameLib	IsInWorldZone	1	yes	GameLib.IsInWorldZone(tZoneRestrictionInfo.idSubZone)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+GameLib	IsKeyBindable	2	yes	GameLib.IsKeyBindable(nCode, eModifier)	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	IsNavPointSet	0	yes	GameLib.IsNavPointSet()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	IsNeedRollAllowed	1	yes	GameLib.IsNeedRollAllowed(tCurrentElement.nLootId)	a84448380964-Client-Lua-Script-for-NeedVsGreed.lua
+GameLib	IsOverdriveActive	0	yes	GameLib.IsOverdriveActive()	e4399f90286b-Client-Lua-Script-for-ClassResources.lua
+GameLib	IsPvpFlagged	0	yes	GameLib.IsPvpFlagged()	950b06eedd13-Client-Lua-Script-for-ToolTips.lua
+GameLib	IsPvpServer	0	yes	GameLib.IsPvpServer()	83563db55c8e-Client-Lua-Script-for-MiniMap.lua
+GameLib	IsSpellSurgeActive	0	yes	GameLib.IsSpellSurgeActive()	e4399f90286b-Client-Lua-Script-for-ClassResources.lua
+GameLib	IsTextValid	3	yes	GameLib.IsTextValid(strProposed, GameLib.CodeEnumUserText.HousingResidenceName, GameLib.CodeEnumUserTextFilterClass.Strict)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+GameLib	IsTutorialCategoryVisible	1	yes	GameLib.IsTutorialCategoryVisible(nType)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	IsTutorialNoPageAlert	1	yes	GameLib.IsTutorialNoPageAlert(nTutorialId)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	IsTutorialViewed	1	yes	GameLib.IsTutorialViewed(GameLib.CodeEnumTutorial.PrimalMatrixWelcome)	5c28165cb69d-Client-Lua-Script-for-PrimalMatrix.lua
+GameLib	IsTutorialZone	1	yes	GameLib.IsTutorialZone(nZoneId)	1af3e856cecb-Client-Lua-Script-for-TaxiMap.lua
+GameLib	IsZoneInZone	2	yes	GameLib.IsZoneInZone(nCurrentZoneId, nBthZoneId)	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+GameLib	LeavePendingRemovalInstance	0	no	GameLib.LeavePendingRemovalInstance()	25489e576693-Client-Lua-Script-for-InstanceSettings.lua
+GameLib	MarkCityDirection	1	no	GameLib.MarkCityDirection(wndHandler:GetData())	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+GameLib	MarkLevelUpUnlockViewed	2	no	GameLib.MarkLevelUpUnlockViewed(tUnlock.nId, true)	fc602a499f0f-Client-Lua-Script-for-LevelUpUnlocks.lua
+GameLib	MarkTutorialViewed	2	no	GameLib.MarkTutorialViewed(tEntry.id, true)	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+GameLib	OnClosedInstanceSettings	1	no	GameLib.OnClosedInstanceSettings(bNeedToNotifyServer)	25489e576693-Client-Lua-Script-for-InstanceSettings.lua
+GameLib	OpenAccountInventory	0	no	GameLib.OpenAccountInventory()	1f68bda0a7f1-Client-Lua-Script-for-AccountInventory.lua
+GameLib	OpenFortunes	0	no	GameLib.OpenFortunes()	622727a236a8-Client-Lua-Script-for-InterfaceMenuList.lua
+GameLib	OpenStore	0	no	GameLib.OpenStore()	622727a236a8-Client-Lua-Script-for-InterfaceMenuList.lua
+GameLib	PassOnLoot	1	no	GameLib.PassOnLoot(self.wndMain:GetData())	a84448380964-Client-Lua-Script-for-NeedVsGreed.lua
+GameLib	PauseGameActionInput	1	no	GameLib.PauseGameActionInput(true)	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	PlayTutorialSound	2	no	GameLib.PlayTutorialSound(nTutorialId, nPassedPage)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	PrepareInfractionReport	1	no	GameLib.PrepareInfractionReport(oInput)	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+GameLib	ReplayLevelUp	1	no	GameLib.ReplayLevelUp(self.wndPermanent:FindChild("LevelUpPickerBtn"):GetData())	fc602a499f0f-Client-Lua-Script-for-LevelUpUnlocks.lua
+GameLib	ReportBug	4	no	GameLib.ReportBug(tSub.nId, self.unitSelected, self.idQuest, self.wndReportBug:FindChild("Description"):GetText())	15498df0222e-Client-lua-script.lua
+GameLib	RequestRewardUpdate	1	yes	GameLib.RequestRewardUpdate(nContentType)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	ResetSingleInstance	0	yes	GameLib.ResetSingleInstance()	25489e576693-Client-Lua-Script-for-InstanceSettings.lua
+GameLib	ResetTutorials	0	yes	GameLib.ResetTutorials()	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+GameLib	RollOnLoot	2	no	GameLib.RollOnLoot(tLoot.lootId, true)	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GameLib	SalvageKeyCount	0	no	GameLib.SalvageKeyCount()	99e724837933-Client-Lua-Script-for-InventoryBag.lua
+GameLib	SearchRelationshipStatusByCharacterName	1	no	GameLib.SearchRelationshipStatusByCharacterName(strTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	SetCurrInputKeySet	1	yes	GameLib.SetCurrInputKeySet(self.eCurrKeySet)	717beec9a660-Client-Lua-Script-for-Keybind.lua
+GameLib	SetCurrentClassInnateAbilityIndex	1	yes	GameLib.SetCurrentClassInnateAbilityIndex(wndHandler:GetData())	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+GameLib	SetDefaultRecallCommand	1	yes	GameLib.SetDefaultRecallCommand(GameLib.CodeEnumRecallCommand.BindPoint)	3fc67b514929-Client-Lua-Script-for-RecallFrame.lua
+GameLib	SetIgnoreDuelRequests	1	yes	GameLib.SetIgnoreDuelRequests(g_InterfaceOptions.Carbine.bIsIgnoringDuelRequests)	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	SetInstanceSettings	3	yes	GameLib.SetInstanceSettings(eDifficulty, nRally, self.nSelectedPrimeLevel)	25489e576693-Client-Lua-Script-for-InstanceSettings.lua
+GameLib	SetInteractHintArrowObject	1,2	yes	GameLib.SetInteractHintArrowObject(unit)	9988cb691718-Client-Lua-Script-for-Who.lua
+GameLib	SetNavPoint	2	yes	GameLib.SetNavPoint(tLocation, hubShown:GetSubZoneId())	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	SetSharedChallengePreference	1	yes	GameLib.SetSharedChallengePreference(g_InterfaceOptions.Carbine.eShareChallengePreference or 0)	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	SetShortcutMount	1	yes	GameLib.SetShortcutMount(self.nSelectedMount)	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+GameLib	SetShortcutPotion	1	yes	GameLib.SetShortcutPotion(tSelectedPotion:GetItemId())	73a99d171fe4-Client-Lua-Script-for-ActionBarFrame.lua
+GameLib	SetTargetUnit	1	yes	GameLib.SetTargetUnit(unitMember)	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GameLib	SetWorldTooltipContainer	1	yes	GameLib.SetWorldTooltipContainer(self.wndContainer)	950b06eedd13-Client-Lua-Script-for-ToolTips.lua
+GameLib	ShowGuildHolomark	4	yes	GameLib.ShowGuildHolomark(bVisibleLeft, bVisibleRight, bVisibleBack, bDisplayNear)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+GameLib	ShowNavPointHintArrow	0	yes	GameLib.ShowNavPointHintArrow()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GameLib	StopTutorialSound	0	yes	GameLib.StopTutorialSound()	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+GameLib	SummonVanityPet	1	no	GameLib.SummonVanityPet(nPetId)	8a95d9ffc4ce-Client-Lua-Script-for-VanityPets.lua
+GameLib	SupportStuck	1	no	GameLib.SupportStuck(GameLib.SupportStuckAction.RecallBind)	68c2f4bdb353-Client-Lua-Script-for-Stuck.lua
+GameLib	TogglePvpFlags	0	yes	GameLib.TogglePvpFlags()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GameLib	ToggleQuestUnitCallouts	0	yes	GameLib.ToggleQuestUnitCallouts()	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	ToggleSettlerStructureCallouts	0	yes	GameLib.ToggleSettlerStructureCallouts()	d8e5cd4d6bf8-Client-Lua-Script-for-OptionsInterface.lua
+GameLib	ToggleTutorialVisibilityFlags	1	yes	GameLib.ToggleTutorialVisibilityFlags(nFlagId)	00b99954f335-Client-Lua-Script-for-TutorialMenu.lua
+GenericDialog	ColorPicker	3	no	GenericDialog.ColorPicker(node.fontColor, CombatFloaterConfig_Options_FontColor_ColorPickerCallback, data)	558b635346b8-CombatFloaterConfig.lua.lua
+GroupLib	AcceptInvite	0	no	GroupLib.AcceptInvite()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	AcceptMentoring	1	no	GroupLib.AcceptMentoring(unitStudent)	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	AcceptRequest	0	no	GroupLib.AcceptRequest()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	AmILeader	0	no	GroupLib.AmILeader()	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	CanGotoGroupInstance	0	yes	GroupLib.CanGotoGroupInstance()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	CancelMentoring	0	yes	GroupLib.CancelMentoring()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	CloseMentoringAOIDialog	0	no	GroupLib.CloseMentoringAOIDialog()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	CloseMentoringDialog	0	no	GroupLib.CloseMentoringDialog()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	ConvertToRaid	0	no	GroupLib.ConvertToRaid()	f1135fafb764-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	DeclineInvite	0	no	GroupLib.DeclineInvite()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	DenyRequest	0	no	GroupLib.DenyRequest()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	DisbandGroup	0	no	GroupLib.DisbandGroup()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetGroupMember	1	yes	GroupLib.GetGroupMember(nIdx)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	GetInstanceDifficulty	0	yes	GroupLib.GetInstanceDifficulty()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetInvite	0	yes	GroupLib.GetInvite()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetJoinRequestMethod	0	yes	GroupLib.GetJoinRequestMethod()	f1135fafb764-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetLootRules	0	yes	GroupLib.GetLootRules()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetMemberCount	0	yes	GroupLib.GetMemberCount()	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	GetMemberVisibility	1	yes	GroupLib.GetMemberVisibility(tPortrait.idx)	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetMentoringList	0	yes	GroupLib.GetMentoringList()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetPrimeLevelAchieved	1	yes	GroupLib.GetPrimeLevelAchieved(tVetInfo.nGameId)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+GroupLib	GetReferralMethod	0	yes	GroupLib.GetReferralMethod()	f1135fafb764-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GetUnitForGroupMember	1	yes	GroupLib.GetUnitForGroupMember(nMemberIdx)	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	GotoGroupInstance	0	no	GroupLib.GotoGroupInstance()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	InGroup	0	no	GroupLib.InGroup()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	InInstance	0	no	GroupLib.InInstance()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	InRaid	0	no	GroupLib.InRaid()	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	Invite	1,2	no	GroupLib.Invite(strTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GroupLib	IsMemberInGroupInstance	1	yes	GroupLib.IsMemberInGroupInstance(idx)	4ce3bec73d87-Client-Lua-Script-for-NorthernWildsAdv.lua
+GroupLib	IsReadyCheckOnCooldown	0	yes	GroupLib.IsReadyCheckOnCooldown()	2a5ff7da96db-Client-Lua-Script-for-RaidFrameReady.lua
+GroupLib	Join	1,2	no	GroupLib.Join(strTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GroupLib	Kick	1,2	no	GroupLib.Kick(nGroupMemberId)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GroupLib	LeaveGroup	0	no	GroupLib.LeaveGroup()	206730bf9426-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	PrepareInfractionReportInvite	0	no	GroupLib.PrepareInfractionReportInvite()	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+GroupLib	Promote	2	no	GroupLib.Promote(nIdx, "")	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	ReadyCheck	1	no	GroupLib.ReadyCheck(Apollo.GetString("RaidFrame_AreYouReady"))	2a5ff7da96db-Client-Lua-Script-for-RaidFrameReady.lua
+GroupLib	SetCanMark	2	yes	GroupLib.SetCanMark(nGroupMemberId, true)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GroupLib	SetInvitePermission	2	yes	GroupLib.SetInvitePermission(nGroupMemberId, true)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GroupLib	SetJoinRequestMethod	1	yes	GroupLib.SetJoinRequestMethod(wndHandler:GetData())	f1135fafb764-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	SetKickPermission	2	yes	GroupLib.SetKickPermission(nGroupMemberId, true)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+GroupLib	SetLootRules	4	yes	GroupLib.SetLootRules(tLootRules[wndHandler:GetName()], tCurrRules.eThresholdRule, tCurrRules.eThresholdQuality, tCurrRules.eHarvestRule)	3743e46cafe8-Client-Lua-Script-for-RaidFrameMasterLoo.lua
+GroupLib	SetMainAssist	2	yes	GroupLib.SetMainAssist(wndHandler:GetData(), true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	SetMainTank	2	yes	GroupLib.SetMainTank(wndHandler:GetData(), true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	SetRaidAssistant	2	yes	GroupLib.SetRaidAssistant(wndHandler:GetData(), true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	SetReady	1	yes	GroupLib.SetReady(false)	2a5ff7da96db-Client-Lua-Script-for-RaidFrameReady.lua
+GroupLib	SetReferralMethod	1	yes	GroupLib.SetReferralMethod(wndHandler:GetData())	f1135fafb764-Client-Lua-Script-for-GroupDisplayOption.lua
+GroupLib	SetRoleDPS	2	yes	GroupLib.SetRoleDPS(wndHandler:GetData(), true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	SetRoleHealer	2	yes	GroupLib.SetRoleHealer(wndHandler:GetData(), true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	SetRoleLocked	2	yes	GroupLib.SetRoleLocked(nIdx, true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GroupLib	SetRoleTank	2	yes	GroupLib.SetRoleTank(wndHandler:GetData(), true)	1d145f999bec-Client-Lua-Script-for-RaidFrameLeaderOpt.lua
+GuildLib	Accept	0	no	GuildLib.Accept()	2dc9b0a92658-Client-Lua-Script-for-Communities.lua
+GuildLib	CanCreate	1	yes	GuildLib.CanCreate(GuildLib.GuildType_Circle)	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+GuildLib	CanInvite	1	yes	GuildLib.CanInvite(GuildLib.GuildType_Community)	2dc9b0a92658-Client-Lua-Script-for-Communities.lua
+GuildLib	Create	2,5,6	yes	GuildLib.Create(tGuildInfo.strName, tGuildInfo.eGuildType)	92630b6ac297-Client-Lua-Script-for-Arena-Team-Registr.lua
+GuildLib	Decline	0	no	GuildLib.Decline()	2dc9b0a92658-Client-Lua-Script-for-Communities.lua
+GuildLib	GetAlternateCreateCost	1	yes	GuildLib.GetAlternateCreateCost(GuildLib.GuildType_Community)	54627d29f8d1-Client-Lua-Script-for-CommunityRegistrat.lua
+GuildLib	GetBankWithdrawLimits	0	yes	GuildLib.GetBankWithdrawLimits()	7492f977526a-Client-Lua-Script-for-GuildBank.lua
+GuildLib	GetBannerBackgroundIcons	0	yes	GuildLib.GetBannerBackgroundIcons()	53f3add660ea-Client-Lua-Script-for-GuildDesigner.lua
+GuildLib	GetBannerForegroundIcons	0	yes	GuildLib.GetBannerForegroundIcons()	53f3add660ea-Client-Lua-Script-for-GuildDesigner.lua
+GuildLib	GetBannerScanLines	0	yes	GuildLib.GetBannerScanLines()	53f3add660ea-Client-Lua-Script-for-GuildDesigner.lua
+GuildLib	GetCreateCost	1	yes	GuildLib.GetCreateCost(GuildLib.GuildType_Community)	54627d29f8d1-Client-Lua-Script-for-CommunityRegistrat.lua
+GuildLib	GetGuildInfluenceDailyBonus	0	yes	GuildLib.GetGuildInfluenceDailyBonus()	dca790145c1a-Client-Lua-Script-for-GuildPerks.lua
+GuildLib	GetGuildInfluenceLimit	0	yes	GuildLib.GetGuildInfluenceLimit()	dca790145c1a-Client-Lua-Script-for-GuildPerks.lua
+GuildLib	GetGuilds	0	yes	GuildLib.GetGuilds()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+GuildLib	GetHolomarkModifyCost	0	yes	GuildLib.GetHolomarkModifyCost()	53f3add660ea-Client-Lua-Script-for-GuildDesigner.lua
+GuildLib	GetMinimumLevel	1	yes	GuildLib.GetMinimumLevel(eGuildType)	3bdfc01b7e71-Client-Lua-Script-for-GuildAlerts.lua
+GuildLib	GetPermissions	1	yes	GuildLib.GetPermissions(GuildLib.GuildType_Community)	2dc9b0a92658-Client-Lua-Script-for-Communities.lua
+GuildLib	PrepareInfractionReportInvite	0	no	GuildLib.PrepareInfractionReportInvite()	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+HexGroups	is	1	no	HexGroups.is(oHexGroup)	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+HousingLib	AddItemToCrate	1	yes	HousingLib.AddItemToCrate(iData)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	CanCrateAllDecor	0	yes	HousingLib.CanCrateAllDecor()	dd3ca1579afa-Client-Lua-Script-for-HousingList.lua
+HousingLib	CanRenameCommunity	0	yes	HousingLib.CanRenameCommunity()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	CanReserveCommunityPlot	0	yes	HousingLib.CanReserveCommunityPlot()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	CanRevokeCommunityPlotReservations	0	yes	HousingLib.CanRevokeCommunityPlotReservations()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	CanSetCommunityPrivacyLevel	0	yes	HousingLib.CanSetCommunityPrivacyLevel()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	CrateAllDecor	0	no	HousingLib.CrateAllDecor()	dd3ca1579afa-Client-Lua-Script-for-HousingList.lua
+HousingLib	GetBakedDecorDetails	0	yes	HousingLib.GetBakedDecorDetails()	a20c40e80d40-Client-Lua-Script-for-HousingDatachron.lua
+HousingLib	GetCommunityPrivacyLevel	0	yes	HousingLib.GetCommunityPrivacyLevel()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetCommunityRenameCosts	0	yes	HousingLib.GetCommunityRenameCosts()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetControlMode	0	yes	HousingLib.GetControlMode()	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetDecorCatalogList	1	yes	HousingLib.GetDecorCatalogList(strSearchText)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetDecorColorInfo	1	yes	HousingLib.GetDecorColorInfo(idColorShiftToCheck)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetDecorColorOptions	0	yes	HousingLib.GetDecorColorOptions()	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetDecorColorPrice	2	yes	HousingLib.GetDecorColorPrice(tColorShift.id, false)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetDecorCrateList	1	yes	HousingLib.GetDecorCrateList(strSearchText)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetDecorTypeList	0	yes	HousingLib.GetDecorTypeList()	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	GetMannequinPose	0	yes	HousingLib.GetMannequinPose()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+HousingLib	GetMannequinPoseList	0	yes	HousingLib.GetMannequinPoseList()	598cc3894697-Client-Lua-Script-for-Costumes.lua
+HousingLib	GetNeighborList	0	yes	HousingLib.GetNeighborList()	756ef062907c-Client-Lua-Script-for-SuggestedMenu.lua
+HousingLib	GetPlot	1	yes	HousingLib.GetPlot(1)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetPlotCount	0	yes	HousingLib.GetPlotCount()	a20c40e80d40-Client-Lua-Script-for-HousingDatachron.lua
+HousingLib	GetPlugItem	1	yes	HousingLib.GetPlugItem(plugItemId)	9a17d6bdcb67-Client-Lua-Script-for-PlugPreview.lua
+HousingLib	GetPlugUpgradeList	1	no	HousingLib.GetPlugUpgradeList(curPlotIndex)	eadc08e112b4-Client-Lua-Script-for-HousingLandscape.lua
+HousingLib	GetPropertyName	0	yes	HousingLib.GetPropertyName()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRandomCommunityList	0	yes	HousingLib.GetRandomCommunityList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRandomResidenceList	0	yes	HousingLib.GetRandomResidenceList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelDoorList	0,1	yes	HousingLib.GetRemodelDoorList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelEntryList	0,1	yes	HousingLib.GetRemodelEntryList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelGroundList	0,1	yes	HousingLib.GetRemodelGroundList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelMusicExteriorList	0,1	yes	HousingLib.GetRemodelMusicExteriorList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelRoofList	0,1	yes	HousingLib.GetRemodelRoofList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelSkyExteriorList	0,1	yes	HousingLib.GetRemodelSkyExteriorList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelWallpaperExteriorList	0,1	yes	HousingLib.GetRemodelWallpaperExteriorList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetRemodelWallpaperInteriorList	2	yes	HousingLib.GetRemodelWallpaperInteriorList(eType, strSearchText)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetReservedCommunityPlotIndex	0	yes	HousingLib.GetReservedCommunityPlotIndex()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetResidence	0	yes	HousingLib.GetResidence()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	GetVendorList	0	yes	HousingLib.GetVendorList()	eadc08e112b4-Client-Lua-Script-for-HousingLandscape.lua
+HousingLib	GetWarplotMaintenanceCost	0	yes	HousingLib.GetWarplotMaintenanceCost()	eadc08e112b4-Client-Lua-Script-for-HousingLandscape.lua
+HousingLib	HasCommunity	0	yes	HousingLib.HasCommunity()	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	IsHousingWorld	0	yes	HousingLib.IsHousingWorld()	1af3e856cecb-Client-Lua-Script-for-TaxiMap.lua
+HousingLib	IsMyResidenceOnCommunity	0	yes	HousingLib.IsMyResidenceOnCommunity()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	IsOnMyCommunity	0	yes	HousingLib.IsOnMyCommunity()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	IsOnMyResidence	0	yes	HousingLib.IsOnMyResidence()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	IsResidenceOwner	0	yes	HousingLib.IsResidenceOwner()	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+HousingLib	IsWarplotResidence	0	yes	HousingLib.IsWarplotResidence()	a20c40e80d40-Client-Lua-Script-for-HousingDatachron.lua
+HousingLib	NeighborEvict	1	no	HousingLib.NeighborEvict(tCharacterData.tNeighbor.nId)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+HousingLib	NeighborInviteAccept	0	no	HousingLib.NeighborInviteAccept()	e383642afe9e-Client-Lua-Script-for-FriendsList.lua
+HousingLib	NeighborInviteByName	1	no	HousingLib.NeighborInviteByName(strTarget)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+HousingLib	NeighborInviteDecline	0	no	HousingLib.NeighborInviteDecline()	e383642afe9e-Client-Lua-Script-for-FriendsList.lua
+HousingLib	NeighborSetPermission	2	no	HousingLib.NeighborSetPermission(tCurr.nId, HousingLib.NeighborPermissionLevel.Normal)	e383642afe9e-Client-Lua-Script-for-FriendsList.lua
+HousingLib	PrepareInfractionReport	0	no	HousingLib.PrepareInfractionReport()	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+HousingLib	PreviewCrateDecor	2	no	HousingLib.PreviewCrateDecor(idLow, idHi)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	PreviewVendorDecor	1	no	HousingLib.PreviewVendorDecor(idInfo)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	PurchaseDecorIntoCrate	1	no	HousingLib.PurchaseDecorIntoCrate(idInfo)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	RefreshUI	0	no	HousingLib.RefreshUI()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RemoveCommunityPlotReservation	1	yes	HousingLib.RemoveCommunityPlotReservation(tMember.strReservedBy)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestCommunityPlacedResidencesList	0	yes	HousingLib.RequestCommunityPlacedResidencesList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestCommunityPlacement	1	yes	HousingLib.RequestCommunityPlacement(iPropertyIndex)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestCommunityRemoveResidence	0	yes	HousingLib.RequestCommunityRemoveResidence()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestCommunityVisit	0	yes	HousingLib.RequestCommunityVisit()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestRandomCommunityList	0	yes	HousingLib.RequestRandomCommunityList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestRandomCommunityVisit	1	yes	HousingLib.RequestRandomCommunityVisit(wndControl:GetParent():GetData())	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestRandomResidenceList	0	yes	HousingLib.RequestRandomResidenceList()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestRandomVisit	1	yes	HousingLib.RequestRandomVisit(wndControl:GetParent():GetData())	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestTakeMeHome	0	yes	HousingLib.RequestTakeMeHome()	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestVendorList	0	yes	HousingLib.RequestVendorList()	eadc08e112b4-Client-Lua-Script-for-HousingLandscape.lua
+HousingLib	RequestVisitCommunityByName	1	yes	HousingLib.RequestVisitCommunityByName(strName)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	RequestVisitPlayer	1	yes	HousingLib.RequestVisitPlayer(strName)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	ReserveCommunityPlot	1	no	HousingLib.ReserveCommunityPlot(iPropertyIndex-1)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	SendDecorToInventory	2	no	HousingLib.SendDecorToInventory(idLow, idHi)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	SetCommunityPrivacyLevel	1	yes	HousingLib.SetCommunityPrivacyLevel(HousingLib.ResidencePrivacyLevel.Private)	21c177829e6f-Client-Lua-Script-for-HousingRemodel.lua
+HousingLib	SetControlMode	1	yes	HousingLib.SetControlMode(HousingLib.DecorControlMode.Local)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	SetEditMode	1	yes	HousingLib.SetEditMode(true)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	SetMannequinPose	1	yes	HousingLib.SetMannequinPose(tPoseData.nId)	598cc3894697-Client-Lua-Script-for-Costumes.lua
+HousingLib	SetPlugRotation	2	yes	HousingLib.SetPlugRotation(iPlot, self.eCurrPlotFacing)	eadc08e112b4-Client-Lua-Script-for-HousingLandscape.lua
+HousingLib	ShowMoveControls	1	yes	HousingLib.ShowMoveControls(bMove)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	ShowRotateControls	1	yes	HousingLib.ShowRotateControls(bRotate)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+HousingLib	VisitNeighborResidence	1	no	HousingLib.VisitNeighborResidence(tCurrNeighbor.nId)	e383642afe9e-Client-Lua-Script-for-FriendsList.lua
+Item	GetDataFromId	1	yes	Item.GetDataFromId(arTokens[nIndex].nItemId)	394500ff509a-Client-Lua-Script-for-Warparty-Boss-Toke.lua
+Item	GetDetailedInfo	1,2	yes	Item.GetDetailedInfo(itemCurr)	87d4f71c7925-ItemWindowSubclass-new.lua
+Item	GetItemFromInventoryLoc	1	yes	Item.GetItemFromInventoryLoc(nItemSourceLoc)	0c785fe7171e-Client-Lua-Script-for-Runecrafting.lua
+Item	GetPropertyName	1	yes	Item.GetPropertyName(Unit.CodeEnumProperties.BaseAvoidReduceChance)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+Item	GetSetBonuses	0	yes	Item.GetSetBonuses()	a34b5f63b42c-Client-Lua-Script-for-RuneSets.lua
+Item	GetVirtualItems	0	yes	Item.GetVirtualItems()	99e724837933-Client-Lua-Script-for-InventoryBag.lua
+Item	isData	1	no	Item.isData(oData)	861728c0ecd4-Client-Lua-Script-for-Crafting.lua
+Item	isInstance	1	no	Item.isInstance(itemCurr)	87d4f71c7925-ItemWindowSubclass-new.lua
+ItemAuction	is	1	no	ItemAuction.is(aucCurrent)	97f9084b286a-Client-Lua-Script-for-MarketplaceListing.lua
+LeaderboardLib	GetLeaderboard	1,4	no	LeaderboardLib.GetLeaderboard(self.eLeaderboardSelected)	64d40fb9ac60-Client-Lua-Script-for-Leaderboards.lua
+LeaderboardLib	GetNextUpdate	4	no	LeaderboardLib.GetNextUpdate(self.eLeaderboardSelected, self.eMatchingMap, self.nPrimeLevel, self.eMedal)	64d40fb9ac60-Client-Lua-Script-for-Leaderboards.lua
+LiveEventsLib	GetBonusLiveEventList	0	yes	LiveEventsLib.GetBonusLiveEventList()	4e70d1f4a21e-Client-Lua-Script-for-WelcomeWindow.lua
+MailSystemLib	is	1	no	MailSystemLib.is(msgMail)	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+MarketplaceLib	GetAuctionableCategories	1	yes	MarketplaceLib.GetAuctionableCategories(1)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetAuctionableFamilies	0	yes	MarketplaceLib.GetAuctionableFamilies()	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetAuctionableTypes	1	yes	MarketplaceLib.GetAuctionableTypes(tMidData.nId)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetCommodityCategories	1	yes	MarketplaceLib.GetCommodityCategories(tTopCategory.nId)	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MarketplaceLib	GetCommodityFamilies	0	yes	MarketplaceLib.GetCommodityFamilies()	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MarketplaceLib	GetCommodityTypes	1	yes	MarketplaceLib.GetCommodityTypes(tMidCategory.nId)	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MarketplaceLib	GetItemAuctionCost	1	yes	MarketplaceLib.GetItemAuctionCost(itemSelling)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetItemProperties	0	yes	MarketplaceLib.GetItemProperties()	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetMaxAuctions	0	yes	MarketplaceLib.GetMaxAuctions()	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetMaxBids	0	yes	MarketplaceLib.GetMaxBids()	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	GetMaxCommodityOrders	0	yes	MarketplaceLib.GetMaxCommodityOrders()	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MarketplaceLib	RequestCommodityInfo	1	yes	MarketplaceLib.RequestCommodityInfo(tCurrItem:GetItemId())	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MarketplaceLib	RequestItemAuctionsByCategory	8	yes	MarketplaceLib.RequestItemAuctionsByCategory(nSearchId, nPage, eAuctionSort, bReverseSort, arFilters, nil, nil, nPropertySort)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	RequestItemAuctionsByFamily	8	yes	MarketplaceLib.RequestItemAuctionsByFamily(nSearchId, nPage, eAuctionSort, bReverseSort, arFilters, nil, nil, nPropertySort)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	RequestItemAuctionsByItems	8	yes	MarketplaceLib.RequestItemAuctionsByItems(tPackagedData, nPage, eAuctionSort, bReverseSort, arFilters, nil, nil, nPropertySort)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	RequestItemAuctionsByType	8	yes	MarketplaceLib.RequestItemAuctionsByType(nSearchId, nPage, eAuctionSort, bReverseSort, arFilters, nil, nil, nPropertySort)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	RequestOwnedCommodityOrders	0	yes	MarketplaceLib.RequestOwnedCommodityOrders()	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MarketplaceLib	RequestOwnedItemAuctions	0	yes	MarketplaceLib.RequestOwnedItemAuctions()	97f9084b286a-Client-Lua-Script-for-MarketplaceListing.lua
+MarketplaceLib	SearchAuctionableItems	4	no	MarketplaceLib.SearchAuctionableItems(strSearchQuery, nFamilyId, nCategoryId, nTypeId)	d700732b43a8-Client-Lua-Script-for-MarketplaceAuction.lua
+MarketplaceLib	SearchCommodityItems	5	no	MarketplaceLib.SearchCommodityItems(strSearchFilter, tCategoryFilter.nTopCategory, tCategoryFilter.nMidCategory, tCategoryFilter.nBotCategory, fnFilter)	3ff06c5be49b-Client-Lua-Script-for-MarketplaceCommodi.lua
+MatchMakingEntry	is	1	no	MatchMakingEntry.is(oSuggestedContent)	7c3b194f7674-Client-Lua-Script-for-WelcomeWindow.lua
+MatchMakingLib	CanLeaveQueueAsGroup	1	yes	MatchMakingLib.CanLeaveQueueAsGroup(eMatchType)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	CanQueueAsGroup	0	yes	MatchMakingLib.CanQueueAsGroup()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetEligibleRoles	0	yes	MatchMakingLib.GetEligibleRoles()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetMatchMakingEntries	3	yes	MatchMakingLib.GetMatchMakingEntries(eMatchType, false, true)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetMatchQueueResultString	1	yes	MatchMakingLib.GetMatchQueueResultString(eQueueResultSolo)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetPenalizedPartyMembers	1	yes	MatchMakingLib.GetPenalizedPartyMembers(eMatchType)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetPvpRatingByType	1	yes	MatchMakingLib.GetPvpRatingByType(eRatingType)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetPvpSeason	1	yes	MatchMakingLib.GetPvpSeason(MatchMakingLib.MatchType.Arena)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	GetQueuedEntries	0,1	yes	MatchMakingLib.GetQueuedEntries()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	IsQueuedAsGroupForMatching	0	yes	MatchMakingLib.IsQueuedAsGroupForMatching()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	IsQueuedForMatching	0	yes	MatchMakingLib.IsQueuedForMatching()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	LeaveAllQueues	0	no	MatchMakingLib.LeaveAllQueues()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	Queue	2	no	MatchMakingLib.Queue(self.arMatchesToQueue, self.tQueueOptions[self.eSelectedMasterType])	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchMakingLib	QueueAsGroup	2	no	MatchMakingLib.QueueAsGroup(self.arMatchesToQueue, self.tQueueOptions[self.eSelectedMasterType])	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	CanLookForReplacements	0	yes	MatchingGameLib.CanLookForReplacements()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	CanVoteSurrender	0	yes	MatchingGameLib.CanVoteSurrender()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	CastVoteKick	1	no	MatchingGameLib.CastVoteKick(true)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	CastVoteSurrender	1	no	MatchingGameLib.CastVoteSurrender(true)	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	ConfirmRole	1	no	MatchingGameLib.ConfirmRole(self.tRoles)	623f20cceaf6-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	DeclineRoleCheck	0	no	MatchingGameLib.DeclineRoleCheck()	623f20cceaf6-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	GetPendingInfo	0	yes	MatchingGameLib.GetPendingInfo()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	GetPvpMatchState	0	yes	MatchingGameLib.GetPvpMatchState()	52dcd6cd21ca-Client-Lua-Script-for-MatchTracker.lua
+MatchingGameLib	GetQueueEntry	0	yes	MatchingGameLib.GetQueueEntry()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	GetWarplotBattleState	0	yes	MatchingGameLib.GetWarplotBattleState()	394500ff509a-Client-Lua-Script-for-Warparty-Boss-Toke.lua
+MatchingGameLib	InitiateVoteToKick	1	no	MatchingGameLib.InitiateVoteToKick(nGroupMemberId)	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+MatchingGameLib	InitiateVoteToSurrender	0	no	MatchingGameLib.InitiateVoteToSurrender()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	IsFinished	0	yes	MatchingGameLib.IsFinished()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	IsInGameInstance	0	yes	MatchingGameLib.IsInGameInstance()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	IsInPvpGame	0	yes	MatchingGameLib.IsInPvpGame()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	IsLookingForReplacements	0	yes	MatchingGameLib.IsLookingForReplacements()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	IsPendingGame	0	yes	MatchingGameLib.IsPendingGame()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	IsVoteKickActive	0	yes	MatchingGameLib.IsVoteKickActive()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+MatchingGameLib	IsVoteSurrenderActive	0	yes	MatchingGameLib.IsVoteSurrenderActive()	9e4bb3c40e46-Client-Lua-Script-for-PublicEventStats.lua
+MatchingGameLib	LeaveGame	0	no	MatchingGameLib.LeaveGame()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	LookForReplacements	0	no	MatchingGameLib.LookForReplacements()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	StopLookingForReplacements	0	yes	MatchingGameLib.StopLookingForReplacements()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+MatchingGameLib	TransferIntoMatch	0	no	MatchingGameLib.TransferIntoMatch()	437350a27489-Client-Lua-Script-for-MatchMaker.lua
+Money	new	0,1,2	no	Money.new()	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+P2PTrading	AcceptInvite	0	no	P2PTrading.AcceptInvite()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	AddItem	1	yes	P2PTrading.AddItem(self.tPendingItems[idx])	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	AmICommitted	0	no	P2PTrading.AmICommitted()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	CanInitiateTrade	1	yes	P2PTrading.CanInitiateTrade(GameLib.GetPlayerUnit())	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	CancelTrade	0	yes	P2PTrading.CancelTrade()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	DeclineInvite	0	no	P2PTrading.DeclineInvite()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	GetMinimumTradeLevel	0	yes	P2PTrading.GetMinimumTradeLevel()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+P2PTrading	GetMyTradeMoney	0	yes	P2PTrading.GetMyTradeMoney()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	GetPartnerTradeMoney	0	yes	P2PTrading.GetPartnerTradeMoney()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	GetTradeItems	0	yes	P2PTrading.GetTradeItems()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	InitiateTrade	1	no	P2PTrading.InitiateTrade(unitTarget)	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	IsPartnerCommitted	0	yes	P2PTrading.IsPartnerCommitted()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	IsTrading	0	yes	P2PTrading.IsTrading()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	PrepareInfractionReport	0	no	P2PTrading.PrepareInfractionReport()	ef4cbcfae430-Client-Lua-Script-for-ReportPlayer.lua
+P2PTrading	RemoveItem	1	yes	P2PTrading.RemoveItem(tItem.nId)	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	SetMoney	1	yes	P2PTrading.SetMoney(0)	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+P2PTrading	UnCommit	0	no	P2PTrading.UnCommit()	3a4f792e2843-Client-Lua-Script-for-Trading.lua
+PathEpisode	is	1	no	PathEpisode.is(pepEpisode)	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PetCustomizationLib	CanCustomize	2	yes	PetCustomizationLib.CanCustomize(PetCustomizationLib.PetType.HoverBoard, tMountData.nSpellId)	7e6e4b1ed703-Client-Lua-Script-for-MountScreen.lua
+PetCustomizationLib	GetCustomization	2	yes	PetCustomizationLib.GetCustomization(PetCustomizationLib.PetType.HoverBoard, tMountData.nSpellId)	7e6e4b1ed703-Client-Lua-Script-for-MountScreen.lua
+PetCustomizationLib	GetUnlockedPetFlairByType	1	yes	PetCustomizationLib.GetUnlockedPetFlairByType(eFlairType)	7e6e4b1ed703-Client-Lua-Script-for-MountScreen.lua
+PlayerPathLib	CanExplorerShowHint	1	yes	PlayerPathLib.CanExplorerShowHint(pmClaimMission)	d8f9a1346a4e-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	ExplorerShowHint	1	no	PlayerPathLib.ExplorerShowHint(wndHandler:GetData())	70a706dbc3ef-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetCurrentEpisode	0	yes	PlayerPathLib.GetCurrentEpisode()	02cc6c55a29a-Client-Lua-Script-for-PathSoldierMission.lua
+PlayerPathLib	GetCurrentSettlerHubMission	0	yes	PlayerPathLib.GetCurrentSettlerHubMission()	80f3cdd9e4aa-Client-Lua-Script-for-BuildMap.lua
+PlayerPathLib	GetCurrentSettlerInfrastructure	0	yes	PlayerPathLib.GetCurrentSettlerInfrastructure()	70a706dbc3ef-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetEpisodes	0,1	yes	PlayerPathLib.GetEpisodes()	ed541b61bd7b-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetInfrastructureStatusForMission	1	yes	PlayerPathLib.GetInfrastructureStatusForMission(pmMission)	70a706dbc3ef-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathChangeCooldown	0	yes	PlayerPathLib.GetPathChangeCooldown()	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathChangeCooldownBypassCost	0	yes	PlayerPathLib.GetPathChangeCooldownBypassCost()	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathEpisodeForZone	1	yes	PlayerPathLib.GetPathEpisodeForZone(self.ePlayerPath)	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathLevel	0,1	yes	PlayerPathLib.GetPathLevel()	1fdd7b949083-Client-Lua-Script-for-Character.lua
+PlayerPathLib	GetPathLevelData	2	yes	PlayerPathLib.GetPathLevelData(nDisplayLevel + 1, self.ePlayerPath)	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathStatuses	0	yes	PlayerPathLib.GetPathStatuses()	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathUnlockCost	0	yes	PlayerPathLib.GetPathUnlockCost()	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	GetPathXP	0,1	yes	PlayerPathLib.GetPathXP()	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+PlayerPathLib	GetPathXPAtLevel	1,2	yes	PlayerPathLib.GetPathXPAtLevel(nCurrentLevel)	3ce1cd1d4ac4-Client-Lua-Script-for-XPBar.lua
+PlayerPathLib	GetPlayerPathType	0	yes	PlayerPathLib.GetPlayerPathType()	1eb4d816e9e6-Client-Lua-Script-for-RewardIcons.lua
+PlayerPathLib	GetScannerName	0	yes	PlayerPathLib.GetScannerName()	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	GetSettlerHubValues	1	yes	PlayerPathLib.GetSettlerHubValues(pmMission)	70a706dbc3ef-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	IsPathUnlocked	1	yes	PlayerPathLib.IsPathUnlocked(self.ePlayerPath)	5f79b3544e75-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	PathAction	0	no	PlayerPathLib.PathAction()	70a706dbc3ef-Client-Lua-Script-for-ChallengeLog.lua
+PlayerPathLib	ScientistAllGetScanBotProfiles	0	no	PlayerPathLib.ScientistAllGetScanBotProfiles()	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	ScientistGetScanBotProfile	0	no	PlayerPathLib.ScientistGetScanBotProfile()	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	ScientistGetScanBotUnit	0	no	PlayerPathLib.ScientistGetScanBotUnit()	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	ScientistHasScanBot	0	no	PlayerPathLib.ScientistHasScanBot()	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	ScientistSetScanBotProfile	1	no	PlayerPathLib.ScientistSetScanBotProfile(wndHandler:GetData())	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	ScientistToggleScanBot	0	no	PlayerPathLib.ScientistToggleScanBot()	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PlayerPathLib	SetScannerName	1	yes	PlayerPathLib.SetScannerName(strNewName)	9a9d4d3f8120-Client-Lua-Script-for-PathScientistCusto.lua
+PreGameLib	Event_FireGenericEvent	1,2,3,7	no	PreGameLib.Event_FireGenericEvent("HideFullDialog")	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+PreGameLib	GetCredits	0	yes	PreGameLib.GetCredits()	79efa04c30b8-Client-Lua-Script-for-Credits.lua
+PreGameLib	GetRandomName	3	yes	PreGameLib.GetRandomName(nRaceId, nGenderId, nFactionId)	0d3708bd06b4-Client-Lua-Script-for-AccountServices.lua
+PreGameLib	HideCredits	0	yes	PreGameLib.HideCredits()	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+PreGameLib	SetMusic	1	yes	PreGameLib.SetMusic(PreGameLib.CodeEnumMusic.CharacterSelect)	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+PreGameLib	String_GetWeaselString	1,2,3,4	no	PreGameLib.String_GetWeaselString(monTemp:GetDenomInfo()[1].strName)	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+Promise	Is	1	no	Promise.Is(promise)	d38c58616f43-Client-Lua-Script-for-Carbind.lua.lua
+Promise	New	0	no	Promise.New()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+Promise	NewFromControlEvent	3	no	Promise.NewFromControlEvent(wndControl, strEventName, tSelf)	d38c58616f43-Client-Lua-Script-for-Carbind.lua.lua
+Promise	NewFromGameEvent	2	no	Promise.NewFromGameEvent("StorePurchaseOfferResult", self)	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+Promise	WhenAll	1,2	no	Promise.WhenAll(...)	d38c58616f43-Client-Lua-Script-for-Carbind.lua.lua
+Promise	WhenAny	1	no	Promise.WhenAny(...)	d38c58616f43-Client-Lua-Script-for-Carbind.lua.lua
+PublicEvent	CanVote	0	yes	PublicEvent.CanVote()	4a3d9ec2fc1e-Client-Lua-Script-for-PublicEventVote.lua
+PublicEvent	CastVote	1	no	PublicEvent.CastVote(wndHandler:GetData())	4a3d9ec2fc1e-Client-Lua-Script-for-PublicEventVote.lua
+PublicEvent	GetActiveEvents	0	yes	PublicEvent.GetActiveEvents()	0cc1662cb3f7-Client-Lua-Script-for-AdventureWhitevale.lua
+PublicEvent	GetActiveVote	0	yes	PublicEvent.GetActiveVote()	4a3d9ec2fc1e-Client-Lua-Script-for-PublicEventVote.lua
+PublicEvent	is	1	no	PublicEvent.is(peEvent)	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+PublicEventObjective	is	1	no	PublicEventObjective.is(peEvent)	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+PublicEventsLib	GetActivePublicEventList	0	yes	PublicEventsLib.GetActivePublicEventList()	87e3ffd98f20-Client-Lua-Script-for-ZoneMap.lua
+Quest	GetCallbackList	1	yes	Quest.GetCallbackList(true)	04e2218a1a75-Client-lua-script.lua
+Quest	is	1	no	Quest.is(queLinked)	9ede5030ec14-Client-Lua-Script-for-ChatLog.lua
+QuestHub	is	1	no	QuestHub.is(oData)	7c3b194f7674-Client-Lua-Script-for-WelcomeWindow.lua
+QuestLib	AbandonAllPvPQuests	0	no	QuestLib.AbandonAllPvPQuests()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+QuestLib	GetActivePvPQuestCount	0	yes	QuestLib.GetActivePvPQuestCount()	a2844aaf2848-Client-Lua-Script-for-ContextMenuPlayer.lua
+QuestLib	GetAllEpisodes	2	yes	QuestLib.GetAllEpisodes(bShowCompleted, true)	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+QuestLib	GetCount	0	yes	QuestLib.GetCount()	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+QuestLib	GetEpisode	1	yes	QuestLib.GetEpisode(idEpisode)	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+QuestLib	GetKnownCategories	0	yes	QuestLib.GetKnownCategories()	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+QuestLib	GetMaxCount	0	yes	QuestLib.GetMaxCount()	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+QuestLib	GetTrackedEpisodes	0,1	yes	QuestLib.GetTrackedEpisodes()	86de675a322c-Client-Lua-Script-for-HUDAlerts.lua
+QuestLib	IsInitialized	0	yes	QuestLib.IsInitialized()	fb765521a66a-Client-Lua-Script-for-QuestTracker.lua
+RewardIcons	GenerateUnitRewardIconsForm	2	no	RewardIcons.GenerateUnitRewardIconsForm(self, ...)	1eb4d816e9e6-Client-Lua-Script-for-RewardIcons.lua
+RewardIcons	GetUnitRewardIconsForm	3	no	RewardIcons.GetUnitRewardIconsForm(tNameplate.wnd.questRewards, tNameplate.unitOwner, tFlags)	fcb4452399b6-Client-Lua-Script-for-Nameplates.lua
+RewardTrackLib	GetActiveRewardTrackByType	1	yes	RewardTrackLib.GetActiveRewardTrackByType(tData.eRewardType)	4b708561e510-Client-Lua-Script-for-Contracts.lua
+RewardTrackLib	GetActiveRewardTracks	0	yes	RewardTrackLib.GetActiveRewardTracks()	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua
+SoldierEvent	is	1	no	SoldierEvent.is(tList)	80f3cdd9e4aa-Client-Lua-Script-for-BuildMap.lua
+SoldierImprovement	is	1	no	SoldierImprovement.is(tNode)	80f3cdd9e4aa-Client-Lua-Script-for-BuildMap.lua
+Sound	Play	1	no	Sound.Play(Sound.PlayUISoldierBossReleased)	02cc6c55a29a-Client-Lua-Script-for-PathSoldierMission.lua
+StorefrontLib	BannerClicked	2	no	StorefrontLib.BannerClicked(tData.eLocation, tData.nOrder)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	CategoryClicked	1	no	StorefrontLib.CategoryClicked(tCategory.nId)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	CompleteOrderVirtualCurrencyPackage	0	no	StorefrontLib.CompleteOrderVirtualCurrencyPackage()	d47aa039ddbd-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetBalance	1	no	StorefrontLib.GetBalance(AccountItemLib.GetPremiumCurrency())	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	GetBannerById	1	no	StorefrontLib.GetBannerById(nBannerId)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetBanners	0	no	StorefrontLib.GetBanners()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetCategoryTree	0	no	StorefrontLib.GetCategoryTree()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetFeaturedCategoryId	0	no	StorefrontLib.GetFeaturedCategoryId()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetIsPTR	0	no	StorefrontLib.GetIsPTR()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	GetLinkInfo	1	no	StorefrontLib.GetLinkInfo(wndControl:GetData())	621a09e33742-Client-Lua-Script-for-CharacterSelect.lua
+StorefrontLib	GetMannequins	0	no	StorefrontLib.GetMannequins()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	GetOfferGroupInfo	1	no	StorefrontLib.GetOfferGroupInfo(nOfferGroupId)	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	GetOfferGroupsForCategory	1,3	no	StorefrontLib.GetOfferGroupsForCategory(StorefrontLib.kSignatureGoodsCategoryId)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetOfferGroupsForSearchStr	3	no	StorefrontLib.GetOfferGroupsForSearchStr(strText, self.tSortingOptions, self.nFilterOptions)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetOfferInfo	2	no	StorefrontLib.GetOfferInfo(tOffer.nId, nVariant)	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	GetPetFlairUnlockedFromItem	1	no	StorefrontLib.GetPetFlairUnlockedFromItem(tAccountItem.item)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetProtobucksOffers	0	no	StorefrontLib.GetProtobucksOffers()	a98c47244377-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetPurchaseHistory	0	no	StorefrontLib.GetPurchaseHistory()	e14e19bce8c1-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetRealCurrency	0	no	StorefrontLib.GetRealCurrency()	d47aa039ddbd-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetStoreDisplayInfo	1	no	StorefrontLib.GetStoreDisplayInfo(nDisplayInfoId)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetStoreTutorialOffer	0	no	StorefrontLib.GetStoreTutorialOffer()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	GetVirtualCurrencyPackages	0	no	StorefrontLib.GetVirtualCurrencyPackages()	a98c47244377-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	IsLinkValid	1	no	StorefrontLib.IsLinkValid(StorefrontLib.CodeEnumStoreLink.Signature)	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+StorefrontLib	IsSteam	0	no	StorefrontLib.IsSteam()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	IsStoreCatalogDirty	0	no	StorefrontLib.IsStoreCatalogDirty()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	IsStoreReady	0	no	StorefrontLib.IsStoreReady()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	MarkStoreUiUpdateMessageSeen	0	no	StorefrontLib.MarkStoreUiUpdateMessageSeen()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	OpenBannerBrowserLink	1	no	StorefrontLib.OpenBannerBrowserLink(tData.nStoreBannerId)	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	OpenLink	1	no	StorefrontLib.OpenLink(StorefrontLib.CodeEnumStoreLink.Signature)	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+StorefrontLib	OpenStoreFromBannerLink	1	no	StorefrontLib.OpenStoreFromBannerLink(tCurBanner.nStoreBannerId)	2fcf6aae4d66-Client-Lua-Script-for-WelcomeWindow.lua
+StorefrontLib	PurchaseOffer	3,4,6	no	StorefrontLib.PurchaseOffer(tData.tOfferInfo.nId, tData.tPrice.monPrice, 0)	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	PurchaseVirtualCurrencyPackage	2	no	StorefrontLib.PurchaseVirtualCurrencyPackage(tData.nPackageId, tData.nPrice)	a98c47244377-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	RedirectToAccountSettings	0	no	StorefrontLib.RedirectToAccountSettings()	a98c47244377-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	RedirectToLegalLink	1	no	StorefrontLib.RedirectToLegalLink(wndControl:GetData())	d47aa039ddbd-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	RedirectToSignatureOffer	0	no	StorefrontLib.RedirectToSignatureOffer()	1dac0b002b02-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	RedirectToSteamNCoinPurchase	0	no	StorefrontLib.RedirectToSteamNCoinPurchase()	0a643b25807c-Client-Lua-Script-for-MicroStore.lua
+StorefrontLib	RequestBanners	0	no	StorefrontLib.RequestBanners()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	RequestCatalog	0	no	StorefrontLib.RequestCatalog()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	RequestHistory	0	no	StorefrontLib.RequestHistory()	e14e19bce8c1-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	ShouldShowStoreUiUpdateMessage	0	no	StorefrontLib.ShouldShowStoreUiUpdateMessage()	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	StoreSearched	1	no	StorefrontLib.StoreSearched(self.tWndRefs.wndNavSearchEditBox:GetText())	1cb96d4a496c-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	TopupClosed	0	no	StorefrontLib.TopupClosed()	d47aa039ddbd-Client-Lua-Script-for-Storefront.lua
+StorefrontLib	TopupOpen	0	no	StorefrontLib.TopupOpen()	d47aa039ddbd-Client-Lua-Script-for-Storefront.lua
+Time	SecondsElapsed	1	no	Time.SecondsElapsed(oExpirationTime)	97f9084b286a-Client-Lua-Script-for-MarketplaceListing.lua
+Tooltip	GetBuffTooltipForm	3	yes	Tooltip.GetBuffTooltipForm(self, wndControl, spl)	d852bcf0c4a5-Client-Lua-Script-for-CastBar.lua
+Tooltip	GetHousingBuffTooltipForm	3	yes	Tooltip.GetHousingBuffTooltipForm(self, wndControl, tItemData.splBuff)	2ef1518c91c9-Client-Lua-Script-for-HousingDecorate.lua
+Tooltip	GetItemTooltipForm	4,5	yes	Tooltip.GetItemTooltipForm(self, wndReward, tRewardData.itemReward, {bPrimary = true, bSelling = false, itemCompare = tRewardData.itemReward:GetEquippedItemForI	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+Tooltip	GetSignatureTooltipForm	3	no	Tooltip.GetSignatureTooltipForm(self, self.tWndRefs.wndSplashCirclesAddItem, strUnlockCircles)	03dcdac556ab-Client-Lua-Script-for-SocialPanel.lua
+Tooltip	GetSpellTooltipForm	3,4	yes	Tooltip.GetSpellTooltipForm(self, wndCurr, splSpell)	1eb4d816e9e6-Client-Lua-Script-for-RewardIcons.lua
+TutorialLib	AlignPos	6	no	TutorialLib.AlignPos(wnd, tTutorial[nCurrPage].tutorialPos, nRelX, nRelY, nOffsetX, nOffsetY)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+TutorialLib	GetPos	2	yes	TutorialLib.GetPos(tTutorial[nCurrPage].wndRel, tTutorial[nCurrPage].relPos)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+TutorialLib	PosCompareHoriz	2	no	TutorialLib.PosCompareHoriz(tTutorial[nCurrPage].tutorialPos, tTutorial[nCurrPage].relPos)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+TutorialLib	PosCompareVert	2	no	TutorialLib.PosCompareVert(tTutorial[nCurrPage].tutorialPos, tTutorial[nCurrPage].relPos)	7fcec68eb96d-Client-Lua-Script-for-TutorialPrompts.lua
+Unit	GetVitalTable	0	yes	Unit.GetVitalTable()	950b06eedd13-Client-Lua-Script-for-ToolTips.lua
+Window	is	1	no	Window.is(wndUpdate)	1fdd7b949083-Client-Lua-Script-for-Character.lua
+WindowLocation	new	1	no	WindowLocation.new({ fPoints = { 0.5, 0, 0.5, 0 }, nOffsets = { 0, nTop-50, 0, nTop-50 }})	10670e245441-Client-Lua-Script-for-Protogames.lua
+XmlDoc	CreateFromFile	1	yes	XmlDoc.CreateFromFile("QuestLog.xml")	0016e7561dfb-Client-Lua-Script-for-QuestLog.lua
+XmlDoc	new	0	no	XmlDoc.new()	1b3a033140f9-Client-Lua-Script-for-ChallengeLog.lua

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="WelcomeWindow_DailyLoginBackground_Home" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="0" x1="20" x2="341" x3="362" x4="362" x5="362" y0="0" y1="21" y2="335" y3="357" y4="357" y5="357" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_DailyLoginBackground_Focused" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="370" x1="390" x2="711" x3="732" x4="732" x5="732" y0="0" y1="21" y2="593" y3="613" y4="613" y5="613" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_DailyLoginBackground_Exit" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="587" x1="608" x2="1003" x3="1003" x4="1003" x5="1023" y0="618" y1="639" y2="786" y3="786" y4="786" y5="807" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_DailyLoginItem" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="847" x1="847" x2="847" x3="847" x4="847" x5="950" y0="0" y1="0" y2="0" y3="0" y4="0" y5="105" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_DailyLoginKey" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="739" x1="739" x2="739" x3="739" x4="739" x5="845" y0="0" y1="0" y2="0" y3="0" y4="0" y5="108" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_DailyLoginCheck" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="969" x1="969" x2="969" x3="969" x4="969" x5="1024" y0="0" y1="0" y2="0" y3="0" y4="0" y5="53" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_DailyLoginPlus" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="956" x1="956" x2="956" x3="956" x4="956" x5="1024" y0="59" y1="59" y2="59" y3="59" y4="59" y5="126" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_EventSplitterDivider" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="862" x1="862" x2="862" x3="990" x4="1006" x5="1024" y0="128" y1="128" y2="128" y3="128" y4="128" y5="145" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_ImageCover" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="739" x1="739" x2="739" x3="739" x4="1024" x5="1024" y0="149" y1="149" y2="149" y3="149" y4="305" y5="305" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_ImageCoverFlipped" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="739" x1="739" x2="739" x3="739" x4="1024" x5="1024" y0="149" y1="149" y2="149" y3="149" y4="305" y5="305" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white" FlipX="1"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventSnow" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground.tex" x0="0" x1="0" x2="0" x3="0" x4="513" x5="513" y0="0" y1="0" y2="0" y3="0" y4="303" y5="303" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventWalatiki" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground.tex" x0="520" x1="520" x2="520" x3="520" x4="1024" x5="1024" y0="0" y1="0" y2="0" y3="0" y4="303" y5="303" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventSphere" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground.tex" x0="0" x1="0" x2="0" x3="0" x4="504" x5="504" y0="306" y1="306" y2="306" y3="306" y4="609" y5="609" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventGrassField" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground.tex" x0="520" x1="520" x2="520" x3="520" x4="1024" x5="1024" y0="305" y1="305" y2="305" y3="305" y4="608" y5="608" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventGroup" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground.tex" x0="1" x1="1" x2="1" x3="1" x4="505" x5="505" y0="610" y1="610" y2="610" y3="610" y4="913" y5="913" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventFire" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground.tex" x0="520" x1="520" x2="520" x3="520" x4="1024" x5="1024" y0="610" y1="610" y2="610" y3="610" y4="913" y5="913" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Expedition" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="603" x1="603" x2="603" x3="603" x4="904" x5="904" y0="209" y1="209" y2="209" y3="209" y4="416" y5="416" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Dungeon" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="302" x1="302" x2="302" x3="302" x4="603" x5="603" y0="0" y1="0" y2="0" y3="0" y4="207" y5="207" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Quest" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="0" x1="0" x2="0" x3="0" x4="301" x5="301" y0="418" y1="418" y2="418" y3="418" y4="625" y5="625" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventExplore" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground2.tex" x0="0" x1="0" x2="0" x3="0" x4="513" x5="513" y0="0" y1="0" y2="0" y3="0" y4="303" y5="303" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventBoss" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground2.tex" x0="1" x1="1" x2="1" x3="1" x4="505" x5="505" y0="610" y1="610" y2="610" y3="610" y4="913" y5="913" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventBattle" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground2.tex" x0="0" x1="0" x2="0" x3="0" x4="504" x5="504" y0="306" y1="306" y2="306" y3="306" y4="609" y5="609" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventShip" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground2.tex" x0="520" x1="520" x2="520" x3="520" x4="1024" x5="1024" y0="305" y1="305" y2="305" y3="305" y4="608" y5="608" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_LiveEventHoverboard" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_LiveEventBackground2.tex" x0="520" x1="520" x2="520" x3="520" x4="1024" x5="1024" y0="610" y1="610" y2="610" y3="610" y4="913" y5="913" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Adventure" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="301" x1="301" x2="301" x3="301" x4="602" x5="602" y0="210" y1="210" y2="210" y3="210" y4="417" y5="417" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Battleground" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="602" x1="602" x2="602" x3="602" x4="903" x5="903" y0="1" y1="1" y2="1" y3="1" y4="208" y5="208" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Warplot" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="0" x1="0" x2="0" x3="0" x4="301" x5="301" y0="209" y1="209" y2="209" y3="209" y4="416" y5="416" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="WelcomeWindow_SuggestedContent_Arena" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_SuggestedContentBackground.tex" x0="0" x1="0" x2="0" x3="0" x4="301" x5="301" y0="1" y1="1" y2="1" y3="1" y4="208" y5="208" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <AutoButton Name="WelcomeWindow_EventIndicatorCircle" Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="757" x1="757" x2="757" x3="757" x4="757" x5="787" y0="495" y1="495" y2="495" y3="495" y4="495" y5="526" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="HoloGenericLeft" Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="755" x1="755" x2="755" x3="755" x4="755" x5="800" y0="339" y1="339" y2="339" y3="339" y4="339" y5="403" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="HoloGenericRight" Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="754" x1="754" x2="754" x3="754" x4="754" x5="799" y0="409" y1="409" y2="409" y3="409" y4="409" y5="473" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="HoloGeneric_Lock" Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="751" x1="751" x2="752" x3="787" x4="788" x5="788" y0="535" y1="535" y2="536" y3="587" y4="588" y5="588" Stretchy="1" StateBits="5" Direction="Across"/>
+    <Sprite Name="WelcomeWindow_ExitSummaryBackground" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_BK3_WelcomeWindow.tex" x0="209" x1="232" x2="561" x3="561" x4="561" x5="586" y0="618" y1="639" y2="806" y3="806" y4="806" y5="845" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>

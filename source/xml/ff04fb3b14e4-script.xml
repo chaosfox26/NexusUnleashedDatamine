@@ -1,0 +1,72 @@
+    <!-- Setup Install -->
+    <script id='tpl-setupInstall' type="text/x-handlebars-template">
+        <div id='setupInstall'>
+            <h1>{{header}}</h1>
+            <form>
+                <fieldset>
+                    <!-- Install Directory -->
+                    <div class="field-sect" id="installDirectory">
+                        <input id='installLocation' type='text' value='{{installLocation}}'>
+                        <input id='installBrowse' class="btn btn-grey" type='button' value="{{browse}}">
+                    </div>
+                    
+                    <!-- Display Language Option -->
+                    <!--<div class='field-sect radio' id='displayLang'>
+                        <h3>{{displayLangOpt}}</h3>
+                        {{#each dispLang}}
+                            <label class="option-label">
+                                <input class='choice' type='radio' name='displayLang' value='{{this.langCode}}'>
+                                <span>{{this.lang}}</span>
+                            </label>
+                        {{/each}}
+                    </div>-->
+
+                    <!-- Install Language Option -->
+                    <div class='field-sect checkbox' id='installLang'>
+                        <h3>{{installLangOpt}}</h3>
+                        {{#each installLang}}
+                            <label class="option-label">
+                                <input class='choice' type='checkbox' name='{{this.langCode}}InstallLang' value='{{this.langCode}}'>
+                                <span>{{this.lang}}</span>
+                            </label>
+                        {{/each}}
+                    </div>
+
+                    <!-- Install Region Option -->
+                    <div class='field-sect radio' id='installRegion'>
+                        <h3>{{installRegionOpt}}</h3>
+                        {{#each installRegion}}
+                            <label class="option-label">
+                                <input class='choice' type='radio' name='installRegion' value='{{this.gameRegionId}}'>
+                                <span>{{this.gameRegionName}}</span>
+                            </label>
+                        {{/each}}
+                    </div>
+
+                    <!-- Shortcut Option -->
+                    <div class='field-sect checkbox' id='shortcut'>
+                        <h3>{{shortcutOpt}}</h3>
+                        <label class="option-label">
+                            <input class='choice' type='checkbox' name='shortcutOpt' value='desktop'>
+                            <span>{{desktopShort}}</span>
+                        </label>
+                        <label class="option-label">
+                            <input class='choice' type='checkbox' name='shortcutOpt' value='startMenu'>
+                            <span>{{menuShort}}</span>
+                        </label>
+                    </div>
+
+                </fieldset>
+
+
+                <!-- Back and Install Button -->
+                <div class="actions">
+                    {{#each buttons}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <button id='{{this.id}}' class="{{this.class}}" type='button'>{{this.buttonText}}</button>
+                    {{/each}}
+                </div>
+            </form>
+        </div>
+    </script>
+

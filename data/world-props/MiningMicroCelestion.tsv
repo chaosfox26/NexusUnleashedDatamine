@@ -1,0 +1,7 @@
+# Static object placements for MiningMicroCelestion, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/MiningMicroCelestion/miningmicrocelestion.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	4.3669	-1195.7617	-224.3368	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroCelestion/miningmicrocelestion.3f40.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	4.3669	-1195.7617	-224.3368	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroCelestion/miningmicrocelestion.403f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	4.3669	-1195.7617	-224.3368	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroCelestion/miningmicrocelestion.4040.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	4.3669	-1195.7617	-224.3368	0.000000	0.000000	0.000000	1.000000

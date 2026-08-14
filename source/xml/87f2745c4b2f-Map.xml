@@ -1,0 +1,9 @@
+<Map>
+    <OceanWaterTypeId>1</OceanWaterTypeId>
+    <ShoreWaveLayerId ID0="93" ID1="94" ID2="95" ID3="96"/>
+    <ShoreAngleScale>25.00</ShoreAngleScale>
+    <MaxShoreWaveDepth>0.50</MaxShoreWaveDepth>
+    <OceanShoreWaveLayer>0</OceanShoreWaveLayer>
+	<TerrainPresetId ID0="62" ID1="63"/>
+	<IceLayerPresetId>63</IceLayerPresetId>
+</Map>

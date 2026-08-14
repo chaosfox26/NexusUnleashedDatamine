@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="TexturePicker" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="TexturePicker" position.height="538" position.relative="0" position.width="800" position.x="400" position.y="254" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetThumbnail_Image[]" target="Array" targetname="SetThumbnail_Image" />
+    <input-redirect source="SetThumbnail_Info" target="textureinfo" targetname="SetText" />
+    <input-redirect source="SetThumbnail_Rows" target="Array" targetname="SetRows" />
+    <control class="Array" child.cols="2147483647" child.form="UI\_OLD\Genesis\TexturePickerElement.form" child.height="0" child.rows="2147483647" child.width="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Array" position.height="456" position.relative="0" position.width="523" position.x="8" position.y="28" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="Array" visible="1">
+        <array-redirect source="OnThumbnail_Select" target="TexturePicker" targetname="OnThumbnail_Select[]" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Okay" position.height="28" position.relative="0" position.width="78" position.x="616" position.y="502" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Okay" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="TexturePicker" targetname="OnOkay" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Cancel" position.height="28" position.relative="0" position.width="78" position.x="709" position.y="502" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Cancel" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="TexturePicker" targetname="OnCancel" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Keywords" position.height="24" position.relative="0" position.width="426" position.x="74" position.y="506" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="TexturePicker" targetname="OnKeyword_Change" />
+        <output-redirect source="OnEditBoxChange" target="TexturePicker" targetname="OnKeyword_Change" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="25" position.relative="0" position.width="58" position.x="12" position.y="505" Text="Keywords:" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="textureinfo" position.height="425" position.relative="0" position.width="235" position.x="548" position.y="33" Text="--- information about the active texture goes here ---" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="refresh" position.height="25" position.relative="0" position.width="73" position.x="510" position.y="505" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Refresh" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="TexturePicker" targetname="OnRefresh" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="StandardButton2" position.height="3" position.relative="0" position.width="1" position.x="71" position.y="522" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+</frame>

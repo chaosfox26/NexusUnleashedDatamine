@@ -1,0 +1,7 @@
+# Static object placements for MiningMicroAlgoroc, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/MiningMicroAlgoroc/miningmicroalgoroc.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	-1.3875	-1161.5673	-206.7203	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroAlgoroc/miningmicroalgoroc.3f40.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	-1.3875	-1161.5673	-206.7203	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroAlgoroc/miningmicroalgoroc.403f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	-1.3875	-1161.5673	-206.7203	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroAlgoroc/miningmicroalgoroc.4040.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	-1.3875	-1161.5673	-206.7203	0.000000	0.000000	0.000000	1.000000

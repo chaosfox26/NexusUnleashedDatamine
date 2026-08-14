@@ -1,0 +1,40 @@
+
+
+	<script id='tpl-uninstall' type="text/x-handlebars-template">
+	    <div id='uninstall'>
+	    	<h1 id='uninstallTitle'>{{uninstallTitle}}</h1>
+	    	<p id='text'>{{uninstallText}}</p>
+	    	<p id='directory'>{{uninstallDir}}</p>
+
+
+	    	<form class='option' id='uninstallOther'>
+	    		<h3>{{uninstallOtherText}}</h3>
+	    		<div class="field-sect checkbox">
+	    			<label class="option-label">
+		    			<!-- Remove Settings -->
+							<input class='choice' type='checkbox' name='uninstallSett'>
+							<span>{{uninstallSettText}}</span>
+						</label>
+	    		</div>
+	    		<div class="field-sect checkbox">
+	    			<label class="option-label">
+		    			<!-- Remove Addons -->
+							<input class='choice' type='checkbox' name='uninstallAddon'>
+							<span>{{uninstallAddonText}}</span>
+						</label>
+	    		</div>
+	    		<div class="field-sect checkbox">
+	    			<label class="option-label">
+		    			<!-- Remove Screenshots & chatlogs -->
+							<input class='choice' type='checkbox' name='uninstallScreen'>
+							<span>{{uninstallScreenText}}</span>
+ 						</label>
+	    		</div>
+	    	</form>
+	    	<div class="actions">
+	    		<button id='startUninstall' class="btn btn-blue" type='button'>{{confirmUninstallButton}}</button>
+	    	</div>
+	    </div>
+	</script>
+
+

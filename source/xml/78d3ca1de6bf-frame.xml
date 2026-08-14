@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="SourceControlPanel" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="SourceControlPanel" position.height="220" position.relative="0" position.width="200" position.x="680" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SourceControl_DisableCheckins[]" target="Array" targetname="DisableCheckins" />
+    <input-redirect source="SourceControl_EnableCheckins[]" target="Array" targetname="EnableCheckins" />
+    <input-redirect source="SourceControl_SetEntryCount" target="Array" targetname="SetRows" />
+    <input-redirect source="SourceControl_SetFilename[]" target="Array" targetname="SetFilename" />
+    <input-redirect source="SourceControl_SetUser[]" target="Array" targetname="SetUser" />
+    <control class="Array" child.cols="2147483647" child.form="UI\_OLD\Genesis\SourceControlPanelEntry.form" child.height="0" child.rows="2147483647" child.width="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Array" position.height="180" position.relative="0" position.width="193" position.x="3" position.y="23" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="Array" visible="1">
+        <array-redirect source="OnCheckin" target="SourceControlPanel" targetname="SourceControl_OnCheckin[]" />
+        <array-redirect source="OnUndoCheckout" target="SourceControlPanel" targetname="SourceControl_OnUndoCheckout[]" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="checkinall" position.height="22" position.relative="0" position.width="90" position.x="5" position.y="192" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Check In All" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="SourceControlPanel" targetname="SourceControl_OnCheckinAll" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="undoallcheckins" position.height="22" position.relative="0" position.width="90" position.x="105" position.y="192" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Undo All" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="SourceControlPanel" targetname="SourceControl_OnUndoAllCheckouts" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="21" position.relative="0" position.width="236" position.x="7" position.y="1" Text="Source Control" TextID="0" TXDName="Text" visible="1" />
+</frame>

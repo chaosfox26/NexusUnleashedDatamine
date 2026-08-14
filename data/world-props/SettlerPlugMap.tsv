@@ -1,0 +1,7 @@
+# Static object placements for SettlerPlugMap, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/SettlerPlugMap/SettlerPlugMap.0001.area	0	Art\Prop\Constructed\Bridge\Defiance\PRP_Bridge_DefianceRollerExtensionConnectorClosed_000.m3	-32020.4824	-1022.5104	-32535.7969	0.000000	0.432871	0.000000	0.901456
+Map/SettlerPlugMap/SettlerPlugMap.0001.area	1	Art\Prop\Constructed\Bridge\Defiance\PRP_Bridge_DefianceRollerExtensionConnectorClosed_000.m3	-32013.4707	-1022.5104	-32530.1758	0.000000	0.432871	0.000000	0.901456
+Map/SettlerPlugMap/SettlerPlugMap.0001.area	2	Art\Prop\Constructed\Platforms\Generic\PRP_Platform_Generic_Pallet_Metal_000.m3	-32016.1699	-1025.2458	-32532.3945	0.000000	0.432871	0.000000	0.901456
+Map/SettlerPlugMap/SettlerPlugMap.0001.area	3	Art\Prop\Constructed\Sprinkler\Generic\PRP_Sprinkler_Large_001.m3	-32016.9199	-1014.8588	-32533.2227	0.012922	0.243572	0.022480	0.969536

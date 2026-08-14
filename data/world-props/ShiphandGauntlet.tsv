@@ -1,0 +1,20 @@
+# Static object placements for ShiphandGauntlet, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/ShiphandGauntlet/ShiphandGauntlet.3e40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Shuttle_000_STR_Ship_ShipHand_Shuttle_000.dgn	512.5923	0.0000	-526.2710	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.3e41.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Shuttle_000_STR_Ship_ShipHand_Shuttle_000.dgn	512.5923	0.0000	-526.2710	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Shuttle_000_STR_Ship_ShipHand_Shuttle_000.dgn	512.5923	0.0000	-526.2710	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.3f41.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Shuttle_000_STR_Ship_ShipHand_Shuttle_000.dgn	512.5923	0.0000	-526.2710	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413d.area	0	Art\FX\Collision\Collision_Wedge_Equal_000.m3	-1035.0640	2.5455	962.5768	0.000000	-0.013797	0.000000	0.999905
+Map/ShiphandGauntlet/ShiphandGauntlet.413d.area	1	Art\FX\Collision\Collision_Wedge_Equal_000.m3	-1035.0640	8.1393	962.5768	0.000000	-0.013797	0.000000	0.999905
+Map/ShiphandGauntlet/ShiphandGauntlet.413d.area	2	Art\FX\Collision\Collision_Wedge_Equal_000.m3	-1035.0640	13.7211	962.5768	0.000000	-0.013797	0.000000	0.999905
+Map/ShiphandGauntlet/ShiphandGauntlet.413d.area	3	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-1007.0827	0.0000	818.5684	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413e.area	0	Art\Light\LIT_Point_Soft.m3	-1002.9189	0.1833	849.7664	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413e.area	1	Art\Light\LIT_Point_Soft.m3	-1007.3280	1.4983	877.9529	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413e.area	2	Art\Light\LIT_Point_Soft.m3	-1011.2593	0.1885	849.7053	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413e.area	3	Art\Light\LIT_Point_Soft.m3	-1011.1526	0.2376	857.1440	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413e.area	4	Art\Light\LIT_Point_Soft.m3	-1002.9011	0.2084	857.1763	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.413e.area	5	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-1007.0827	0.0000	818.5684	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.423d.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-1007.0827	0.0000	818.5684	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.423e.area	0	Art\Light\LIT_Point_Soft.m3	-946.6706	14.6086	1174.7262	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandGauntlet/ShiphandGauntlet.423e.area	1	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	-1007.0827	0.0000	818.5684	0.000000	0.000000	0.000000	1.000000

@@ -1,0 +1,2998 @@
+<?xml version="1.0" ?>
+<Credits>
+	<Group Name="CARBINE STUDIOS">
+	</Group>
+	<Group Name="Comité exécutif">
+		<Credit Person="Chauncey Gammage" Title="Vice-président directeur, Ressources humaines" />
+		<Credit Person="Richard Zinser" Title="" Title2="Vice-président directeur, Opérations de NC West" />
+		<Credit Person="John Burns" Title="" Title2="" Title3="Vice-présidente directrice, Marque" Title4="Édition studio" />
+	</Group>
+	<Group Name="Direction">
+		<Credit Person="Jon Jelinek" Title="" Title2="" Title3="Directeur de projet" />
+		<Credit Person="Mike Donatelli" Title="" Title2="Directeur de produit" />
+		<Credit Person="Christopher Behrens" Title="Directeur en conception" />
+		<Credit Person="Jeremy Wood" Title="" Title2="" Title3="Directeur technique" />
+		<Credit Person="Chad Moore" Title="" Title2="" Title3="Directeur de création" />
+		<Credit Person="Frank Kitson" Title="" Title2="Directeur artistique" />
+		<Credit Person="Jen Ortiz" Title="" Title2="" Title3="Responsable senior, Gestion produit" />
+	</Group>
+	<Group Name="Assistance complémentaire">
+		<Credit Person="Sean Craig" Title="" />
+		<Credit Person="Jeremy Gaffney" Title="" />
+		<Credit Person="Eric Henze" Title="" />
+		<Credit Person="Charley Lanusse" Title="" />
+		<Credit Person="Matt Mocarski" Title="" />
+	</Group>
+	<Group Name="PRODUCTION">
+		<Credit Person="Jon Jelinek" Title="" Title2="" Title3="Directeur de projet" />
+		<Credit Person="Harvey Burgess" Title="" Title2="Chef de projet senior" />
+		<Credit Person="Jason Schoonover" Title="Chef de projet" />
+		<Credit Person="Peter Sung" Title="" Title2="" Title3="Chef de projet" />
+		<Credit Person="Roger Turrietta" Title="" Title2="Chef de projet" />
+		<Credit Person="Stan Wang" Title="" Title2="" Title3="Chef de projet" />
+		<Credit Person="Eric Smith" Title="" Title2="" Title3="Chef de projet adjoint" />
+		<Credit Person="Sarah Addison" Title="" Title2="Assistante de production" />
+		<Credit Person="Betsy Feng" Title="" Title2="" Title3="Assistante de production" />
+		<Credit Person="Hye Kyong Im" Title="" Title2="Interprète" />
+	</Group>
+	<Group Name="Production complémentaire">
+		<Credit Person="Katy Fairbanks" Title="" />
+		<Credit Person="Stephan Frost" Title="" />
+		<Credit Person="Geoffrey Virtue" Title="" />
+		<Credit Person="Kyle Williams" Title="" />
+	</Group>
+	<Group Name="CONCEPTION ARTISTIQUE">
+		<Credit Person="Frank Kitson" Title="" Title2="Directeur artistique" />
+		<Credit Person="Rutherford Gong" Title="" Title2="Graphiste principal" />
+	</Group>
+	<Group Name="Animation">
+		<Credit Person="Evan Mead" Title="" Title2="" Title3="Animateur senior" />
+		<Credit Person="Matt Parker" Title="" Title2="" Title3="Animateur" />
+	</Group>
+	<Group Name="Conception des personnages">
+		<Credit Person="Roger Eberhart" Title="" Title2="Graphiste personnages en chef" />
+		<Credit Person="Brandon Dix" Title="" Title2="" Title3="Graphiste personnages senior" />
+		<Credit Person="Thomas Sincich" Title="" Title2="Graphiste personnages senior" />
+		<Credit Person="Stan Lee" Title="" Title2="" Title3="Graphiste personnages" />
+		<Credit Person="Eddie Munoz" Title="" Title2="" Title3="Graphiste personnages" />
+		<Credit Person="Steve Strickland" Title="Graphiste personnages" />
+	</Group>
+	<Group Name="Cinématiques">
+		<Credit Person="Jarrod Showers" Title="" Title2="Graphiste cinématiques en chef" />
+		<Credit Person="Michael Cosner" Title="" Title2="Vidéaste cinématiques senior" />
+		<Credit Person="Min Kang" Title="" Title2="" Title3="Animateur senior" />
+		<Credit Person="Sarah Delahanty" Title="" Title2="Graphiste cinématiques" />
+		<Credit Person="Curtis Henry" Title="" Title2="Concepteur cinématiques" />
+		<Credit Person="Woody Gordy" Title="" Title2="" Title3="Concepteur du contenu" />
+	</Group>
+	<Group Name="Conception artistique">
+		<Credit Person="Jeff Merghart" Title="" Title2="Graphiste concepteur en chef" />
+		<Credit Person="Johnson Truong" Title="" Title2="Graphiste concepteur en chef senior" />
+		<Credit Person="David Sladek" Title="" Title2="Graphiste concepteur" />
+	</Group>
+	<Group Name="Conception d&apos;accessoires">
+		<Credit Person="Matt Malley" Title="" Title2="" Title3="Graphiste accessoires en chef" />
+		<Credit Person="Brian McClain" Title="" Title2="Graphiste accessoires senior" />
+		<Credit Person="Paul Poffenbarger" Title="Graphiste accessoires" />
+		<Credit Person="Angelina Ricci" Title="" Title2="Graphiste accessoires" />
+		<Credit Person="Jeff Seaman" Title="" Title2="" Title3="Graphiste accessoires" />
+		<Credit Person="Stuart Post" Title="" Title2="" Title3="Graphiste accessoires adjoint" />
+	</Group>
+	<Group Name="Effets spéciaux">
+		<Credit Person="William Kier" Title="" Title2="Infographiste effets spéciaux senior" />
+	</Group>
+	<Group Name="Art technique">
+		<Credit Person="Mark Hanny" Title="" Title2="" Title3="Graphiste technicien senior" />
+		<Credit Person="Chris Luckenbach" Title="Graphiste technicien senior" />
+		<Credit Person="Stephen Miranda" Title="" Title2="Graphiste technicien" />
+	</Group>
+	<Group Name="Conception du monde">
+		<Credit Person="Chris Arnold" Title="" Title2="Graphiste d&apos;environnement en chef" />
+		<Credit Person="Dan Eibling" Title="" Title2="" Title3="Graphiste d&apos;environnement senior" />
+		<Credit Person="Thang Tang" Title="" Title2="" Title3="Graphiste senior" />
+		<Credit Person="Kristy Moret" Title="" Title2="Graphiste concepteur du monde" />
+		<Credit Person="Justin Zawislak" Title="" Title2="Graphiste concepteur du monde" />
+	</Group>
+	<Group Name="Conception artistique complémentaire">
+		<Credit Person="Michael Audije" Title="" />
+		<Credit Person="Tony Bowren" Title="" />
+		<Credit Person="Chris Brindzik" Title="" />
+		<Credit Person="Travis Cameron" Title="" />
+		<Credit Person="Anna Castro" Title="" />
+		<Credit Person="Victor Cortis" Title="" />
+		<Credit Person="Matt Coutras" Title="" />
+		<Credit Person="Jonathan Dunsmoor" Title="" />
+		<Credit Person="Chad Elliot" Title="" />
+		<Credit Person="Aleasha Ford" Title="" />
+		<Credit Person="Rob Giampa" Title="" />
+		<Credit Person="Chris Hale" Title="" />
+		<Credit Person="Chris Hanel" Title="" />
+		<Credit Person="Garret Hanna" Title="" />
+		<Credit Person="Mike Higgins" Title="" />
+		<Credit Person="Travis Inman" Title="" />
+		<Credit Person="Seth Kendall" Title="" />
+		<Credit Person="Andrew Klimas" Title="" />
+		<Credit Person="Solomon Lee" Title="" />
+		<Credit Person="Hong Lim" Title="" />
+		<Credit Person="Matt Lind" Title="" />
+		<Credit Person="Jerry Matsko" Title="" />
+		<Credit Person="Brant Moon" Title="" />
+		<Credit Person="Ryan Moore" Title="" />
+		<Credit Person="Long Nguyen" Title="" />
+		<Credit Person="Jordan Pack" Title="" />
+		<Credit Person="Elija Padilla" Title="" />
+		<Credit Person="Nate Rogers" Title="" />
+		<Credit Person="Daniel Stultz" Title="" />
+		<Credit Person="Andrew Trabbold" Title="" />
+		<Credit Person="Jeffrey Tse" Title="" />
+		<Credit Person="Kishore Vijay" Title="" />
+		<Credit Person="Jen Wagner" Title="" />
+		<Credit Person="Drew Whitmore" Title="" />
+		<Credit Person="Stephan Williams" Title="" />
+	</Group>
+	<Group Name="CONCEPTION DE LA NARRATION">
+		<Credit Person="Chad Moore" Title="" Title2="" Title3="Directeur de création" />
+	</Group>
+	<Group Name="Conception de la narration">
+		<Credit Person="Cory J. Herndon" Title="" Title2="Scénariste en chef" />
+		<Credit Person="Gary Astleford" Title="" Title2="Scénariste senior" />
+	</Group>
+	<Group Name="Édition">
+		<Credit Person="Sean Ferguson" Title="" Title2="Éditeur" />
+		<Credit Person="Diandra Lasrado" Title="" Title2="Éditrice" />
+	</Group>
+	<Group Name="Conception de la narration complémentaire">
+		<Credit Person="Chris Blake" Title="" />
+		<Credit Person="David Dunne" Title="" />
+		<Credit Person="Kelly Wand" Title="" />
+	</Group>
+	<Group Name="CONCEPTION">
+		<Credit Person="Christopher Behrens" Title="Directeur en conception" />
+		<Credit Person="Justin Z. Bartlett" Title="Concepteur en chef du contenu" />
+		<Credit Person="Michael Barr" Title="" Title2="Concepteur en chef du contenu" />
+		<Credit Person="Steven Engle" Title="" Title2="Responsable de système de combat" />
+		<Credit Person="Brett Scheinert" Title="" Title2="Concepteur de système multijoueurs en chef" />
+		<Credit Person="Matt Tobiason" Title="" Title2="Concepteur de système en chef" />
+	</Group>
+	<Group Name="Conception du contenu">
+		<Credit Person="Morgan Brown" Title="" Title2="Concepteur de jeu senior" />
+		<Credit Person="Brian Motisko" Title="" Title2="Concepteur de jeu senior" />
+		<Credit Person="Justin Reilly" Title="" Title2="Concepteur de jeu senior" />
+		<Credit Person="Taylor Southerland" Title="Concepteur de jeu senior" />
+		<Credit Person="Kathryn Megan Starks" Title="Conceptrice de jeu senior" />
+		<Credit Person="Constance Griffith" Title="Conceptrice de jeu" />
+		<Credit Person="John Nguyen" Title="" Title2="Concepteur de jeu" />
+		<Credit Person="Jordon Trebas" Title="" Title2="Concepteur de jeu" />
+		<Credit Person="Daniel Underwood" Title="Concepteur de jeu" />
+		<Credit Person="Kim Wood" Title="" Title2="" Title3="Concepteur de jeu" />
+	</Group>
+	<Group Name="Conception technique">
+		<Credit Person="Shawn Choi" Title="" Title2="" Title3="Concepteur de jeu senior" />
+		<Credit Person="Matthew Bloise" Title="" Title2="Concepteur de jeu" />
+	</Group>
+	<Group Name="Systèmes sociaux">
+		<Credit Person="Will Kielar" Title="" Title2="" Title3="Concepteur de jeu senior" />
+	</Group>
+	<Group Name="Systèmes économiques">
+		<Credit Person="Evan Graziano" Title="" Title2="Concepteur de jeu senior" />
+		<Credit Person="Marc Chang" Title="" Title2="" Title3="Concepteur de jeu" />
+		<Credit Person="Eric Hankins" Title="" Title2="Concepteur de jeu" />
+	</Group>
+	<Group Name="Conception des micro-transactions">
+		<Credit Person="Mike McTyre" Title="" Title2="" Title3="Concepteur senior" />
+		<Credit Person="Christopher Davis" Title="Concepteur de jeu" />
+	</Group>
+	<Group Name="Interface d&apos;utilisateur">
+		<Credit Person="Trevor Wernisch" Title="Concepteur de l&apos;expérience utilisateur senior" />
+		<Credit Person="Angela Del Priore" Title="Conceptrice en interface d&apos;utilisateur" />
+		<Credit Person="Oscar Gomez" Title="" Title2="" Title3="Graphiste d&apos;interface d&apos;utilisateur" />
+	</Group>
+	<Group Name="Classes">
+		<Credit Person="Blake Alexander" Title="" Title2="Concepteur de jeu" />
+		<Credit Person="Anthony Tran" Title="" Title2="Concepteur de jeu" />
+		<Credit Person="Brandon Hutt" Title="" Title2="Concepteur de système de combat" />
+	</Group>
+	<Group Name="Combat contre les créatures">
+		<Credit Person="Keaven Freeman" Title="" Title2="Concepteur de système de combat senior" />
+		<Credit Person="Craig Nelson" Title="" Title2="Concepteur de système de combat senior" />
+	</Group>
+	<Group Name="Multijoueurs">
+		<Credit Person="Thomas Cassera" Title="" Title2="Concepteur de jeu senior" />
+		<Credit Person="Kristen DeMeza" Title="" Title2="Conceptrice de jeu senior" />
+		<Credit Person="Heather Conover" Title="" Title2="Conceptrice de jeu" />
+		<Credit Person="Tyler Fuchs" Title="" Title2="" Title3="Concepteur de jeu" />
+		<Credit Person="David Smith" Title="" Title2="Concepteur de jeu" />
+	</Group>
+	<Group Name="Conception complémentaire">
+		<Credit Person="Brian Berke" Title="" />
+		<Credit Person="Steven Bogolub" Title="" />
+		<Credit Person="Clayton Chan" Title="" />
+		<Credit Person="Phillip Chan" Title="" />
+		<Credit Person="Brian Cottle" Title="" />
+		<Credit Person="Victoria Dollbaum" Title="" />
+		<Credit Person="Miguel Duran" Title="" />
+		<Credit Person="Ryan Galbraith" Title="" />
+		<Credit Person="Todd Gorang" Title="" />
+		<Credit Person="Scott Hafner" Title="" />
+		<Credit Person="Tim Hamel" Title="" />
+		<Credit Person="Robert Hess" Title="" />
+		<Credit Person="Nathan Hillen" Title="" />
+		<Credit Person="Tim Lang" Title="" />
+		<Credit Person="Alvin Liu" Title="" />
+		<Credit Person="Christopher Magoun" Title="" />
+		<Credit Person="Primus Majda" Title="" />
+		<Credit Person="Chris Manprin" Title="" />
+		<Credit Person="David Marsh" Title="" />
+		<Credit Person="Jade Martin" Title="" />
+		<Credit Person="Rob Martin" Title="" />
+		<Credit Person="Paul Mattson" Title="" />
+		<Credit Person="Marc Matzenbacher" Title="" />
+		<Credit Person="Corey McKemy" Title="" />
+		<Credit Person="Leah Miller" Title="" />
+		<Credit Person="Jacob Mott" Title="" />
+		<Credit Person="David Nishball" Title="" />
+		<Credit Person="Josh Peery" Title="" />
+		<Credit Person="Matt Pellicane" Title="" />
+		<Credit Person="Rebecca Richards" Title="" />
+		<Credit Person="Nick Roth" Title="" />
+		<Credit Person="Hugh Shelton" Title="" />
+		<Credit Person="Noah Slater" Title="" />
+		<Credit Person="Jeff Tallon" Title="" />
+		<Credit Person="Leah Tallon" Title="" />
+		<Credit Person="Rafael Underwood" Title="" />
+		<Credit Person="Randy Vazquez" Title="" />
+		<Credit Person="Kris Whitney" Title="" />
+		<Credit Person="Dana Young" Title="" />
+	</Group>
+	<Group Name="INGÉNIERIE">
+		<Credit Person="Jeremy Wood" Title="" Title2="" Title3="Directeur technique" />
+	</Group>
+	<Group Name="Outils">
+		<Credit Person="Steven Moret" Title="" Title2="Ingénieur de logiciel en chef" />
+		<Credit Person="Adam Chard" Title="" Title2="" Title3="Ingénieur de logiciel senior" />
+		<Credit Person="Chris Bauer" Title="" Title2="" Title3="Ingénieur de logiciel" />
+		<Credit Person="Eric Hurd" Title="" Title2="" Title3="Ingénieur de logiciel" />
+		<Credit Person="Helen Li" Title="" Title2="" Title3="Ingénieur de logiciel" />
+		<Credit Person="Mason Phillips" Title="" Title2="Ingénieur de logiciel" />
+	</Group>
+	<Group Name="Versions">
+		<Credit Person="Jeff Chung" Title="" Title2="" Title3="Ingénieur des versions en chef" />
+		<Credit Person="Aaron Keech" Title="" Title2="" Title3="Ingénieur de logiciel adjoint" />
+		<Credit Person="Jerek Kimble" Title="" Title2="Ingénieur de logiciel adjoint" />
+	</Group>
+	<Group Name="Interface d&apos;utilisateur">
+		<Credit Person="Doug Koup" Title="" Title2="" Title3="Programmeur en chef" />
+		<Credit Person="Bryan Clark" Title="" Title2="" Title3="Ingénieur de logiciel" />
+		<Credit Person="Tim Lake" Title="" Title2="" Title3="Ingénieur de logiciel adjoint" />
+		<Credit Person="Trevor Miller" Title="" Title2="Ingénieur de logiciel adjoint" />
+		<Credit Person="Jason Swan" Title="" Title2="" Title3="Ingénieur de logiciel adjoint" />
+	</Group>
+	<Group Name="Systèmes de jeu">
+		<Credit Person="Chris Thomas" Title="" Title2="Ingénieur de logiciel en chef" />
+		<Credit Person="Justin Guillory" Title="" Title2="Ingénieur de logiciel senior" />
+		<Credit Person="Ronald Roy" Title="" Title2="" Title3="Ingénieur de logiciel senior" />
+		<Credit Person="Aaron Chard" Title="" Title2="" Title3="Ingénieur de logiciel" />
+		<Credit Person="Jason Justice" Title="" Title2="Ingénieur de logiciel" />
+		<Credit Person="Daniel Waechter" Title="" Title2="Ingénieur de logiciel" />
+	</Group>
+	<Group Name="Réseau">
+		<Credit Person="David Ray" Title="" Title2="" Title3="Ingénieur en chef de la base de données et réseau" />
+		<Credit Person="Steven Lashower" Title="" Title2="Ingénieur de logiciel senior" />
+		<Credit Person="Robert Cherry" Title="" Title2="Ingénieur de logiciel" />
+	</Group>
+	<Group Name="Client">
+		<Credit Person="Jack Lin" Title="Ingénieur de logiciel en chef" />
+		<Credit Person="Tim Truesdale" Title="" Title2="Ingénieur de logiciel principal" />
+		<Credit Person="Otmar Schlunk" Title="" Title2="Ingénieur de logiciel senior" />
+		<Credit Person="Stephen Kim" Title="" Title2="" Title3="Programmeur graphique senior" />
+	</Group>
+	<Group Name="Intelligence artificielle et Sorts">
+		<Credit Person="Jesse Reynolds" Title="" Title2="Ingénieur de logiciel en chef" />
+		<Credit Person="Nathan Baker" Title="" Title2="Ingénieur de logiciel" />
+		<Credit Person="Kevin Wingham" Title="" Title2="Ingénieur de logiciel" />
+		<Credit Person="Jordan Leithart" Title="" Title2="Ingénieur de logiciel adjoint" />
+	</Group>
+	<Group Name="Programmation">
+		<Credit Person="Doug Koup" Title="" Title2="" Title3="Programmeur en chef" />
+		<Credit Person="Fatir Ahmad" Title="" Title2="" Title3="Programmeur" />
+		<Credit Person="Josh Thomas" Title="" Title2="" Title3="Programmeur" />
+	</Group>
+	<Group Name="Programmation complémentaire">
+		<Credit Person="Aaron Brunstetter" Title="" />
+		<Credit Person="Dominick Fosco" Title="" />
+		<Credit Person="Eric Fredericksen" Title="" />
+		<Credit Person="Tim Hume" Title="" />
+		<Credit Person="Loren McQuade" Title="" />
+		<Credit Person="Bruce Shtelmakher" Title="" />
+		<Credit Person="Nathan Smith" Title="" />
+		<Credit Person="David Talley" Title="" />
+		<Credit Person="Jon-David Wiesman" Title="" />
+	</Group>
+	<Group Name="GESTION PRODUIT">
+		<Credit Person="Mike Donatelli" Title="" Title2="Directeur de produit" />
+		<Credit Person="Jen Ortiz" Title="" Title2="" Title3="Responsable senior, Gestion produit" />
+		<Credit Person="Sean Bosshardt" Title="" Title2="Concepteur en chef - Chine" />
+		<Credit Person="Brianna Schneider" Title="Conceptrice en chef - Chine" />
+		<Credit Person="Joseph Piepiora" Title="" Title2="Concepteur en chef" />
+	</Group>
+	<Group Name="AUDIO">
+		<Credit Person="Jeff Kurtenacker" Title="Responsable audio" />
+	</Group>
+	<Group Name="Composition musicale">
+		<Credit Person="Jeff Kurtenacker" Title="Compositeur en chef" Title2="Orchestrateur" Title3="Copiste" Title4="Chef d&apos;orchestre" />
+	</Group>
+	<Group Name="Composition complémentaire">
+		<Credit Person="David Gilbreath" Title="" Title2="Concepteur sonore" />
+	</Group>
+	<Group Name="Conception audio">
+		<Credit Person="Greg Meader" Title="" Title2="" Title3="Concepteur sonore senior" />
+		<Credit Person="David Gilbreath" Title="" Title2="Concepteur sonore" />
+		<Credit Person="Michelle Hebert" Title="" Title2="Spécialiste audio" />
+	</Group>
+	<Group Name="Doublage">
+		<Credit Person="Diandra Lasrado" Title="" Title2="Coordinatrice doublage" />
+	</Group>
+	<Group Name="Audio complémentaire">
+		<Credit Person="Ian Conway" Title="" />
+		<Credit Person="Mike McDonough" Title="" />
+	</Group>
+	<Group Name="Localisation">
+		<Credit Person="Noriko Wada" Title="" Title2="" Title3="Responsable en chef de la localisation" />
+		<Credit Person="Gordon Brown" Title="" Title2="Spécialiste en localisation" />
+		<Credit Person="Simon Rimbert" Title="" Title2="Spécialiste en localisation" />
+		<Credit Person="Gina Lee" Title="" Title2="" Title3="Coordinatrice localisation Chine" />
+	</Group>
+	<Group Name="Éditeurs">
+		<Credit Person="Nadine Leonhardt" Title="Éditrice en localisation - allemand" />
+		<Credit Person="Aurélie Kryvinskyj" Title="Éditrice en localisation - français" />
+	</Group>
+	<Group Name="Localization QA">
+		<Credit Person="Liam O&apos;Connell" Title="" Title2="Testeur en AQ localisation - allemand" />
+		<Credit Person="Alex Santos" Title="" Title2="" Title3="Testeur en AQ localisation - français" />
+		<Credit Person="Benoit Mora" Title="" Title2="" Title3="Testeur en AQ localisation - français" />
+		<Credit Person="Shannon Clouston" Title="Coordinateur en AQ localisation" />
+		<Credit Person="Ismail Abdi Omar" Title="Responsable de test" />
+		<Credit Person="Grégory Alliot" Title="" Title2="Testeur AQL senior" />
+		<Credit Person="Kevin Stoops" Title="" Title2="Testeur AQL senior" />
+		<Credit Person="Roxane Le Borgne" Title="Testeuse AQL senior" />
+		<Credit Person="Anton Günther" Title="" Title2="Testeur AQL" />
+		<Credit Person="Christophe Watine" Title="Testeur AQL" />
+		<Credit Person="Georges Boum" Title="" Title2="Testeur AQL" />
+		<Credit Person="Jean-François Ferland" Title="Testeur AQL" />
+		<Credit Person="Joana Schön" Title="" Title2="" Title3="Testeuse AQL" />
+		<Credit Person="Kim Long Ho Quan" Title="Testeur AQL" />
+		<Credit Person="Momme Griesch" Title="" Title2="Testeur AQL" />
+		<Credit Person="Simon Stiep" Title="" Title2="" Title3="Testeur AQL" />
+	</Group>
+	<Group Name="Localisation complémentaire">
+		<Credit Person="Tiffany Chu" Title="" />
+		<Credit Person="Tobias Röper" Title="" />
+		<Credit Person="Edna Weissflog" Title="" />
+	</Group>
+	<Group Name="ÉDITION">
+		<Credit Person="John Burns" Title="" Title2="" Title3="Vice-président directeur, Services commerciaux" />
+	</Group>
+	<Group Name="Production">
+		<Credit Person="Joshua Horst" Title="" Title2="Responsable de production" />
+		<Credit Person="Bryan Langford" Title="" Title2="Chef de projet senior" />
+		<Credit Person="Tyler Endicott" Title="" Title2="Chef de projet" />
+		<Credit Person="Christopher Shanley" Title="Chef de projet" />
+		<Credit Person="Joslyn Field" Title="" Title2="Chef de projet adjoint" />
+	</Group>
+	<Group Name="Comptabilité &amp; Finance">
+		<Credit Person="Miguel Vazquez" Title="" Title2="Directeur financier" />
+		<Credit Person="David Jo" Title="" Title2="" Title3="Responsable financier" />
+		<Credit Person="Eduardo Velasquez" Title="Analyste financier" />
+	</Group>
+	<Group Name="Commerce">
+		<Credit Person="Jeff Pabst" Title="" Title2="" Title3="Vice-President Commerce" />
+		<Credit Person="Sarah Arnett" Title="" Title2="Directrice de l&apos;Informatique décisionnelle et de l&apos;Analyse" />
+		<Credit Person="Avery Alix" Title="" Title2="" Title3="Directeur, Gestion produit" />
+		<Credit Person="Cynthia McCue" Title="" Title2="Analyste en informatique décisionnelle senior" />
+		<Credit Person="Seok Moon Jang" Title="" Title2="Directeur senior, GPS" />
+		<Credit Person="Joon Sung Yoo" Title="" Title2="Chef de projet technique" />
+		<Credit Person="Eunjung Kim" Title="" Title2="" Title3="Responsable commercial" />
+		<Credit Person="Nicolas Coutant" Title="" Title2="Chef de projet" />
+		<Credit Person="Jason Lieberman" Title="" Title2="Chef de projet" />
+		<Credit Person="Ryan Moroz" Title="" Title2="" Title3="Chef de projet" />
+		<Credit Person="Jonathan Lien" Title="" Title2="Chef de projet adjoint" />
+		<Credit Person="Michael Shreffler" Title="Assistant de production" />
+		<Credit Person="Catherine Varner" Title="Responsable de l&apos;Analyse" />
+		<Credit Person="Zach Boyer" Title="" Title2="" Title3="Analyste de données" />
+		<Credit Person="Taylor Sanders" Title="" Title2="Analyste de données" />
+	</Group>
+	<Group Name="Marketing">
+		<Credit Person="Tim Granich" Title="" Title2="" Title3="Directeur senior, Marketing" />
+		<Credit Person="Sean Corcoran" Title="" Title2="Responsable de marque senior" />
+		<Credit Person="Adam Key" Title="" Title2="" Title3="Responsable de marque senior" />
+		<Credit Person="Charles McCarter" Title="Responsable produit senior" />
+		<Credit Person="Kari Hale" Title="" Title2="" Title3="Responsable de marque" />
+		<Credit Person="Julianne Harty" Title="" Title2="Responsable de marque" />
+		<Credit Person="Samuel Cho" Title="" Title2="" Title3="Responsable adjoint de marque" />
+		<Credit Person="Sean Orlikowski" Title="" Title2="Responsable adjoint de marque" />
+	</Group>
+	<Group Name="Création">
+		<Credit Person="Andre Padilla" Title="" Title2="Responsable en création senior" />
+		<Credit Person="Jessica Burg" Title="" Title2="Conceptrice graphique" />
+		<Credit Person="Michael Cosner" Title="" Title2="Graphiste senior" />
+		<Credit Person="Sarah Delahanty" Title="" Title2="Graphiste cinématiques" />
+		<Credit Person="Dante Fuget" Title="" Title2="" Title3="Illustrateur senior" />
+	</Group>
+	<Group Name="Relations publiques">
+		<Credit Person="Ben Conrad" Title="" Title2="" Title3="Directeur des Relations publiques" />
+		<Credit Person="Stephanie Thoensen" Title="Responsable senior, événements et relations publiques" />
+		<Credit Person="Vincent Slaven" Title="" Title2="Responsable relations publiques" />
+	</Group>
+	<Group Name="Communauté">
+		<Credit Person="Omeed Dariani" Title="" Title2="Directeur de la communauté et des réseaux sociaux" />
+		<Credit Person="Deirdre Hollis" Title="" Title2="Responsable de la communauté" />
+		<Credit Person="Anthony Reyes" Title="" Title2="Responsable de la communauté" />
+		<Credit Person="Linda Tsoi" Title="" Title2="" Title3="Responsable de la communauté" />
+		<Credit Person="Joseph Clanton" Title="" Title2="Responsable des médias sociaux" />
+		<Credit Person="Kayman Callan" Title="" Title2="Modérateur de la communauté" />
+		<Credit Person="Stephanie Morrow" Title="Modératrice de la communauté" />
+	</Group>
+	<Group Name="Développement des sites internet">
+		<Credit Person="Andrew Niculescu" Title="Responsable de site internet" />
+		<Credit Person="Kyoung Won Park" Title="" Title2="Responsable conception de site internet" />
+		<Credit Person="Nicholas Hamer" Title="" Title2="Concepteur de site internet en chef" />
+		<Credit Person="Thomas Brinker" Title="" Title2="Développeur de site internet" />
+		<Credit Person="Jason Chen" Title="" Title2="" Title3="Développeur de site internet" />
+		<Credit Person="Do Lee Jung" Title="" Title2="" Title3="Développeur de site internet" />
+		<Credit Person="Patrick Kim" Title="" Title2="" Title3="Concepteur de site internet" />
+		<Credit Person="Mark-Louie Alcoran" Title="Développeur de site internet, orienté interface utilisateur" />
+	</Group>
+	<Group Name="Plateforme">
+		<Credit Person="Pyung Ki Son" Title="" Title2="Responsable senior" />
+		<Credit Person="Pavithra Gopalakrishnan" Title="Chef de projet technique senior" />
+		<Credit Person="Sung Hoon Jung" Title="" Title2="Responsable de l&apos;Informatique décisionnelle" />
+		<Credit Person="Do-Gyeom Kim" Title="" Title2="Concepteur en chef Outils" Title3="Facturation" />
+		<Credit Person="Ju Ho Lee" Title="" Title2="" Title3="Développeur logiciel senior" />
+		<Credit Person="Jae Choi" Title="" Title2="" Title3="Ingénieur de données" />
+	</Group>
+	<Group Name="Localisation">
+		<Credit Person="Joon-Tae Hwang" Title="" Title2="Responsable localisation" />
+		<Credit Person="Pauline Horcher" Title="" Title2="Rédactrice en création" />
+		<Credit Person="Brett Jaxel" Title="" Title2="" Title3="Rédacteur en création" />
+		<Credit Person="Stephen Karsting" Title="Rédacteur en création" />
+		<Credit Person="Bryan Keithley" Title="" Title2="Rédacteur en création" />
+		<Credit Person="Abigail Manuel" Title="" Title2="Rédactrice en création" />
+		<Credit Person="Tim Meyer" Title="" Title2="" Title3="Rédacteur en création" />
+		<Credit Person="Clay Murphy" Title="" Title2="" Title3="Rédacteur en création" />
+		<Credit Person="Nicholas Stevens" Title="Rédacteur en création" />
+		<Credit Person="Benjamin Wagner" Title="" Title2="Rédacteur en création" />
+		<Credit Person="Kurt Mendoza" Title="" Title2="Coordinateur" />
+		<Credit Person="Jieun Kim" Title="" Title2="" Title3="Interprète" />
+		<Credit Person="Monica Lee" Title="" Title2="" Title3="Éditrice" />
+	</Group>
+	<Group Name="Édition complémentaire">
+		<Credit Person="Aaron Blean" Title="" />
+		<Credit Person="Aaron Cox" Title="" />
+		<Credit Person="Jeremiah Dost" Title="" />
+		<Credit Person="Leanne Huynh" Title="" />
+		<Credit Person="Eugene Jo" Title="" />
+		<Credit Person="Heather Powers" Title="" />
+		<Credit Person="Ji Shin" Title="" />
+		<Credit Person="Russell Stout" Title="" />
+		<Credit Person="Max Whitaker" Title="" />
+	</Group>
+	<Group Name="OPÉRATIONS">
+		<Credit Person="Craig Turner" Title="" Title2="Directeur des opérations" />
+	</Group>
+	<Group Name="Gestion de publication">
+		<Credit Person="John Worrall" Title="" Title2="Responsable, gestion de publication" />
+		<Credit Person="Jon-Enee Merriex" Title="Responsable de publication" />
+		<Credit Person="Derek Hernandez" Title="" Title2="Responsable de publication" />
+	</Group>
+	<Group Name="Technologies de l&apos;information">
+		<Credit Person="Josh Dane" Title="" Title2="" Title3="Responsable des technologies de l&apos;information" />
+		<Credit Person="Chris Gray" Title="" Title2="" Title3="Spécialiste de systèmes senior" />
+		<Credit Person="Alex Wilcox" Title="" Title2="Spécialiste de systèmes de bureau senior" />
+	</Group>
+	<Group Name="Service client">
+		<Credit Person="Cesar Gatica Trujillo" Title="Responsable de l&apos;assistance en jeu" />
+		<Credit Person="Nick Smith" Title="" Title2="" Title3="Superviseur de l&apos;assistance en jeu" />
+		<Credit Person="Mario Fernandez Jr" Title="Responsable d&apos;équipe service client" />
+		<Credit Person="Andrew Herring" Title="" Title2="Responsable d&apos;équipe service client" />
+		<Credit Person="Justin Simmons" Title="" Title2="Maître de jeu senior" />
+		<Credit Person="Anthony Gutierrez" Title="Maître de jeu" />
+		<Credit Person="Travis Howsman" Title="" Title2="Maître de jeu" />
+		<Credit Person="Enrique Sepulveda" Title="Maître de jeu" />
+	</Group>
+	<Group Name="Assurance qualité">
+		<Credit Person="Kori Rowe" Title="" Title2="" Title3="Directeur AQ" />
+		<Credit Person="Brandon Rush" Title="" Title2="Responsable AQ" />
+		<Credit Person="Ryan Quintana" Title="" Title2="Responsable AQ" />
+		<Credit Person="Jamison Chew" Title="" Title2="Responsable de projet AQ" />
+		<Credit Person="Brian M. Escobedo" Title="Responsable de projet AQ" />
+		<Credit Person="Warren Holdsworth" Title="Responsable de projet AQ" />
+		<Credit Person="Brandon Merrill" Title="" Title2="Responsable de projet AQ" />
+		<Credit Person="Sarah Conway" Title="" Title2="Testeuse AQ senior" />
+		<Credit Person="Jason Couture" Title="" Title2="Testeur AQ senior" />
+		<Credit Person="Daniel Fehskens" Title="" Title2="Testeur AQ senior" />
+		<Credit Person="Albert Millspaugh" Title="Testeur AQ senior" />
+		<Credit Person="Thomas Teshima" Title="" Title2="Testeur AQ senior" />
+		<Credit Person="Eric Baskin" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Luke Browne" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Rebecca Carmine" Title="" Title2="Testeuse" />
+		<Credit Person="Tim Chau" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Walter DinglasanTuanqui" Title="Testeur" />
+		<Credit Person="Robert Flusk" Title="" Title2="Testeur" />
+		<Credit Person="Andrew Hernando" Title="" Title2="Testeur" />
+		<Credit Person="Kevin Ho" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Dae Kang" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Genevieve Kimble" Title="Testeuse" />
+		<Credit Person="Jason Prey" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Cory Refshauge-Jones" Title="Testeur" />
+		<Credit Person="Marlo Tayag" Title="" Title2="" Title3="Testeur" />
+	</Group>
+	<Group Name="Assistance complémentaire en opérations">
+		<Credit Person="Nicole Abrego" Title="" />
+		<Credit Person="Jeff Angus" Title="" />
+		<Credit Person="Tina Bourdelais" Title="" />
+		<Credit Person="Mitch Burton" Title="" />
+		<Credit Person="Jeff Daily" Title="" />
+		<Credit Person="Michelle Halevi" Title="" />
+		<Credit Person="Joshua Justice" Title="" />
+		<Credit Person="Tim Johnson" Title="" />
+		<Credit Person="Christopher Kelly" Title="" />
+		<Credit Person="David Kotz" Title="" />
+		<Credit Person="Jaeyong Lee" Title="" />
+		<Credit Person="Kristina Samaritano" Title="" />
+		<Credit Person="Max VanDuyne" Title="" />
+		<Credit Person="Catherine Varner" Title="" />
+	</Group>
+	<Group Name="ADMINISTRATION">
+	</Group>
+	<Group Name="Ressources humaines">
+		<Credit Person="Chauncey Gammage" Title="Vice-président directeur, Ressources humaines" />
+		<Credit Person="Amy Briones" Title="" Title2="" Title3="Responsable des ressources humaines senior" />
+		<Credit Person="Lisa Schoner" Title="" Title2="Représentante des ressources humaines" />
+	</Group>
+	<Group Name="Administration">
+		<Credit Person="Jeremy Lybrook" Title="" Title2="Secrétaire administratif" />
+	</Group>
+	<Group Name="Recrutement">
+		<Credit Person="Christine Ninh" Title="" Title2="Coordinatrice du recrutement" />
+		<Credit Person="Marta Willner" Title="" Title2="Recruteuse" />
+	</Group>
+	<Group Name="NCSOFT - Seattle">
+		<Credit Person="Dong-il Kim" Title="" Title2="" Title3="Directeur financier" />
+		<Credit Person="Irina Leversee" Title="" Title2="Contrôleuse" />
+		<Credit Person="Janet Lin" Title="" Title2="" Title3="Conseillère générale" />
+		<Credit Person="Trang Hoang" Title="" Title2="" Title3="Directrice des ressources humaines" />
+		<Credit Person="Jenni Gant" Title="" Title2="" Title3="Responsable senior, Plateforme NCW et Gestion de projet VS" />
+		<Credit Person="Sungho Byun" Title="" Title2="" Title3="Responsable taxes" />
+		<Credit Person="Patricia Mendoza" Title="Spécialiste des comptes fournisseurs senior" />
+		<Credit Person="Kandice Downey" Title="" Title2="Spécialiste des comptes fournisseurs" />
+		<Credit Person="Muthulaksmi Ramanathan" Title="Comptable senior" />
+		<Credit Person="Ala Sagdai" Title="" Title2="" Title3="Comptable senior" />
+		<Credit Person="Raymond Pope" Title="" Title2="Comptable paie" />
+		<Credit Person="Sharon Cunningham" Title="Responsable ressources humaines senior" />
+		<Credit Person="Jeannette Kent" Title="" Title2="Gestionnaire de paie senior" />
+		<Credit Person="Kristie LaMar" Title="" Title2="Gestionnaire de paie" Title3="Ressources humaines" />
+		<Credit Person="Karen Elizabeth Love" Title="Assistante conseillère générale" />
+	</Group>
+	<Group Name="NCSOFT - AUSTIN">
+		<Credit Person="Richard Zinser" Title="" Title2="Vice-président directeur, Opérations et Technologie" />
+	</Group>
+	<Group Name="Infrastructure et opérations réseau">
+		<Credit Person="Greg Bartlett" Title="" Title2="Directeur senior, Opérations réseau" />
+		<Credit Person="John Bishop" Title="Responsable COR &amp; CAT" />
+		<Credit Person="Jason Lifsey" Title="" Title2="Responsable de l&apos;ingénierie système et réseau" />
+		<Credit Person="Alaric Weigle" Title="" Title2="Responsable" />
+		<Credit Person="Robert Freund" Title="" Title2="Responsable sécurité" />
+		<Credit Person="Rodney Brissey" Title="" Title2="Ingénieur sécurité senior" />
+		<Credit Person="Charles Jones" Title="" Title2="Ingénieur sécurité senior" />
+		<Credit Person="Warren Lumiel" Title="" Title2="Ingénieur de systèmes senior" />
+		<Credit Person="Kevin Rucker" Title="" Title2="Ingénieur de systèmes senior" />
+		<Credit Person="Casey Schlageter" Title="Ingénieur de systèmes senior" />
+		<Credit Person="Michael Vazquez" Title="" Title2="Ingénieur de systèmes senior" />
+		<Credit Person="Michael Bland" Title="" Title2="Ingénieur réseau" />
+		<Credit Person="James Dowdy" Title="" Title2="" Title3="Ingénieur en automatisation" />
+		<Credit Person="Jeffery Peterson" Title="Ingénieur réseau" />
+		<Credit Person="Aaron Salazar" Title="" Title2="Ingénieur de systèmes" />
+		<Credit Person="Trinh Nguyen" Title="" Title2="Ingénieur de données" />
+		<Credit Person="Richard Contier" Title="" Title2="Architecte de système" />
+		<Credit Person="Bethany Baldwin" Title="" Title2="Analyste en assistance client" />
+		<Credit Person="David Rogers" Title="" Title2="Responsable projet technique" />
+		<Credit Person="James Ash" Title="" Title2="" Title3="Responsable équipe COR" />
+		<Credit Person="Fernando Garcia" Title="" Title2="Responsable équipe COR" />
+		<Credit Person="Robert Cox" Title="" Title2="" Title3="Administrateur COR" />
+		<Credit Person="Nicholas Currier" Title="Administrateur COR" />
+		<Credit Person="Joseph Fender" Title="" Title2="Administrateur COR" />
+		<Credit Person="Cody Norcross" Title="" Title2="Administrateur COR" />
+		<Credit Person="Stephen Tong" Title="" Title2="Administrateur COR" />
+		<Credit Person="Noah Lee" Title="" Title2="" Title3="Superviseur assistance bureau" />
+	</Group>
+	<Group Name="Ressources humaines">
+		<Credit Person="Kathleen Asbury" Title="" Title2="Responsable ressources humaines senior" />
+	</Group>
+	<Group Name="Installations">
+		<Credit Person="Jeff Hillhouse" Title="" Title2="Directeur des installations" />
+	</Group>
+	<Group Name="Opérations live">
+		<Credit Person="Keuntaek Seo" Title="" Title2="Responsable des opérations live" />
+		<Credit Person="Beom Kim" Title="" Title2="" Title3="Administrateur de base de données senior" />
+		<Credit Person="Matthew Thornhill" Title="Administrateur de base de données senior" />
+		<Credit Person="Jun Ho Lee" Title="" Title2="" Title3="Administrateur de systèmes - Windows" />
+		<Credit Person="Mike Lim" Title="" Title2="" Title3="Administrateur de systèmes - Windows" />
+		<Credit Person="Suzanne Ottmers" Title="" Title2="Analyste des opérations" />
+		<Credit Person="Blake Kaufman" Title="" Title2="Administrateur Linux" />
+	</Group>
+	<Group Name="Assistance client">
+		<Credit Person="Richard Silva" Title="" Title2="Responsable senior, Conception produit" />
+		<Credit Person="Sven Hertens" Title="" Title2="Responsable des opérations AC" />
+		<Credit Person="Lawrence Ball" Title="" Title2="Administrateur GRC senior" />
+		<Credit Person="Baptiste Despois" Title="Senior Customer Support Team Lead" />
+		<Credit Person="Matthew Chernicky" Title="Chef d&apos;équipe d&apos;assistance client" />
+		<Credit Person="Lance Schibi" Title="" Title2="Chef d&apos;équipe d&apos;assistance client" />
+		<Credit Person="Steven Short" Title="" Title2="Senior Customer Service Rep" />
+	</Group>
+	<Group Name="Assurance qualité">
+		<Credit Person="Dan Campbell" Title="" Title2="Directeur AQ" />
+		<Credit Person="Brian Giebelhaus" Title="Responsable AQ" />
+		<Credit Person="Allan Israels" Title="" Title2="Responsable AQ" />
+		<Credit Person="Luis Machado" Title="" Title2="Testeur AQ senior" />
+	</Group>
+	<Group Name="NCSOFT - BRIGHTON">
+		<Credit Person="John Davis" Title="" Title2="" Title3="Responsable Europe" />
+		<Credit Person="Stephen Hutchins" Title="Responsable marketing" />
+		<Credit Person="Kevin Taylor" Title="" Title2="Responsable marketing" />
+		<Credit Person="Karin Ramsay" Title="" Title2="Secrétaire administrative" />
+		<Credit Person="Catherine Brace" Title="" Title2="Responsable ressources humaines" />
+		<Credit Person="Simon Cowley" Title="" Title2="Responsable des ventes senior" />
+		<Credit Person="Amanda Douglass" Title="" Title2="Responsable des opérations de vente" />
+		<Credit Person="Rita Al-Shimmeri" Title="Responsable comptabilité" />
+		<Credit Person="Karim Lalani" Title="" Title2="Spécialiste des comptes fournisseurs" />
+		<Credit Person="Christian Vestol" Title="Responsable des relations publiques senior" />
+		<Credit Person="Andy Griffiths" Title="" Title2="Relations publiques" />
+		<Credit Person="Mark Hulmes" Title="" Title2="" Title3="Responsable de la communauté" />
+		<Credit Person="Akli Amichi" Title="" Title2="" Title3="Responsable de la communauté francophone" />
+		<Credit Person="Jan Sterl" Title="" Title2="" Title3="Responsable de la communauté germanophone" />
+		<Credit Person="Aleks Nastovic" Title="" Title2="Éditrice en localisation" />
+	</Group>
+	<Group Name="NCSOFT - SEOUL">
+		<Credit Person="Sewoong Eom" Title="" Title2="" Title3="Chef du  groupe Plateforme &amp; Technologie" />
+		<Credit Person="Jaewon Ryu" Title="" Title2="" Title3="Chef du département Infrastructure des plateformes" />
+		<Credit Person="Wonjun Jang" Title="" Title2="" Title3="Chef d&apos;équipe, Plateforme interface de programmation" />
+		<Credit Person="Minae Kim" Title="" Title2="" Title3="Programmeuse senior, Plateforme interface de programmation" />
+		<Credit Person="Muyul Hong" Title="" Title2="" Title3="Programmeur senior, Plateforme business" />
+		<Credit Person="Jinsung Choi" Title="" Title2="Programmeur, Application plateforme" />
+		<Credit Person="Yooho Kim" Title="" Title2="" Title3="Programmeur, Application plateforme" />
+		<Credit Person="Jinho Park" Title="" Title2="" Title3="Programmeur, Application plateforme" />
+		<Credit Person="Seunghoon Park" Title="" Title2="Chef d&apos;équipe, Application de plateforme" />
+		<Credit Person="Maro Shim" Title="" Title2="" Title3="Directeur technique, Plateforme &amp; Technologie" />
+		<Credit Person="Kyeonghwa Park" Title="" Title2="Chef d&apos;équipe, DF" />
+		<Credit Person="Mieun Kim" Title="" Title2="" Title3="Programmeuse senior, DF" />
+		<Credit Person="Sangwoo Kim" Title="" Title2="" Title3="Programmeur, DF" />
+		<Credit Person="Changjae Lee" Title="" Title2="Programmeur assistant, DF" />
+		<Credit Person="Kiwon Choi" Title="" Title2="" Title3="Programmeur senior, DF" />
+		<Credit Person="Seohyeon Baek" Title="" Title2="Programmeuse, DF" />
+		<Credit Person="Wonhyo Choi" Title="" Title2="" Title3="Programmeur, DF" />
+		<Credit Person="Jaehoon Jeong" Title="" Title2="Chef du département Plateforme de service" />
+		<Credit Person="Jonghoon Lee" Title="" Title2="Chef d&apos;équipe, Conception de plateforme" />
+		<Credit Person="Sanghee Kim" Title="" Title2="" Title3="Conceptrice, Conception de plateforme" />
+		<Credit Person="Chris Sim" Title="" Title2="" Title3="Conceptrice senior, Conception de plateforme" />
+		<Credit Person="Sunha Choo" Title="" Title2="" Title3="Conceptrice, Conception de plateforme" />
+		<Credit Person="Hanna Jung" Title="" Title2="" Title3="Conceptrice, Conception de plateforme" />
+		<Credit Person="Jinsik Woo" Title="" Title2="" Title3="Chef d&apos;équipe, Développement de plateforme de service 2" />
+		<Credit Person="Yeonjin Kim" Title="" Title2="" Title3="Programmeur senior, Développement de plateforme de service 2" />
+		<Credit Person="Jeeyea Shim" Title="" Title2="" Title3="Chef d&apos;équipe, Conception d&apos;interface utilisateur" />
+		<Credit Person="Dalsung Kim" Title="" Title2="" Title3="Concepteur senior, Conception d&apos;interface utilisateur" />
+		<Credit Person="Youngmin Noh" Title="" Title2="Chef du département Plateforme commerciale" />
+		<Credit Person="Boogeun Park" Title="" Title2="Chef d&apos;équipe, Développement commercial" />
+		<Credit Person="Sehyeon Cheon" Title="" Title2="Programmeur, Développement commercial" />
+		<Credit Person="Namkyu Lee" Title="" Title2="" Title3="Programmeur, Développement commercial" />
+		<Credit Person="Taehyun Oh" Title="" Title2="" Title3="Programmeur, Développement commercial" />
+		<Credit Person="Jinwoo Lee" Title="" Title2="" Title3="Chef d&apos;équipe, Développement commercial" />
+		<Credit Person="Changhwan An" Title="" Title2="Programmeur senior, Développement commercial" />
+		<Credit Person="Cholhee Yun" Title="" Title2="" Title3="Programmeuse, Développement commercial" />
+		<Credit Person="Kyunghee Lee" Title="" Title2="Programmeuse assistante, Développement commercial" />
+		<Credit Person="Eunjeong Choi" Title="" Title2="Programmeuse, Développement commercial" />
+		<Credit Person="Euiyoul Im" Title="" Title2="" Title3="Programmeur, Développement commercial" />
+		<Credit Person="Doyoub Lee" Title="" Title2="" Title3="Programmeur, Développement commercial" />
+		<Credit Person="Seungkeun Lim" Title="" Title2="Programmeur senior, Facturation" />
+		<Credit Person="Hyojung Gim" Title="" Title2="" Title3="Programmeur, Facturation" />
+		<Credit Person="Junsung Park" Title="" Title2="Programmeur, Facturation" />
+		<Credit Person="Hyojin Cho" Title="" Title2="" Title3="Programmeuse adjoint, Facturation" />
+		<Credit Person="Heedong Im" Title="" Title2="" Title3="Chef d&apos;équipe, Développement des comptes" />
+		<Credit Person="Shinkyu Kim" Title="" Title2="" Title3="Programmeur senior, Développement des comptes" />
+		<Credit Person="Heungdeok Yoon" Title="" Title2="Chef du département, Gestion des projets de plateforme" />
+		<Credit Person="Jaehyun Kim" Title="" Title2="" Title3="Chef d&apos;équipe, Développement d&apos;IU" />
+		<Credit Person="Jimin Hwang" Title="" Title2="" Title3="Programmeuse senior, Développement d&apos;IU" />
+		<Credit Person="Hyeran Jeong" Title="" Title2="Programmeuse senior, Développement d&apos;IU" />
+		<Credit Person="Junghoon Seo" Title="" Title2="Chef de projet senior, Gestion de projet" />
+		<Credit Person="Dongeun Lee" Title="" Title2="" Title3="Chef de projet, Gestion de projet" />
+		<Credit Person="Pyung Ki Son" Title="" Title2="Responsable senior, Plateforme NCW" />
+		<Credit Person="Dogyeom Kim" Title="" Title2="" Title3="Développeur en chef, Plateformes Facturation" Title4="Outils" />
+		<Credit Person="Juho Lee" Title="" Title2="" Title3="Développeur senior, Plateforme NCW" />
+	</Group>
+	<Group Name="FOURNISSEURS TIERS">
+		<Credit Person="Alpha CRC Ltd." Title="" />
+		<Credit Person="Around the Word" Title="" />
+		<Credit Person="Babel Media Services" Title="" />
+		<Credit Person="Blindlight" Title="" />
+		<Credit Person="Digital Hearts USA Inc." Title="" />
+		<Credit Person="GameOps" Title="" />
+		<Credit Person="Igloo Music" Title="" />
+		<Credit Person="Kory Hubbell" Title="" />
+		<Credit Person="Liquid Development" Title="" />
+		<Credit Person="Loc-3" Title="" />
+		<Credit Person="MoGi" Title="" />
+		<Credit Person="Savant Productions" Title="" />
+	</Group>
+	<Group Name="WILDSTORK">
+		<Credit Person="Gavin Wyatt Behrens" Title="" />
+		<Credit Person="Naia Dix" Title="" />
+		<Credit Person="Beckett Reilly" Title="" />
+		<Credit Person="Parker Lawrence Trebas" Title="" />
+	</Group>
+	<Group Name="Carbine Studios tient également à remercier (sans ordre particulier) :">
+		<Credit Person="Victoria Faith Escobedo" Title="" />
+		<Credit Person="Anissa Wood" Title="" />
+		<Credit Person="Nathan Wood" Title="" />
+		<Credit Person="Biscuit and Gravy" Title="" />
+		<Credit Person="Rita Lasrado" Title="" />
+		<Credit Person="Gabriel Lasrado" Title="" />
+		<Credit Person="Claudia Lasrado Tremaine" Title="" />
+		<Credit Person="Colin (T.C) Tremaine" Title="" />
+		<Credit Person="Susanna Tremaine" Title="" />
+		<Credit Person="Jazz Thompson" Title="" />
+		<Credit Person="Jeanne-Marie Owens" Title="" />
+		<Credit Person="Cory Owens" Title="" />
+		<Credit Person="Amelia Jane owens" Title="" />
+		<Credit Person="Crystal Mills" Title="" />
+		<Credit Person="Brian Mills" Title="" />
+		<Credit Person="Hazel Jane Mills" Title="" />
+		<Credit Person="Brucey Bruce" Title="" />
+		<Credit Person="Charley Kindregan" Title="" />
+		<Credit Person="Genevieve Kimble" Title="" />
+		<Credit Person="Thanks Obama" Title="" />
+		<Credit Person="Gabby Lake" Title="" />
+		<Credit Person="Maximus and Hollimus" Title="" />
+		<Credit Person="Eiko &amp; Minoru Wada" Title="" />
+		<Credit Person="Tiffany Chu" Title="" />
+		<Credit Person="Kaleo &amp; Yenyen Yamabayashi" Title="" />
+		<Credit Person="Phil Gironda" Title="" />
+		<Credit Person="Brian Glazebrook" Title="" />
+		<Credit Person="Eric Kwan" Title="" />
+		<Credit Person="Jillene Watters" Title="" />
+		<Credit Person="Don Berthelette" Title="" />
+		<Credit Person="June LaLonde (1940-2015)" Title="" />
+		<Credit Person="Sharon Bordeaux (1953-2015)" Title="" />
+		<Credit Person="Nike Refshauge and Doug Jones" Title="" />
+		<Credit Person="Sonny at Cha For Tea" Title="" />
+		<Credit Person="UPGROUP" Title="" />
+		<Credit Person="Game Grumps" Title="" />
+		<Credit Person="Tummy The Big Cat" Title="" />
+		<Credit Person="Bayliss, Remo, and Jonesy" Title="" />
+		<Credit Person="Jamie Leithart" Title="" />
+		<Credit Person="Aileen Lin" Title="" />
+		<Credit Person="Marvin Lin" Title="" />
+		<Credit Person="Valerie Lin" Title="" />
+		<Credit Person="Merci à Dieu, à maman et à ma fille Lili pour cette nouvelle aventure…" Title="" />
+		<Credit Person="Kamila, Donovan, Tiernan, and Gavin Behrens" Title="" />
+		<Credit Person="Un grand merci à nos familles et amis pour leur aide à faire de WildStar un succès" Title="" />
+	</Group>
+	<Group Name="CRÉDITS DU JEU AU LANCEMENT :">
+	</Group>
+	<Group Name="CARBINE STUDIOS">
+	</Group>
+	<Group Name="Comité exécutif">
+		<Credit Person="Jeremy Gaffney" Title="" Title2="Président" />
+		<Credit Person="Richard Zinser" Title="" Title2="Vice-président" Title3="Directeur des opérations de NC West" />
+		<Credit Person="Mona Hamilton" Title="" Title2="Vice-présidente marque" Title3="Édition studio" />
+	</Group>
+	<Group Name="Direction">
+		<Credit Person="Jon Jelinek" Title="" Title2="" Title3="Directeur du développement" />
+		<Credit Person="Matthew Mocarski" Title="Directeur de création" />
+		<Credit Person="Mike Donatelli" Title="" Title2="Directeur de produit" />
+		<Credit Person="Sean Craig" Title="" Title2="" Title3="Directeur technique" />
+		<Credit Person="Charley Lanusse" Title="" Title2="Directeur audio" />
+		<Credit Person="Christophe Bahamed" Title="Directeur en marketing interactif" />
+		<Credit Person="Craig Turner" Title="" Title2="Directeur des opérations" />
+	</Group>
+	<Group Name="PRODUCTION">
+		<Credit Person="Jeremy Gaffney" Title="" Title2="Directeur de production" />
+		<Credit Person="Jon Jelinek" Title="" Title2="" Title3="Directeur du développement" />
+		<Credit Person="Tiffany Chu" Title="" Title2="" Title3="Chef de projet" />
+		<Credit Person="Stephan Frost" Title="" Title2="Chef de projet" />
+		<Credit Person="Katy Fairbanks" Title="" Title2="Chef de projet adjointe" />
+		<Credit Person="Jason Schoonover" Title="Chef de projet adjoint" />
+		<Credit Person="Roger Turrietta" Title="" Title2="Chef de projet adjoint" />
+		<Credit Person="Peter Sung" Title="" Title2="" Title3="Assistant de production" />
+		<Credit Person="Carl Grande" Title="" Title2="" Title3="Chef de projet" />
+	</Group>
+	<Group Name="Localisation">
+		<Credit Person="Noriko Wada" Title="" Title2="" Title3="Responsable en chef de la localisation" />
+		<Credit Person="Tiffany Chu" Title="" Title2="" Title3="Chef de projet localisation" />
+	</Group>
+	<Group Name="Assistance complémentaire en localisation">
+		<Credit Person="Michael Barr" Title="" />
+		<Credit Person="Justin Z. Bartlett" Title="" />
+		<Credit Person="Matthew Bloise" Title="" />
+		<Credit Person="Jeff Chung" Title="" />
+		<Credit Person="David Crossley" Title="" />
+		<Credit Person="Kristen DeMeza" Title="" />
+		<Credit Person="Michelle Hebert" Title="" />
+		<Credit Person="Hye Kyong Im" Title="" />
+		<Credit Person="Susan Somyung Lee" Title="" />
+		<Credit Person="Janet Kim Lin" Title="" />
+		<Credit Person="Chad Moore" Title="" />
+		<Credit Person="Steve Moret" Title="" />
+		<Credit Person="Justin Reilly" Title="" />
+		<Credit Person="Brianna Schneider" Title="" />
+		<Credit Person="Jason Schoonover" Title="" />
+		<Credit Person="Nick Smith" Title="" />
+		<Credit Person="Kathryn Megan Starks" Title="" />
+		<Credit Person="Leah Tallon" Title="" />
+		<Credit Person="Amber Turner" Title="" />
+	</Group>
+	<Group Name="Assistance complémentaire en production">
+		<Credit Person="Eric DeMilt" Title="" />
+		<Credit Person="Juliet Nuzzo" Title="" />
+	</Group>
+	<Group Name="CONCEPTION ARTISTIQUE">
+		<Credit Person="Matthew Mocarski" Title="Directeur artistique" />
+	</Group>
+	<Group Name="Animation">
+		<Credit Person="Eric Henze" Title="" Title2="" Title3="Responsable animations" Title4="Fondateur" />
+		<Credit Person="Mike Higgins" Title="" Title2="Animateur senior" />
+		<Credit Person="Chris Hale" Title="" Title2="" Title3="Animateur senior" />
+		<Credit Person="Chris Brindzik" Title="" Title2="Animateur" />
+		<Credit Person="Long Nguyen" Title="" Title2="" Title3="Animateur" />
+		<Credit Person="Jerry Matsko" Title="" Title2="Animateur" />
+		<Credit Person="Matt Parker" Title="" Title2="" Title3="Animateur" />
+	</Group>
+	<Group Name="Animation complémentaire">
+		<Credit Person="Seth Kendall" Title="" />
+		<Credit Person="Chad Eliott" Title="" />
+		<Credit Person="Edgardo Padilla" Title="" />
+	</Group>
+	<Group Name="Conception des personnages">
+		<Credit Person="Roger Eberhart" Title="" Title2="Graphiste personnages en chef" />
+		<Credit Person="Brandon Dix" Title="" Title2="" Title3="Graphiste personnages senior" />
+		<Credit Person="Hong Lim" Title="" Title2="" Title3="Graphiste personnages senior" />
+		<Credit Person="Thomas Sincich" Title="" Title2="Graphiste personnages senior" />
+		<Credit Person="Stan Lee" Title="" Title2="" Title3="Graphiste personnages" />
+		<Credit Person="Kenny McBride" Title="" Title2="Graphiste personnages" />
+		<Credit Person="Eddie Munoz" Title="" Title2="" Title3="Graphiste personnages" />
+	</Group>
+	<Group Name="Conception des personnages complémentaire">
+		<Credit Person="Jordan Ewing" Title="" />
+		<Credit Person="Andrew Klimas" Title="" />
+		<Credit Person="Matt Malley" Title="" />
+		<Credit Person="Brian McClain" Title="" />
+		<Credit Person="Paul Poffenbarger" Title="" />
+		<Credit Person="Angelina Ricci" Title="" />
+		<Credit Person="Jairo Sanchez" Title="" />
+		<Credit Person="Steve Strickland" Title="" />
+		<Credit Person="Stephan Williams" Title="" />
+	</Group>
+	<Group Name="Cinématiques">
+		<Credit Person="Seth Kendall" Title="" Title2="Responsable cinématiques" />
+		<Credit Person="Kishore Vijay" Title="" Title2="Animateur cinématiques senior" />
+		<Credit Person="Michael Cosner" Title="" Title2="Vidéaste cinématiques senior" />
+		<Credit Person="Jarrod Showers" Title="" Title2="Animateur cinématiques" />
+		<Credit Person="Elija Padilla" Title="" Title2="Graphiste cinématiques 3D" />
+		<Credit Person="Chris Hanel" Title="" Title2="" Title3="Concepteur cinématiques" />
+		<Credit Person="Brant Moon" Title="" Title2="" Title3="Capture de mouvements" />
+		<Credit Person="Sarah Delahanty" Title="" Title2="Graphiste cinématiques" />
+		<Credit Person="Curtis Henry" Title="" Title2="Concepteur cinématiques associé" />
+	</Group>
+	<Group Name="Cinématiques complémentaires">
+		<Credit Person="Andrew Klimas" Title="" />
+		<Credit Person="Hong Lim" Title="" />
+		<Credit Person="Matt Malley" Title="" />
+		<Credit Person="Jerry Matsko" Title="" />
+		<Credit Person="Marc Matzenbacher" Title="" />
+		<Credit Person="Max Matzenbacher" Title="" />
+		<Credit Person="Brian McClain" Title="" />
+		<Credit Person="Paul Poffenbarger" Title="" />
+		<Credit Person="Angelina Ricci" Title="" />
+		<Credit Person="Taylor Smith" Title="" />
+		<Credit Person="Steve Strickland" Title="" />
+		<Credit Person="Stephan Williams" Title="" />
+	</Group>
+	<Group Name="Conception artistique">
+		<Credit Person="Jeff Merghart" Title="" Title2="Graphiste concepteur en chef" />
+		<Credit Person="Johnson Truong" Title="" Title2="Graphiste concepteur en chef senior" />
+		<Credit Person="Daniel Stultz" Title="" Title2="Graphiste concepteur" />
+	</Group>
+	<Group Name="Conception artistique complémentaire">
+		<Credit Person="Andy Cotnam" Title="" />
+		<Credit Person="Louis Gonzalez" Title="" />
+		<Credit Person="Kory Hubbell" Title="" />
+		<Credit Person="Mindy Lee" Title="" />
+		<Credit Person="Solomon Lee" Title="" />
+		<Credit Person="Cory Loftis" Title="" />
+	</Group>
+	<Group Name="Illustration">
+		<Credit Person="Garrett Hanna" Title="" Title2="Illustrateur" />
+		<Credit Person="Drew Whitmore" Title="" Title2="Illustrateur" />
+	</Group>
+	<Group Name="Illustration complémentaire">
+		<Credit Person="Andy Cotnam" Title="" />
+		<Credit Person="Cory Loftis" Title="" />
+	</Group>
+	<Group Name="Effets spéciaux">
+		<Credit Person="Solomon Lee" Title="" Title2="" Title3="Infographiste effets spéciaux en chef" Title4="Fondateur" />
+		<Credit Person="Travis Cameron" Title="" Title2="Infographiste effets spéciaux senior" />
+		<Credit Person="Jeffrey Tse" Title="" Title2="" Title3="Infographiste effets spéciaux senior" />
+	</Group>
+	<Group Name="Effets spéciaux complémentaires">
+		<Credit Person="Max Matzenbacher" Title="" />
+		<Credit Person="Nate Rogers" Title="" />
+	</Group>
+	<Group Name="Conception d&apos;environnement">
+		<Credit Person="Jordan Pack" Title="" Title2="" Title3="Graphiste d&apos;environnement en chef" />
+		<Credit Person="Nate Rogers" Title="" Title2="Graphiste d&apos;environnement senior" />
+		<Credit Person="Andrew Trabbold" Title="Graphiste d&apos;environnement senior" />
+		<Credit Person="Taylor Smith" Title="" Title2="Graphiste d&apos;environnement" />
+		<Credit Person="Jen Wagner" Title="" Title2="" Title3="Graphiste d&apos;environnement" />
+	</Group>
+	<Group Name="Conception d&apos;environnement complémentaire">
+		<Credit Person="Matt Malley" Title="" />
+		<Credit Person="Matt Milizia" Title="" />
+		<Credit Person="Justin Wong" Title="" />
+	</Group>
+	<Group Name="Accessoires">
+		<Credit Person="Stephan Williams" Title="Graphiste 3D senior" />
+		<Credit Person="Andrew Klimas" Title="" Title2="Graphiste 3D" />
+		<Credit Person="Matt Malley" Title="" Title2="" Title3="Graphiste 3D" />
+		<Credit Person="Brian McClain" Title="" Title2="Graphiste 3D" />
+		<Credit Person="Paul Poffenbarger" Title="Graphiste 3D" />
+		<Credit Person="Steve Strickland" Title="Graphiste 3D" />
+		<Credit Person="Angelina Ricci" Title="" Title2="Graphiste 3D adjoint" />
+	</Group>
+	<Group Name="Accessoires complémentaires">
+		<Credit Person="Louis Gonzalez" Title="" />
+		<Credit Person="Jon Jelinek" Title="" />
+		<Credit Person="Ryan Metcalf" Title="" />
+		<Credit Person="Jordan Pack" Title="" />
+		<Credit Person="Jairo Sanchez" Title="" />
+		<Credit Person="Jen Wagner" Title="" />
+		<Credit Person="Justin Wong" Title="" />
+	</Group>
+	<Group Name="Structures">
+		<Credit Person="Rutherford Gong" Title="Graphiste de structures en chef" />
+		<Credit Person="Damien Evans" Title="" Title2="Graphiste de structures senior" />
+		<Credit Person="Anna Castro" Title="" Title2="" Title3="Graphiste de structures" />
+		<Credit Person="Victor Cortis" Title="" Title2="Graphiste de structures" />
+		<Credit Person="Dan Eibling" Title="" Title2="" Title3="Graphiste de structures" />
+		<Credit Person="Aleasha Ford" Title="" Title2="Graphiste de structures" />
+		<Credit Person="Rob Giampa" Title="" Title2="" Title3="Graphiste de structures" />
+		<Credit Person="Thang Tang" Title="" Title2="" Title3="Graphiste de structures" />
+	</Group>
+	<Group Name="Structures complémentaires">
+		<Credit Person="Steve Allen" Title="" />
+		<Credit Person="Hannah Brown" Title="" />
+		<Credit Person="Becky Coker" Title="" />
+		<Credit Person="Louis Gonzalez" Title="" />
+		<Credit Person="Derek Kosol" Title="" />
+		<Credit Person="Brent LaDue" Title="" />
+		<Credit Person="Amy Ruhland" Title="" />
+		<Credit Person="Stephan Williams" Title="" />
+	</Group>
+	<Group Name="Art technique">
+		<Credit Person="Tony Bowren" Title="" Title2="Graphiste technicien en chef" />
+		<Credit Person="Matt Lind" Title="" Title2="" Title3="Graphiste technicien senior" />
+		<Credit Person="Chris Luckenbach" Title="Graphiste technicien senior" />
+		<Credit Person="Chad Elliott" Title="" Title2="Graphiste technicien" />
+		<Credit Person="Mark Hanny" Title="" Title2="" Title3="Graphiste technicien" />
+		<Credit Person="Stephen Miranda" Title="" Title2="Graphiste technicien vacataire" />
+	</Group>
+	<Group Name="Art technique complémentaire">
+		<Credit Person="Chris Hale" Title="" />
+		<Credit Person="Seth Kendall" Title="" />
+		<Credit Person="Simon Hallam" Title="" />
+	</Group>
+	<Group Name="Conception du monde">
+		<Credit Person="Chris Arnold" Title="" Title2="Responsable de la conception du monde" />
+		<Credit Person="Ryan Moore" Title="" Title2="" Title3="Graphiste concepteur du monde senior" />
+		<Credit Person="Matt Coutras" Title="" Title2="Graphiste concepteur du monde senior" />
+		<Credit Person="Michael Audije" Title="" Title2="Graphiste concepteur du monde" />
+		<Credit Person="Travis Inman" Title="" Title2="Graphiste concepteur du monde" />
+		<Credit Person="Kristy Moret" Title="" Title2="Graphiste concepteur du monde" />
+		<Credit Person="Thang Tang" Title="" Title2="" Title3="Graphiste concepteur du monde" />
+		<Credit Person="Justin Zawislak" Title="" Title2="Graphiste concepteur du monde" />
+	</Group>
+	<Group Name="Conception du monde complémentaire">
+		<Credit Person="Jonathan Dunsmoor" Title="" />
+		<Credit Person="Jeremy Graves" Title="" />
+		<Credit Person="Michele Henze" Title="" />
+		<Credit Person="Matt Milizia" Title="" />
+	</Group>
+	<Group Name="Réalisation des niveaux">
+		<Credit Person="Jonathan Dunsmoor" Title="Concepteur de niveau senior" />
+	</Group>
+	<Group Name="Réalisation des niveaux complémentaire">
+		<Credit Person="Russell Cartledge" Title="" />
+		<Credit Person="Travis Inman" Title="" />
+		<Credit Person="Ryan Moore" Title="" />
+		<Credit Person="Jason Reynolds" Title="" />
+		<Credit Person="Derek Sunshine" Title="" />
+	</Group>
+	<Group Name="Remerciements du département artistique">
+		<Credit Person="Jose Aello" Title="" />
+		<Credit Person="Todd Harris" Title="" />
+		<Credit Person="Kyle Harrison" Title="" />
+		<Credit Person="Brandon Idol" Title="" />
+		<Credit Person="Aaron Keller" Title="" />
+		<Credit Person="Mark Khalil" Title="" />
+		<Credit Person="Joe Mullenix" Title="" />
+		<Credit Person="Arin Robinson" Title="" />
+	</Group>
+	<Group Name="CONCEPTION DE LA NARRATION">
+	</Group>
+	<Group Name="Conception de la narration">
+		<Credit Person="Chad Moore" Title="" Title2="" Title3="Concepteur de narration en chef" />
+		<Credit Person="Cory J. Herndon" Title="" Title2="Concepteur de narration senior" />
+		<Credit Person="Kelly Wand" Title="" Title2="" Title3="Rédactrice en création" />
+	</Group>
+	<Group Name="Conception de la narration complémentaire">
+		<Credit Person="Gary Astleford" Title="" />
+		<Credit Person="Connie Griffith" Title="" />
+	</Group>
+	<Group Name="Édition">
+		<Credit Person="Chris Blake" Title="Éditeur" />
+		<Credit Person="David Dunne" Title="Éditeur" />
+		<Credit Person="Sean Ferguson" Title="Éditeur" />
+		<Credit Person="Diandra Lasrado" Title="Éditrice" />
+	</Group>
+	<Group Name="Édition complémentaire">
+		<Credit Person="Brian Campbell" Title="" />
+		<Credit Person="Gavin Jurgens-Fyhrie" Title="" />
+	</Group>
+	<Group Name="Remerciements de la conception de la narration">
+		<Credit Person="Michael Backus" Title="" />
+		<Credit Person="Aaron Keller" Title="" />
+		<Credit Person="Paul Neuhaus" Title="" />
+	</Group>
+	<Group Name="CONCEPTION">
+		<Credit Person="Mike Donatelli" Title="" Title2="Directeur en conception" />
+	</Group>
+	<Group Name="Conception du contenu">
+		<Credit Person="Justin Z. Bartlett" Title="Concepteur en chef du contenu" />
+		<Credit Person="Michael Barr" Title="" Title2="Responsable de la conception des zones" />
+		<Credit Person="Steven Bogolub" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Leah Miller" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Dana Young" Title="" Title2="" Title3="Conceptrice du contenu adjointe" />
+		<Credit Person="Kristen DeMeza" Title="" Title2="Responsable de la conception des zones" />
+		<Credit Person="Rebecca Richards" Title="Conceptrice du contenu" />
+		<Credit Person="Kim Wood" Title="" Title2="" Title3="Conceptrice du contenu" />
+		<Credit Person="Corey McKemy" Title="" Title2="Concepteur du contenu adjoint" />
+		<Credit Person="David Smith" Title="" Title2="Concepteur du contenu adjoint" />
+		<Credit Person="Justin Reilly" Title="" Title2="Responsable de la conception des zones" />
+		<Credit Person="Gary Astleford" Title="" Title2="Concepteur du contenu senior" />
+		<Credit Person="Ryan &quot;Galby&quot; Galbraith" Title="Concepteur du contenu" />
+		<Credit Person="Constance Griffith" Title="Conceptrice du contenu" />
+		<Credit Person="David Nishball" Title="" Title2="Concepteur du contenu adjoint" />
+		<Credit Person="Brianna Schneider" Title="Responsable de la conception des zones" />
+		<Credit Person="Heather Conover" Title="Conceptrice du contenu" />
+		<Credit Person="Scott Hafner" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Timothy Hamel" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Kathryn Megan Starks" Title="Responsable de la conception des zones" />
+		<Credit Person="Will Kielar" Title="" Title2="Concepteur du contenu senior" />
+		<Credit Person="Paul Mattson" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Daniel Underwood" Title="Concepteur du contenu" />
+		<Credit Person="Leah Tallon" Title="" Title2="Responsable de la conception des zones" />
+		<Credit Person="Todd Gorang" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Jordon Trebas" Title="" Title2="Concepteur du contenu adjoint" />
+		<Credit Person="Amber Turner" Title="" Title2="Responsable de la conception des zones" />
+		<Credit Person="Brian Berke" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Morgan Brown" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Clayton S. Chan" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="John Nguyen" Title="" Title2="Concepteur du contenu adjoint" />
+	</Group>
+	<Group Name="Vocations">
+		<Credit Person="David H. Marsh" Title="" Title2="Concepteur des vocations en chef" />
+		<Credit Person="Matt Pellicane" Title="" Title2="Concepteur contenu senior" />
+		<Credit Person="Woody Gordy" Title="" Title2="Concepteur du contenu" />
+		<Credit Person="Josh Peery" Title="" Title2="" Title3="Concepteur du contenu" />
+		<Credit Person="Randy Vazquez" Title="" Title2="Concepteur de système" />
+	</Group>
+	<Group Name="Adventures">
+		<Credit Person="Matt Tobiason" Title="" Title2="Concepteur des aventures en chef" />
+		<Credit Person="Taylor Southerland" Title="Concepteur du contenu" />
+		<Credit Person="Fatir Ahmad" Title="" Title2="Concepteur du contenu adjoint" />
+		<Credit Person="Christopher Davis" Title="Concepteur du contenu adjoint" />
+	</Group>
+	<Group Name="Rencontres">
+		<Credit Person="Noah Tool" Title="" Title2="" Title3="Concepteur des rencontres en chef" />
+		<Credit Person="Brian Motisko" Title="" Title2="Concepteur de système senior" />
+		<Credit Person="Kris Whitney" Title="" Title2="Concepteur de système" />
+		<Credit Person="Rafeal Underwood, Jr." Title="Concepteur en contenu" />
+	</Group>
+	<Group Name="Conception du contenu complémentaire">
+		<Credit Person="Fatir Ahmad" Title="" />
+		<Credit Person="Tim Cain" Title="" />
+		<Credit Person="Jeanna Cammarano" Title="" />
+		<Credit Person="Tiffany Chu" Title="" />
+		<Credit Person="Bryan Clark" Title="" />
+		<Credit Person="Brian Cottle" Title="" />
+		<Credit Person="Mike DiRenzo" Title="" />
+		<Credit Person="Chris Hanel" Title="" />
+		<Credit Person="Brian Heins" Title="" />
+		<Credit Person="Michele Henze" Title="" />
+		<Credit Person="Jason Justice" Title="" />
+		<Credit Person="Doug Koup" Title="" />
+		<Credit Person="Robert Land" Title="" />
+		<Credit Person="Chris Lynch" Title="" />
+		<Credit Person="Marc Matzenbacher" Title="" />
+		<Credit Person="Ravish Nair" Title="" />
+		<Credit Person="Jose Perez" Title="" />
+		<Credit Person="Jason Reynolds" Title="" />
+		<Credit Person="George Smith" Title="" />
+		<Credit Person="Nathan Smith" Title="" />
+		<Credit Person="Derek Sunshine" Title="" />
+		<Credit Person="Josh Thomas" Title="" />
+		<Credit Person="Brendan Thorne" Title="" />
+		<Credit Person="Scott Thunelius" Title="" />
+		<Credit Person="Daniel Waechter" Title="" />
+		<Credit Person="Vivian Wong" Title="" />
+		<Credit Person="Araxie Yeretsian" Title="" />
+	</Group>
+	<Group Name="Conception du système">
+		<Credit Person="Christopher Behrens" Title="Concepteur de système en chef" />
+	</Group>
+	<Group Name="Systèmes du contenu">
+		<Credit Person="Nick Roth" Title="" Title2="" Title3="Responsable en conception technique" />
+		<Credit Person="Brandon Hutt" Title="" Title2="Concepteur de système" />
+		<Credit Person="Matthew Bloise" Title="" Title2="Concepteur de système adjoint" />
+		<Credit Person="Shawn Choi" Title="" Title2="" Title3="Concepteur de système adjoint" />
+	</Group>
+	<Group Name="Systèmes sociaux">
+		<Credit Person="Joseph Piepiora" Title="Responsable des systèmes sociaux" />
+		<Credit Person="Brian Cottle" Title="" Title2="Concepteur en système senior" />
+		<Credit Person="Victoria Dollbaum" Title="Conceptrice en système" />
+	</Group>
+	<Group Name="Systèmes économiques">
+		<Credit Person="Joseph Piepiora" Title="Responsable des systèmes économiques" />
+		<Credit Person="Phillip Chan" Title="" Title2="Concepteur de système" />
+		<Credit Person="Jeff Tallon" Title="" Title2="" Title3="Concepteur de système" />
+		<Credit Person="Marc Chang" Title="" Title2="" Title3="Concepteur de système adjoint" />
+		<Credit Person="Chris Magoun" Title="" Title2="Concepteur de système adjoint" />
+	</Group>
+	<Group Name="Interface d&apos;utilisateur">
+		<Credit Person="Jon-David Wiesman" Title="Responsable de l&apos;interface d&apos;utilisateur" />
+		<Credit Person="Miguel Duran" Title="" Title2="Graphiste d&apos;interface d&apos;utilisateur" />
+		<Credit Person="Helen Li" Title="" Title2="" Title3="Ingénieur Houston" />
+		<Credit Person="Trevor Miller" Title="" Title2="Programmeur IU adjoint" />
+		<Credit Person="Jason Swan" Title="" Title2="" Title3="Programmeur IU adjoint" />
+		<Credit Person="Robert T. Martin" Title="Concepteur en interface d&apos;utilisateur senior" />
+		<Credit Person="Alvin Liu" Title="" Title2="" Title3="Concepteur en interface d&apos;utilisateur" />
+		<Credit Person="Trevor Wernisch" Title="Concepteur de l&apos;expérience utilisateur senior" />
+		<Credit Person="Bryan Clark" Title="" Title2="" Title3="Programmeur" />
+		<Credit Person="Josh Thomas" Title="" Title2="" Title3="Programmeur" />
+	</Group>
+	<Group Name="Conception du système complémentaire">
+		<Credit Person="Tiffany Chu" Title="" />
+		<Credit Person="Bryan Clark" Title="" />
+		<Credit Person="Charles Durham" Title="" />
+		<Credit Person="Jeremy Gaffney" Title="" />
+		<Credit Person="Matt Krause" Title="" />
+		<Credit Person="Jon Jelinek" Title="" />
+		<Credit Person="Doug Koup" Title="" />
+		<Credit Person="Primus Majda" Title="" />
+		<Credit Person="Michael Mann" Title="" />
+		<Credit Person="Matt Mocarski" Title="" />
+		<Credit Person="Russ Peterson" Title="" />
+		<Credit Person="Josh Thomas" Title="" />
+		<Credit Person="Jeremy Wood" Title="" />
+		<Credit Person="Andrew Yip" Title="" />
+	</Group>
+	<Group Name="Système de combat">
+		<Credit Person="Chris Lynch" Title="Responsable du système de combat" />
+		<Credit Person="Solomon Lee" Title="" Title2="Designer du concept de système de combat" Title3="Fondateur" />
+	</Group>
+	<Group Name="Classes">
+		<Credit Person="Hugh Shelton" Title="" Title2="Responsable de la conception des classes" />
+		<Credit Person="Steven Engle" Title="" Title2="Concepteur de systèmes senior" />
+		<Credit Person="Jade Martin" Title="" Title2="Concepteur de systèmes" />
+		<Credit Person="Marc Matzenbacher" Title="Concepteur de systèmes" />
+	</Group>
+	<Group Name="Combat contre les créatures">
+		<Credit Person="Sean Bosshardt" Title="" Title2="Responsable de la conception des créatures" />
+		<Credit Person="Robert Hess" Title="" Title2="Concepteur de systèmes senior" />
+		<Credit Person="Keaven Freeman" Title="" Title2="Concepteur de systèmes" />
+		<Credit Person="Craig Nelson" Title="" Title2="Concepteur de systèmes" />
+	</Group>
+	<Group Name="Système de JcJ">
+		<Credit Person="Jen Ortiz" Title="" Title2="" Title3="Responsable de la conception du JcJ" />
+		<Credit Person="Kevin Lee" Title="" Title2="" Title3="Concepteur de systèmes" />
+		<Credit Person="Blake Alexander" Title="Concepteur de systèmes adjoint" />
+		<Credit Person="Jeremy Gaffney" Title="" Title2="Designer du concept des terrains de guerre" />
+	</Group>
+	<Group Name="Donjons">
+		<Credit Person="Brett Scheinert" Title="" Title2="Responsable de la conception des donjons" />
+		<Credit Person="Thomas Cassera" Title="" Title2="Concepteur de systèmes" />
+		<Credit Person="Tim Lang" Title="" Title2="" Title3="Concepteur de systèmes" />
+		<Credit Person="Chris Manprin" Title="" Title2="Concepteur de systèmes" />
+		<Credit Person="Jacob Mott" Title="" Title2="" Title3="Concepteur de systèmes" />
+		<Credit Person="Tyler Fuchs" Title="" Title2="" Title3="Concepteur de systèmes" />
+		<Credit Person="Anthony Tran" Title="" Title2="Concepteur de systèmes" />
+	</Group>
+	<Group Name="Conception des combats complémentaire">
+		<Credit Person="Christopher Behrens" Title="" />
+		<Credit Person="Eric Henze" Title="" />
+		<Credit Person="Aidan Karabaich" Title="" />
+		<Credit Person="Max Matzenbacher" Title="" />
+	</Group>
+	<Group Name="Remerciements de la conception">
+		<Credit Person="Kevin Beardslee" Title="" />
+		<Credit Person="Adam Byrne" Title="" />
+		<Credit Person="Adam Carpenter" Title="" />
+		<Credit Person="Drake Costa" Title="" />
+		<Credit Person="Mitch Ferguson" Title="" />
+		<Credit Person="Gavin Irby" Title="" />
+		<Credit Person="Aidan Karabaich" Title="" />
+		<Credit Person="Andy Kirton" Title="" />
+		<Credit Person="Anna Murchison" Title="" />
+		<Credit Person="Megan Perry" Title="" />
+		<Credit Person="Adam Stevens" Title="" />
+		<Credit Person="Steve Williams" Title="" />
+		<Credit Person="Doug Woolsey" Title="" />
+	</Group>
+	<Group Name="INGÉNIERIE">
+		<Credit Person="Sean Craig" Title="" Title2="" Title3="Directeur technique" />
+	</Group>
+	<Group Name="Client">
+		<Credit Person="Jon-David Wiesman" Title="Ingénieur du client en chef" />
+		<Credit Person="Loren McQuade" Title="" Title2="Ingénieur en graphismes principaux" Title3="Fondateur" />
+		<Credit Person="Otmar Schlunk" Title="" Title2="Ingénieur en graphismes senior" />
+		<Credit Person="Stephen Kim" Title="" Title2="" Title3="Ingénieur en graphismes" />
+		<Credit Person="Helen Li" Title="" Title2="" Title3="Ingénieur du client" />
+		<Credit Person="Jason Swan" Title="" Title2="" Title3="Ingénieur du client" />
+		<Credit Person="Trevor Miller" Title="" Title2="Programmeur IU adjoint" />
+	</Group>
+	<Group Name="Outils">
+		<Credit Person="Steven Moret" Title="" Title2="Ingénieur outils en chef" />
+		<Credit Person="Adam Chard" Title="" Title2="" Title3="Ingénieur outils" />
+		<Credit Person="Jeff Chung" Title="" Title2="" Title3="Responsable versions en chef" />
+		<Credit Person="Mason Phillips" Title="" Title2="Responsable versions" />
+	</Group>
+	<Group Name="Systèmes de jeu">
+		<Credit Person="Aaron Brunstetter" Title="Ingénieur des systèmes de jeu en chef" />
+		<Credit Person="Jeremy Wood" Title="" Title2="" Title3="Ingénieur de logiciel principal" />
+		<Credit Person="Timothy Hume" Title="" Title2="Ingénieur des systèmes de jeu senior" />
+		<Credit Person="Ronald Roy" Title="" Title2="" Title3="Ingénieur des systèmes de jeu senior" />
+		<Credit Person="Bruce Shtelmakher" Title="Ingénieur de logiciel senior" />
+		<Credit Person="Aaron Chard" Title="" Title2="" Title3="Ingénieur des systèmes de jeu" />
+		<Credit Person="Justin Guillory" Title="" Title2="Ingénieur des systèmes de jeu" />
+		<Credit Person="Jason Justice" Title="" Title2="Ingénieur des systèmes de jeu" />
+		<Credit Person="Nathan Smith" Title="" Title2="Ingénieur des systèmes de jeu" />
+		<Credit Person="Daniel Waechter" Title="" Title2="Ingénieur des systèmes de jeu" />
+		<Credit Person="Kevin Wingham" Title="" Title2="Ingénieur des systèmes de jeu" />
+	</Group>
+	<Group Name="Audio">
+		<Credit Person="Dominick Fosco" Title="" Title2="Ingénieur du système audio senior" />
+	</Group>
+	<Group Name="Réseau">
+		<Credit Person="David Ray" Title="" Title2="" Title3="Ingénieur en chef de la base de données et réseau" />
+		<Credit Person="Eric Fredericksen" Title="Ingénieur de réseau senior" />
+		<Credit Person="David Talley" Title="" Title2="Ingénieur de réseau" />
+		<Credit Person="Chris Thomas" Title="" Title2="Ingénieur de réseau" />
+	</Group>
+	<Group Name="Intelligence artificielle">
+		<Credit Person="Jesse Reynolds" Title="" Title2="Ingénieur d&apos;IA senior" />
+	</Group>
+	<Group Name="Programmation">
+		<Credit Person="Doug Koup" Title="" Title2="" Title3="Programmeur en chef" />
+		<Credit Person="Bryan Clark" Title="" Title2="" Title3="Programmeur" />
+		<Credit Person="Josh Thomas" Title="" Title2="" Title3="Programmeur" />
+	</Group>
+	<Group Name="Analyse">
+		<Credit Person="Nathan Hillen" Title="" Title2="Programmeur" Title3="Analyste de données" />
+		<Credit Person="Charles Durham" Title="" Title2="Analyste de données" />
+		<Credit Person="Primus Majda" Title="" Title2="Analyste de données" />
+	</Group>
+	<Group Name="Programmation complémentaire">
+		<Credit Person="Steve Bannister" Title="" />
+		<Credit Person="Tim Cain" Title="" />
+		<Credit Person="Charles Durham" Title="" />
+		<Credit Person="Jay Fong" Title="" />
+		<Credit Person="Jeremy Gaffney" Title="" />
+		<Credit Person="Marc Hernandez" Title="" />
+		<Credit Person="Scott Hartin" Title="" />
+		<Credit Person="Mickey Kawick" Title="" />
+		<Credit Person="Heesang Lee" Title="" />
+		<Credit Person="Jack Lin" Title="" />
+		<Credit Person="Matt Lind" Title="" />
+		<Credit Person="Twain Martin" Title="" />
+		<Credit Person="Doug McDiarmid" Title="" />
+		<Credit Person="Bongryong Shin" Title="" />
+		<Credit Person="Dennis Taylor" Title="" />
+		<Credit Person="Tim Truesdale" Title="" />
+		<Credit Person="Jesse Van Beurden" Title="" />
+		<Credit Person="Zoid" Title="" />
+	</Group>
+	<Group Name="Remerciements de l&apos;ingénierie">
+		<Credit Person="Gabriel Valencia" Title="" />
+		<Credit Person="Jay Wang" Title="" />
+	</Group>
+	<Group Name="AUDIO">
+		<Credit Person="Charley Lanusse" Title="" Title2="Directeur audio" Title3="Producteur musical" />
+	</Group>
+	<Group Name="Composition">
+		<Credit Person="Jeff Kurtenacker" Title="Compositeur en chef" Title2="Orchestrateur" Title3="Copiste" Title4="Chef d&apos;orchestre" />
+	</Group>
+	<Group Name="Composition complémentaire">
+		<Credit Person="David Gilbreath" Title="" />
+		<Credit Person="Charley Lanusse" Title="" />
+	</Group>
+	<Group Name="Conception sonore">
+		<Credit Person="Mike McDonough" Title="" Title2="Concepteur sonore senior" />
+		<Credit Person="Greg Meader" Title="" Title2="" Title3="Concepteur sonore senior" />
+		<Credit Person="David Gilbreath" Title="" Title2="Concepteur sonore" />
+	</Group>
+	<Group Name="Intégration audio">
+		<Credit Person="Michelle Hebert" Title="" Title2="Adjointe en intégration audio" />
+		<Credit Person="Tami Harrison" Title="" Title2="Ingénieur en intégration audio senior vacataire" Title3="Fondatrice" />
+		<Credit Person="Ian Conway" Title="" Title2="" Title3="Ingénieur en intégration audio vacataire" />
+		<Credit Person="Steven Bogolub" Title="" Title2="Adjoint en intégration audio vacataire" />
+		<Credit Person="Jairo Sanchez" Title="" Title2="Adjoint en intégration audio vacataire" />
+	</Group>
+	<Group Name="Assistance audio complémentaire">
+		<Credit Person="Dominick Fosco" Title="" />
+		<Credit Person="Edgardo Padilla" Title="" />
+		<Credit Person="Matt Parker" Title="" />
+	</Group>
+	<Group Name="Conception sonore complémentaire">
+		<Credit Person="Jeff Kurtenacker" Title="" />
+	</Group>
+	<Group Name="Remerciements de l&apos;audio">
+		<Credit Person="Jason Hayes" Title="" />
+	</Group>
+	<Group Name="Voix françaises">
+		<Credit Person="Alexandre Gillet" Title="Arwick Rougelierre" Title2="Bot" />
+		<Credit Person="Antoine Tomé" Title="" Title2="Annonceur" Title3="Falkrin mâle" Title4="Juge Kain" Title5="Murgh" />
+		<Credit Person="Benoît Allemane" Title="" Title2="Draken mâle" Title3="Jariel" />
+		<Credit Person="Bernard Bollet" Title="" Title2="Le Gardien" Title3="Mordesh mâle" />
+		<Credit Person="Bernard Metraux" Title="" Title2="Maître d&apos;esclaves Drokk" Title3="Maître-forgeron Trogun" Title4="Seigneur putrebois Skash" Title5="Vratorg le Cannibale" />
+		<Credit Person="Bertrand Liebert" Title="Arsenax Severus" Title2="Chef Kaskalak" Title3="Le Protocube" />
+		<Credit Person="Brigitte Guedj" Title="" Title2="Laveka" Title3="Mordesh femelle" />
+		<Credit Person="Bruno Magne" Title="" Title2="" Title3="Chamiam Tugga" Title4="Empereur Myrcalus" Title5="Korol" Title6="Mercenaire Arkos" Title7="Vendeur d&apos;aptitudes" />
+		<Credit Person="Bruno Meyere" Title="" Title2="Surveillant Rhadman" />
+		<Credit Person="Caroline Mozzone" Title="Aurin femelle" />
+		<Credit Person="Caroline Pascal" Title="" Title2="Humaine Exilée" Title3="Kit Brinny" />
+		<Credit Person="Cédric Dumond" Title="" Title2="Aurin mâle" Title3="Boulon" Title4="Ikthiens" Title5="Malvolio Portius" />
+		<Credit Person="Céline Duhamel" Title="" Title2="Rayna Languenoire" Title3="Sosie Shallaos" />
+		<Credit Person="Céline Melloul" Title="" Title2="Cassienne" />
+		<Credit Person="Christian Pélissier" Title="Annonceur de la Fosse sanglante" Title2="Hydroflux" />
+		<Credit Person="Claudine Grémy" Title="" Title2="Granok femelle" />
+		<Credit Person="Cyrille Artaux" Title="" Title2="Aurin mâle" Title3="Panneau des primes" Title4="Rustine" />
+		<Credit Person="Cyrille Monge" Title="" Title2="Cassien" Title3="Ouragriffe" Title4="Zarkonis" />
+		<Credit Person="David Kruger" Title="" Title2="Corrigan Doon" Title3="Granok mâle" />
+		<Credit Person="Emmanuel Gradi" Title="" Title2="Mnémésis" />
+		<Credit Person="Emmanuel Rausenberger" Title="Aurin mâle" Title2="Lopp mâle" />
+		<Credit Person="François Jaubert" Title="Granok mâle" Title2="Holocrypte" />
+		<Credit Person="Françoise Escobar" Title="Draken femelle" Title2="Pivot Pheydra" />
+		<Credit Person="Frank Sportis" Title="" Title2="Chua" Title3="Vieux Schnock Exilé" />
+		<Credit Person="Fred Souterelle" Title="" Title2="Brightland le Borgne" Title3="Chaman du sang Akilos" Title4="Draken mâle" Title5="Granok mâle" Title6="Le Patriarche Makaza" />
+		<Credit Person="Frédéric Cerdal" Title="" Title2="Dorian Walker" Title3="Vieille-Racine" />
+		<Credit Person="Gabriel Le Doze" Title="" Title2="L&apos;Entité" />
+		<Credit Person="Gérard Dessalles" Title="Colonel Audax" Title2="Mordechai Rougelune" />
+		<Credit Person="Gérard Surugue" Title="" Title2="Capitaine Thokov" Title3="Chapeau de Squirg" Title4="Pell" Title5="Taxi" />
+		<Credit Person="Gilbert Levy" Title="" Title2="Maraudeur Oghra" Title3="Pell" Title4="Victor Larazin" />
+		<Credit Person="Gilles Morvan" Title="" Title2="Sergent" />
+		<Credit Person="Hélène Bizot" Title="" Title2="Cassienne" Title3="Luminai femelle" />
+		<Credit Person="Ingrid Lefrançois" Title="Kuralak l&apos;Impie" />
+		<Credit Person="Jean-Claude Sachot" Title="Commandant Kriton" />
+		<Credit Person="Jérémy Prévost" Title="" Title2="Francs-bots" Title3="Maraudeur Eeklu" Title4="Ordinateur du vaisseau-arche" Title5="Panneau Protostar" Title6="Phinéas T. Rotostar" />
+		<Credit Person="Jérôme Pauwels" Title="" Title2="Cassien" Title3="Luminai mâle" Title4="Conseiller Vaelen" />
+		<Credit Person="Juliette Degenne" Title="Amirale Aubrizon" Title2="Aviel la Trameuse" Title3="Granok femelle" Title4="Tresayne Toria" />
+		<Credit Person="Laura Blanc" Title="" Title2="" Title3="Draken femelle" Title4="Chasseresse Kezzia" Title5="Mordesh femelle" />
+		<Credit Person="Laura Préjean" Title="" Title2="Drusera" Title3="Humaine Exilée" Title4="Professeur Boutondor" Title5="Yuria" />
+		<Credit Person="Laura Zichy" Title="" Title2="" Title3="Osun femelle" Title4="Sergent Kara" />
+		<Credit Person="Laurence Bréheret" Title="Cassienne" Title2="Mechari femelle" />
+		<Credit Person="Laurence Crouzet" Title="Ékose femelle" Title2="Elyona" Title3="Granok femelle" Title4="Mordesh femelle" />
+		<Credit Person="Luc Boulad" Title="" Title2="" Title3="Basse lignée mâle" Title4="Mondo Zax" />
+		<Credit Person="Magali Rosenzwerg" Title="Basse lignée femelle" Title2="Humaine Exilée" Title3="Lopp femelle" />
+		<Credit Person="Maïk Darah" Title="" Title2="" Title3="Falkrin femelle" Title4="Osun femelle" />
+		<Credit Person="Maité Monceau" Title="" Title2="Luminai femelle" Title3="Pilote du Dominion" Title4="Terriphage Ohmna" />
+		<Credit Person="Malvina Germain" Title="" Title2="Falkrin femelle" Title3="Mechari femelle" />
+		<Credit Person="Marc Bretonnière" Title="Cassien" Title2="Ékose mâle" />
+		<Credit Person="Marc Duquenoy" Title="" Title2="Lysion Sinnatus" Title3="Ventemort" />
+		<Credit Person="Marc Saez" Title="" Title2="" Title3="Exine" Title4="Maître de caravane Braithwait" Title5="Toxultime l&apos;Insidieux" Title6="Vieux schnock du Dominion" />
+		<Credit Person="Marie Chevalot" Title="" Title2="Lopp femelle" Title3="Mechari femelle" />
+		<Credit Person="Marie Diot" Title="" Title2="" Title3="Artémis Zin" Title4="Aurin femelle" />
+		<Credit Person="Marie Nonnenmacher" Title="Aurin femelle" Title2="Belle Walker" />
+		<Credit Person="Marie Zidi" Title="" Title2="" Title3="Avra Darkos" Title4="Draken femelle" Title5="Sororité torine" />
+		<Credit Person="Martial Le Minoux" Title="Chua" Title2="Ish&apos;amel l&apos;ensanglanté" Title3="Lopp mâle" Title4="Mechari mâle" />
+		<Credit Person="Nathalie Bienaimé" Title="Reine Myala Astreclair" />
+		<Credit Person="Nathalie Homs" Title="" Title2="Nuriam" />
+		<Credit Person="Olivier Cordina" Title="" Title2="Falkrin mâle" Title3="Kezrek Porteguerre" Title4="Lamevent l&apos;Invocateur" Title5="Mordesh mâle" Title6="Murgh" />
+		<Credit Person="Pascal Germain" Title="" Title2="Ersoth le Maudisseur" Title3="Krogg" Title4="Toric Antévian" />
+		<Credit Person="Patrice Baudrier" Title="Basse lignée mâle" Title2="Humain Exilé" />
+		<Credit Person="Patrice Melennec" Title="Mégalithe" Title2="Osiric" />
+		<Credit Person="Patrick Béthune" Title="" Title2="Agent Lex" Title3="Avatus" />
+		<Credit Person="Patrick Borg" Title="" Title2="Aethros" Title3="Krogg" Title4="Mechari mâle" />
+		<Credit Person="Paul Borne" Title="" Title2="" Title3="Humain Exilé" Title4="Mechari mâle" Title5="Osun mâle" />
+		<Credit Person="Philippe Catoire" Title="Contrôleur du Maelstrom" Title2="Terax Tisserouille" />
+		<Credit Person="Philippe Dumond" Title="" Title2="Draken mâle" Title3="Ionis le Veilleur" />
+		<Credit Person="Pierre Dourlens" Title="" Title2="Bathior l&apos;Invocateur" Title3="Serrenox" Title4="Visceralus" />
+		<Credit Person="Pierre Tessier" Title="" Title2="Ékose mâle" Title3="Mordesh mâle" />
+		<Credit Person="Pierre-Alain De Garrigues" Title="Chua" Title2="Kévo" Title3="Maraudeur Grund" />
+		<Credit Person="Sébastien Desjours" Title="Angent Vadim" Title2="Pyromagnus" Title3="Xarophet" />
+		<Credit Person="Serge Thiriet" Title="" Title2="Daemon 1.0 &amp; 2.0" Title3="Humain Exilé" Title4="Golgox le Fossoyeur" Title5="Vorion le Corrupteur" />
+		<Credit Person="Sophie Riffont" Title="" Title2="Mère spirituelle Sélène" Title3="Sororité torine" Title4="Vesna Taranoft" />
+		<Credit Person="Stéphane Ronchewski" Title="Francs-bots" Title2="Frère Calidor" Title3="Ikthiens" />
+		<Credit Person="Stéphane Roux" Title="" Title2="Bosun Octog" Title3="Ric Longshanks" />
+		<Credit Person="Sylvain Lemarié" Title="" Title2="Durek Brisepierre" />
+		<Credit Person="Thierry Kazazian" Title="Bot" Title2="Haut chaman" Title3="Luminai mâle" Title4="Nazrek le Progéniteur" />
+		<Credit Person="Tony Joudrier" Title="" Title2="Faidar" />
+		<Credit Person="Véronique Desmadryl" Title="Basse lignée femelle" Title2="Haute Sentinelle Varonia" />
+	</Group>
+	<Group Name="Voix des créatures">
+		<Credit Person="Ben Diskin" Title="" Title2="" Title3="Voix de créature" />
+		<Credit Person="Debra Wilson" Title="" Title2="Voix de créature" />
+		<Credit Person="Eric Lopez" Title="" Title2="" Title3="Voix de créature" />
+		<Credit Person="Fred Tatasciore" Title="" Title2="Voix de créature" />
+		<Credit Person="Jonathan Lipow" Title="" Title2="Voix de créature" />
+		<Credit Person="Jon Olson" Title="" Title2="" Title3="Voix de créature" />
+		<Credit Person="Richard Steven Horvitz" Title="Voix de créature" />
+		<Credit Person="Robin Atkin Downes" Title="Voix de créature" />
+	</Group>
+	<Group Name="ASSURANCE QUALITÉ">
+		<Credit Person="Kori Rowe" Title="" Title2="" Title3="Responsable AQ" />
+		<Credit Person="Brandon Rush" Title="" Title2="Coordinateur des sous-traîtants en AQ" />
+		<Credit Person="Ray Laubach" Title="" Title2="Responsable d&apos;équipe AQ" />
+		<Credit Person="Brian M. Escobedo" Title="Testeur AQ senior" />
+		<Credit Person="C.J. Kelly" Title="" Title2="" Title3="Testeur AQ senior" />
+		<Credit Person="Thomas Teshima" Title="" Title2="Testeur AQ senior" />
+		<Credit Person="Nicole Abrego" Title="" Title2="Testeuse AQ" />
+		<Credit Person="Sarah Addison" Title="" Title2="Testeuse AQ" />
+		<Credit Person="Marco Arellano" Title="" Title2="Testeur AQ" />
+		<Credit Person="Tim Chau" Title="" Title2="" Title3="Testeur AQ" />
+		<Credit Person="Betsy Feng" Title="" Title2="" Title3="Testeuse AQ" />
+		<Credit Person="Andrew Hernando" Title="Testeur AQ" />
+		<Credit Person="Joshua Justice" Title="" Title2="Testeur AQ" />
+		<Credit Person="Cory Refshauge-Jones" Title="Testeur AQ" />
+		<Credit Person="Marlo Tayag" Title="" Title2="Testeur AQ" />
+	</Group>
+	<Group Name="Assistance en AQ complémentaire">
+		<Credit Person="Katelyn Bryant" Title="" />
+		<Credit Person="Shawn Choi" Title="" />
+		<Credit Person="Ian Conway" Title="" />
+		<Credit Person="Sarah Conway" Title="" />
+		<Credit Person="Chad Eliott" Title="" />
+		<Credit Person="David Gilbreath" Title="" />
+		<Credit Person="Michelle Hebert" Title="" />
+		<Credit Person="John Nguyen" Title="" />
+		<Credit Person="Angelina Ricci" Title="" />
+		<Credit Person="Roger Turrietta" Title="" />
+		<Credit Person="Dana Young" Title="" />
+	</Group>
+	<Group Name="ÉDITION">
+		<Credit Person="Richard Zinser" Title="" Title2="Responsable en business et édition" />
+	</Group>
+	<Group Name="Distribution mondiale">
+		<Credit Person="Billy Mayhaw" Title="" Title2="Directeur des ventes" />
+		<Credit Person="Max Whitaker" Title="" Title2="Monétisation et micro-transactions" />
+		<Credit Person="Matt Fronczak" Title="" Title2="Représentant commercial" />
+	</Group>
+	<Group Name="Marque">
+		<Credit Person="Mona Hamilton" Title="" Title2="Vice-présidente de l&apos;édition du studio et de marque" />
+		<Credit Person="Kari Hale" Title="" Title2="" Title3="Responsable adjointe de marque" />
+	</Group>
+	<Group Name="Création">
+		<Credit Person="Max Matzenbacher" Title="Responsable en création" />
+		<Credit Person="Garrett Hanna" Title="" Title2="Illustrateur" />
+		<Credit Person="Drew Whitmore" Title="" Title2="Illustrateur" />
+		<Credit Person="Jason Reynolds" Title="" Title2="Spécialiste en produits marketing" />
+	</Group>
+	<Group Name="Relations publiques">
+		<Credit Person="Michael Shelling" Title="Responsable en relations publiques" />
+		<Credit Person="Vincent Slaven" Title="" Title2="Spécialiste en communication marketing senior" />
+	</Group>
+	<Group Name="Marketing interactif">
+		<Credit Person="Christophe Bahamed" Title="Directeur du marketing interactif" />
+	</Group>
+	<Group Name="Communauté">
+		<Credit Person="David Bass" Title="" Title2="" Title3="Responsable de la communauté" />
+		<Credit Person="Tony Reyes" Title="" Title2="" Title3="Responsable de la communauté" />
+		<Credit Person="Claudia Adams" Title="" Title2="Modératrice de la communauté" />
+		<Credit Person="Kayman Callan" Title="" Title2="Modérateur de la communauté" />
+		<Credit Person="Dierdre Hollis" Title="" Title2="Modératrice de la communauté" />
+		<Credit Person="Stephanie Morrow" Title="Modératrice de la communauté" />
+		<Credit Person="Sean Clanton" Title="" Title2="Responsable des médias sociaux" />
+	</Group>
+	<Group Name="Développement des sites internet">
+		<Credit Person="Kyle Williams" Title="" Title2="Chef de projet de site internet" />
+		<Credit Person="Aaron Cox" Title="" Title2="" Title3="Développeur de site internet senior" />
+		<Credit Person="Nick Hamer" Title="" Title2="" Title3="Concepteur de site internet" />
+		<Credit Person="Patrick Kim" Title="" Title2="" Title3="Concepteur GRC en ligne" />
+	</Group>
+	<Group Name="Création et stratégie de marque complémentaires">
+		<Credit Person="Seth Kendall" Title="" />
+		<Credit Person="Max Matzenbacher" Title="" />
+	</Group>
+	<Group Name="Remerciements de l&apos;édition">
+		<Credit Person="John Burns" Title="" />
+		<Credit Person="Loic Claveau" Title="" />
+		<Credit Person="Michael Geldard" Title="" />
+		<Credit Person="Carolyne Griffin" Title="" />
+		<Credit Person="Troy Hewitt" Title="" />
+		<Credit Person="Bastion" Title="" />
+		<Credit Person="FailSafe" Title="" />
+		<Credit Person="Hill+Knowlton Strategies" Title="" />
+		<Credit Person="Tangible Media" Title="" />
+		<Credit Person="Modus Operandi" Title="" />
+		<Credit Person="Petrol" Title="" />
+		<Credit Person="Target Media" Title="" />
+	</Group>
+	<Group Name="OPÉRATIONS">
+		<Credit Person="Craig Turner" Title="" Title2="Directeur des opérations" />
+	</Group>
+	<Group Name="Technologies de l&apos;information">
+		<Credit Person="Josh Dane" Title="" Title2="" Title3="Responsable des technologies de l&apos;information" />
+		<Credit Person="Chris Gray" Title="" Title2="" Title3="Spécialiste de systèmes de bureau en chef" />
+		<Credit Person="Tyler Giffin" Title="" Title2="Spécialiste de systèmes de bureau" />
+		<Credit Person="Alex Wilcox" Title="" Title2="Spécialiste de systèmes de bureau" />
+	</Group>
+	<Group Name="Service client">
+		<Credit Person="David Crossley" Title="" Title2="Responsable de l&apos;assistance en jeu" />
+		<Credit Person="Nick Smith" Title="" Title2="" Title3="Superviseur de l&apos;assistance en jeu" />
+		<Credit Person="Max VanDuyne" Title="" Title2="Ingénieur en base de connaissance" />
+		<Credit Person="Anthony Marquez" Title="Responsable de l&apos;assistance en facturation et fraude" />
+		<Credit Person="Melissa Ullrich" Title="Responsable de l&apos;assistance des sous-traitants" />
+		<Credit Person="Mario Fernandez Jr" Title="Responsable des relations avec les joueur" />
+		<Credit Person="Adam Slack" Title="" Title2="" Title3="Responsable de la surveillance en jeu" />
+	</Group>
+	<Group Name="Opérations live">
+		<Credit Person="Geoff Virtue" Title="" Title2="Chef de projet live" />
+		<Credit Person="Derek Hernandez" Title="" Title2="Chef de projet live" />
+		<Credit Person="Matthew Meyer" Title="" Title2="Chef de projet live" />
+	</Group>
+	<Group Name="Opérations complémentaires">
+		<Credit Person="Aaron Brunstetter" Title="" />
+		<Credit Person="Eric Fredericksen" Title="" />
+		<Credit Person="David Ray" Title="" />
+		<Credit Person="David Talley" Title="" />
+		<Credit Person="Chris Thomas" Title="" />
+	</Group>
+	<Group Name="ADMINISTRATION">
+	</Group>
+	<Group Name="Ressources humaines">
+		<Credit Person="Chauncey Gammage" Title="Vice-président senior des ressources humaines" />
+		<Credit Person="Amy Briones" Title="" Title2="" Title3="Responsable des ressources humaines senior" />
+		<Credit Person="Lisa Schoner" Title="" Title2="Représentante des ressources humaines" />
+		<Credit Person="Hye Kyong Im" Title="" Title2="Interprète" />
+		<Credit Person="Susan Somyung Lee" Title="Interprète" />
+	</Group>
+	<Group Name="Administration">
+		<Credit Person="Jeremy Lybrook" Title="" Title2="Secrétaire administratif" />
+	</Group>
+	<Group Name="Administration complémentaire">
+		<Credit Person="Lisa Schoner" Title="" />
+	</Group>
+	<Group Name="NCSOFT EUROPE">
+	</Group>
+	<Group Name="Service des ventes">
+		<Credit Person="Sarah Rogers" Title="" Title2="Directrice des ventes et du marketing" />
+		<Credit Person="Mark Heath" Title="" Title2="" Title3="Responsable en Production et légal" />
+		<Credit Person="Simon Cowley" Title="" Title2="Responsable des ventes senior" />
+		<Credit Person="Amanda Douglass" Title="" Title2="Responsable des opérations de vente" />
+		<Credit Person="Thomas Ling" Title="" Title2="" Title3="Responsable commercial" />
+	</Group>
+	<Group Name="Marketing">
+		<Credit Person="John Davis" Title="" Title2="" Title3="Directeur des ventes et du marketing intérimaire" />
+		<Credit Person="Kevin Taylor" Title="" Title2="Responsable en marketing" />
+		<Credit Person="Stephen Hutchins" Title="Responsable de produit" />
+		<Credit Person="Helen Twinam" Title="" Title2="Infographiste et administratrice" />
+	</Group>
+	<Group Name="Relations publiques">
+		<Credit Person="Craig Stephens" Title="" Title2="Responsable des relations publiques senior" />
+		<Credit Person="Christian Vestøl" Title="Responsable des relations publiques senior" />
+	</Group>
+	<Group Name="Communauté">
+		<Credit Person="Mélanie Corolleur" Title="Responsable d&apos;équipe communauté" />
+		<Credit Person="Mark Hulmes" Title="" Title2="" Title3="Responsable de la communauté anglophone" />
+		<Credit Person="Akli Amichi" Title="" Title2="" Title3="Responsable de la communauté francophone" />
+		<Credit Person="Jan Sterl" Title="" Title2="" Title3="Responsable de la communauté germanophone" />
+	</Group>
+	<Group Name="Localisation">
+		<Credit Person="Edna Weissflog" Title="" Title2="Responsable AQ &amp; localisation" />
+		<Credit Person="Aleksandra Nastovic" Title="Spécialiste en AQ linguistique - allemand" />
+		<Credit Person="Foucauld Escaillet" Title="Spécialiste en AQ linguistique - français" />
+		<Credit Person="Ismael Fernández" Title="Spécialiste en AQ linguistique - espagnol" />
+		<Credit Person="Nadine Leonhardt" Title="Éditrice en localisation - allemand" />
+		<Credit Person="Andreas Teubler" Title="" Title2="Éditeur en localisation - allemand" />
+		<Credit Person="Liam O&apos;Connell" Title="" Title2="Testeur en AQ localisation - allemand" />
+		<Credit Person="Aurélie Kryvinskyj" Title="Éditrice en localisation - français" />
+		<Credit Person="Alex Santos" Title="" Title2="Éditeur en localisation - français" />
+		<Credit Person="Benoît Mora" Title="" Title2="" Title3="Testeur en AQ localisation - français" />
+	</Group>
+	<Group Name="Services partagés">
+		<Credit Person="Brian Min" Title="" Title2="" Title3="Directeur financier Europe" />
+		<Credit Person="Barbara Miosga" Title="" Title2="Responsable ressources humaines" />
+		<Credit Person="Karim Lalani" Title="" Title2="Assistant comptable" />
+		<Credit Person="Karin Ramsay" Title="" Title2="Secrétaire administrative" Title3="Assistante relations publiques" />
+	</Group>
+	<Group Name="NCSOFT - AUSTIN">
+		<Credit Person="Richard Zinser" Title="" Title2="Directeur des opérations de NC West" />
+	</Group>
+	<Group Name="Ingénierie plateforme">
+		<Credit Person="Ben Furtado" Title="" Title2="Chef de projet adjoint" />
+		<Credit Person="Alaric Weigle" Title="" Title2="Responsable des versions" />
+		<Credit Person="Charlie Hills" Title="" Title2="Développeur principal" />
+		<Credit Person="Wonjun Jang" Title="" Title2="Responsable senior" />
+		<Credit Person="Tomoko Iwata" Title="" Title2="Développeuse plateforme senior" />
+		<Credit Person="Scott Miguez" Title="" Title2="Développeur plateforme senior" />
+		<Credit Person="Jonathan Shelus" Title="Développeur plateforme" />
+		<Credit Person="John Muniz" Title="" Title2="" Title3="Développeur plateforme" />
+	</Group>
+	<Group Name="Ingénierie complémentaire">
+		<Credit Person="Jason Dunn" Title="" />
+		<Credit Person="Matthew Gramlich" Title="" />
+		<Credit Person="Alex Katrompas" Title="" />
+		<Credit Person="Loren Peace" Title="" />
+	</Group>
+	<Group Name="Développement de site internet">
+		<Credit Person="Andrew Niculescu" Title="Développeur de site internet en chef" />
+		<Credit Person="Russell Stout" Title="" Title2="Développeur de site internet" />
+	</Group>
+	<Group Name="Informatique décisionnelle">
+		<Credit Person="Russell Vanacek" Title="Responsable Informatique décisionnelle" />
+		<Credit Person="Kyle Andreas" Title="" Title2="Ingénieur de données senior" />
+		<Credit Person="Jae Choi" Title="" Title2="" Title3="Ingénieur de données" />
+		<Credit Person="Trinh Nguyen" Title="" Title2="Ingénieur de données" />
+		<Credit Person="John Jones" Title="" Title2="" Title3="Développeur QlikView" />
+	</Group>
+	<Group Name="Conception">
+		<Credit Person="Carlos Tovar" Title="" Title2="Concepteur visuel" />
+		<Credit Person="Suzanne Ottmers" Title="Assistante de projet" />
+	</Group>
+	<Group Name="Infrastructure et opérations réseau">
+		<Credit Person="Greg Bartlett" Title="" Title2="Directeur senior" />
+		<Credit Person="David Seo" Title="" Title2="" Title3="Superviseur LiveOps" />
+		<Credit Person="Peter Chung" Title="" Title2="" Title3="Assistant de projet" Title4="Traducteur d&apos;entreprise" />
+		<Credit Person="John Bishop" Title="" Title2="" Title3="Superviseur COR" />
+		<Credit Person="James Ash" Title="" Title2="" Title3="Responsable équipe COR" />
+		<Credit Person="Robert Cox" Title="" Title2="" Title3="Administrateur COR" />
+		<Credit Person="Nicholas Currier" Title="Administrateur COR" />
+		<Credit Person="Joseph Fender" Title="" Title2="Administrateur COR" />
+		<Credit Person="Fernando Gracia" Title="" Title2="Administrateur COR" />
+		<Credit Person="Stephen Tong" Title="" Title2="Administrateur COR" />
+		<Credit Person="Jeff Angus" Title="" Title2="" Title3="Administrateur du système de jeu" />
+		<Credit Person="Junho Lee" Title="" Title2="" Title3="Administrateur du système de jeu" />
+		<Credit Person="Brian Kim" Title="" Title2="" Title3="Administrateur de base de données senior" />
+		<Credit Person="Matthew Thornhill" Title="Administrateur de base de données senior" />
+		<Credit Person="Blake Kaufman" Title="" Title2="Administrateur Linux" />
+		<Credit Person="David Kotz" Title="" Title2="" Title3="Administrateur Linux" />
+		<Credit Person="Len Borowski" Title="" Title2="Administrateur Linux (vacataire)" />
+		<Credit Person="David Covar" Title="" Title2="" Title3="Administrateur Linux (vacataire)" />
+		<Credit Person="Jaeyong Lee" Title="" Title2="" Title3="Administrateur système Windows" />
+		<Credit Person="Rick Contier" Title="" Title2="Superviseur de l&apos;ingénierie système" />
+		<Credit Person="Randy Dowdy" Title="" Title2="" Title3="Ingénieur de systèmes" />
+		<Credit Person="Warren Lumiel" Title="" Title2="Ingénieur de systèmes" />
+		<Credit Person="Kevin Rucker" Title="" Title2="Ingénieur de systèmes" />
+		<Credit Person="Aaron Salazar" Title="" Title2="Ingénieur de systèmes" />
+		<Credit Person="James Buchanan" Title="" Title2="Technicien de centre de données" />
+		<Credit Person="Jason Lifsey" Title="" Title2="Superviseur en ingénierie réseau" />
+		<Credit Person="Casey Schlageter" Title="Ingénieur réseau" />
+		<Credit Person="Noah Lee" Title="" Title2="" Title3="Superviseur assistance bureau" />
+		<Credit Person="Brett Bonner" Title="" Title2="Spécialiste assistance bureau II" />
+		<Credit Person="Paul Freund" Title="" Title2="" Title3="Responsable sécurité" />
+		<Credit Person="Rod Brissey" Title="" Title2="" Title3="Ingénieur sécurité senior" />
+		<Credit Person="Charles Jones" Title="" Title2="Ingénieur sécurité senior" />
+	</Group>
+	<Group Name="Ressources humaines">
+		<Credit Person="Kathleen Asbury" Title="" Title2="Responsable ressources humaines senior" />
+	</Group>
+	<Group Name="Installations">
+		<Credit Person="Jeff Hillhouse" Title="" Title2="Directeur des installations" />
+		<Credit Person="Kathy Matthys" Title="" Title2="Responsable administratif" />
+	</Group>
+	<Group Name="Assistance client">
+		<Credit Person="Richard Silva" Title="" Title2="Responsable en expérience client senior" />
+		<Credit Person="Sven Hertens" Title="" Title2="Responsable des opérations AC" />
+		<Credit Person="Baptiste Despois" Title="Responsable AC senior" />
+		<Credit Person="Karen Blevins" Title="" Title2="Responsable de l&apos;assistance de comptes" />
+		<Credit Person="Lance Schibi" Title="" Title2="Responsable de l&apos;assistance en facturation" />
+		<Credit Person="Charles Porter" Title="" Title2="Responsable de l&apos;assistance en jeu" />
+		<Credit Person="Matt Chernicky" Title="" Title2="Responsable du support technique" />
+		<Credit Person="Will Leverett" Title="" Title2="Responsable des opérations senior" />
+		<Credit Person="Ed Ball" Title="" Title2="" Title3="" Title4="Administrateur GRC" />
+		<Credit Person="Nicole Watkins" Title="" Title2="Service client" />
+		<Credit Person="Bethany Baldwin" Title="" Title2="SSC &amp; codes" />
+		<Credit Person="Jonathan Barcelo" Title="Contrôle qualité &amp; codes" />
+		<Credit Person="Travis Carrico" Title="" Title2="Spécialiste en connexion compte" />
+		<Credit Person="Will Jen" Title="" Title2="" Title3="Spécialiste d&apos;attrait compte" />
+		<Credit Person="Tim Kopp" Title="" Title2="" Title3="Spécialiste en facturation" />
+		<Credit Person="Leslie Lomeli" Title="" Title2="Spécialiste en facturation" />
+		<Credit Person="Steve Short" Title="" Title2="" Title3="Spécialiste fraudes" />
+		<Credit Person="Heather Warner" Title="" Title2="Spécialiste de l&apos;assistance jeu" />
+		<Credit Person="Micah Lindsey" Title="" Title2="Spécialiste de la surveillance en jeu" />
+		<Credit Person="Ashley Segovia" Title="" Title2="Spécialiste technique" />
+		<Credit Person="Ges Fischer" Title="" Title2="" Title3="Opératrice de l&apos;assistance de comptes - Allemagne" />
+		<Credit Person="Chris Allen" Title="" Title2="" Title3="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="Mike Augustine" Title="" Title2="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="Chris Ellsworth" Title="" Title2="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="John Garcia" Title="" Title2="" Title3="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="Austin Green" Title="" Title2="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="John Henderson" Title="" Title2="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="Jeff Lewis" Title="" Title2="" Title3="Opérateur d&apos;assistance de comptes" />
+		<Credit Person="Denis Guleiof" Title="" Title2="Opérateur d&apos;assistance en facturation - Allemagne" />
+		<Credit Person="Max Cidon" Title="" Title2="" Title3="Opérateur d&apos;assistance en facturation - France" />
+		<Credit Person="Amanda Barnett" Title="" Title2="Opératrice d&apos;assistance en facturation" />
+		<Credit Person="Josh Bowers" Title="" Title2="" Title3="Opérateur d&apos;assistance en facturation" />
+		<Credit Person="Lindsay Chojecki" Title="Opératrice d&apos;assistance en facturation" />
+		<Credit Person="Zach Clark" Title="" Title2="" Title3="Opérateur d&apos;assistance en facturation" />
+		<Credit Person="Vivanne Gao" Title="" Title2="" Title3="Opératrice d&apos;assistance en facturation" />
+		<Credit Person="Chris Henderson" Title="" Title2="Opérateur d&apos;assistance en facturation" />
+		<Credit Person="Deborah Paige" Title="" Title2="Opératrice d&apos;assistance en facturation" />
+		<Credit Person="Leah Rumphol" Title="" Title2="Opératrice d&apos;assistance en facturation" />
+		<Credit Person="Robert Stewart" Title="" Title2="Opérateur d&apos;assistance en facturation" />
+		<Credit Person="Nick Dekay" Title="" Title2="" Title3="Opérateur GSU" />
+		<Credit Person="Daniel Betsinger" Title="Opérateur d&apos;assistance en jeu senior" />
+		<Credit Person="Chris Wilbur" Title="" Title2="Opérateur d&apos;assistance en jeu senior" />
+		<Credit Person="Matt Crumley" Title="" Title2="Opérateur d&apos;assistance en jeu" />
+		<Credit Person="Jeremy Henry" Title="" Title2="Opérateur d&apos;assistance en jeu" />
+		<Credit Person="Douglas Meador" Title="" Title2="Opérateur d&apos;assistance en jeu" />
+		<Credit Person="Joshua Neff" Title="" Title2="" Title3="Opérateur d&apos;assistance en jeu" />
+		<Credit Person="Noelle Parise" Title="" Title2="Opératrice d&apos;assistance en jeu senior" />
+		<Credit Person="Kenda Saunders" Title="" Title2="Opératrice en support technique" />
+		<Credit Person="Brian Snyder" Title="" Title2="Opérateur en support technique" />
+	</Group>
+	<Group Name="Assurance qualité">
+		<Credit Person="Dan Campbell" Title="" Title2="Responsable" />
+		<Credit Person="Chris Doerr" Title="" Title2="" Title3="Responsable d&apos;équipe" />
+		<Credit Person="Jeff Daily" Title="" Title2="" Title3="Testeur en chef" />
+		<Credit Person="Stefan Trefil" Title="" Title2="Testeur en chef" />
+		<Credit Person="Amber Hoffman" Title="" Title2="Testeuse senior" />
+		<Credit Person="Patrick Johnson" Title="" Title2="Testeur senior" />
+		<Credit Person="Gary Osteen" Title="" Title2="" Title3="Testeur senior" />
+		<Credit Person="Mary Osteen" Title="" Title2="" Title3="Testeuse senior" />
+		<Credit Person="Jonathan Tackett" Title="Testeur senior" />
+		<Credit Person="Chris Tilton" Title="" Title2="Testeur senior" />
+		<Credit Person="Will Burgess" Title="" Title2="Testeur" />
+		<Credit Person="Casey Carpenter" Title="" Title2="Testeur" />
+		<Credit Person="Sean Echols" Title="" Title2="Testeur" />
+		<Credit Person="Melissa Estrada" Title="" Title2="Testeuse" />
+		<Credit Person="Eric Galloway" Title="" Title2="Testeur" />
+		<Credit Person="Kevin Gonzales" Title="" Title2="Testeur" />
+		<Credit Person="Dustin Harvey" Title="" Title2="Testeur" />
+		<Credit Person="Lacey Hiteshue" Title="" Title2="Testeuse" />
+		<Credit Person="Mark Hong" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Andrew Jackson" Title="" Title2="Testeur" />
+		<Credit Person="Glenn Johnson" Title="" Title2="Testeur" />
+		<Credit Person="Hunter Kent" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Scott McCrea" Title="" Title2="Testeur" />
+		<Credit Person="Donn Nauert" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="RJ Noel" Title="" Title2="" Title3="" Title4="Testeur" />
+		<Credit Person="Sarah Park" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Andrew Rexroth" Title="" Title2="Testeur" />
+		<Credit Person="Fred Wu" Title="" Title2="" Title3="" Title4="Testeur" />
+	</Group>
+	<Group Name="Labo de compatibilité matérielle">
+		<Credit Person="Brian Giebelhaus" Title="Responsable d&apos;équipe" />
+		<Credit Person="Steven Tonkin" Title="" Title2="Testeur en chef" />
+		<Credit Person="Luis Machado" Title="" Title2="Testeur senior" />
+		<Credit Person="Matthew Rogers" Title="" Title2="Testeur" />
+	</Group>
+	<Group Name="Ingénierie plateforme / Service AQ">
+		<Credit Person="Tim Johnson" Title="" Title2="" Title3="Responsable d&apos;équipe" />
+		<Credit Person="Bryan Cook" Title="" Title2="" Title3="Testeur en chef" />
+		<Credit Person="Mitch Burton" Title="" Title2="Ingénieur AQ" />
+		<Credit Person="Waykit Oudomphong" Title="Testeur senior" />
+		<Credit Person="Allan Israels" Title="" Title2="Chef d&apos;équipe" />
+		<Credit Person="Michael Wilhm" Title="" Title2="Testeur en chef" />
+		<Credit Person="Keegan Kelly" Title="" Title2="Testeur senior" />
+		<Credit Person="Chaila Erie" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Paul Nelson" Title="" Title2="" Title3="Testeur" />
+	</Group>
+	<Group Name="Remerciements complémentaires à :">
+		<Credit Person="Heather Bales" Title="" />
+		<Credit Person="Kevin Cameron" Title="" />
+		<Credit Person="Jose Collas" Title="" />
+		<Credit Person="Jeff Constantine" Title="" />
+		<Credit Person="Lina Eriksson" Title="" />
+		<Credit Person="Jimmy Gambier" Title="" />
+		<Credit Person="Kirk Guerrero" Title="" />
+		<Credit Person="Chris Hawtrey" Title="" />
+		<Credit Person="Collin Kim" Title="" />
+		<Credit Person="Zheng Liu" Title="" />
+		<Credit Person="Chad Ort" Title="" />
+		<Credit Person="Chris Savio" Title="" />
+		<Credit Person="Jim Torelli" Title="" />
+		<Credit Person="Jonathan Taylor" Title="" />
+		<Credit Person="Sean Walling" Title="" />
+	</Group>
+	<Group Name="NCSOFT - BELLEVUE">
+		<Credit Person="Songyee Yoon" Title="" Title2="Directrice générale de NC West" />
+		<Credit Person="Miyon Kim" Title="" Title2="" Title3="Vice-présidente, Planning et développement d&apos;entreprise" />
+		<Credit Person="David Park" Title="" Title2="" Title3="Responsable du planning d&apos;entreprise" />
+		<Credit Person="Dong-il Kim" Title="" Title2="" Title3="Directeur financier de NC West" />
+		<Credit Person="Seunghoon Song" Title="" Title2="Directeur financier" />
+		<Credit Person="Irina Leversee" Title="" Title2="Responsable comptabilité" />
+		<Credit Person="Sanae Ishikawa" Title="" Title2="Administratrice comptes fournisseurs senior" />
+		<Credit Person="Patricia Mendoz" Title="" Title2="Administratrice comptes fournisseurs senior" />
+		<Credit Person="Raymond Pope" Title="" Title2="Spécialiste des comptes clients" />
+		<Credit Person="Sungho Byun" Title="" Title2="" Title3="Comptable senior" />
+		<Credit Person="Ala Sagdai" Title="" Title2="" Title3="Comptable senior" />
+		<Credit Person="Frederick Johnson" Title="Comptable paie senior" />
+		<Credit Person="Jeannette Kent" Title="" Title2="Gestionnaire de paie" />
+		<Credit Person="Frank Myers" Title="" Title2="" Title3="Gestionnaire de paie" />
+		<Credit Person="Tresa Hoang" Title="" Title2="" Title3="Directrice des ressources humaines" />
+		<Credit Person="Susan Burrows" Title="" Title2="Responsable ressources humaines senior" />
+		<Credit Person="Stephen Huh" Title="" Title2="" Title3="Recruteur" />
+		<Credit Person="Billy Mayhaw" Title="" Title2="Directeur des ventes" />
+		<Credit Person="Matt Fronczak" Title="" Title2="Représentant commercial" />
+		<Credit Person="Julius Ekeroma" Title="" Title2="Responsable opérations des ventes" />
+		<Credit Person="Jenni Gant" Title="" Title2="" Title3="Chef de projet interactif senior" />
+		<Credit Person="Lincoln Davis" Title="" Title2="Directeur des relations publiques" />
+		<Credit Person="Kathryn Mercille" Title="Responsable événements et partenariats" />
+		<Credit Person="Kathy Hong" Title="" Title2="" Title3="Adjointe aux événements et relations publiques" />
+		<Credit Person="Janet Kim Lin" Title="" Title2="Conseillère générale" />
+	</Group>
+	<Group Name="NCSOFT - SÉOUL">
+	</Group>
+	<Group Name="Cadres de direction">
+		<Credit Person="Taek Jin Kim" Title="" Title2="CEO général" />
+		<Credit Person="Hee Sang Lee" Title="" Title2="Directeur en chef du Service client" />
+		<Credit Person="Jae Hyun Bae" Title="" Title2="Directeur en chef de la production" />
+		<Credit Person="Wonsik Woo" Title="" Title2="" Title3="Directeur en chef Technique" />
+		<Credit Person="Taekhun Kim" Title="" Title2="" Title3="Directeur en chef Commercial" />
+	</Group>
+	<Group Name="Groupe Plateforme et Technologie">
+		<Credit Person="Hyunseok Kim" Title="" Title2="Chef du  groupe Plateforme &amp; Technologie" />
+		<Credit Person="Bongryong Shin" Title="" Title2="Programmeur de serveur senior" />
+		<Credit Person="Sewoong Eom" Title="" Title2="" Title3="Chef de la division Plateforme commerciale" />
+		<Credit Person="Maro Shim" Title="" Title2="" Title3="Chef de la division Plateforme d&apos;Infrastructures" />
+		<Credit Person="Kibong Kwak" Title="" Title2="" Title3="Chef de la division Développement web mobile" />
+		<Credit Person="Jaehun Jung" Title="" Title2="" Title3="Chef de la division Création de plateformes" />
+		<Credit Person="Pyung Ki Son" Title="" Title2="Chef d&apos;équipe Ingénierie de plateformes" />
+		<Credit Person="Wonjun Jang" Title="" Title2="" Title3="Responsable senior de l&apos;équipe Ingénierie de plateformes" />
+		<Credit Person="Dogyeom Kim" Title="" Title2="" Title3="Responsable senior de l&apos;équipe Ingénierie de plateformes" />
+		<Credit Person="Heungdeok Yoon" Title="" Title2="Chef d’équipe PM" />
+		<Credit Person="Minseok Seo" Title="" Title2="" Title3="Chef de projet senior" />
+		<Credit Person="Dongeun Lee" Title="" Title2="" Title3="Assistante chef de projet" />
+		<Credit Person="Youngmin Noh" Title="" Title2="Chef de l&apos;équipe Facturation" />
+		<Credit Person="Jinwoo Lee" Title="" Title2="" Title3="Programmeur senior de l&apos;équipe Facturation" />
+		<Credit Person="Seungkeun Lim" Title="" Title2="Programmeur senior de l&apos;équipe Facturation" />
+		<Credit Person="Jintae Kim" Title="" Title2="" Title3="Programmeur assistant de l&apos;équipe Facturation" />
+		<Credit Person="Changhwan An" Title="" Title2="Programmeur de l&apos;équipe Facturation" />
+		<Credit Person="Cholhee Yun" Title="" Title2="" Title3="Programmeur de l&apos;équipe Facturation" />
+		<Credit Person="Kyunghee Lee" Title="" Title2="Programmeuse assistante de l&apos;équipe Facturation" />
+		<Credit Person="Eunjeong Choi" Title="" Title2="Programmeuse de l&apos;équipe Facturation" />
+		<Credit Person="Euiyoul Im" Title="" Title2="" Title3="Programmeur de l&apos;équipe Facturation" />
+		<Credit Person="Doyoub Lee" Title="" Title2="" Title3="Programmeur de l&apos;équipe Facturation" />
+		<Credit Person="Hyojung Gim" Title="" Title2="" Title3="Programmeur assistant de l&apos;équipe Facturation" />
+		<Credit Person="Junsung Park" Title="" Title2="Programmeur assistant de l&apos;équipe Facturation" />
+		<Credit Person="Sangoh Lee" Title="" Title2="" Title3="Chef d&apos;équipe Plateforme de services" />
+		<Credit Person="Wonwoo Choi" Title="" Title2="" Title3="Programmeur senior de l&apos;équipe Plateforme de services" />
+		<Credit Person="Dohun Kim" Title="" Title2="" Title3="Programmeur de l&apos;équipe Plateforme de services" />
+		<Credit Person="Junsung Choi" Title="" Title2="Programmeur assistant de l&apos;équipe Plateforme de services" />
+		<Credit Person="Kyunghwa Park" Title="" Title2="Chef de l’équipe DQ" />
+		<Credit Person="Kiwon Choi" Title="" Title2="" Title3="Programmeur senior de l&apos;équipe DQ" />
+		<Credit Person="Joeun Kim" Title="" Title2="" Title3="Programmeuse senior de l&apos;équipe DQ" />
+		<Credit Person="Mieun Kim" Title="" Title2="" Title3="Programmeuse senior de l&apos;équipe DQ" />
+		<Credit Person="Hyejin Han" Title="" Title2="" Title3="Programmeuse de l&apos;équipe DQ" />
+		<Credit Person="Sangwoo Kim" Title="" Title2="" Title3="Programmeur de l&apos;équipe DQ" />
+		<Credit Person="Jinah Jeong" Title="" Title2="" Title3="Programmeuse de l&apos;équipe DQ" />
+		<Credit Person="Muyul Hong" Title="" Title2="" Title3="Chef de l&apos;équipe commerciale" />
+		<Credit Person="Seongha Baek" Title="" Title2="Programmeuse senior de l&apos;équipe commerciale" />
+		<Credit Person="Shinkyu Kim" Title="" Title2="" Title3="Programmeur senior de l&apos;équipe commerciale" />
+		<Credit Person="Yooho Kim" Title="" Title2="" Title3="Programmeur de l&apos;équipe commerciale" />
+		<Credit Person="Hyunro Lee" Title="" Title2="" Title3="Programmeur de l&apos;équipe commerciale" />
+		<Credit Person="Yongwook Kim" Title="" Title2="Chef de l&apos;équipe Infra Plateforme" />
+		<Credit Person="Seunghoon Park" Title="" Title2="Programmeur senior de l&apos;équipe Infra Plateforme" />
+		<Credit Person="Yunsuk Lee" Title="" Title2="" Title3="Chef de l&apos;équipe Conception d&apos;IU" />
+		<Credit Person="Youngok In" Title="" Title2="" Title3="Conceptrice pour l&apos;équipe Conception d&apos;IU" />
+		<Credit Person="Jaehyun Kim" Title="" Title2="" Title3="Chef d’équipe de Développement d&apos;IU" />
+		<Credit Person="Hyeran Jeong" Title="" Title2="Programmeuse de l&apos;équipe de Développement d&apos;IU" />
+		<Credit Person="Dongwook Park" Title="" Title2="Programmeur de l&apos;équipe de Développement d&apos;IU" />
+		<Credit Person="Jonghoon Lee" Title="" Title2="Chef de l&apos;équipe de Service de plateforme" />
+		<Credit Person="Sunha Choo" Title="" Title2="" Title3="Planificatrice de services de l&apos;équipe Service de plateforme" />
+		<Credit Person="Hanna Jung" Title="" Title2="" Title3="Planificatrice de services de l&apos;équipe Service de plateforme" />
+		<Credit Person="Jinseok Moon" Title="" Title2="Chef de l&apos;équipe de Développement de services Web" />
+		<Credit Person="Yeonjin Kim" Title="" Title2="" Title3="Programmeur de l&apos;équipe de Développement de services Web" />
+		<Credit Person="Sujung Shin" Title="" Title2="" Title3="Programmeur assistant de l&apos;équipe de Développement de services Web" />
+		<Credit Person="Dongeun Lee" Title="" Title2="" Title3="Secrétaire du CTO" />
+	</Group>
+	<Group Name="Equipe d&apos;analyse d&apos;expérience">
+		<Credit Person="Seungbo Shim" Title="" Title2="Chef du groupe Commerce global" />
+		<Credit Person="Jungha Kim" Title="" Title2="" Title3="Chef de la Division d&apos;analyse d&apos;expérience globale" />
+		<Credit Person="Jiyoun Lee" Title="" Title2="" Title3="Chef de projet d&apos;analayse d&apos;expérience" />
+		<Credit Person="Yaewon Jin" Title="" Title2="" Title3="Chef de l&apos;équipe d&apos;analyse d&apos;expérience 1" />
+		<Credit Person="Surim Kang" Title="" Title2="" Title3="Analyste assistante de l&apos;équipe d&apos;analyse d&apos;expérience 1" />
+		<Credit Person="Taeyoung Kang" Title="" Title2="Analyste assistant de l&apos;équipe d&apos;analyse d&apos;expérience 1" />
+		<Credit Person="Suzy Kim" Title="" Title2="" Title3="Analyste assistante de l&apos;équipe d&apos;analyse d&apos;expérience 1" />
+		<Credit Person="Sunghyun Kwon" Title="" Title2="Analyste assistant de l&apos;équipe d&apos;analyse d&apos;expérience 1" />
+		<Credit Person="Eunyoung Park" Title="" Title2="Analyste assistante de l&apos;équipe d&apos;analyse d&apos;expérience 1" />
+		<Credit Person="Dongsoo Yeo" Title="" Title2="" Title3="Chef de l&apos;équipe d&apos;analyse d&apos;expérience 2" />
+		<Credit Person="Yukyung Jang" Title="" Title2="Analyste assistante de l&apos;équipe d&apos;analyse d&apos;expérience 2" />
+		<Credit Person="Daeyoung Lee" Title="" Title2="Analyste assistant de l&apos;équipe d&apos;analyse d&apos;expérience 2" />
+	</Group>
+	<Group Name="Révision du jeu">
+		<Credit Person="Jooyong Kim" Title="" Title2="" Title3="Concepteur de jeu senior" />
+		<Credit Person="Jiyoung Min" Title="" Title2="" Title3="Conceptrice de jeu senior" />
+		<Credit Person="Shinjin Kang" Title="" Title2="Consultant en conception de jeu" />
+	</Group>
+	<Group Name="Remerciements complémentaires à :">
+		<Credit Person="Yongjun Choi" Title="" />
+		<Credit Person="Kihwan Koh" Title="" />
+	</Group>
+	<Group Name="WILDSTAR EXTERNALISATION">
+	</Group>
+	<Group Name="Casting, production voix et conception sonore : Blindlight">
+		<Credit Person="Lev Chapelsky" Title="" Title2="Responsable général" />
+		<Credit Person="Timothy Cubbison" Title="Supervision du casting et production" />
+		<Credit Person="Veronica Brown" Title="" Title2="Productrice adjointe" />
+		<Credit Person="Poppy Orphanides" Title="Productrice adjointe" />
+		<Credit Person="Austin Snyder" Title="" Title2="Producteur adjoint" />
+		<Credit Person="Brenda Marie Phillips" Title="Adjointe de casting" />
+		<Credit Person="Wes Gleason" Title="" Title2="" Title3="Directeur de plateau" />
+		<Credit Person="Nicholai Baxter" Title="" Title2="Prise de son des dialogues" />
+		<Credit Person="Mark De La Fuente" Title="Prise de son des dialogues" />
+		<Credit Person="Ethan Fredricks" Title="" Title2="Prise de son des dialogues" />
+		<Credit Person="Justin Moshkevich" Title="Prise de son des dialogues" />
+		<Credit Person="Chris Faiella" Title="" Title2="Coordinateur de la production des  voix" />
+		<Credit Person="Lucas Hirl" Title="" Title2="" Title3="Coordinateur de la production des  voix" />
+		<Credit Person="Greg Lisi" Title="" Title2="" Title3="Coordinateur de la production des  voix" />
+		<Credit Person="J. David Atherton" Title="Montage des dialogues" />
+		<Credit Person="Mike Patterson" Title="" Title2="Montage des dialogues" />
+		<Credit Person="David Sais" Title="" Title2="" Title3="Montage des dialogues" />
+		<Credit Person="Greg Sais" Title="" Title2="" Title3="Montage des dialogues" />
+		<Credit Person="J. David Atherton" Title="Conception vocale" />
+		<Credit Person="Erik Foreman" Title="" Title2="Conception vocale" />
+		<Credit Person="Greg Sais" Title="" Title2="" Title3="Conception vocale" />
+		<Credit Person="Kenny Zhao" Title="" Title2="" Title3="Conception vocale" />
+		<Credit Person="Gregory J. Hainer" Title="Traitement de conception vocale" />
+		<Credit Person="Yerbol Kudabayev" Title="Traitement de conception vocale" />
+		<Credit Person="Jacobb Murillo" Title="" Title2="Traitement de conception vocale" />
+		<Credit Person="Jon Wang" Title="" Title2="" Title3="Traitement de conception vocale" />
+		<Credit Person="Clint Corley" Title="" Title2="Assurance qualité" />
+		<Credit Person="Stephanie Komure" Title="Assurance qualité" />
+		<Credit Person="Cesar Marenco" Title="" Title2="Assurance qualité" />
+	</Group>
+	<Group Name="Production musicale : Savant Productions, Inc.">
+		<Credit Person="Dan Savant" Title="" Title2="" Title3="Musicien" Title4="Chanteur vacataire" />
+		<Credit Person="Marci Barba-Saurer" Title="Coordinatrice de production musicale" />
+		<Credit Person="Shari Gidlestone" Title="Coordinatrice de production musicale" />
+		<Credit Person="Elizabeth Hayhurst" Title="Assistante de production musicale" />
+		<Credit Person="Adriana deRoche" Title="" Title2="Copiste" Title3="Préparation musicale" />
+		<Credit Person="Ross deRoche" Title="" Title2="Copiste" Title3="Préparation musicale" />
+		<Credit Person="Drew Krassowski" Title="" Title2="Copiste" Title3="Préparation musicale" />
+		<Credit Person="Tim Williams" Title="" Title2="Orchestration" />
+	</Group>
+	<Group Name="Production musicale : Igloo Music Studios">
+		<Credit Person="Nick Baxter" Title="" Title2="" Title3="Prise de son et mixage" />
+		<Credit Person="Gustavo Borner" Title="" Title2="Coordination et coproduction musicales" />
+		<Credit Person="Justin Moshkevich" Title="Protools et mixage complémentaire" />
+		<Credit Person="Serge Courtois" Title="" Title2="Assistant mixage" />
+		<Credit Person="Daniel Davila" Title="" Title2="Assistant mixage" />
+	</Group>
+	<Group Name="Orchestre WildStar">
+		<Credit Person="Rick Logan" Title="" Title2="" Title3="Chant : principal" />
+		<Credit Person="Beverly Staunton" Title="Chant : accompagnement" />
+		<Credit Person="Nicole Fernandes" Title="Chant : chœurs" Title2="solo" />
+		<Credit Person="Elin Carlson" Title="" Title2="Chant : chœurs" />
+		<Credit Person="Alvin Chea" Title="" Title2="" Title3="Chant : chœurs" />
+		<Credit Person="Donna Davidson-Medine" Title="Chant : chœurs" />
+		<Credit Person="Debbie Hall-Gleason" Title="Chant : chœurs" />
+		<Credit Person="Walt Harrah" Title="" Title2="" Title3="Chant : chœurs" />
+		<Credit Person="Clydene Jackson" Title="" Title2="Chant : chœurs" />
+		<Credit Person="Bob Joyce" Title="" Title2="" Title3="Chant : chœurs" />
+		<Credit Person="Steve Pence" Title="" Title2="" Title3="Chant : chœurs" />
+		<Credit Person="Fletcher Sheridan" Title="Chant : chœurs" />
+		<Credit Person="Karissa Lee" Title="" Title2="" Title3="Chant : solo" />
+		<Credit Person="Ed Meares" Title="" Title2="" Title3="Basse  Principale" />
+		<Credit Person="Nico Abondolo" Title="" Title2="Basse  Principale" />
+		<Credit Person="Kevin Axt" Title="" Title2="" Title3="Basse" />
+		<Credit Person="Domenic Genova" Title="" Title2="Basse" />
+		<Credit Person="Trey Henry" Title="" Title2="" Title3="Basse" />
+		<Credit Person="Frances Liu (Wu)" Title="Basse" />
+		<Credit Person="Paul Morin" Title="" Title2="" Title3="Basse" />
+		<Credit Person="Geoff Osika" Title="" Title2="" Title3="Basse" />
+		<Credit Person="Adrian Rosen" Title="" Title2="Basse" />
+		<Credit Person="Bart Samolis" Title="" Title2="Basse" />
+		<Credit Person="Rick Shaw" Title="" Title2="" Title3="Basse" />
+		<Credit Person="Dave Stone" Title="" Title2="" Title3="Basse" />
+		<Credit Person="Mike Valerio" Title="" Title2="Basse" />
+		<Credit Person="Ken Wild" Title="" Title2="Basse" />
+		<Credit Person="Vanessa Freebairn-Smith" Title="Violoncelle principal" Title2="soliste" />
+		<Credit Person="Armen Ksajikian" Title="" Title2="Violoncelle principal" Title3="soliste" />
+		<Credit Person="Andrew Shulman" Title="" Title2="Violoncelle principal" Title3="soliste" />
+		<Credit Person="Ginger Murphy" Title="" Title2="Violoncelle soliste" />
+		<Credit Person="Peggy Baldwin" Title="" Title2="Violoncelle" />
+		<Credit Person="Giovanna Clayton" Title="Violoncelle" />
+		<Credit Person="Erika Duke-Kirkpatrick" Title="Violoncelle" />
+		<Credit Person="Chris Ermacoff" Title="" Title2="Violoncelle" />
+		<Credit Person="Stefanie Fife" Title="" Title2="Violoncelle" />
+		<Credit Person="Vanessa Freebairn-Smith" Title="Violoncelle" />
+		<Credit Person="Andrew Hayhurst" Title="" Title2="Violoncelle" />
+		<Credit Person="Suzie Katayama" Title="" Title2="Violoncelle" />
+		<Credit Person="Victor Lawrence" Title="" Title2="Violoncelle" />
+		<Credit Person="Martha Lippi" Title="" Title2="Violoncelle" />
+		<Credit Person="Dane Little" Title="" Title2="" Title3="Violoncelle" />
+		<Credit Person="Leah Metzler" Title="" Title2="Violoncelle" />
+		<Credit Person="Steve Richards" Title="" Title2="Violoncelle" />
+		<Credit Person="Tina Soule" Title="" Title2="" Title3="Violoncelle" />
+		<Credit Person="Rudy Stein" Title="" Title2="" Title3="Violoncelle" />
+		<Credit Person="Cameron Stone" Title="" Title2="Violoncelle" />
+		<Credit Person="David Speltz" Title="" Title2="Violoncelle" />
+		<Credit Person="Cecilia Tsan" Title="" Title2="Violoncelle" />
+		<Credit Person="Dylan Hart" Title="" Title2="" Title3="Cor d&apos;harmonie  principal" Title4="soliste" />
+		<Credit Person="Laura Brenes" Title="" Title2="Cor d&apos;harmonie  principal" />
+		<Credit Person="Mark Adams" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="Annie Bosler" Title="" Title2="Cor d&apos;harmonie" />
+		<Credit Person="Allen Fogle" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="Dan Kelley" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="Jenny Kim" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="John Mason" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="Joe Meyer" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="Teag Reaves" Title="" Title2="" Title3="Cor d&apos;harmonie" />
+		<Credit Person="Stephanie Stetson" Title="Cor d&apos;harmonie" />
+		<Credit Person="Gayle Levant" Title="" Title2="Harpe  principale" />
+		<Credit Person="Amy Wilkins" Title="" Title2="" Title3="Harpe  principale" />
+		<Credit Person="Wade Culbreath" Title="" Title2="Percussions" />
+		<Credit Person="Bernie Dresel" Title="" Title2="Percussions" />
+		<Credit Person="MB Gordy" Title="" Title2="" Title3="Percussions" />
+		<Credit Person="Brian Kilgore" Title="" Title2="Percussions" />
+		<Credit Person="Don Wiliams" Title="" Title2="Percussions" />
+		<Credit Person="Alex Iles" Title="" Title2="" Title3="Trombone principal" />
+		<Credit Person="Andy Martin" Title="" Title2="" Title3="Trombone principal" />
+		<Credit Person="Craig Gosnell" Title="" Title2="Trombone" />
+		<Credit Person="Jim Miller" Title="" Title2="" Title3="Trombone" />
+		<Credit Person="Charlie Morillas" Title="Trombone" />
+		<Credit Person="Joey Sellers" Title="" Title2="Trombone" />
+		<Credit Person="George Thatcher" Title="" Title2="Trombone" />
+		<Credit Person="Wayne Bergeron" Title="" Title2="Trompette  principale" Title3="soliste" />
+		<Credit Person="Malcolm McNab" Title="" Title2="Trompette  principale" Title3="soliste" />
+		<Credit Person="Sean Billings" Title="" Title2="Trompette soliste" />
+		<Credit Person="Jeff Bunnell" Title="" Title2="Trompette" />
+		<Credit Person="Dan Fornero" Title="" Title2="" Title3="Trompette" />
+		<Credit Person="Jon Lewis" Title="" Title2="" Title3="Trompette" />
+		<Credit Person="Barry Perkins" Title="" Title2="Trompette" />
+		<Credit Person="Ross deRoche" Title="" Title2="Tuba  principal" />
+		<Credit Person="Jim Self" Title="" Title2="" Title3="Tuba  principal" />
+		<Credit Person="Doug Tornquist" Title="" Title2="Tuba  principal" />
+		<Credit Person="Andrew Duckles" Title="" Title2="Alto principal" Title3="soliste" />
+		<Credit Person="Pam Jacobson" Title="" Title2="Alto principal" />
+		<Credit Person="Jason Bonham" Title="" Title2="Alto" />
+		<Credit Person="Briana Bandy" Title="" Title2="Alto" />
+		<Credit Person="Cheryl Gates" Title="" Title2="Alto" />
+		<Credit Person="Sue Giordano" Title="" Title2="Alto" />
+		<Credit Person="Pam Goldsmith" Title="" Title2="Alto" />
+		<Credit Person="John Hayhurst" Title="" Title2="Alto" />
+		<Credit Person="Scott Hosfeld" Title="" Title2="Alto" />
+		<Credit Person="Renita Koven" Title="" Title2="Alto" />
+		<Credit Person="Jeanie Lim" Title="" Title2="" Title3="Alto" />
+		<Credit Person="Nolan Livesay" Title="" Title2="Alto" />
+		<Credit Person="Luke Maurer" Title="" Title2="" Title3="Alto" />
+		<Credit Person="Miriam Mayer" Title="" Title2="Alto" />
+		<Credit Person="Darrin McCann" Title="" Title2="Alto" />
+		<Credit Person="Maria Newman" Title="" Title2="Alto" />
+		<Credit Person="Dan Oguri" Title="" Title2="" Title3="Alto" />
+		<Credit Person="Carolyn Riley" Title="" Title2="Alto" />
+		<Credit Person="Jessica Van Velzen" Title="Alto" />
+		<Credit Person="Rodney Wirtz" Title="" Title2="Alto" />
+		<Credit Person="Peter Kent" Title="" Title2="" Title3="Premier violon" />
+		<Credit Person="Armen Anassian" Title="" Title2="Second violon" />
+		<Credit Person="Sid Page" Title="" Title2="" Title3="Second violon" />
+		<Credit Person="John Wittenberg" Title="" Title2="Second violon" />
+		<Credit Person="Sai-Ly Acosta" Title="" Title2="Violon" />
+		<Credit Person="Charlie Bisharat" Title="Violon" />
+		<Credit Person="Becky Bunnell" Title="" Title2="Violon" />
+		<Credit Person="Darius Campo" Title="" Title2="Violon" />
+		<Credit Person="Susan Chatman" Title="" Title2="Violon" />
+		<Credit Person="Kevin Connelly" Title="" Title2="Violon" />
+		<Credit Person="Mario De Leon" Title="" Title2="Violon" />
+		<Credit Person="Joel Derouin" Title="" Title2="Violon" />
+		<Credit Person="Lisa Dondlinger" Title="" Title2="Violon" />
+		<Credit Person="Nina Evtuhov" Title="" Title2="Violon" />
+		<Credit Person="Sam Fischer" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Christine Frank" Title="" Title2="Violon" />
+		<Credit Person="Berj Garabedian" Title="" Title2="Violon" />
+		<Credit Person="Pam Gates" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Larry Greenfield" Title="Violon" />
+		<Credit Person="Clayton Haslop" Title="" Title2="Violon" />
+		<Credit Person="Amy Hershberger" Title="" Title2="Violon" />
+		<Credit Person="Tiffany Hu" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Norm Hughes" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Sharon Jackson" Title="" Title2="Violon" />
+		<Credit Person="Maia Jasper" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Miran Kojian" Title="" Title2="Violon" />
+		<Credit Person="Aimee Kreston" Title="" Title2="Violon" />
+		<Credit Person="Gina Kronstadt" Title="" Title2="Violon" />
+		<Credit Person="Songa Lee" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Natalie Leggett" Title="" Title2="Violon" />
+		<Credit Person="Jason Livesay" Title="" Title2="Violon" />
+		<Credit Person="Carolyn Osborn" Title="" Title2="Violon" />
+		<Credit Person="Sara Parkins" Title="" Title2="Violon" />
+		<Credit Person="Cameron Patrick" Title="" Title2="Violon" />
+		<Credit Person="Barbra Porter" Title="" Title2="Violon" />
+		<Credit Person="Debbie Price" Title="" Title2="Violon" />
+		<Credit Person="Michele Richards" Title="Violon" />
+		<Credit Person="Kathleen Robertson" Title="Violon" />
+		<Credit Person="Mark Robertson" Title="" Title2="Violon" />
+		<Credit Person="Julie Rogers" Title="" Title2="Violon" />
+		<Credit Person="Jay Rosen" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Anatoly Rosinsky" Title="Violon" />
+		<Credit Person="Nancy Roth" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Tereza Stanislav" Title="Violon" />
+		<Credit Person="Josefina Vergara" Title="Violon" />
+		<Credit Person="Erika Walczak" Title="" Title2="Violon" />
+		<Credit Person="Francine Walsh" Title="" Title2="Violon" />
+		<Credit Person="Amy Wickman" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Margaret Wooten" Title="" Title2="Violon" />
+		<Credit Person="Ken Yerke" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Judy Yoo" Title="" Title2="" Title3="Violon" />
+		<Credit Person="Adriana Zoppo" Title="" Title2="Violon" />
+		<Credit Person="Andy Klein" Title="" Title2="" Title3="Bois - Basson principal" />
+		<Credit Person="Anthony Parnther" Title="Bois - Basson" />
+		<Credit Person="Phil O&apos;Connor" Title="" Title2="Bois - Clarinette  principale" />
+		<Credit Person="Sara Andon" Title="" Title2="" Title3="Bois - Flûte  principale" Title4="solo" />
+		<Credit Person="Steve Kujala" Title="" Title2="Bois - Flûte" />
+		<Credit Person="Chris Bleth" Title="" Title2="" Title3="Bois - Hautbois  principal" />
+	</Group>
+	<Group Name="Studio d&apos;enregistrement : Warner Brothers">
+		<Credit Person="Tom Hardisty" Title="" Title2="Prise de son" Title3="Équipe technique" />
+		<Credit Person="Rich Wheeler" Title="" Title2="Responsable bande sonore" />
+		<Credit Person="Ryan Robinson" Title="" Title2="Ingénieur" Title3="Équipe technique" />
+		<Credit Person="Jamie Olvera" Title="" Title2="Service client" />
+	</Group>
+	<Group Name="Studio d&apos;enregistrement : Sony Pictures">
+		<Credit Person="Adam Michalak" Title="" Title2="Responsable plateau" />
+		<Credit Person="Greg Loskorn" Title="" Title2="Ingénieur bande sonore" />
+	</Group>
+	<Group Name="Ambiance sonore et voix de créatures complémentaires : Formosa Interactive">
+		<Credit Person="Scott Martin Gershin" Title="Supervision de la conception sonore" Title2="Directeur des voix de créatures" />
+		<Credit Person="Chad Bedell" Title="" Title2="" Title3="Concepteur sonore" />
+		<Credit Person="Eliot Connors" Title="" Title2="Concepteur sonore" />
+		<Credit Person="R. Dutch Hill" Title="" Title2="Concepteur sonore" />
+		<Credit Person="Patrick Ginn" Title="" Title2="Concepteur sonore" />
+		<Credit Person="Shannon Potter" Title="" Title2="Concepteur sonore" />
+		<Credit Person="Steve Robinson" Title="" Title2="Concepteur sonore" />
+		<Credit Person="Tomi Tomita" Title="" Title2="" Title3="Concepteur sonore" />
+		<Credit Person="Peter Zinda" Title="" Title2="" Title3="Concepteur sonore" />
+		<Credit Person="Alexander Leeman Johnson" Title="Responsable de contenu" />
+		<Credit Person="David Shinji Furuya" Title="Responsable de contenu" />
+		<Credit Person="Jimmy Moriana" Title="" Title2="Bruiteur" />
+		<Credit Person="Jeff Wilhoit" Title="" Title2="Bruiteur" />
+		<Credit Person="John Sanacore" Title="" Title2="Mixage des bruitages" />
+		<Credit Person="Brett Voss" Title="" Title2="" Title3="Mixage des bruitages" />
+	</Group>
+	<Group Name="Production musicale complémentaire : Firepan Music">
+		<Credit Person="Mike Wallace" Title="" Title2="Guitare acoustique et électrique, banjo, guitare manouche et guitare cigar box" Title3="Ingénieur enregistrement et composition musicale complémentaire" />
+	</Group>
+	<Group Name="Services sonores complémentaires : Scorpio Sound, LLC">
+		<Credit Person="Gregory J. Hainer" Title="Supervision de l&apos;édition des bruitages" Title2="Concepteur sonore" />
+		<Credit Person="Mary Jo Lang" Title="" Title2="Bruiteuse" />
+		<Credit Person="Alyson Moore" Title="" Title2="Bruiteuse" />
+		<Credit Person="Jon Roesch" Title="" Title2="" Title3="Bruiteur" />
+		<Credit Person="Lev Chapelsky" Title="" />
+	</Group>
+	<Group Name="Liquid Development">
+		<Credit Person="Fred Stockton" Title="" Title2="Directeur général" />
+		<Credit Person="Darren Bartlett" Title="Responsable de studio" />
+		<Credit Person="Stefan Henry-Biskup" Title="Directeur de création" />
+		<Credit Person="Heather Dyer" Title="" Title2="Responsable des comptes" />
+		<Credit Person="Nick Brown" Title="" Title2="" Title3="Responsable des graphismes 3D" />
+		<Credit Person="Marshall Short" Title="" Title2="Responsable des graphismes 2D" />
+		<Credit Person="Aaron Cruz" Title="" Title2="" Title3="Modeleur 3D" />
+		<Credit Person="Manuel Noyola" Title="" Title2="Modeleur 3D" />
+		<Credit Person="Patrick Sutton" Title="" Title2="Modeleur 3D" />
+		<Credit Person="Nick Silva" Title="" Title2="" Title3="Concepteur de textures" />
+		<Credit Person="Sarah Francian" Title="" Title2="Conceptrice de textures" Title3="Graphiste 2D" />
+		<Credit Person="Heather Nesheim" Title="Graphiste 2D" />
+		<Credit Person="David Talaski" Title="" Title2="Graphiste 2D" />
+	</Group>
+	<Group Name="Original Force">
+		<Credit Person="Vera Wang" Title="" Title2="" Title3="Chef de projet" />
+		<Credit Person="Wu Huimin" Title="" Title2="" Title3="Assurance qualité" />
+		<Credit Person="Chong Chao" Title="" Title2="" Title3="Directeur artistique" />
+		<Credit Person="Wu Changju" Title="" Title2="" Title3="Graphiste" />
+		<Credit Person="Xu Chen" Title="" Title2="" Title3="" Title4="Graphiste" />
+		<Credit Person="Chen Cunzhao" Title="" Title2="Graphiste" />
+		<Credit Person="Wan Jiangwei" Title="" Title2="Graphiste" />
+		<Credit Person="Xu Jiguang" Title="" Title2="" Title3="Graphiste" />
+		<Credit Person="Li Jinhao" Title="" Title2="" Title3="Graphiste" />
+		<Credit Person="Zhang Kun" Title="" Title2="" Title3="Graphiste" />
+		<Credit Person="Tang Ning" Title="" Title2="" Title3="Graphiste" />
+		<Credit Person="Xu Qingyuan" Title="" Title2="" Title3="Graphiste" />
+		<Credit Person="Wang Shicheng" Title="" Title2="Graphiste" />
+		<Credit Person="Song Shiguang" Title="" Title2="Graphiste" />
+		<Credit Person="Zhang Xuejing" Title="" Title2="Graphiste" />
+		<Credit Person="Du Yang" Title="" Title2="" Title3="" Title4="Graphiste" />
+		<Credit Person="Xie Yongchun" Title="" Title2="Graphiste" />
+	</Group>
+	<Group Name="Alpha CRC">
+		<Credit Person="Mette Clark" Title="" Title2="" Title3="Responsable des comptes clés" />
+		<Credit Person="Cristian Vázquez Pérez" Title="Chef de projet" />
+		<Credit Person="Aurélien Froger" Title="Responsable de test (FR)" />
+		<Credit Person="Facundo Ortiz" Title="" Title2="Responsable de test (FR)" />
+		<Credit Person="Thierry Soual" Title="" Title2="Responsable de test (FR)" />
+		<Credit Person="Jan Kustermann" Title="" Title2="Responsable de test (DE)" />
+		<Credit Person="Daniel Landes" Title="" Title2="Responsable de test (DE)" />
+		<Credit Person="Karó Oganesian" Title="" Title2="Responsable de test (DE)" />
+		<Credit Person="Leticia Sáenz Murga" Title="Chef de projet" />
+		<Credit Person="Thomas Berthollet" Title="Responsable linguistique (FR)" />
+		<Credit Person="Loïc Caudron" Title="" Title2="Responsable linguistique (FR)" />
+		<Credit Person="Matthieu Falletti" Title="Responsable linguistique (FR)" />
+		<Credit Person="David Fehrmann" Title="" Title2="Responsable linguistique (DE)" />
+		<Credit Person="Steven Gerholdt" Title="Responsable linguistique (DE)" />
+		<Credit Person="Stephanie Lammers" Title="Responsable linguistique (DE)" />
+		<Credit Person="Mehmet Özgür Çaylak" Title="Chef de projet et coordinateur du doublage" />
+		<Credit Person="Matthieu Falletti" Title="Direction artistique sur site" />
+		<Credit Person="Stephanie Lammers" Title="Direction artistique sur site" />
+	</Group>
+	<Group Name="Doublage des voix">
+		<Credit Person="German" Title="m&amp;s music Tonstudio GmbH" />
+		<Credit Person="French" Title="Hifigénie Productions" />
+	</Group>
+	<Group Name="Loc3">
+		<Credit Person="Delphine Barny" Title="" Title2="Directrice" />
+		<Credit Person="David Bonin" Title="" Title2="" Title3="Directeur" />
+		<Credit Person="Claire Deiller" Title="" Title2="Directrice" />
+		<Credit Person="Eric Holweck" Title="" Title2="Relecteur - français" />
+		<Credit Person="Bérangère Holweck" Title="Relectrice - français" />
+		<Credit Person="Robert Böck" Title="" Title2="" Title3="Relecteur - allemand" />
+		<Credit Person="Christian Stenger" Title="Relecteur - allemand" />
+	</Group>
+	<Group Name="Digital Hearts">
+		<Credit Person="John Yamamoto" Title="" Title2="Président &amp; PDG" />
+		<Credit Person="Bryan Glazebrook" Title="Conseiller senior" />
+		<Credit Person="Eric Y. Kwan" Title="" Title2="Responsable AQ senior" />
+		<Credit Person="Kevin Yomchinda" Title="" Title2="Coordinateur AQ" />
+		<Credit Person="Scott Pendleton" Title="" Title2="Consultant AQL" />
+	</Group>
+	<Group Name="GameOps">
+		<Credit Person="John Go" Title="Président" />
+		<Credit Person="Andro Baluyut" Title="" Title2="Directeur général" />
+		<Credit Person="Monet Casimiro" Title="" Title2="Directrice des opérations" />
+		<Credit Person="Amia Padilla" Title="" Title2="Responsable de jeu senior" />
+		<Credit Person="Erwin Trinidad" Title="" Title2="Responsable de jeu senior" />
+		<Credit Person="Katrina de Jesus" Title="Responsable de jeu" />
+		<Credit Person="Chris Berango" Title="" Title2="Spécialiste d&apos;opérations en jeu senior" />
+		<Credit Person="Allen Reyes" Title="" Title2="" Title3="Spécialiste d&apos;opérations en jeu senior" />
+		<Credit Person="Aileen Bacani" Title="" Title2="Spécialiste d&apos;opérations en jeu senior" />
+		<Credit Person="Lissa Briones" Title="" Title2="Spécialiste d&apos;opérations en jeu" />
+		<Credit Person="Kevin Cachero" Title="" Title2="Spécialiste d&apos;opérations en jeu" />
+		<Credit Person="Darian Nasrabadi" Title="Spécialiste d&apos;opérations en jeu" />
+		<Credit Person="Mark Santiago" Title="" Title2="Spécialiste d&apos;opérations en jeu" />
+		<Credit Person="JP Ting" Title="" Title2="" Title3="" Title4="Spécialiste d&apos;opérations en jeu" />
+		<Credit Person="Shiela Sicat" Title="" Title2="Spécialiste d&apos;opérations en jeu" />
+		<Credit Person="Stanley Yu" Title="" Title2="" Title3="Spécialiste d&apos;opérations en jeu" />
+	</Group>
+	<Group Name="5CA">
+		<Credit Person="Jeroen van der Sandt" Title="Chef de projet" />
+		<Credit Person="Germán Kerschen" Title="" Title2="Responsable d&apos;équipe" />
+		<Credit Person="Patrick Göbels" Title="" Title2="Responsable d&apos;équipe" />
+		<Credit Person="Knut Albrecht" Title="" Title2="Opérateur" />
+		<Credit Person="Lucas Ferraro" Title="" Title2="Opérateur" />
+		<Credit Person="Bruno Gibert" Title="" Title2="Opérateur" />
+		<Credit Person="Maude Mondon" Title="" Title2="Opératrice" />
+		<Credit Person="Tim Schriefer" Title="" Title2="Opérateur" />
+	</Group>
+	<Group Name="Babel Media">
+		<Credit Person="Bruce Stamm" Title="" Title2="" Title3="Directeur en chef des opérations" />
+		<Credit Person="Stephen Wickes" Title="" Title2="Vice-président des ventes - Amérique" />
+		<Credit Person="Dominic Knowles" Title="" Title2="Responsable AQ fonctionnalité" />
+		<Credit Person="Guillaume Langlois" Title="Chef de projet" />
+		<Credit Person="Marc-André Legault" Title="Chef de projet" />
+		<Credit Person="Marc Kent" Title="" Title2="" Title3="Superviseur AQ" />
+		<Credit Person="Edd Buffery" Title="" Title2="" Title3="Responsable de pré-production" />
+		<Credit Person="Jon Berghammer" Title="" Title2="Responsable de test" />
+		<Credit Person="Jeremy Bonventre" Title="Responsable de test" />
+		<Credit Person="Jeffrey LeGresley" Title="Responsable de test" />
+		<Credit Person="Gabriel Ritchot" Title="" Title2="Responsable de test" />
+		<Credit Person="Chris Wylie" Title="" Title2="" Title3="Responsable de test" />
+		<Credit Person="Grégory Alliot" Title="" Title2="Testeur senior" />
+		<Credit Person="Jean-Pierre Bergevin" Title="Testeur senior" />
+		<Credit Person="Lauren Cruvellier" Title="Testeuse senior" />
+		<Credit Person="Aurélien Folie" Title="" Title2="Testeur senior" />
+		<Credit Person="Kenny Fung" Title="" Title2="" Title3="Testeur senior" />
+		<Credit Person="Michael Holdaway" Title="Testeur senior" />
+		<Credit Person="Rodrigo Lopez" Title="" Title2="Testeur senior" />
+		<Credit Person="Pierre Mansour" Title="" Title2="Testeur senior" />
+		<Credit Person="Ryan Partridge" Title="" Title2="Testeur senior" />
+		<Credit Person="Tricia Robinson" Title="" Title2="Testeuse senior" />
+		<Credit Person="Maiko Yaguchi" Title="" Title2="Testeuse senior" />
+		<Credit Person="Brian Abramson" Title="" Title2="Testeur" />
+		<Credit Person="Mark Adlam" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Leonardo Akimoto" Title="Testeur" />
+		<Credit Person="Bachir Alhabbal" Title="" Title2="Testeur" />
+		<Credit Person="Matthew Ananian" Title="" Title2="Testeur" />
+		<Credit Person="Juan Ardila" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Chris Arvanitakis" Title="Testeur" />
+		<Credit Person="Nolan Barkhouse" Title="" Title2="Testeur" />
+		<Credit Person="Jamal Bayade" Title="" Title2="Testeur" />
+		<Credit Person="Simon Belmont" Title="" Title2="Testeur" />
+		<Credit Person="Guillaume Benguerel" Title="Testeur" />
+		<Credit Person="Billel Benzadi" Title="" Title2="Testeur" />
+		<Credit Person="Rikard Berg" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Thomas Boissinot-Tremblay" Title="Testeur" />
+		<Credit Person="Olivier Bourque" Title="" Title2="Testeur" />
+		<Credit Person="Alexandre Boutin Katzmann" Title="Testeur" />
+		<Credit Person="Blayne Elison Bradley" Title="Testeur" />
+		<Credit Person="Francis Brosseau" Title="Testeur" />
+		<Credit Person="Ryan Bullock" Title="" Title2="Testeur" />
+		<Credit Person="Matt Carroll" Title="" Title2="Testeur" />
+		<Credit Person="Diego Caraffini" Title="" Title2="Testeur" />
+		<Credit Person="Erensu Ceylan" Title="" Title2="Testeur" />
+		<Credit Person="Marc-André Cormier-Rhéaume" Title="Testeur" />
+		<Credit Person="Jens Degn-Andersen" Title="Testeur" />
+		<Credit Person="Arnaud Deguelle" Title="" Title2="Testeur" />
+		<Credit Person="Jeremy Desvals" Title="" Title2="Testeur" />
+		<Credit Person="Elise Duran" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Mohamed Elmankabady" Title="Testeur" />
+		<Credit Person="Jesse Enns" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Edoardo Facchinelli" Title="Testeur" />
+		<Credit Person="Bénédict Faubert" Title="Testeur" />
+		<Credit Person="Michael Fauteux" Title="" Title2="Testeur" />
+		<Credit Person="Christopher Fauvel" Title="Testeur" />
+		<Credit Person="Ping Feng" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Joao Figueira" Title="" Title2="Testeur" />
+		<Credit Person="Matthew Frank" Title="" Title2="Testeur" />
+		<Credit Person="Luisa Fernanda Sarria Gallardo" Title="Testeuse" />
+		<Credit Person="Tiago Gerbasi" Title="" Title2="Testeur" />
+		<Credit Person="Kadjah Gorret" Title="" Title2="Testeur" />
+		<Credit Person="Jonathan Grenier" Title="Testeur" />
+		<Credit Person="Marc Hale" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Soila-Maria Halme" Title="Testeuse" />
+		<Credit Person="Stig Allan Harvik" Title="Testeur" />
+		<Credit Person="Belkis Henaut" Title="" Title2="Testeuse" />
+		<Credit Person="Marvin Herbring" Title="" Title2="Testeur" />
+		<Credit Person="Justin Hilaire" Title="" Title2="Testeur" />
+		<Credit Person="Yubing Hu" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Shiraz Hussain" Title="" Title2="Testeur" />
+		<Credit Person="Phillipe Jacques" Title="Testeur" />
+		<Credit Person="Kyeongwoo &quot;Tyler&quot; Jang" Title="Testeur" />
+		<Credit Person="Zheng Ji" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Franciszek Kaczmarczyk" Title="Testeur" />
+		<Credit Person="Dimitri Katsaros" Title="Testeur" />
+		<Credit Person="Syrus Korhani" Title="" Title2="Testeur" />
+		<Credit Person="Matan Kushner" Title="" Title2="Testeur" />
+		<Credit Person="Trevor Labiche" Title="" Title2="Testeur" />
+		<Credit Person="Matthieu Laniel" Title="" Title2="Testeur" />
+		<Credit Person="Philipp Leberer" Title="" Title2="Testeur" />
+		<Credit Person="Jeremie Lemonde" Title="" Title2="Testeur" />
+		<Credit Person="Markus Leyser" Title="" Title2="Testeur" />
+		<Credit Person="David Liu" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Nicolas Lozach" Title="" Title2="Testeur" />
+		<Credit Person="Luc Maillet" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Thomas Mancini" Title="" Title2="Testeur" />
+		<Credit Person="Jonathan McFarlane" Title="Testeur" />
+		<Credit Person="José Morao" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Jonathan Morrell" Title="Testeur" />
+		<Credit Person="Jonathan T. Morissette" Title="Testeur" />
+		<Credit Person="Sébastien Mory" Title="" Title2="Testeur" />
+		<Credit Person="Katarzyna Nowak" Title="" Title2="Testeuse" />
+		<Credit Person="Evin Nowrang" Title="" Title2="Testeur" />
+		<Credit Person="Takeshi Ochiai" Title="" Title2="Testeur" />
+		<Credit Person="Mutsumi Oi" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Charles Olscamp" Title="" Title2="Testeur" />
+		<Credit Person="Piotr Pawlowski" Title="" Title2="Testeur" />
+		<Credit Person="Nicola Polesana" Title="" Title2="Testeur" />
+		<Credit Person="Anne-Li Porlier" Title="" Title2="Testeuse" />
+		<Credit Person="Louis-Philippe Potvin" Title="Testeur" />
+		<Credit Person="Shelby Aileen Rainville" Title="Testeuse" />
+		<Credit Person="Kevin Reynaerts" Title="" Title2="Testeur" />
+		<Credit Person="Arthur Rolland" Title="" Title2="Testeur" />
+		<Credit Person="Joshua Patrick Ruffo" Title="Testeur" />
+		<Credit Person="Louis Russo" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Hidena Sakagami" Title="" Title2="Testeuse" />
+		<Credit Person="Annie Sauriol" Title="" Title2="Testeuse" />
+		<Credit Person="Daniel Schmidt" Title="" Title2="Testeur" />
+		<Credit Person="Suzi Silva" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Brendan Snow" Title="" Title2="Testeur" />
+		<Credit Person="Kevin Stoops" Title="" Title2="Testeur" />
+		<Credit Person="Stephen Tabib" Title="" Title2="Testeur" />
+		<Credit Person="Joseph Taylor" Title="" Title2="Testeur" />
+		<Credit Person="Kalen Tessmann" Title="" Title2="Testeur" />
+		<Credit Person="Israël Tison" Title="" Title2="Testeur" />
+		<Credit Person="Yuka Tomita" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Alexis Tremblay-Dubuc" Title="Testeuse" />
+		<Credit Person="Baris Tümok" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Brittany Turner" Title="" Title2="Testeuse" />
+		<Credit Person="Rajieenthan Umakanthan" Title="Testeur" />
+		<Credit Person="Steven Van Isterdael" Title="Testeur" />
+		<Credit Person="Jevon Voon" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Matthias Werner" Title="" Title2="Testeur" />
+		<Credit Person="Shoko Yuasa" Title="" Title2="" Title3="Testeuse" />
+		<Credit Person="Wagase Yunus" Title="" Title2="Testeur" />
+		<Credit Person="Evan Zazzara" Title="" Title2="Testeur" />
+	</Group>
+	<Group Name="Babel Media LQA">
+		<Credit Person="Bruce Stamm" Title="" Title2="" Title3="Directeur en chef des opérations" />
+		<Credit Person="Stephen Wickes" Title="" Title2="Vice President des Ventes – Amérique" />
+		<Credit Person="Olivier Chrun" Title="" Title2="Responsable AQ en localisation" />
+		<Credit Person="Justin Fernandes" Title="Chef de projet" />
+		<Credit Person="Edd Buffery" Title="" Title2="" Title3="Responsable en pré-production" />
+		<Credit Person="Tobias Roeper" Title="" Title2="Responsable de test" />
+		<Credit Person="Roxane Le Borgne" Title="Assistante du responsable de test" />
+		<Credit Person="Ismail Abdi-Omar" Title="Testeur senior" />
+		<Credit Person="Gregory Alliot" Title="" Title2="Testeur senior" />
+		<Credit Person="Ben Tan" Title="" Title2="" Title3="" Title4="Testeur senior" />
+		<Credit Person="Till Baerwaldt" Title="" Title2="Testeur" />
+		<Credit Person="Philippe Bouchard" Title="Testeur" />
+		<Credit Person="Sara Bourgeois" Title="" Title2="Testeuse" />
+		<Credit Person="Pascale Champagne-Rousseau" Title="Testeuse" />
+		<Credit Person="Virginie Cloutier-Brassard" Title="Testeuse" />
+		<Credit Person="Arnaud Deguelle" Title="" Title2="Testeur" />
+		<Credit Person="Christopher Fauvel" Title="Testeur" />
+		<Credit Person="Julien Giraudet" Title="" Title2="Testeur" />
+		<Credit Person="Kim-Long Ho Quan" Title="Testeur" />
+		<Credit Person="Julie Holland" Title="" Title2="Testeuse" />
+		<Credit Person="Constantin Huber" Title="Testeur" />
+		<Credit Person="Sven Jaeckel" Title="" Title2="Testeur" />
+		<Credit Person="Philipp Leberer" Title="" Title2="Testeur" />
+		<Credit Person="Markus Leyser" Title="" Title2="Testeur" />
+		<Credit Person="Annabell Moeller" Title="Testeuse" />
+		<Credit Person="Benjamin Ottenbreit" Title="Testeur" />
+		<Credit Person="John William Park" Title="Testeur" />
+		<Credit Person="Kevin Reynaerts" Title="" Title2="Testeur" />
+		<Credit Person="Sebastian Schneider" Title="Testeur" />
+		<Credit Person="Simon Stiep" Title="" Title2="" Title3="Testeur" />
+		<Credit Person="Kevin Stoops" Title="" Title2="Testeur" />
+		<Credit Person="Reiko Oehlenberg" Title="Testeuse" />
+	</Group>
+	<Group Name="WILDSTORK">
+		<Credit Person="Donovan Xavier Behrens" Title="" />
+		<Credit Person="Tiernan Xander Behrens" Title="" />
+		<Credit Person="David Bowren" Title="" />
+		<Credit Person="Joseph Lloyd Brunstetter" Title="" />
+		<Credit Person="Alyvia Scarlett Coutras" Title="" />
+		<Credit Person="Tyler Garnet Craig" Title="" />
+		<Credit Person="Cecilia Teresa Dollbaum" Title="" />
+		<Credit Person="Isabella Suri Durán" Title="" />
+		<Credit Person="Leonardo Adel Durán" Title="" />
+		<Credit Person="Maris Faye Durham" Title="" />
+		<Credit Person="Lorelei Eibling" Title="" />
+		<Credit Person="Lydia Eibling" Title="" />
+		<Credit Person="Jaxon Alister Elliott" Title="" />
+		<Credit Person="Jilianne Mykel Elliott" Title="" />
+		<Credit Person="Baby Hale" Title="" />
+		<Credit Person="Ethan Henze" Title="" />
+		<Credit Person="Jack Robert Kurtenacker" Title="" />
+		<Credit Person="Lucy Anaiah Kurtenacker" Title="" />
+		<Credit Person="Aurora May Moore" Title="" />
+		<Credit Person="Madeleine Grace Moore" Title="" />
+		<Credit Person="Eva" Title="" />
+		<Credit Person="Tim Lang, Jr." Title="" />
+		<Credit Person="Zoe Janna Pack" Title="" />
+		<Credit Person="Isabelle Bergren Piepiora" Title="" />
+		<Credit Person="Clio Reilly" Title="" />
+		<Credit Person="Arwen Miyu Reynolds" Title="" />
+		<Credit Person="Annabel Jean Shelton" Title="" />
+		<Credit Person="Samantha Anna Skacal" Title="" />
+		<Credit Person="Olivia L. Tse" Title="" />
+		<Credit Person="Weylin Tate Turner" Title="" />
+		<Credit Person="Jack Anderson Wiesman" Title="" />
+		<Credit Person="Simon Jarrod Showers" Title="" />
+	</Group>
+	<Group Name="Carbine Studios tient également à remercier (sans ordre particulier) :">
+		<Credit Person="Cali Killed Nox" Title="" />
+		<Credit Person="Blood Legion" Title="" />
+		<Credit Person="Method" Title="" />
+		<Credit Person="Angels Wings" Title="" />
+		<Credit Person="Subterfuge Vanguard" Title="" />
+		<Credit Person="Condemned" Title="" />
+		<Credit Person="Enigma" Title="" />
+		<Credit Person="Death and Taxes" Title="" />
+		<Credit Person="Eugenic" Title="" />
+		<Credit Person="Voodoo" Title="" />
+		<Credit Person="Adam &quot;Grufftech&quot; Baird" Title="" />
+		<Credit Person="Tanner &quot;Scelestic&quot; Stevens" Title="" />
+		<Credit Person="Jordan &quot;JarNod&quot; Leithart" Title="" />
+		<Credit Person="Franklin &quot;Chief Sarcan&quot; Rinaldi" Title="" />
+		<Credit Person="Tim &quot;Dariuas&quot; Slager" Title="" />
+		<Credit Person="Nathan &quot;Aori&quot; Smith" Title="" />
+		<Credit Person="Bill &quot;Lethality&quot; Leonard" Title="" />
+		<Credit Person="Anthony &quot;drafto&quot; Rowlands" Title="" />
+		<Credit Person="Bonnie &quot;Cali&quot; Tuggle" Title="" />
+		<Credit Person="Anthony &quot;Nardz&quot; Nardozza" Title="" />
+		<Credit Person="Don &quot;Ice_Hole&quot; Hudson" Title="" />
+		<Credit Person="Pedro &quot;Forum King&quot; Morales" Title="" />
+		<Credit Person="Chase &quot;Nym&quot; Becker" Title="" />
+		<Credit Person="Nicole &quot;Nahli&quot; Kwiatkowski" Title="" />
+		<Credit Person="Max &quot;MaximilianNYC&quot; Dichtl" Title="" />
+		<Credit Person="Rachel &quot;Packetdancer&quot; Blackman" Title="" />
+		<Credit Person="Katrine &quot;Ender&quot; Fischer" Title="" />
+		<Credit Person="Claude &quot;Patrician&quot; Schmincke" Title="" />
+		<Credit Person="Michael &quot;Zipz&quot; Tuggle" Title="" />
+		<Credit Person="Torben &quot;Viper&quot; Andersen" Title="" />
+		<Credit Person="Jenny &quot;Evion&quot; Lutton" Title="" />
+		<Credit Person="Kevin Kanai Griffith" Title="" />
+		<Credit Person="Deanna, Aurora and Madeleine Moore" Title="" />
+		<Credit Person="Jed, Jo, and Jeremiah Lee" Title="" />
+		<Credit Person="Nancy Brunstetter" Title="" />
+		<Credit Person="Charlie and Joey Brunstetter" Title="" />
+		<Credit Person="Kate Wiesman" Title="" />
+		<Credit Person="Ezekiel and Jack Wiesman" Title="" />
+		<Credit Person="Jessica Pink" Title="" />
+		<Credit Person="Corey Frang" Title="" />
+		<Credit Person="Speciou5" Title="" />
+		<Credit Person="Drake Turner" Title="" />
+		<Credit Person="Griffin Turner" Title="" />
+		<Credit Person="Weylin Turner" Title="" />
+		<Credit Person="Merill Hinton Jr" Title="" />
+		<Credit Person="Roy Bittinger" Title="" />
+		<Credit Person="Cindy Barragan" Title="" />
+		<Credit Person="Kristen and David Vevia" Title="" />
+		<Credit Person="Claudine and Jason Bond" Title="" />
+		<Credit Person="Aidan Bond" Title="" />
+		<Credit Person="Hudson Bond" Title="" />
+		<Credit Person="Linda and Alan Leighton" Title="" />
+		<Credit Person="Steve and Nancy Turner" Title="" />
+		<Credit Person="Brenda Gilley" Title="" />
+		<Credit Person="Kyleigh and Bronwyn Perkins" Title="" />
+		<Credit Person="Gavin Perkins" Title="" />
+		<Credit Person="Rafe Perkins" Title="" />
+		<Credit Person="Sergio, Avery &amp; Merrick Briones" Title="" />
+		<Credit Person="Georgia Nelson" Title="" />
+		<Credit Person="Griselda Gomez" Title="" />
+		<Credit Person="Kristin Williams" Title="" />
+		<Credit Person="Roxy &amp; Freak" Title="" />
+		<Credit Person="Michele Rush" Title="" />
+		<Credit Person="Larry Puder" Title="" />
+		<Credit Person="Mary Yeh" Title="" />
+		<Credit Person="Scott Feng" Title="" />
+		<Credit Person="James Wang" Title="" />
+		<Credit Person="Jesus Christ" Title="" />
+		<Credit Person="Shayla Berke" Title="" />
+		<Credit Person="JoAnn, James, Michele, Joey and Sarah Berke" Title="" />
+		<Credit Person="Jason and Jonathan Woods" Title="" />
+		<Credit Person="Thomas Lytle" Title="" />
+		<Credit Person="Cooper &amp; Penny" Title="" />
+		<Credit Person="Merrie Elliot" Title="" />
+		<Credit Person="Jax &amp; Jili Elliott" Title="" />
+		<Credit Person="Keith Agnello and ROTR" Title="" />
+		<Credit Person="Sara Gordy" Title="" />
+		<Credit Person="Connor Herring" Title="" />
+		<Credit Person="Marshall College, Department of Archeology" Title="" />
+		<Credit Person="Dr. Sheldon Cooper, Ph.D." Title="" />
+		<Credit Person="#HealthyGamers" Title="" />
+		<Credit Person="Nicholas Cage" Title="" />
+		<Credit Person="Jerry&apos;s Dogs" Title="" />
+		<Credit Person="Aliso Viejo Petsmart/Petshotel" Title="" />
+		<Credit Person="Empower Nepali Girls" Title="" />
+		<Credit Person="Inka Mama" Title="" />
+		<Credit Person="Jayson Steelman" Title="" />
+		<Credit Person="Jean-Philippe Dupont" Title="" />
+		<Credit Person="Howard Chu" Title="" />
+		<Credit Person="Elaine Fukuda" Title="" />
+		<Credit Person="Ding &amp; Shawen Chu" Title="" />
+		<Credit Person="Bernard &amp; Cindy Chu" Title="" />
+		<Credit Person="Jonathan &amp; May Chu" Title="" />
+		<Credit Person="Tim Cain" Title="" />
+		<Credit Person="Robert Land" Title="" />
+		<Credit Person="Kelly Chun" Title="" />
+		<Credit Person="Tracy Von Felden Boyarsky" Title="" />
+		<Credit Person="Stephan Bokkes" Title="" />
+		<Credit Person="Lacey &amp; Meimei" Title="" />
+		<Credit Person="Pandas and Red Pandas" Title="" />
+		<Credit Person="Danielle Brown" Title="" />
+		<Credit Person="Alison Durham" Title="" />
+		<Credit Person="Fletcher Durham" Title="" />
+		<Credit Person="Maris Faye Durham" Title="" />
+		<Credit Person="George Durham" Title="" />
+		<Credit Person="Debbie Durham" Title="" />
+		<Credit Person="Danielle Tatro" Title="" />
+		<Credit Person="Shannon Hults" Title="" />
+		<Credit Person="Marlin McFate" Title="" />
+		<Credit Person="Taylor Marshall-Green" Title="" />
+		<Credit Person="Logan Marshall-Green" Title="" />
+		<Credit Person="Lowry Marshall" Title="" />
+		<Credit Person="Steve Snow" Title="" />
+		<Credit Person="Monika Allen" Title="" />
+		<Credit Person="Wizards of the Coast" Title="" />
+		<Credit Person="Demi Boyd" Title="" />
+		<Credit Person="Bethany Davis" Title="" />
+		<Credit Person="S.P. Miskowski" Title="" />
+		<Credit Person="Detective Tim Bayliss" Title="" />
+		<Credit Person="Remo Williams the Adventure Begins" Title="" />
+		<Credit Person="OPAH" Title="" />
+		<Credit Person="Netflix" Title="" />
+		<Credit Person="Chocolate Eating Meetings" Title="" />
+		<Credit Person="Mike &amp; Angel McCarthy" Title="" />
+		<Credit Person="Portland, OR" Title="" />
+		<Credit Person="Miles &quot;nun-chucks&quot; Munoz" Title="" />
+		<Credit Person="Head-mounted octopi" Title="" />
+		<Credit Person="Dr. Christy Emerson" Title="" />
+		<Credit Person="Demetrios Georges" Title="" />
+		<Credit Person="Mariam Pessian" Title="" />
+		<Credit Person="Paizo Publishing" Title="" />
+		<Credit Person="Whole Tomato Software" Title="" />
+		<Credit Person="Comic-Con International" Title="" />
+		<Credit Person="Amanda Frost" Title="" />
+		<Credit Person="Christine Mallon" Title="" />
+		<Credit Person="Terry Frost" Title="" />
+		<Credit Person="John Hanson" Title="" />
+		<Credit Person="Colin and Annie Frost" Title="" />
+		<Credit Person="Camille Hanson" Title="" />
+		<Credit Person="Peter S. Choi" Title="" />
+		<Credit Person="David J. Yonehara" Title="" />
+		<Credit Person="Ember Garrett" Title="" />
+		<Credit Person="Ryu Clanton" Title="" />
+		<Credit Person="Jack Dalrymple" Title="" />
+		<Credit Person="Steve Digregorio" Title="" />
+		<Credit Person="The SVT crew" Title="" />
+		<Credit Person="Mom and Dad Hafner" Title="" />
+		<Credit Person="Cynthia Turrietta" Title="" />
+		<Credit Person="Riley Turrietta" Title="" />
+		<Credit Person="Roger and Christina Turrietta" Title="" />
+		<Credit Person="Tammie Siefert" Title="" />
+		<Credit Person="Robert and Joan Eberhart" Title="" />
+		<Credit Person="Dash, Memphis, and Rudy" Title="" />
+		<Credit Person="Michael Defeo" Title="" />
+		<Credit Person="Ryan Kingslien" Title="" />
+		<Credit Person="Anna Coulter" Title="" />
+		<Credit Person="Blanka" Title="" />
+		<Credit Person="Beef noodle soup" Title="" />
+		<Credit Person="Scott &quot;Suchan&quot; Crisostomo" Title="" />
+		<Credit Person="Lisa Mora and Jo Pabon" Title="" />
+		<Credit Person="Joe and Susan Abrego" Title="" />
+		<Credit Person="Eduardo Matos" Title="" />
+		<Credit Person="Dolly Abrego" Title="" />
+		<Credit Person="Sarina Abrego" Title="" />
+		<Credit Person="Deana Abrego" Title="" />
+		<Credit Person="Tiffanie Hearns" Title="" />
+		<Credit Person="Joseph Pabon" Title="" />
+		<Credit Person="Aldo Flores" Title="" />
+		<Credit Person="William Lim" Title="" />
+		<Credit Person="Sandi Williams" Title="" />
+		<Credit Person="Meghan Caritativo" Title="" />
+		<Credit Person="Deanna Lam" Title="" />
+		<Credit Person="Adolfo Lugo" Title="" />
+		<Credit Person="Lani and James Smith" Title="" />
+		<Credit Person="Rachel Noel" Title="" />
+		<Credit Person="Kathy Lynn Turner" Title="" />
+		<Credit Person="Floyd Frederick Brown (1948-2013)" Title="" />
+		<Credit Person="Leslie, Matthew, Kira, and Emmett Osborn," Title="" />
+		<Credit Person="Jazmyne and Trouble" Title="" />
+		<Credit Person="Robert and Amy Turner" Title="" />
+		<Credit Person="Warren and Margie Turner" Title="" />
+		<Credit Person="Donald (1968-2013) and Trina Brown" Title="" />
+		<Credit Person="Cheryl and Terry Farnsworth" Title="" />
+		<Credit Person="Judy and Ozzie Osborn" Title="" />
+		<Credit Person="Abigail Swetz" Title="" />
+		<Credit Person="Alejandro Necochea" Title="" />
+		<Credit Person="Arthur Bruno" Title="" />
+		<Credit Person="Barry Rosenberg" Title="" />
+		<Credit Person="Brian Wilson" Title="" />
+		<Credit Person="Bryn Bennett" Title="" />
+		<Credit Person="Cameron Burns" Title="" />
+		<Credit Person="Eric J. Miller" Title="" />
+		<Credit Person="Jay Targal" Title="" />
+		<Credit Person="Joe Mirabello" Title="" />
+		<Credit Person="Joey Chehade" Title="" />
+		<Credit Person="Kashmir Asvaraksh" Title="" />
+		<Credit Person="Mike Soltoff" Title="" />
+		<Credit Person="Nick Given" Title="" />
+		<Credit Person="Steve Trombley" Title="" />
+		<Credit Person="Tangible Media" Title="" />
+		<Credit Person="Petrol" Title="" />
+		<Credit Person="Hill+Knowlton Strategies" Title="" />
+		<Credit Person="Modus Operandi" Title="" />
+		<Credit Person="FailSafe" Title="" />
+		<Credit Person="Target Media" Title="" />
+		<Credit Person="Bastion" Title="" />
+		<Credit Person="Carolyne Griffin" Title="" />
+		<Credit Person="The Donatelli household" Title="" />
+		<Credit Person="Nancy Duran" Title="" />
+		<Credit Person="The whole PikPok crew" Title="" />
+		<Credit Person="TSFX" Title="" />
+		<Credit Person="The Cosner, Lyons, Anderson, and Lopez Clans" Title="" />
+		<Credit Person="NZ All Blacks" Title="" />
+		<Credit Person="Mom and Dad Starks" Title="" />
+		<Credit Person="Holly Starks" Title="" />
+		<Credit Person="Justin Bucurel" Title="" />
+		<Credit Person="Caffeine" Title="" />
+		<Credit Person="Elsie McQuade" Title="" />
+		<Credit Person="Donna McQuade" Title="" />
+		<Credit Person="Thomas McQuade" Title="" />
+		<Credit Person="Dana Jan" Title="" />
+		<Credit Person="Peanut, and Dalila" Title="" />
+		<Credit Person="George and Barbara Romero" Title="" />
+		<Credit Person="Nick Marks" Title="" />
+		<Credit Person="Eric Elder" Title="" />
+		<Credit Person="Andy Clayton" Title="" />
+		<Credit Person="Mike Williams" Title="" />
+		<Credit Person="Peter Gend" Title="" />
+		<Credit Person="Beau Janzen" Title="" />
+		<Credit Person="Elise Mitchell" Title="" />
+		<Credit Person="Ellen McGuire" Title="" />
+		<Credit Person="Jocelyn Januschka" Title="" />
+		<Credit Person="All of the cats on the internet" Title="" />
+		<Credit Person="The DeMeza family" Title="" />
+		<Credit Person="The Thursday Night D&amp;D Crew" Title="" />
+		<Credit Person="Dr Pepper" Title="" />
+		<Credit Person="Nymeria the Alaskan Klee Kai" Title="" />
+		<Credit Person="Gracie Barra Saddleback" Title="" />
+		<Credit Person="The Paguirigan Clan" Title="" />
+		<Credit Person="Michael Fairbanks" Title="" />
+		<Credit Person="Ty Julian" Title="" />
+		<Credit Person="Jen Yelda" Title="" />
+		<Credit Person="Ana Yelda" Title="" />
+		<Credit Person="The Cairns Family" Title="" />
+		<Credit Person="Celen Pasalar" Title="" />
+		<Credit Person="Nicole Bartlett" Title="" />
+		<Credit Person="Jess &lt;#" Title="" />
+		<Credit Person="Diane &amp; Matt McClain" Title="" />
+		<Credit Person="Paul Walker" Title="" />
+		<Credit Person="Bre and Cuh" Title="" />
+		<Credit Person="Amanda Hale" Title="" />
+		<Credit Person="Baby Hale" Title="" />
+		<Credit Person="Dianne Hale" Title="" />
+		<Credit Person="David Hale" Title="" />
+		<Credit Person="Philip Hale" Title="" />
+		<Credit Person="Norman Hale" Title="" />
+		<Credit Person="Jose G. Escobedo" Title="" />
+		<Credit Person="Charlotte A. Garrison Escobedo" Title="" />
+		<Credit Person="Mark C. Escobedo" Title="" />
+		<Credit Person="Aaron J. Escobedo" Title="" />
+		<Credit Person="Marisol Escobedo Villasenor" Title="" />
+		<Credit Person="Marianne A. Escobedo" Title="" />
+		<Credit Person="Julian A. Escobedo" Title="" />
+		<Credit Person="Barbara L. Garrison" Title="" />
+		<Credit Person="Honey Lovers Jelly Beans" Title="" />
+		<Credit Person="Elise Brit, JP, Gabe and Ashley" Title="" />
+		<Credit Person="Jennifer Riel" Title="" />
+		<Credit Person="Ulises Mendoza" Title="" />
+		<Credit Person="Koosha Hakimi" Title="" />
+		<Credit Person="Michael Parker" Title="" />
+		<Credit Person="Benjamin Batchelder" Title="" />
+		<Credit Person="Matthew Meneghini" Title="" />
+		<Credit Person="Zachary Mitnik" Title="" />
+		<Credit Person="AGDG" Title="" />
+		<Credit Person="Duncan Drummond" Title="" />
+		<Credit Person="Hampshire Game Collective" Title="" />
+		<Credit Person="Michael and Jane Nishball" Title="" />
+		<Credit Person="Amber Ray" Title="" />
+		<Credit Person="Buffy Ray" Title="" />
+		<Credit Person="Brian Kindregan" Title="" />
+		<Credit Person="Lyra Silvertongue" Title="" />
+		<Credit Person="Serafina Pekkala" Title="" />
+		<Credit Person="Pantalaimon" Title="" />
+		<Credit Person="Nick&apos;s Parents" Title="" />
+		<Credit Person="The Behrens family" Title="" />
+		<Credit Person="Helen Koup" Title="" />
+		<Credit Person="Tom, Beth &amp; Brian Koup" Title="" />
+		<Credit Person="Evelyn Fredericksen" Title="" />
+		<Credit Person="Syrildon and Ry&apos;zhara" Title="" />
+		<Credit Person="The Evil Plot Bunny" Title="" />
+		<Credit Person="Veeda Ahmad" Title="" />
+		<Credit Person="Michelle Jurgens-Fyhrie" Title="" />
+		<Credit Person="Gia &amp; Liliana Jurgens-Fyhrie" Title="" />
+		<Credit Person="Harold Clark" Title="" />
+		<Credit Person="Martha Hamelin" Title="" />
+		<Credit Person="Glen and Kristy Virtue" Title="" />
+		<Credit Person="Maxine Lam" Title="" />
+		<Credit Person="The Bloise Family" Title="" />
+		<Credit Person="James, Maureen, Julie, Chris, Ethan and Ainsley" Title="" />
+		<Credit Person="The Amazing Chan Clan: (Chai, Mom, Flavio, Claudine)" Title="" />
+		<Credit Person="The Bades (David, Adriana, Addison, and Cameron)" Title="" />
+		<Credit Person="Team Insanity" Title="" />
+		<Credit Person="Stan Ng" Title="" />
+		<Credit Person="Kisu Kang" Title="" />
+		<Credit Person="Team Holder OC (Steve, Estelle, and Emily)" Title="" />
+		<Credit Person="House Abiva (David, Sue, Emma, and Logan)" Title="" />
+		<Credit Person="Mike &quot;Wolfman&quot; Meeker" Title="" />
+		<Credit Person="Scott &quot;Swillhelm&quot; Williams" Title="" />
+		<Credit Person="Charles McCarter" Title="" />
+		<Credit Person="Keith Rhee" Title="" />
+		<Credit Person="Sammy Matsushima" Title="" />
+		<Credit Person="D Nobes" Title="" />
+		<Credit Person="Brian Glazebrook" Title="" />
+		<Credit Person="James &quot;Wongtaur&quot; Wong" Title="" />
+		<Credit Person="Erin Nakagawa" Title="" />
+		<Credit Person="Linda Dam" Title="" />
+		<Credit Person="Amy Lee" Title="" />
+		<Credit Person="Bao Le" Title="" />
+		<Credit Person="Zabs" Title="" />
+		<Credit Person="Devin &quot;Incorrigible&quot; Curry" Title="" />
+		<Credit Person="Alex Rueda" Title="" />
+		<Credit Person="Grant Jornacion" Title="" />
+		<Credit Person="Vang &amp; Takeko" Title="" />
+		<Credit Person="Jason &amp; Cindy" Title="" />
+		<Credit Person="Shawn &amp; Shiho" Title="" />
+		<Credit Person="Jim, Q, &amp; Jackie (but not Stu J)" Title="" />
+		<Credit Person="Brian &amp; Emmy" Title="" />
+		<Credit Person="Theo &amp; Karen" Title="" />
+		<Credit Person="Marvin &amp; Chin" Title="" />
+		<Credit Person="Rob Stone" Title="" />
+		<Credit Person="Sara Chan" Title="" />
+		<Credit Person="Ann Namie" Title="" />
+		<Credit Person="Crystal Murray" Title="" />
+		<Credit Person="Ana Gonzalez" Title="" />
+		<Credit Person="Robyn Mukai-Koshi" Title="" />
+		<Credit Person="Jen Natsuki Mukai" Title="" />
+		<Credit Person="Sagemotron" Title="" />
+		<Credit Person="Jon Mankin" Title="" />
+		<Credit Person="Imp" Title="" />
+		<Credit Person="NVHS &apos;95 &amp; friends" Title="" />
+		<Credit Person="UC Irvine" Title="" />
+		<Credit Person="CA @ UCI" Title="" />
+		<Credit Person="The Squaresoft Original 7" Title="" />
+		<Credit Person="COMCA$H Tech Support" Title="" />
+		<Credit Person="Team Netjak" Title="" />
+		<Credit Person="The Atlus Crew" Title="" />
+		<Credit Person="Andres, Carlos, Edmundo and all of ACE Team" Title="" />
+		<Credit Person="The L.A. Lakers" Title="" />
+		<Credit Person="A Seleção" Title="" />
+		<Credit Person="Rafael Nadal" Title="" />
+		<Credit Person="They Might be Giants" Title="" />
+		<Credit Person="Spitz" Title="" />
+		<Credit Person="Rakim" Title="" />
+		<Credit Person="Childish Gambino" Title="" />
+		<Credit Person="Dean Cain" Title="" />
+		<Credit Person="The Conover Clan" Title="" />
+		<Credit Person="Michael Skacal" Title="" />
+		<Credit Person="Samantha Skacal" Title="" />
+		<Credit Person="Karly and Annabel Shelton" Title="" />
+		<Credit Person="Twain Martin" Title="" />
+		<Credit Person="Gabbie Morales" Title="" />
+		<Credit Person="The Thompsons" Title="" />
+		<Credit Person="Nana and Papa" Title="" />
+		<Credit Person="Pim Jelinek" Title="" />
+		<Credit Person="Seraphim" Title="" />
+		<Credit Person="Trisha Pack" Title="" />
+		<Credit Person="Amira B." Title="" />
+		<Credit Person="Toady Dog" Title="" />
+		<Credit Person="Spicy Negi Miso Ramen" Title="" />
+		<Credit Person="Josh Flanders (RIP my friend!)" Title="" />
+		<Credit Person="Noel, Olivia, and David" Title="" />
+		<Credit Person="The Trebas Men" Title="" />
+		<Credit Person="Assassin8" Title="" />
+		<Credit Person="Burning Tree Productions" Title="" />
+		<Credit Person="Corrie &amp; Isabelle Piepiora" Title="" />
+		<Credit Person="Remi &amp; Clio Reilly" Title="" />
+		<Credit Person="Patricia Wong" Title="" />
+		<Credit Person="Janice Flaherty" Title="" />
+		<Credit Person="John Wong" Title="" />
+		<Credit Person="Jon Gill" Title="" />
+		<Credit Person="John Dollbaum" Title="" />
+		<Credit Person="Cecilia Dollbaum" Title="" />
+		<Credit Person="Mom, Hoa Moran" Title="" />
+		<Credit Person="Dad, Patrick Moran" Title="" />
+		<Credit Person="Mom, Margaret Dollbaum" Title="" />
+		<Credit Person="Dad, Charles Dollbaum, Jr." Title="" />
+		<Credit Person="James Dollbaum" Title="" />
+		<Credit Person="Helen Dollbaum" Title="" />
+		<Credit Person="Krandor" Title="" />
+		<Credit Person="Taren" Title="" />
+		<Credit Person="Shanthite" Title="" />
+		<Credit Person="Bokchoi" Title="" />
+		<Credit Person="Gundar" Title="" />
+		<Credit Person="Punx" Title="" />
+		<Credit Person="Che" Title="" />
+		<Credit Person="Orph" Title="" />
+		<Credit Person="Rodoge" Title="" />
+		<Credit Person="Kisama" Title="" />
+		<Credit Person="Matricide" Title="" />
+		<Credit Person="Mark Giffin" Title="" />
+		<Credit Person="Team Ice and The HUKs" Title="" />
+		<Credit Person="Harmontown" Title="" />
+		<Credit Person="The Drawing Room" Title="" />
+		<Credit Person="Kelly Ortega" Title="" />
+		<Credit Person="Carol Inman" Title="" />
+		<Credit Person="Ripley, the prettiest corgi ever!" Title="" />
+		<Credit Person="Ike" Title="" />
+		<Credit Person="Lauren AKA Boom" Title="" />
+		<Credit Person="Meredith &amp; Bailey Reyes" Title="" />
+		<Credit Person="Alana &amp; Cooper Reyes" Title="" />
+		<Credit Person="Christine &amp; Brian Bethell" Title="" />
+		<Credit Person="Agustin &amp; Lynn Reyes" Title="" />
+		<Credit Person="Russell &amp; Gaylynn Stringham" Title="" />
+		<Credit Person="Johnnylo, Untold Legacey, FoxRacR17, &amp; SirGreasyPanda" Title="" />
+		<Credit Person="Mary Gorang" Title="" />
+		<Credit Person="Zoe, Clyde, Bono, caffeine and Mr. Duffins" Title="" />
+		<Credit Person="Costco" Title="" />
+		<Credit Person="Bling Cup donors" Title="" />
+		<Credit Person="Sandy Hume" Title="" />
+		<Credit Person="Corgis" Title="" />
+		<Credit Person="Kyle Harrison" Title="" />
+		<Credit Person="Susan Somyung Lee" Title="" />
+		<Credit Person="Strickland family and friends" Title="" />
+		<Credit Person="Priscilla" Title="" />
+		<Credit Person="David" Title="" />
+		<Credit Person="Alexander K Lee + Fam" Title="" />
+		<Credit Person="Andy, Brian" Title="" />
+		<Credit Person="Danny, Thoa, Sophy" Title="" />
+		<Credit Person="Mon, Naka, Mun, Art, Dcho" Title="" />
+		<Credit Person="G. Poff" Title="" />
+		<Credit Person="J. Poff" Title="" />
+		<Credit Person="Deemer&apos;s" Title="" />
+		<Credit Person="Maxwell Kendall" Title="" />
+		<Credit Person="Jennifer Kendall" Title="" />
+		<Credit Person="The Hamer Family" Title="" />
+		<Credit Person="CA/FL family" Title="" />
+		<Credit Person="Brittany" Title="" />
+		<Credit Person="Mom and Dad Hanny" Title="" />
+		<Credit Person="Monkeysquids" Title="" />
+		<Credit Person="Hoverhorses" Title="" />
+		<Credit Person="Aaron and Pickles Frank Hale, V., Esq Hale" Title="" />
+		<Credit Person="Yui Reynolds" Title="" />
+		<Credit Person="Sophie and Arwen" Title="" />
+		<Credit Person="Anissa Wood" Title="" />
+		<Credit Person="Nathan Wood" Title="" />
+		<Credit Person="Alina Tse" Title="" />
+		<Credit Person="Lauren and Loch Justice" Title="" />
+		<Credit Person="Justice and Ortiz Families" Title="" />
+		<Credit Person="#enforcers" Title="" />
+		<Credit Person="Visual Assist X" Title="" />
+		<Credit Person="Danny Noss" Title="" />
+		<Credit Person="Geri Kate Macalino Pearce" Title="" />
+		<Credit Person="Del Taco" Title="" />
+		<Credit Person="Slater&apos;s 50/50" Title="" />
+		<Credit Person="Original Pancake House" Title="" />
+		<Credit Person="Kimberly Kadolph" Title="" />
+		<Credit Person="Adam Moore" Title="" />
+		<Credit Person="Linda Moore" Title="" />
+		<Credit Person="Mike Moore" Title="" />
+		<Credit Person="Allie" Title="" />
+		<Credit Person="Wendy + James" Title="" />
+		<Credit Person="ICS" Title="" />
+		<Credit Person="Jenna Kurtenacker" Title="" />
+		<Credit Person="Lucy and Jack Kurtenacker" Title="" />
+		<Credit Person="Ken and Marianne Kurtenacker" Title="" />
+		<Credit Person="Laura Kurtenacker" Title="" />
+		<Credit Person="Karen and Dan Guerndt" Title="" />
+		<Credit Person="David Lee" Title="" />
+		<Credit Person="Mike Lutz" Title="" />
+		<Credit Person="Amy Luther" Title="" />
+		<Credit Person="Stephen &amp; Madeline Astleford" Title="" />
+		<Credit Person="Chris Coccaro" Title="" />
+		<Credit Person="Robert Williams Sr." Title="" />
+		<Credit Person="Laura Williams" Title="" />
+		<Credit Person="Robert Williams Jr." Title="" />
+		<Credit Person="Jessica Williams" Title="" />
+		<Credit Person="Tony Scafidi" Title="" />
+		<Credit Person="Antonio Scafidi" Title="" />
+		<Credit Person="Dena Young" Title="" />
+		<Credit Person="Myles Young" Title="" />
+		<Credit Person="Plushy Vind" Title="" />
+		<Credit Person="Paul and Leona Cortis" Title="" />
+		<Credit Person="Andrea Pruis" Title="" />
+		<Credit Person="Christine Reasner" Title="" />
+		<Credit Person="Jennifer Muraski" Title="" />
+		<Credit Person="Jordan Coverdale" Title="" />
+		<Credit Person="Kyle Hicks" Title="" />
+		<Credit Person="Kyle Beyerink" Title="" />
+		<Credit Person="Vonda Ford" Title="" />
+		<Credit Person="Grandma Peterson" Title="" />
+		<Credit Person="Kittles" Title="" />
+		<Credit Person="Lucy Young" Title="" />
+		<Credit Person="Marcos" Title="" />
+		<Credit Person="Juan" Title="" />
+		<Credit Person="The Richards family" Title="" />
+		<Credit Person="Annie Lee" Title="" />
+		<Credit Person="LaVon Short" Title="" />
+		<Credit Person="Lulu" Title="" />
+		<Credit Person="Roshini Das" Title="" />
+		<Credit Person="Eshan Vijay" Title="" />
+		<Credit Person="Klimas Family" Title="" />
+		<Credit Person="Erin Loelius" Title="" />
+		<Credit Person="Motisko Family" Title="" />
+		<Credit Person="LaVon Short" Title="" />
+		<Credit Person="... Et Long souhaiterait remercier sa [bip]." Title="" />
+	</Group>
+	<Group Name="FONDATEURS">
+	</Group>
+	<Group Name="Carbine Studios a été fondé par :">
+		<Credit Person="Loren McQuade" Title="" />
+		<Credit Person="Solomon Lee" Title="" />
+		<Credit Person="Eric Henze" Title="" />
+		<Credit Person="Tami Harrison" Title="" />
+		<Credit Person="Kevin Beardslee" Title="" />
+		<Credit Person="Kyle Harrison" Title="" />
+		<Credit Person="Adam Byrne" Title="" />
+		<Credit Person="Scott Hartin" Title="" />
+		<Credit Person="Brandon Idol" Title="" />
+		<Credit Person="Jason Hayes" Title="" />
+	</Group>
+	<Group Name="Utilisation de Bink Video. Copyright © 1997-2014 par RAD Game Tools, Inc.">
+		<Credit Image="BinkLogo"/>
+ 	</Group>
+	<Group Name="Réalisé avec Wwise © 2006 - 2014 Audiokinetic Inc. Tous droits réservés.">
+		<Credit Image="WWiseLogo"/>
+ 		<Credit Image="CarbineLogo"/>
+ 		<Credit Image="NCSoftLogo"/>
+ 	</Group>
+</Credits>

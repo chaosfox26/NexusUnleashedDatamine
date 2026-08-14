@@ -1,0 +1,7 @@
+# Static object placements for MiningMicroCrimsonBadlands, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/MiningMicroCrimsonBadlands/miningmicrocrimsonbadlands.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	9.6703	-1214.6700	-183.9903	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroCrimsonBadlands/miningmicrocrimsonbadlands.3f40.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	9.6703	-1214.6700	-183.9903	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroCrimsonBadlands/miningmicrocrimsonbadlands.403f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	9.6703	-1214.6700	-183.9903	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroCrimsonBadlands/miningmicrocrimsonbadlands.4040.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	9.6703	-1214.6700	-183.9903	0.000000	0.000000	0.000000	1.000000

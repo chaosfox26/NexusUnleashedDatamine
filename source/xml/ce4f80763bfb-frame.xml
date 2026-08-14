@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="PropPicker" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="PropPicker" position.height="480" position.relative="0" position.width="640" position.x="640" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetProp_Name[]" target="Array" targetname="SetProp_Name" />
+    <input-redirect source="SetProp_Rows" target="Array" targetname="SetRows" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="18" position.relative="0" position.width="632" position.x="3" position.y="2" Text="Prop Picker" TextID="0" TXDName="Text" visible="1" />
+    <control class="Array" child.cols="2147483647" child.form="UI\_OLD\Genesis\PropPickerElement.form" child.height="0" child.rows="2147483647" child.width="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Array" position.height="354" position.relative="0" position.width="490" position.x="5" position.y="26" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="Array" visible="1">
+        <array-redirect source="OnProp_Select" target="PropPicker" targetname="OnProp_Select[]" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="okay" position.height="18" position.relative="0" position.width="64" position.x="500" position.y="454" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Okay" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="PropPicker" targetname="OnOkay" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="cancel" position.height="18" position.relative="0" position.width="64" position.x="567" position.y="455" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Cancel" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="PropPicker" targetname="OnCancel" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="keywords" position.height="18" position.relative="0" position.width="340" position.x="73" position.y="454" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="PropPicker" targetname="OnKeyword_Change" />
+        <output-redirect source="OnEditBoxChange" target="PropPicker" targetname="OnKeyword_Change" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text1" position.height="17" position.relative="0" position.width="62" position.x="10" position.y="453" Text="Keywords" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="refresh" position.height="18" position.relative="0" position.width="64" position.x="420" position.y="452" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Refresh" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="PropPicker" targetname="OnRefresh" />
+    </control>
+</frame>

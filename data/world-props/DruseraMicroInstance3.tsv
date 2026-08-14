@@ -1,0 +1,7 @@
+# Static object placements for DruseraMicroInstance3, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/DruseraMicroInstance3/DruseraMicroInstance3.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_03_000_STR_Drusera_03_000.dgn	-6.6308	0.0000	-228.0956	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance3/DruseraMicroInstance3.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_03_000_STR_Drusera_03_000.dgn	-6.6308	0.0000	-228.0956	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance3/DruseraMicroInstance3.403f.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_03_000_STR_Drusera_03_000.dgn	-6.6308	0.0000	-228.0956	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance3/DruseraMicroInstance3.4040.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_03_000_STR_Drusera_03_000.dgn	-6.6308	0.0000	-228.0956	0.000000	0.000000	0.000000	1.000000

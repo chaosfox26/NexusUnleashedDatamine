@@ -1,0 +1,9 @@
+# Static object placements for TruthboundAscendancy, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/TruthboundAscendancy/TruthboundAscendancy.403f.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_004_STR_Exolab_004.dgn	0.8403	-226.4740	3.5539	0.000000	0.000000	0.000000	1.000000
+Map/TruthboundAscendancy/TruthboundAscendancy.4040.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_004_STR_Exolab_004.dgn	0.8403	-226.4740	3.5539	0.000000	0.000000	0.000000	1.000000
+Map/TruthboundAscendancy/TruthboundAscendancy.4040.area	1	Art\Prop\Constructed\Door\Eldan\PRP_Door_IrisEldanMicro_000.m3	44.1193	-228.2103	82.6075	0.000000	0.000000	0.000000	1.000000
+Map/TruthboundAscendancy/TruthboundAscendancy.4040.area	2	Art\Prop\Constructed\Door\Eldan\PRP_Door_IrisEldanMicro_001.m3	44.1193	-228.2103	82.6075	0.000000	0.000000	0.000000	1.000000
+Map/TruthboundAscendancy/TruthboundAscendancy.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_004_STR_Exolab_004.dgn	0.8403	-226.4740	3.5539	0.000000	0.000000	0.000000	1.000000
+Map/TruthboundAscendancy/TruthboundAscendancy.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_004_STR_Exolab_004.dgn	0.8403	-226.4740	3.5539	0.000000	0.000000	0.000000	1.000000

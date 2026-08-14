@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="LayerEditor" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="LayerEditor" position.height="443" position.relative="0" position.width="384" position.x="600" position.y="300" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="DisableNext" target="next" targetname="Hide" />
+    <input-redirect source="DisablePrev" target="prev" targetname="Hide" />
+    <input-redirect source="DisableSave" target="save" targetname="Hide" />
+    <input-redirect source="EnableNext" target="next" targetname="UnHide" />
+    <input-redirect source="EnablePrev" target="prev" targetname="UnHide" />
+    <input-redirect source="EnableSave" target="save" targetname="UnHide" />
+    <input-redirect source="MaterialType_AddItem" target="materialtype" targetname="AddItem" />
+    <input-redirect source="MaterialType_Clear" target="materialtype" targetname="Clear" />
+    <input-redirect source="Projection_AddItem" target="projection" targetname="AddItem" />
+    <input-redirect source="Projection_Clear" target="projection" targetname="Clear" />
+    <input-redirect source="SetAverageColor" target="averagecolor" targetname="SetText" />
+    <input-redirect source="SetColorMapFileName" target="colormapicon" targetname="SetImage" />
+    <input-redirect source="SetColorMapInfo" target="colormapinfo" targetname="SetText" />
+    <input-redirect source="SetHeightOffset" target="heightoffset" targetname="SetText" />
+    <input-redirect source="SetHeightScale" target="heightscale" targetname="SetText" />
+    <input-redirect source="SetID" target="id" targetname="SetText" />
+    <input-redirect source="SetMaterialType" target="materialtype" targetname="SelectItemByData" />
+    <input-redirect source="SetName" target="name" targetname="SetText" />
+    <input-redirect source="SetNormalMapFileName" target="normalmapicon" targetname="SetImage" />
+    <input-redirect source="SetNormalMapInfo" target="normalmapinfo" targetname="SetText" />
+    <input-redirect source="SetParallaxOffset" target="parallaxoffset" targetname="SetText" />
+    <input-redirect source="SetParallaxScale" target="parallaxscale" targetname="SetText" />
+    <input-redirect source="SetProjection" target="projection" targetname="SelectItem" />
+    <input-redirect source="SetTextureTile" target="meterspertexturetile" targetname="SelectItem" />
+    <input-redirect source="TextureTile_AddItem" target="meterspertexturetile" targetname="AddItem" />
+    <input-redirect source="TextureTile_Clear" target="meterspertexturetile" targetname="Clear" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="new" position.height="18" position.relative="0" position.width="36" position.x="270" position.y="26" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="New" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnNew" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="save" position.height="18" position.relative="0" position.width="36" position.x="228" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Save" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnSave" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="next" position.height="18" position.relative="0" position.width="36" position.x="336" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Next" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnNext" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="prev" position.height="18" position.relative="0" position.width="36" position.x="7" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Prev" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnPrev" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="18" position.relative="0" position.width="522" position.x="8" position.y="2" Text="World Layer Editor" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="id" position.height="18" position.relative="0" position.width="161" position.x="56" position.y="27" Text="ID: " TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text2" position.height="21" position.relative="0" position.width="44" position.x="13" position.y="46" Text="Name:" TextID="0" TXDName="Text" visible="1" />
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="name" position.height="18" position.relative="0" position.width="313" position.x="59" position.y="51" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="LayerEditor" targetname="OnChangeName" />
+        <output-redirect source="OnEditBoxChange" target="LayerEditor" targetname="OnChangeName" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="heightscale" position.height="18" position.relative="0" position.width="80" position.x="100" position.y="74" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="LayerEditor" targetname="OnChangeHeightScale" />
+        <output-redirect source="OnEditBoxChange" target="LayerEditor" targetname="OnChangeHeightScale" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="heightoffset" position.height="18" position.relative="0" position.width="80" position.x="100" position.y="95" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="LayerEditor" targetname="OnChangeHeightOffset" />
+        <output-redirect source="OnEditBoxChange" target="LayerEditor" targetname="OnChangeHeightOffset" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="parallaxscale" position.height="18" position.relative="0" position.width="80" position.x="288" position.y="74" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="LayerEditor" targetname="OnChangeParallaxScale" />
+        <output-redirect source="OnEditBoxChange" target="LayerEditor" targetname="OnChangeParallaxScale" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="parallaxoffset" position.height="18" position.relative="0" position.width="80" position.x="289" position.y="98" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="LayerEditor" targetname="OnChangeParallaxOffset" />
+        <output-redirect source="OnEditBoxChange" target="LayerEditor" targetname="OnChangeParallaxOffset" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text3" position.height="18" position.relative="0" position.width="80" position.x="17" position.y="74" Text="Height Scale" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text4" position.height="18" position.relative="0" position.width="80" position.x="17" position.y="95" Text="Height Offset" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text5" position.height="18" position.relative="0" position.width="80" position.x="197" position.y="73" Text="Parallax Scale" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text6" position.height="18" position.relative="0" position.width="80" position.x="194" position.y="97" Text="Parallax Offset" TextID="0" TXDName="Text" visible="1" />
+    <control class="TextListBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="meterspertexturetile" position.height="75" position.relative="0" position.width="80" position.x="99" position.y="119" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="ListBox" visible="1">
+        <output-redirect source="OnItemSelect" target="LayerEditor" targetname="OnPickTextureTile" />
+    </control>
+    <control class="TextListBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="projection" position.height="71" position.relative="0" position.width="80" position.x="286" position.y="121" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="ListBox" visible="1">
+        <output-redirect source="OnItemSelect" target="LayerEditor" targetname="OnPickProjection" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text7" position.height="18" position.relative="0" position.width="80" position.x="17" position.y="121" Text="Texture Tile" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text8" position.height="18" position.relative="0" position.width="80" position.x="191" position.y="121" Text="Projection" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="colormap" position.height="140" position.relative="0" position.width="140" position.x="16" position.y="207" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnPickColorMap" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="normalmap" position.height="140" position.relative="0" position.width="140" position.x="229" position.y="210" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnPickNormalMap" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text9" position.height="18" position.relative="0" position.width="79" position.x="47" position.y="189" Text="Color Map:" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text10" position.height="19" position.relative="0" position.width="68" position.x="259" position.y="190" Text="Normal Map:" TextID="0" TXDName="Text" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="colormapicon" position.height="128" position.relative="0" position.width="128" position.x="20" position.y="211" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="normalmapicon" position.height="128" position.relative="0" position.width="128" position.x="234" position.y="216" TXDName="Icon" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="colormapinfo" position.height="18" position.relative="0" position.width="160" position.x="6" position.y="351" Text="--colormapinfo--" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="normalmapinfo" position.height="18" position.relative="0" position.width="180" position.x="196" position.y="352" Text="--normalmapinfo--" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text11" position.height="22" position.relative="0" position.width="89" position.x="18" position.y="387" Text="Average Color:" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="averagecolor" position.height="18" position.relative="0" position.width="119" position.x="115" position.y="391" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="RGB color" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnPickAverageColor" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="okay" position.height="18" position.relative="0" position.width="48" position.x="271" position.y="416" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Okay" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnOkay" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="cancel" position.height="18" position.relative="0" position.width="48" position.x="325" position.y="416" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Cancel" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnCancel" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text1" position.height="18" position.relative="0" position.width="80" position.x="17" position.y="151" Text="Material Type:" TextID="0" TXDName="Text" visible="1" />
+    <control class="TextListBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="materialtype" position.height="141" position.relative="0" position.width="230" position.x="99" position.y="153" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="ListBox" visible="1">
+        <output-redirect source="OnItemSelect" target="LayerEditor" targetname="OnPickMaterialType" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="newmaterial" position.height="22" position.relative="0" position.width="36" position.x="334" position.y="153" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="New" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="LayerEditor" targetname="OnNewMaterial" />
+    </control>
+</frame>

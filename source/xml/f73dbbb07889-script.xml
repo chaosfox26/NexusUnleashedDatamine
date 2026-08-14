@@ -1,0 +1,8 @@
+	<!-- Play -->
+	<script id='tpl-play' type="text/x-handlebars-template">
+	    <div>
+	        <input id="playButton" type="button" onclick="app.Play();" value="Play" disabled="disabled">
+	        <a href="http://www.google.com">Link</a>
+	    </div>
+	</script>
+

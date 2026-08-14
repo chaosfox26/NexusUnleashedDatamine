@@ -1,0 +1,26 @@
+Id	LocalizedTextIdTitle	LocalizedTextIdDescription	LuaSprite	LuaName	PurchaseInfluenceCost	ActivateInfluenceCost	Spell4IdActivate	GuildPerkIdRequired00	GuildPerkIdRequired01	GuildPerkIdRequired02	AchievementIdRequired
+3	391597	391598	ClientSprites:Icon_Guild_UI_Guild_Hand	BankTab2	250000	0	0	36	0	0	0
+6	402633	402634	IconSprites:Icon_BuffDebuff_Path_XP_Buff		2000000	150000	43323	35	0	0	0
+7	410970	410971	ClientSprites:Icon_Guild_UI_Guild_Hand	BankTab3	500000	0	0	3	0	0	0
+8	413601	413602	ClientSprites:Icon_Guild_UI_Guild_Hand	BankTab4	750000	0	0	7	0	0	0
+9	413604	413605	ClientSprites:Icon_Guild_UI_Guild_Hand	BankTab5	1000000	0	0	8	0	0	0
+10	429430	429431	IconSprites:Icon_BuffDebuff_Daily_Buffs		200000	150000	45838	0	0	0	0
+16	432987	432988	IconSprites:Icon_CraftingUI_Item_Crafting_Bottle_OliveOil		300000	0	0	0	0	0	2948
+17	432994	432995	IconSprites:Icon_BuffDebuff_Physical_Proc		450000	150000	44997	31	0	0	0
+18	432999	433000	IconSprites:Icon_BuffDebuff_Reputation_Increase_Buff		400000	150000	44998	32	0	0	0
+19	433023	433024	IconSprites:Icon_BuffDebuff_Spiritual		600000	150000	45834	33	0	0	0
+20	433025	433026	IconSprites:Icon_BuffDebuff_Money_Loot_Drop_Increase_Buff		950000	150000	45835	34	0	0	3096
+21	433057	433058	IconSprites:Icon_CraftingUI_Item_Crafting_BottleWine		500000	0	0	32	0	0	2956
+22	433061	433062	IconSprites:Icon_CraftingUI_Item_Crafting_Bottle_FireSauce		850000	0	0	34	0	0	0
+23	433111	433112	IconSprites:Icon_TradeskillTech_bottleofliquidG		650000	0	0	33	0	0	0
+25	433139	433140	IconSprites:Icon_TradeskillTech_bottleofliquidB		600000	0	0	33	0	0	2955
+27	433184	433185	IconSprites:Icon_ItemMisc_UI_Item_Chest		150000	25000	52770	0	0	0	0
+28	433194	433195	IconSprites:Icon_TradeskillTalent_Mobile_Repair_Station		500000	50000	52787	32	0	0	2949
+29	433216	433217	IconSprites:Icon_ItemMisc_UI_Item_Potion_001		2000000	0	0	35	0	0	0
+31	435392	435393	IconSprites:Icon_ItemMisc_UI_Item_Potion_001	Tier2Unlock	300000	0	0	0	0	0	0
+32	435394	435395		Tier3Unlock	450000	0	0	0	0	0	0
+33	435396	435397		Tier4Unlock	600000	0	0	0	0	0	0
+34	435398	435399		Tier5Unlock	750000	0	0	0	0	0	0
+35	435400	435401		Tier6Unlock	900000	0	0	0	0	0	0
+36	459787	459788	ClientSprites:Icon_Guild_UI_Guild_Hand	BankTab1	100000	0	0	0	0	0	0
+37	482734	482735	IconSprites:Icon_TradeskillTech_bottleofliquidG		300000	0	0	31	0	0	0

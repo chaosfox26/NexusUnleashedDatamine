@@ -1,0 +1,18 @@
+Id	WorldWaterFogId	SurfaceType	ParticleFile	SoundDirectionalAmbienceId
+1	2	0	Art\FX\Model\Particulates\Water\Water_Ocean.m3	0
+2	3	1	Art\FX\Model\Particulates\Water\Water_RoaringRiver.m3	0
+3	4	1	Art\FX\Model\Particulates\Water\Water_CalmRiver.m3	0
+4	5	1	Art\FX\Model\Particulates\Water\Water_Tar.m3	0
+5	6	1	Art\FX\Model\Particulates\Water\Water_Lake.m3	0
+6	7	1	Art\FX\Model\Particulates\Water\Water_PoisonLake.m3	0
+7	8	1	Art\FX\Model\Particulates\Water\Water_Still_LakePond.m3	0
+8	9	1	Art\FX\Model\Particulates\Water\Water_Lava.m3	0
+9	10	1	Art\FX\Model\Particulates\Water\Water_Still_LakePond2.m3	0
+10	11	1	Art\FX\Model\Particulates\Water\Water_PoisonLake.m3	0
+11	1	0		0
+12	2	0		0
+13	2	0		0
+14	2	0		0
+15	1	0	Art\Sky\Particulates\Sky_Particulates_SimplePollen.m3	0
+16	1	0	Art\Sky\Particulates\Sky_Particulates_SimplePollen.m3	0
+17	8	1	Art\Sky\Particulates\Sky_Particulates_SimplePollen.m3	0

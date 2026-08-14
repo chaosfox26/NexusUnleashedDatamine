@@ -1,0 +1,16 @@
+	<!-- The big buttons -->
+	<script id='tpl-bigButtons' type="text/x-handlebars-template">
+		<div class="actions">
+			{{#each buttons}}
+				<!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+			    <button id='{{this.id}}' class="{{this.class}}" type='button'>{{{this.buttonText}}}</button>
+			{{/each}}
+		</div>
+
+		<!-- LOGO -->
+		<div class='brand'>
+			<img src='asset://Launcher/assets/ws_launcher_logo_ncsoft.png'>
+			<img src='asset://Launcher/assets/ws_launcher_logo_carbine.png'>
+		</div>
+	</script>
+

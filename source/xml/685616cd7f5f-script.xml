@@ -1,0 +1,7 @@
+
+
+	<script id='tpl-splash' type="text/x-handlebars-template">
+	    <div id='splash'></div>
+	</script>
+
+

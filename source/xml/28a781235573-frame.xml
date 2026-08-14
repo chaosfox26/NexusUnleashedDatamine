@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="SelectionDialog" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="SelectionDialog" position.height="52" position.relative="0" position.width="200" position.x="700" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetSelectionRestrict" target="Restrict" targetname="SetChecked" />
+    <input-redirect source="UnsetSelectionRestrict" target="Restrict" targetname="UnsetChecked" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="18" position.relative="0" position.width="192" position.x="8" position.y="4" Text="Selection" TextID="0" TXDName="Text" visible="1" />
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="AffectAll" position.height="18" position.relative="0" position.width="32" position.x="152" position.y="26" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Affect All" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheck" target="SelectionDialog" targetname="OnSetSelectionAffectAll" />
+        <output-redirect source="OnUncheck" target="SelectionDialog" targetname="OnUnsetSelectionAffectAll" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Clear" position.height="18" position.relative="0" position.width="32" position.x="11" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Clear" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="SelectionDialog" targetname="OnSetSelectionClear" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Restrict" position.height="18" position.relative="0" position.width="32" position.x="76" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Restrict" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="SelectionDialog" targetname="OnToggleSelectionRestrict" />
+    </control>
+</frame>

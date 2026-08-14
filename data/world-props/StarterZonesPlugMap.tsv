@@ -1,0 +1,17 @@
+# Static object placements for StarterZonesPlugMap, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	0	Art\Prop\Constructed\WalkWays\SanctuaryCommon\PRP_SideWalk_SanctuaryCommonStraight_Brown_001.m3	-32525.5977	-1024.9358	-32523.6699	0.627300	0.285981	0.637146	0.344608
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	1	Art\Prop\Constructed\WalkWays\SanctuaryCommon\PRP_SideWalk_SanctuaryCommonStraight_Brown_001.m3	-32521.2188	-1025.1110	-32523.6250	0.640893	0.311847	0.624893	0.318615
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	2	Art\Prop\Constructed\WalkWays\SanctuaryCommon\PRP_SideWalk_SanctuaryCommonStraight_Brown_001.m3	-32519.6621	-1025.5472	-32526.2266	0.901102	0.422901	0.053274	0.079569
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	3	Art\Prop\Constructed\Canopy\SanctuaryCommon\PRP_Canopy_SCShantyTarp_Grey_000.m3	-32525.8672	-1026.3966	-32528.1953	0.000000	0.999979	0.000000	0.006555
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	4	Art\Prop\Constructed\Walls\Generic\PRP_Brace_RetainingWall_002.m3	-32531.9414	-1025.2513	-32530.0469	0.000000	-0.740373	0.000000	0.672196
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	5	Art\Prop\Constructed\Floors\Eldan\PRP_Floor_Pod_FuelRods_001.m3	-32533.3242	-1024.9103	-32536.2988	-0.140681	0.854002	-0.073605	0.495451
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	6	Art\Prop\Constructed\Floors\Eldan\PRP_Floor_Pod_FuelRods_001.m3	-32521.7305	-1026.5818	-32525.3242	0.089914	0.947347	0.032930	-0.305556
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	7	Art\Prop\Constructed\Bags\Lopp\PRP_Bag_GenericBag_GroupofThree_Gray_000.m3	-32520.9531	-1026.9387	-32527.0039	0.026601	0.995323	-0.071291	-0.059520
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	8	Art\Prop\Constructed\Shovel\PRP_Shovel_MedSpade_BrownGrey_000.m3	-32521.2441	-1026.4917	-32528.3125	0.489870	0.191344	-0.111159	0.843243
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	9	Art\Prop\Constructed\Tools\Ladder\PRP_Tools_Ladder_Tan_000.m3	-32529.7773	-1026.1030	-32530.8164	-0.052153	0.655704	0.045484	0.751840
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	10	Art\Prop\Constructed\Crate\PRP_Crate_ImperiumAmmoLong_Black_000.m3	-32523.6523	-1026.5906	-32525.1172	-0.065685	-0.649835	-0.024594	0.756832
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	11	Art\Prop\Constructed\Crate\PRP_Crate_ImperiumAmmoLong_Black_000.m3	-32523.5781	-1026.1232	-32525.0273	-0.068740	-0.760997	-0.013935	0.644953
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	12	Art\Prop\Constructed\Shovel\PRP_Shovel_MedSpade_BrownGrey_000.m3	-32529.6406	-1025.4659	-32529.5566	0.470240	-0.401650	0.265068	0.739792
+Map/StarterZonesPlugMap/StarterZonesPlugMap.0000.area	13	Art\Prop\Constructed\Generator\Eldan\PRP_Eldan_Generator_001.m3	-32525.3125	-1029.3591	-32529.1543	0.000000	0.000000	0.000000	1.000000

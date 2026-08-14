@@ -1,0 +1,7 @@
+# Static object placements for MiningMicroAuroria, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/MiningMicroAuroria/miningmicroauroria.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	17.5534	-1212.8226	-206.1779	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroAuroria/miningmicroauroria.3f40.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	17.5534	-1212.8226	-206.1779	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroAuroria/miningmicroauroria.403f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	17.5534	-1212.8226	-206.1779	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroAuroria/miningmicroauroria.4040.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_007_STR_NaturalCave_007.dgn	17.5534	-1212.8226	-206.1779	0.000000	0.000000	0.000000	1.000000

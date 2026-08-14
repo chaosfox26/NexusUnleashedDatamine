@@ -1,0 +1,3976 @@
+[
+ {
+  "ext": ".wem",
+  "files": 83462,
+  "bytes": 5561869421,
+  "magic": "RIFF",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x46464952 (1179011410) = 'RIFF'"
+   ],
+   [
+    1,
+    "tracks size",
+    "r=1.000 with file size over 83462 files"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x45564157 (1163280727) = 'WAVE'"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x20746d66 (544501094) = 'fmt '"
+   ],
+   [
+    4,
+    "small set",
+    "2 distinct, max 66: 66(x83141), 24(x321)"
+   ],
+   [
+    5,
+    "varies",
+    "5 distinct, range 65538..458751"
+   ],
+   [
+    6,
+    "varies",
+    "2 distinct, range 44100..48000"
+   ],
+   [
+    7,
+    "varies",
+    "10683 distinct, range 585..78375"
+   ],
+   [
+    8,
+    "varies",
+    "3 distinct, range 0..262216"
+   ],
+   [
+    9,
+    "varies",
+    "5 distinct, range 6..1572912"
+   ],
+   [
+    10,
+    "small set",
+    "3 distinct, max 63: 4(x55247), 3(x28213), 63(x2)"
+   ],
+   [
+    11,
+    "varies",
+    "67352 distinct, range 128..1819307379"
+   ],
+   [
+    12,
+    "varies",
+    "9 distinct, range 4..7116"
+   ],
+   [
+    13,
+    "varies",
+    "48538 distinct, range 0..1082108859"
+   ],
+   [
+    14,
+    "varies",
+    "1027 distinct, range 0..1635017060"
+   ],
+   [
+    15,
+    "varies",
+    "617 distinct, range 0..3456000"
+   ],
+   [
+    16,
+    "varies",
+    "564 distinct, range 0..1635017060"
+   ],
+   [
+    17,
+    "varies",
+    "52847 distinct, range 0..3978019191"
+   ],
+   [
+    18,
+    "varies",
+    "144 distinct, range 0..3927192353"
+   ],
+   [
+    19,
+    "varies",
+    "194 distinct, range 0..4236460561"
+   ],
+   [
+    20,
+    "varies",
+    "182 distinct, range 0..3966356248"
+   ],
+   [
+    21,
+    "varies",
+    "184 distinct, range 0..4271472640"
+   ],
+   [
+    22,
+    "varies",
+    "42457 distinct, range 0..4294926708"
+   ],
+   [
+    23,
+    "varies",
+    "431 distinct, range 0..4183007240"
+   ]
+  ],
+  "chunks": [
+   [
+    "RIFF",
+    83362
+   ],
+   [
+    "WAVE",
+    83361
+   ],
+   [
+    "B5PT",
+    27471
+   ],
+   [
+    "C34C",
+    3377
+   ],
+   [
+    "C3C3",
+    2767
+   ],
+   [
+    "CC34",
+    2565
+   ],
+   [
+    "C343",
+    2316
+   ],
+   [
+    "C344",
+    2006
+   ]
+  ],
+  "vocab": [
+   [
+    "WAVEfmt",
+    83462
+   ],
+   [
+    "00..-",
+    27468
+   ],
+   [
+    "AbB5PTL",
+    27468
+   ],
+   [
+    "2BRbr",
+    1272
+   ],
+   [
+    "Tempo",
+    415
+   ],
+   [
+    "adtllabl",
+    339
+   ],
+   [
+    "RIFF8",
+    233
+   ],
+   [
+    "RIFFb",
+    201
+   ],
+   [
+    "datax",
+    199
+   ],
+   [
+    "RIFFH",
+    199
+   ]
+  ]
+ },
+ {
+  "ext": ".tex",
+  "files": 61857,
+  "bytes": 8097187519,
+  "magic": "58464700",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x00474658 (4671064)"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000003 (3)"
+   ],
+   [
+    2,
+    "varies",
+    "527 distinct, range 1..2048"
+   ],
+   [
+    3,
+    "varies",
+    "406 distinct, range 1..2048"
+   ],
+   [
+    4,
+    "small set",
+    "2 distinct, max 16: 1(x61771), 16(x86)"
+   ],
+   [
+    5,
+    "small set",
+    "2 distinct, max 6: 1(x61579), 6(x278)"
+   ],
+   [
+    6,
+    "small set",
+    "11 distinct, max 12: 10(x16667), 11(x13156), 9(x10784), 1(x10514), 7(x8571), 8(x1889)"
+   ],
+   [
+    7,
+    "small set",
+    "7 distinct, max 18: 0(x42321), 13(x9047), 6(x5384), 15(x3684), 1(x1404), 5(x15)"
+   ],
+   [
+    8,
+    "small set",
+    "2 distinct, max 1: 1(x38686), 0(x23171)"
+   ],
+   [
+    9,
+    "small set",
+    "3 distinct, max 2: 0(x36622), 1(x13073), 2(x12162)"
+   ],
+   [
+    10,
+    "varies",
+    "4 distinct, range 0..1543503964"
+   ],
+   [
+    11,
+    "varies",
+    "4 distinct, range 0..21692416"
+   ],
+   [
+    12,
+    "varies",
+    "72 distinct, range 0..4278275071"
+   ],
+   [
+    13,
+    "small set",
+    "11 distinct, max 12: 0(x23171), 11(x12740), 9(x10476), 10(x9701), 7(x3853), 8(x1760)"
+   ],
+   [
+    14,
+    "small set",
+    "2 distinct, max 16: 16(x38686), 0(x23171)"
+   ],
+   [
+    15,
+    "small set",
+    "8 distinct, max 112: 0(x23171), 32(x14622), 16(x13643), 48(x7966), 64(x2001), 80(x352)"
+   ],
+   [
+    16,
+    "small set",
+    "10 distinct, max 144: 0(x23171), 48(x9393), 64(x9151), 32(x8229), 16(x6301), 80(x3955)"
+   ],
+   [
+    17,
+    "varies",
+    "28 distinct, range 0..448"
+   ],
+   [
+    18,
+    "varies",
+    "68 distinct, range 0..1104"
+   ],
+   [
+    19,
+    "varies",
+    "190 distinct, range 0..3424"
+   ],
+   [
+    20,
+    "varies",
+    "557 distinct, range 0..10896"
+   ],
+   [
+    21,
+    "varies",
+    "1469 distinct, range 0..31136"
+   ],
+   [
+    22,
+    "varies",
+    "3737 distinct, range 0..101200"
+   ],
+   [
+    23,
+    "varies",
+    "6869 distinct, range 0..407904"
+   ]
+  ],
+  "chunks": [
+   [
+    "VVVV",
+    445626
+   ],
+   [
+    "ZZZZ",
+    77140
+   ],
+   [
+    "FRFR",
+    69432
+   ],
+   [
+    "YYYY",
+    54531
+   ],
+   [
+    "XXXX",
+    50090
+   ],
+   [
+    "PPPP",
+    39271
+   ],
+   [
+    "TTTT",
+    35284
+   ],
+   [
+    "YYUU",
+    35080
+   ]
+  ],
+  "vocab": [
+   [
+    "1TTTT",
+    4122
+   ],
+   [
+    "9pppp",
+    4097
+   ],
+   [
+    "1pppp",
+    2125
+   ],
+   [
+    "VVVVV",
+    674
+   ],
+   [
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV",
+    629
+   ],
+   [
+    "V\\XpA",
+    606
+   ],
+   [
+    "iRhJU",
+    576
+   ],
+   [
+    "ZBBBB",
+    542
+   ],
+   [
+    "2\\_UU",
+    535
+   ],
+   [
+    "UUUnk",
+    520
+   ]
+  ]
+ },
+ {
+  "ext": ".m3",
+  "files": 34568,
+  "bytes": 6567530279,
+  "magic": "LDOM",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x4d4f444c (1297040460) = 'LDOM'"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000064 (100)"
+   ],
+   [
+    2,
+    "small set",
+    "2 distinct, max 1: 1(x34548), 0(x20)"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    4,
+    "varies",
+    "88 distinct, range 1..629"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "varies",
+    "31 distinct, range 0..77"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "varies",
+    "107 distinct, range 0..70928"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "varies",
+    "135 distinct, range 0..71248"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "small set",
+    "12 distinct, max 110: 0(x34516), 1(x24), 6(x13), 4(x6), 14(x2), 28(x1)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "varies",
+    "41 distinct, range 0..51248"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    18,
+    "varies",
+    "41 distinct, range 0..51360"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "small set",
+    "8 distinct, max 14: 0(x34553), 6(x5), 4(x3), 1(x3), 9(x1), 8(x1)"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    22,
+    "varies",
+    "12 distinct, range 0..15328"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x00000000 (0)"
+   ]
+  ],
+  "chunks": [
+   [
+    "LDOM",
+    33868
+   ],
+   [
+    "CK9C",
+    901
+   ],
+   [
+    "W8W8",
+    828
+   ],
+   [
+    "C8C8",
+    735
+   ],
+   [
+    "U8U8",
+    688
+   ],
+   [
+    "V8V8",
+    523
+   ],
+   [
+    "V8Z8",
+    521
+   ],
+   [
+    "K8K8",
+    515
+   ]
+  ],
+  "vocab": [
+   [
+    "LDOMd",
+    34568
+   ],
+   [
+    "03mB03mB03mB",
+    1881
+   ],
+   [
+    "B03mB",
+    437
+   ],
+   [
+    "7R9e9",
+    437
+   ],
+   [
+    "8\\8\\8",
+    322
+   ],
+   [
+    "8/Af9",
+    319
+   ],
+   [
+    "Sj69j",
+    316
+   ],
+   [
+    "C8C8C8C",
+    314
+   ],
+   [
+    "03SC03SC",
+    298
+   ],
+   [
+    "9_9_9",
+    282
+   ]
+  ]
+ },
+ {
+  "ext": ".area",
+  "files": 11651,
+  "bytes": 13511556748,
+  "magic": "aera",
+  "fields": [
+   [
+    0,
+    "varies",
+    "2 distinct, range 1095910721..1634887009"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x43484e4b (1128812107) = 'KNHC'"
+   ],
+   [
+    3,
+    "tracks size",
+    "r=1.000 with file size over 11651 files"
+   ],
+   [
+    4,
+    "varies",
+    "1996 distinct, range 5..4278197838"
+   ],
+   [
+    5,
+    "varies",
+    "392 distinct, range 0..3519388792"
+   ],
+   [
+    6,
+    "varies",
+    "2508 distinct, range 0..4294967295"
+   ],
+   [
+    7,
+    "varies",
+    "2361 distinct, range 0..4294967295"
+   ],
+   [
+    8,
+    "varies",
+    "2841 distinct, range 0..4294967040"
+   ],
+   [
+    9,
+    "varies",
+    "2579 distinct, range 0..4294967295"
+   ],
+   [
+    10,
+    "varies",
+    "2468 distinct, range 0..4294967295"
+   ],
+   [
+    11,
+    "varies",
+    "2415 distinct, range 0..4294967295"
+   ],
+   [
+    12,
+    "varies",
+    "2476 distinct, range 0..4294967295"
+   ],
+   [
+    13,
+    "varies",
+    "2731 distinct, range 0..4294967295"
+   ],
+   [
+    14,
+    "varies",
+    "2588 distinct, range 0..4294967295"
+   ],
+   [
+    15,
+    "varies",
+    "2831 distinct, range 0..4294967295"
+   ],
+   [
+    16,
+    "varies",
+    "2450 distinct, range 0..4294967295"
+   ],
+   [
+    17,
+    "varies",
+    "2430 distinct, range 0..4294967295"
+   ],
+   [
+    18,
+    "varies",
+    "2735 distinct, range 0..4294967295"
+   ],
+   [
+    19,
+    "varies",
+    "2465 distinct, range 0..4294967295"
+   ],
+   [
+    20,
+    "varies",
+    "2498 distinct, range 0..4294967295"
+   ],
+   [
+    21,
+    "varies",
+    "2490 distinct, range 0..4294967295"
+   ],
+   [
+    22,
+    "varies",
+    "2506 distinct, range 0..4294967295"
+   ],
+   [
+    23,
+    "varies",
+    "2645 distinct, range 0..4294967295"
+   ]
+  ],
+  "chunks": [
+   [
+    "PORP",
+    88255
+   ],
+   [
+    "K0K0",
+    35004
+   ],
+   [
+    "PPPP",
+    25827
+   ],
+   [
+    "TUUU",
+    25639
+   ],
+   [
+    "UUUT",
+    23325
+   ],
+   [
+    "TTTT",
+    16516
+   ],
+   [
+    "WWWW",
+    12387
+   ],
+   [
+    "DDDD",
+    12134
+   ]
+  ],
+  "vocab": [
+   [
+    "ffvvffvv",
+    1839
+   ],
+   [
+    "wwwwwwww",
+    1335
+   ],
+   [
+    "33333333",
+    1249
+   ],
+   [
+    "VVeeVVee",
+    1101
+   ],
+   [
+    "UUEEUUEE",
+    1004
+   ],
+   [
+    "DDDDDDDD",
+    719
+   ],
+   [
+    "o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4o4",
+    653
+   ],
+   [
+    "0000000000000000000000000000000000000000000000000000000000000000",
+    527
+   ],
+   [
+    "mCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmCmC",
+    416
+   ],
+   [
+    "DUTUDeTd",
+    411
+   ]
+  ]
+ },
+ {
+  "ext": ".i3",
+  "files": 1696,
+  "bytes": 2078714294,
+  "magic": "FEDS",
+  "fields": [
+   [
+    0,
+    "varies",
+    "2 distinct, range 1229210950..1396983110"
+   ],
+   [
+    1,
+    "small set",
+    "2 distinct, max 41: 30(x1283), 41(x413)"
+   ],
+   [
+    2,
+    "varies",
+    "61 distinct, range 0..692"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "varies",
+    "37 distinct, range 0..2770"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "varies",
+    "39 distinct, range 1..45"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "varies",
+    "28 distinct, range 0..84"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "tracks size",
+    "r=0.999 with file size over 1696 files"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "small set",
+    "15 distinct, max 96: 48(x622), 32(x442), 1(x298), 64(x199), 2(x48), 4(x21)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    18,
+    "tracks size",
+    "r=0.999 with file size over 1696 files"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "tracks size",
+    "r=0.999 with file size over 1696 files"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    22,
+    "tracks size",
+    "r=0.998 with file size over 1696 files"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x00000000 (0)"
+   ]
+  ],
+  "chunks": [
+   [
+    "FEDS",
+    917
+   ],
+   [
+    "FEDI",
+    413
+   ],
+   [
+    "KFSC",
+    106
+   ],
+   [
+    "EF64",
+    98
+   ],
+   [
+    "J3SC",
+    91
+   ],
+   [
+    "IL8D",
+    88
+   ],
+   [
+    "IUYA",
+    72
+   ],
+   [
+    "IXAL",
+    72
+   ]
+  ],
+  "vocab": [
+   [
+    "BuffC",
+    31
+   ],
+   [
+    "A7BuR",
+    24
+   ],
+   [
+    "bIBIbI",
+    24
+   ],
+   [
+    "BJR/A",
+    21
+   ],
+   [
+    "CHDDC",
+    20
+   ],
+   [
+    "AWCC4",
+    20
+   ],
+   [
+    "C1joC",
+    19
+   ],
+   [
+    "AfcQA",
+    18
+   ],
+   [
+    "AeWLA",
+    18
+   ],
+   [
+    "BfCmA",
+    18
+   ]
+  ]
+ },
+ {
+  "ext": ".sky",
+  "files": 1291,
+  "bytes": 9519418,
+  "magic": "YKSX",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x58534b59 (1481853785) = 'YKSX'"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000010 (16)"
+   ],
+   [
+    2,
+    "small set",
+    "6 distinct, max 6: 0(x573), 1(x534), 4(x130), 5(x44), 6(x7), 2(x3)"
+   ],
+   [
+    3,
+    "small set",
+    "18 distinct, max 33: 0(x849), 2(x110), 1(x102), 4(x44), 7(x44), 3(x34)"
+   ],
+   [
+    4,
+    "varies",
+    "21 distinct, range 881153232..1259902592"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "varies",
+    "43 distinct, range 48..93"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "small set",
+    "2 distinct, max 1: 1(x760), 0(x531)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "small set",
+    "2 distinct, max 1: 0(x923), 1(x368)"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "small set",
+    "6 distinct, max 176: 0(x923), 128(x140), 144(x133), 160(x45), 112(x38), 176(x12)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "small set",
+    "10 distinct, max 9: 0(x601), 4(x198), 1(x159), 2(x128), 6(x80), 3(x68)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    18,
+    "varies",
+    "21 distinct, range 0..400"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "small set",
+    "4 distinct, max 3: 1(x976), 0(x301), 2(x13), 3(x1)"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    22,
+    "varies",
+    "100 distinct, range 0..3504"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x00000000 (0)"
+   ]
+  ],
+  "chunks": [
+   [
+    "YKSX",
+    1291
+   ],
+   [
+    "UI2G",
+    4
+   ],
+   [
+    "GY9J",
+    2
+   ]
+  ],
+  "vocab": [
+   [
+    "a1APW",
+    6
+   ]
+  ]
+ },
+ {
+  "ext": ".dgn",
+  "files": 953,
+  "bytes": 111326313,
+  "magic": "NGND",
+  "fields": [
+   [
+    0,
+    "varies",
+    "22 distinct, range 0..1145980750"
+   ],
+   [
+    1,
+    "small set",
+    "2 distinct, max 6: 0(x732), 6(x221)"
+   ],
+   [
+    2,
+    "tracks size",
+    "r=0.999 with file size over 953 files"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "varies",
+    "50 distinct, range 0..51"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "tracks size",
+    "r=1.000 with file size over 953 files"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "varies",
+    "48 distinct, range 0..123"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "varies",
+    "355 distinct, range 1..4129334627"
+   ],
+   [
+    13,
+    "varies",
+    "36 distinct, range 0..1184"
+   ],
+   [
+    14,
+    "varies",
+    "72 distinct, range 0..101"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "varies",
+    "14 distinct, range 0..416"
+   ],
+   [
+    17,
+    "varies",
+    "50 distinct, range 0..4067139188"
+   ],
+   [
+    18,
+    "varies",
+    "36 distinct, range 0..759"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "varies",
+    "238 distinct, range 0..1073610207"
+   ],
+   [
+    21,
+    "varies",
+    "233 distinct, range 0..1073610207"
+   ],
+   [
+    22,
+    "varies",
+    "279 distinct, range 0..3826631131"
+   ],
+   [
+    23,
+    "varies",
+    "174 distinct, range 0..1065353216"
+   ]
+  ],
+  "chunks": [
+   [
+    "NGND",
+    221
+   ],
+   [
+    "U0SA",
+    16
+   ],
+   [
+    "OD80",
+    10
+   ],
+   [
+    "NBEC",
+    9
+   ],
+   [
+    "QU2B",
+    8
+   ],
+   [
+    "XYWC",
+    8
+   ],
+   [
+    "QKBM",
+    8
+   ],
+   [
+    "BPSS",
+    8
+   ]
+  ],
+  "vocab": [
+   [
+    "A0jgB",
+    22
+   ],
+   [
+    "ByiDC",
+    18
+   ],
+   [
+    "AfwKB",
+    18
+   ],
+   [
+    "tFBAj0",
+    17
+   ],
+   [
+    "AyImC",
+    12
+   ],
+   [
+    "AXygC",
+    12
+   ],
+   [
+    "k3hxs",
+    11
+   ],
+   [
+    "IAhq6C",
+    10
+   ],
+   [
+    "Bb0GC",
+    10
+   ],
+   [
+    "ADiCB",
+    10
+   ]
+  ]
+ },
+ {
+  "ext": ".xml",
+  "files": 560,
+  "bytes": 14679167,
+  "magic": "<?xm",
+  "fields": [
+   [
+    0,
+    "varies",
+    "8 distinct, range 1668236348..1919895100"
+   ],
+   [
+    1,
+    "varies",
+    "10 distinct, range 168640097..1919251553"
+   ],
+   [
+    2,
+    "varies",
+    "11 distinct, range 538970637..1869181810"
+   ],
+   [
+    3,
+    "varies",
+    "74 distinct, range 538970637..2053195810"
+   ],
+   [
+    4,
+    "varies",
+    "95 distinct, range 539111470..2037672300"
+   ],
+   [
+    5,
+    "varies",
+    "87 distinct, range 168640063..2036427888"
+   ],
+   [
+    6,
+    "varies",
+    "75 distinct, range 539126885..1986360425"
+   ],
+   [
+    7,
+    "varies",
+    "67 distinct, range 222175793..2037672300"
+   ],
+   [
+    8,
+    "varies",
+    "59 distinct, range 151653694..2003788910"
+   ],
+   [
+    9,
+    "varies",
+    "64 distinct, range 168640034..1936876886"
+   ],
+   [
+    10,
+    "varies",
+    "74 distinct, range 151653694..3273680243"
+   ],
+   [
+    11,
+    "varies",
+    "75 distinct, range 151653694..1998615401"
+   ],
+   [
+    12,
+    "varies",
+    "89 distinct, range 151653694..3216764706"
+   ],
+   [
+    13,
+    "varies",
+    "112 distinct, range 222175793..2003788910"
+   ],
+   [
+    14,
+    "varies",
+    "176 distinct, range 222178605..2004296253"
+   ],
+   [
+    15,
+    "varies",
+    "182 distinct, range 168632354..2034442274"
+   ],
+   [
+    16,
+    "varies",
+    "185 distinct, range 168640034..2037672300"
+   ],
+   [
+    17,
+    "varies",
+    "208 distinct, range 151653694..2037539181"
+   ],
+   [
+    18,
+    "varies",
+    "239 distinct, range 168640045..2037150819"
+   ],
+   [
+    19,
+    "varies",
+    "232 distinct, range 151653694..2036427856"
+   ],
+   [
+    20,
+    "varies",
+    "204 distinct, range 168640034..2037672302"
+   ],
+   [
+    21,
+    "varies",
+    "222 distinct, range 168640034..2037148001"
+   ],
+   [
+    22,
+    "varies",
+    "239 distinct, range 168640034..2924626260"
+   ],
+   [
+    23,
+    "varies",
+    "230 distinct, range 168640034..3260170580"
+   ]
+  ],
+  "chunks": [
+   [
+    "VCEN",
+    4475
+   ],
+   [
+    "CENT",
+    4055
+   ],
+   [
+    "WORD",
+    1030
+   ],
+   [
+    "BREA",
+    1030
+   ],
+   [
+    "TEMP",
+    832
+   ],
+   [
+    "RIGH",
+    752
+   ],
+   [
+    "BOTT",
+    407
+   ],
+   [
+    "HUDA",
+    180
+   ]
+  ],
+  "vocab": [
+   [
+    "ffffffff",
+    855
+   ],
+   [
+    "Sprite",
+    654
+   ],
+   [
+    "Frame",
+    578
+   ],
+   [
+    "Texture",
+    566
+   ],
+   [
+    "Default",
+    528
+   ],
+   [
+    "Cycle",
+    501
+   ],
+   [
+    "HotspotX",
+    497
+   ],
+   [
+    "HotspotY",
+    484
+   ],
+   [
+    "Duration",
+    462
+   ],
+   [
+    "StartColor",
+    458
+   ]
+  ]
+ },
+ {
+  "ext": ".tbl",
+  "files": 384,
+  "bytes": 238071771,
+  "magic": "LBTD",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x4454424c (1146372684) = 'LBTD'"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    2,
+    "varies",
+    "30 distinct, range 5..36"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "varies",
+    "56 distinct, range 4..824"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "varies",
+    "53 distinct, range 1..206"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "small set",
+    "5 distinct, max 80: 32(x183), 48(x141), 64(x42), 16(x15), 80(x3)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "varies",
+    "252 distinct, range 0..539251"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "tracks size",
+    "r=0.999 with file size over 384 files"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "varies",
+    "116 distinct, range 0..18064"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    18,
+    "varies",
+    "269 distinct, range 0..771980"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "tracks size",
+    "r=0.999 with file size over 384 files"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    22,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x00000000 (0)"
+   ]
+  ],
+  "chunks": [
+   [
+    "LBTD",
+    384
+   ],
+   [
+    "BGDE",
+    2
+   ],
+   [
+    "APBE",
+    1
+   ],
+   [
+    "HBX9",
+    1
+   ],
+   [
+    "BAKX",
+    1
+   ],
+   [
+    "BI2D",
+    1
+   ],
+   [
+    "KQS2",
+    1
+   ],
+   [
+    "R1CD",
+    1
+   ]
+  ],
+  "vocab": [
+   [
+    "F\\_pE",
+    1
+   ],
+   [
+    "AffPA",
+    1
+   ],
+   [
+    "oEo\\z",
+    1
+   ],
+   [
+    "wD3Dc",
+    1
+   ],
+   [
+    ".D33p",
+    1
+   ],
+   [
+    "oC.6s",
+    1
+   ],
+   [
+    "wbnC6",
+    1
+   ],
+   [
+    "Bk.0A",
+    1
+   ],
+   [
+    "CKKCC",
+    1
+   ],
+   [
+    "C-kRC",
+    1
+   ]
+  ]
+ },
+ {
+  "ext": ".sho",
+  "files": 311,
+  "bytes": 184172808,
+  "magic": "STGT",
+  "fields": [
+   [
+    0,
+    "varies",
+    "2 distinct, range 1380206675..1413960787"
+   ],
+   [
+    1,
+    "small set",
+    "2 distinct, max 3: 3(x206), 2(x105)"
+   ],
+   [
+    2,
+    "tracks size",
+    "r=0.934 with file size over 311 files"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "tracks size",
+    "r=0.937 with file size over 311 files"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "tracks size",
+    "r=1.000 with file size over 311 files"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "small set",
+    "24 distinct, max 84: 1(x193), 29(x14), 27(x13), 32(x11), 28(x11), 30(x9)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "tracks size",
+    "r=1.000 with file size over 311 files"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "tracks size",
+    "r=0.937 with file size over 311 files"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "tracks size",
+    "r=0.990 with file size over 311 files"
+   ],
+   [
+    17,
+    "varies",
+    "2 distinct, range 0..6553697"
+   ],
+   [
+    18,
+    "varies",
+    "6 distinct, range 0..7471205"
+   ],
+   [
+    19,
+    "varies",
+    "2 distinct, range 0..6029427"
+   ],
+   [
+    20,
+    "varies",
+    "157 distinct, range 20..7274567"
+   ],
+   [
+    21,
+    "varies",
+    "6 distinct, range 0..7602291"
+   ],
+   [
+    22,
+    "varies",
+    "6 distinct, range 0..7471205"
+   ],
+   [
+    23,
+    "varies",
+    "6 distinct, range 0..7340078"
+   ]
+  ],
+  "chunks": [
+   [
+    "SHDR",
+    721
+   ],
+   [
+    "DXBC",
+    680
+   ],
+   [
+    "ISGN",
+    680
+   ],
+   [
+    "TEXC",
+    648
+   ],
+   [
+    "OORD",
+    648
+   ],
+   [
+    "OSGN",
+    629
+   ],
+   [
+    "COLO",
+    452
+   ],
+   [
+    "STGT",
+    202
+   ]
+  ],
+  "vocab": [
+   [
+    "TEXCOORD",
+    352
+   ],
+   [
+    "SV_Position",
+    351
+   ],
+   [
+    "SV_Target",
+    263
+   ],
+   [
+    "COLOR",
+    260
+   ],
+   [
+    "ISGNl",
+    108
+   ],
+   [
+    "POSITION",
+    94
+   ],
+   [
+    "OSGNt",
+    35
+   ],
+   [
+    "NORMAL",
+    26
+   ],
+   [
+    "ISGNH",
+    20
+   ],
+   [
+    "SHDR8",
+    17
+   ]
+  ]
+ },
+ {
+  "ext": ".lua",
+  "files": 203,
+  "bytes": 6217444,
+  "magic": "----",
+  "fields": [
+   [
+    0,
+    "varies",
+    "7 distinct, range 168626701..1970365810"
+   ],
+   [
+    1,
+    "varies",
+    "7 distinct, range 543519337..1950949484"
+   ],
+   [
+    2,
+    "varies",
+    "11 distinct, range 224490860..1970020468"
+   ],
+   [
+    3,
+    "varies",
+    "11 distinct, range 539831562..2003788910"
+   ],
+   [
+    4,
+    "varies",
+    "10 distinct, range 218762530..1953524082"
+   ],
+   [
+    5,
+    "varies",
+    "10 distinct, range 543518313..1953524082"
+   ],
+   [
+    6,
+    "varies",
+    "15 distinct, range 220357225..2065710368"
+   ],
+   [
+    7,
+    "varies",
+    "17 distinct, range 168649077..1967347822"
+   ],
+   [
+    8,
+    "varies",
+    "18 distinct, range 168626701..1970105711"
+   ],
+   [
+    9,
+    "varies",
+    "17 distinct, range 151653673..1970365810"
+   ],
+   [
+    10,
+    "varies",
+    "16 distinct, range 168632951..2003788910"
+   ],
+   [
+    11,
+    "varies",
+    "18 distinct, range 220357225..1970365810"
+   ],
+   [
+    12,
+    "varies",
+    "21 distinct, range 220357225..1952670066"
+   ],
+   [
+    13,
+    "varies",
+    "20 distinct, range 168626701..1935961701"
+   ],
+   [
+    14,
+    "varies",
+    "20 distinct, range 168626701..2105221181"
+   ],
+   [
+    15,
+    "varies",
+    "19 distinct, range 168626701..2003788910"
+   ],
+   [
+    16,
+    "varies",
+    "19 distinct, range 168626701..1968385325"
+   ],
+   [
+    17,
+    "varies",
+    "19 distinct, range 168632946..2065710368"
+   ],
+   [
+    18,
+    "varies",
+    "19 distinct, range 218762530..1970365810"
+   ],
+   [
+    19,
+    "varies",
+    "18 distinct, range 168632943..1920234272"
+   ],
+   [
+    20,
+    "varies",
+    "17 distinct, range 220360556..1970497338"
+   ],
+   [
+    21,
+    "varies",
+    "17 distinct, range 168632930..2064256317"
+   ],
+   [
+    22,
+    "varies",
+    "19 distinct, range 151653673..1970365810"
+   ],
+   [
+    23,
+    "varies",
+    "19 distinct, range 168626701..2003788910"
+   ]
+  ],
+  "chunks": [
+   [
+    "TODO",
+    287
+   ],
+   [
+    "CRED",
+    253
+   ],
+   [
+    "HUDA",
+    102
+   ],
+   [
+    "P2PT",
+    94
+   ],
+   [
+    "NCCB",
+    66
+   ],
+   [
+    "GOTC",
+    52
+   ],
+   [
+    "TEMP",
+    47
+   ],
+   [
+    "CTFM",
+    33
+   ]
+  ],
+  "vocab": [
+   [
+    "require",
+    980
+   ],
+   [
+    "local",
+    845
+   ],
+   [
+    "----------------------------------------------------------------",
+    581
+   ],
+   [
+    "-------------------------------",
+    506
+   ],
+   [
+    "function",
+    395
+   ],
+   [
+    "Apollo.GetString",
+    198
+   ],
+   [
+    "Window",
+    189
+   ],
+   [
+    "Client",
+    186
+   ],
+   [
+    "return",
+    186
+   ],
+   [
+    "Copyright",
+    181
+   ]
+  ]
+ },
+ {
+  "ext": ".bnk",
+  "files": 152,
+  "bytes": 2181477005,
+  "magic": "BKHD",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x44484b42 (1145588546) = 'BKHD'"
+   ],
+   [
+    1,
+    "small set",
+    "4 distinct, max 32: 24(x47), 28(x45), 32(x31), 20(x29)"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x00000058 (88)"
+   ],
+   [
+    3,
+    "varies",
+    "140 distinct, range 33260990..4292356971"
+   ],
+   [
+    4,
+    "small set",
+    "4 distinct, max 16: 0(x134), 12(x6), 15(x6), 16(x6)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x00000089 (137)"
+   ],
+   [
+    7,
+    "varies",
+    "2 distinct, range 0..1480870212"
+   ],
+   [
+    8,
+    "varies",
+    "29 distinct, range 0..1480870212"
+   ],
+   [
+    9,
+    "varies",
+    "67 distinct, range 0..1480870212"
+   ],
+   [
+    10,
+    "varies",
+    "78 distinct, range 0..1480870212"
+   ],
+   [
+    11,
+    "varies",
+    "103 distinct, range 0..1041528808"
+   ],
+   [
+    12,
+    "varies",
+    "101 distinct, range 0..3262198579"
+   ],
+   [
+    13,
+    "varies",
+    "114 distinct, range 0..3120825112"
+   ],
+   [
+    14,
+    "near-unique",
+    "142 distinct across 149 files - id or hash"
+   ],
+   [
+    15,
+    "varies",
+    "141 distinct, range 303..3624140800"
+   ],
+   [
+    16,
+    "near-unique",
+    "142 distinct across 149 files - id or hash"
+   ],
+   [
+    17,
+    "near-unique",
+    "144 distinct across 149 files - id or hash"
+   ],
+   [
+    18,
+    "near-unique",
+    "143 distinct across 149 files - id or hash"
+   ],
+   [
+    19,
+    "near-unique",
+    "145 distinct across 149 files - id or hash"
+   ],
+   [
+    20,
+    "near-unique",
+    "144 distinct across 149 files - id or hash"
+   ],
+   [
+    21,
+    "near-unique",
+    "143 distinct across 149 files - id or hash"
+   ],
+   [
+    22,
+    "near-unique",
+    "145 distinct across 149 files - id or hash"
+   ],
+   [
+    23,
+    "near-unique",
+    "143 distinct across 149 files - id or hash"
+   ]
+  ],
+  "chunks": [
+   [
+    "C3C3",
+    794
+   ],
+   [
+    "C34C",
+    762
+   ],
+   [
+    "CC34",
+    739
+   ],
+   [
+    "C343",
+    669
+   ],
+   [
+    "CCC3",
+    490
+   ],
+   [
+    "CC3C",
+    440
+   ],
+   [
+    "C233",
+    394
+   ],
+   [
+    "C344",
+    356
+   ]
+  ],
+  "vocab": [
+   [
+    "WAVEfmt",
+    288
+   ],
+   [
+    "00..-",
+    9
+   ],
+   [
+    "AbB5PTL",
+    9
+   ],
+   [
+    "33333",
+    7
+   ],
+   [
+    "RIFFH",
+    7
+   ],
+   [
+    "DIDXp",
+    6
+   ],
+   [
+    "adtllabl",
+    5
+   ],
+   [
+    "Tempo",
+    5
+   ],
+   [
+    "DATA0",
+    5
+   ],
+   [
+    "datax",
+    5
+   ]
+  ]
+ },
+ {
+  "ext": ".form",
+  "files": 43,
+  "bytes": 309291,
+  "magic": "fffe3c00",
+  "fields": [
+   [
+    0,
+    "varies",
+    "2 distinct, range 3997439..1836597052"
+   ],
+   [
+    1,
+    "varies",
+    "2 distinct, range 7864383..1702240364"
+   ],
+   [
+    2,
+    "varies",
+    "2 distinct, range 7077997..1869181810"
+   ],
+   [
+    3,
+    "varies",
+    "2 distinct, range 7733280..824327534"
+   ],
+   [
+    4,
+    "varies",
+    "2 distinct, range 7471205..539111470"
+   ],
+   [
+    5,
+    "varies",
+    "2 distinct, range 6881395..168640063"
+   ],
+   [
+    6,
+    "varies",
+    "2 distinct, range 7209071..1634887228"
+   ],
+   [
+    7,
+    "varies",
+    "2 distinct, range 2228285..1663067501"
+   ],
+   [
+    8,
+    "varies",
+    "2 distinct, range 3014705..1936941420"
+   ],
+   [
+    9,
+    "varies",
+    "3 distinct, range 2228272..1917198909"
+   ],
+   [
+    10,
+    "varies",
+    "3 distinct, range 4128800..1631741284"
+   ],
+   [
+    11,
+    "varies",
+    "3 distinct, range 852030..1768974624"
+   ],
+   [
+    12,
+    "varies",
+    "4 distinct, range 3932170..1867719229"
+   ],
+   [
+    13,
+    "varies",
+    "6 distinct, range 7471206..1868983881"
+   ],
+   [
+    14,
+    "varies",
+    "8 distinct, range 7143521..1970228594"
+   ],
+   [
+    15,
+    "varies",
+    "8 distinct, range 2097253..1952533792"
+   ],
+   [
+    16,
+    "varies",
+    "8 distinct, range 7077987..1953720652"
+   ],
+   [
+    17,
+    "varies",
+    "8 distinct, range 7536737..1953391986"
+   ],
+   [
+    18,
+    "varies",
+    "8 distinct, range 3997811..1852142177"
+   ],
+   [
+    19,
+    "varies",
+    "9 distinct, range 4587554..1952999273"
+   ],
+   [
+    20,
+    "varies",
+    "9 distinct, range 6357106..1768245364"
+   ],
+   [
+    21,
+    "varies",
+    "9 distinct, range 4325477..1953391986"
+   ],
+   [
+    22,
+    "varies",
+    "9 distinct, range 2097186..1734960456"
+   ],
+   [
+    23,
+    "varies",
+    "9 distinct, range 2097186..1953391986"
+   ]
+  ],
+  "chunks": [
+   [
+    "TXDN",
+    130
+   ],
+   [
+    "TXDF",
+    15
+   ],
+   [
+    "XXXX",
+    3
+   ],
+   [
+    "KKKO",
+    2
+   ],
+   [
+    "YYYY",
+    1
+   ],
+   [
+    "ZZZZ",
+    1
+   ],
+   [
+    "GMMM",
+    1
+   ]
+  ],
+  "vocab": [
+   [
+    "source",
+    33
+   ],
+   [
+    "target",
+    33
+   ],
+   [
+    "input-redirect",
+    31
+   ],
+   [
+    "targetname",
+    28
+   ],
+   [
+    "class",
+    16
+   ],
+   [
+    "MatchParentHeight",
+    15
+   ],
+   [
+    "MatchParentWidth",
+    15
+   ],
+   [
+    "moveable",
+    15
+   ],
+   [
+    "position.height",
+    15
+   ],
+   [
+    "position.relative",
+    15
+   ]
+  ]
+ },
+ {
+  "ext": ".bk2",
+  "files": 19,
+  "bytes": 1008392988,
+  "magic": "KB2i",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x6932424b (1764901451) = 'KB2i'"
+   ],
+   [
+    1,
+    "tracks size",
+    "r=1.000 with file size over 19 files"
+   ],
+   [
+    2,
+    "tracks size",
+    "r=0.987 with file size over 19 files"
+   ],
+   [
+    3,
+    "near-unique",
+    "19 distinct across 19 files - id or hash"
+   ],
+   [
+    4,
+    "tracks size",
+    "r=0.987 with file size over 19 files"
+   ],
+   [
+    5,
+    "varies",
+    "2 distinct, range 720..1920"
+   ],
+   [
+    6,
+    "varies",
+    "2 distinct, range 405..1080"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x0000001e (30)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x00000001 (1)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000010 (16)"
+   ],
+   [
+    10,
+    "small set",
+    "3 distinct, max 3: 0(x10), 1(x6), 3(x3)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x02040100 (33816832)"
+   ],
+   [
+    12,
+    "varies",
+    "10 distinct, range 1997..145920"
+   ],
+   [
+    13,
+    "varies",
+    "11 distinct, range 3121..1879096192"
+   ],
+   [
+    14,
+    "varies",
+    "11 distinct, range 0..145920"
+   ],
+   [
+    15,
+    "varies",
+    "15 distinct, range 397..1879096192"
+   ],
+   [
+    16,
+    "varies",
+    "17 distinct, range 5605..1879096192"
+   ],
+   [
+    17,
+    "varies",
+    "17 distinct, range 7845..1879096192"
+   ],
+   [
+    18,
+    "varies",
+    "17 distinct, range 0..69289"
+   ],
+   [
+    19,
+    "varies",
+    "17 distinct, range 1..88209"
+   ],
+   [
+    20,
+    "varies",
+    "17 distinct, range 2..108721"
+   ],
+   [
+    21,
+    "near-unique",
+    "19 distinct across 19 files - id or hash"
+   ],
+   [
+    22,
+    "near-unique",
+    "19 distinct across 19 files - id or hash"
+   ],
+   [
+    23,
+    "near-unique",
+    "19 distinct across 19 files - id or hash"
+   ]
+  ],
+  "chunks": [
+   [
+    "SSSS",
+    442
+   ],
+   [
+    "MMMM",
+    124
+   ],
+   [
+    "LMMM",
+    6
+   ],
+   [
+    "PPPP",
+    6
+   ],
+   [
+    "PSSS",
+    4
+   ],
+   [
+    "JJJJ",
+    4
+   ],
+   [
+    "RR2R",
+    3
+   ],
+   [
+    "PTPX",
+    3
+   ]
+  ],
+  "vocab": [
+   [
+    "5555555555555555555555555555555555555555555555555555555555555555",
+    12
+   ],
+   [
+    "5555555555555555555555",
+    3
+   ],
+   [
+    "pMMMMMMMMMMMMMMMMMMM",
+    3
+   ],
+   [
+    "We545",
+    2
+   ],
+   [
+    "aDeiE",
+    2
+   ],
+   [
+    "qgBrsJ",
+    2
+   ],
+   [
+    "iajjjjj",
+    2
+   ],
+   [
+    "5a0Umi",
+    2
+   ],
+   [
+    "5UH8w",
+    2
+   ],
+   [
+    "KLMMMMM",
+    2
+   ]
+  ]
+ },
+ {
+  "ext": ".map",
+  "files": 10,
+  "bytes": 2712,
+  "magic": "<Map",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x70614d3c (1885424956) = '<Map'"
+   ],
+   [
+    1,
+    "varies",
+    "2 distinct, range 537529662..538970686"
+   ],
+   [
+    2,
+    "varies",
+    "2 distinct, range 1008738336..1329340448"
+   ],
+   [
+    3,
+    "varies",
+    "2 distinct, range 1634034511..1851876707"
+   ],
+   [
+    4,
+    "varies",
+    "2 distinct, range 1702125911..1952536430"
+   ],
+   [
+    5,
+    "varies",
+    "2 distinct, range 1886999666..2035577445"
+   ],
+   [
+    6,
+    "varies",
+    "2 distinct, range 1046759781..1682531696"
+   ],
+   [
+    7,
+    "varies",
+    "2 distinct, range 792473918..1328495665"
+   ],
+   [
+    8,
+    "varies",
+    "2 distinct, range 1634034511..1851876707"
+   ],
+   [
+    9,
+    "varies",
+    "2 distinct, range 1702125911..1952536430"
+   ],
+   [
+    10,
+    "varies",
+    "2 distinct, range 1886999666..2035577445"
+   ],
+   [
+    11,
+    "varies",
+    "2 distinct, range 1046759781..1682531696"
+   ],
+   [
+    12,
+    "varies",
+    "2 distinct, range 537529662..538976266"
+   ],
+   [
+    13,
+    "varies",
+    "2 distinct, range 1008738336..1750285344"
+   ],
+   [
+    14,
+    "varies",
+    "2 distinct, range 1466266223..1919903827"
+   ],
+   [
+    15,
+    "varies",
+    "2 distinct, range 1281717857..1986090853"
+   ],
+   [
+    16,
+    "varies",
+    "2 distinct, range 1919252833..2036419685"
+   ],
+   [
+    17,
+    "varies",
+    "2 distinct, range 1226859593..1682535013"
+   ],
+   [
+    18,
+    "varies",
+    "2 distinct, range 574435396..809781536"
+   ],
+   [
+    19,
+    "varies",
+    "3 distinct, range 539112249..1226842672"
+   ],
+   [
+    20,
+    "varies",
+    "3 distinct, range 574435652..1145643042"
+   ],
+   [
+    21,
+    "varies",
+    "3 distinct, range 573847842..1226842672"
+   ],
+   [
+    22,
+    "varies",
+    "3 distinct, range 574435908..1226842676"
+   ],
+   [
+    23,
+    "varies",
+    "3 distinct, range 574435908..1226842672"
+   ]
+  ],
+  "chunks": [],
+  "vocab": [
+   [
+    "OceanWaterTypeId",
+    10
+   ],
+   [
+    "/OceanWaterTypeId",
+    10
+   ],
+   [
+    "ShoreWaveLayerId",
+    10
+   ],
+   [
+    "ShoreAngleScale",
+    10
+   ],
+   [
+    "/ShoreAngleScale",
+    10
+   ],
+   [
+    "MaxShoreWaveDepth",
+    10
+   ],
+   [
+    "/MaxShoreWaveDepth",
+    10
+   ],
+   [
+    "OceanShoreWaveLayer",
+    10
+   ],
+   [
+    "/OceanShoreWaveLayer",
+    10
+   ],
+   [
+    "25.00",
+    5
+   ]
+  ]
+ },
+ {
+  "ext": ".ttf",
+  "files": 11,
+  "bytes": 2745727,
+  "magic": "00010000",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x00000100 (256)"
+   ],
+   [
+    1,
+    "varies",
+    "4 distinct, range 70144..2147487232"
+   ],
+   [
+    2,
+    "varies",
+    "4 distinct, range 536871936..1610613760"
+   ],
+   [
+    3,
+    "varies",
+    "2 distinct, range 841962319..1195987780"
+   ],
+   [
+    4,
+    "near-unique",
+    "11 distinct across 11 files - id or hash"
+   ],
+   [
+    5,
+    "varies",
+    "10 distinct, range 81790208..4234479360"
+   ],
+   [
+    6,
+    "varies",
+    "7 distinct, range 1478164480..2887057408"
+   ],
+   [
+    7,
+    "varies",
+    "3 distinct, range 1178944583..1885433187"
+   ],
+   [
+    8,
+    "varies",
+    "10 distinct, range 599193726..3617529116"
+   ],
+   [
+    9,
+    "varies",
+    "10 distinct, range 1013318656..4237361152"
+   ],
+   [
+    10,
+    "varies",
+    "8 distinct, range 587268096..4278190080"
+   ],
+   [
+    11,
+    "tracks size",
+    "r=0.940 with file size over 11 files"
+   ],
+   [
+    12,
+    "near-unique",
+    "11 distinct across 11 files - id or hash"
+   ],
+   [
+    13,
+    "varies",
+    "9 distinct, range 472450304..4099343616"
+   ],
+   [
+    14,
+    "varies",
+    "9 distinct, range 369098752..3732930560"
+   ],
+   [
+    15,
+    "varies",
+    "3 distinct, range 1112888135..1885433187"
+   ],
+   [
+    16,
+    "varies",
+    "7 distinct, range 1032860644..4172803491"
+   ],
+   [
+    17,
+    "near-unique",
+    "11 distinct across 11 files - id or hash"
+   ],
+   [
+    18,
+    "varies",
+    "6 distinct, range 84017152..4128571392"
+   ],
+   [
+    19,
+    "varies",
+    "4 distinct, range 544503395..1886609767"
+   ],
+   [
+    20,
+    "varies",
+    "10 distinct, range 50331648..3691900061"
+   ],
+   [
+    21,
+    "varies",
+    "10 distinct, range 1478623232..3355508736"
+   ],
+   [
+    22,
+    "varies",
+    "8 distinct, range 134217728..3523215360"
+   ],
+   [
+    23,
+    "varies",
+    "4 distinct, range 841962319..1835495526"
+   ]
+  ],
+  "chunks": [
+   [
+    "KQZX",
+    22
+   ],
+   [
+    "Y013",
+    10
+   ],
+   [
+    "BBBB",
+    10
+   ],
+   [
+    "DSIG",
+    8
+   ],
+   [
+    "B99B",
+    7
+   ],
+   [
+    "LTSH",
+    7
+   ],
+   [
+    "ZPPZ",
+    7
+   ],
+   [
+    "Y017",
+    6
+   ]
+  ],
+  "vocab": [
+   [
+    "00000",
+    75
+   ],
+   [
+    "000000000",
+    20
+   ],
+   [
+    "6hhea",
+    11
+   ],
+   [
+    "2654.",
+    7
+   ],
+   [
+    "VDMXvX",
+    6
+   ],
+   [
+    "......",
+    5
+   ],
+   [
+    "1111111111",
+    5
+   ],
+   [
+    "8888888888",
+    5
+   ],
+   [
+    "000000",
+    5
+   ],
+   [
+    "BBBBBBBBBB",
+    5
+   ]
+  ]
+ },
+ {
+  "ext": ".bin",
+  "files": 3,
+  "bytes": 136432672,
+  "magic": "XETL",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x4c544558 (1280591192) = 'XETL'"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000004 (4)"
+   ],
+   [
+    2,
+    "small set",
+    "3 distinct, max 3: 2(x1), 1(x1), 3(x1)"
+   ],
+   [
+    3,
+    "near-unique",
+    "3 distinct across 3 files - id or hash"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000006 (6)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x00000003 (3)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "constant",
+    "always 0x00000010 (16)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "small set",
+    "3 distinct, max 15: 7(x1), 12(x1), 15(x1)"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "constant",
+    "always 0x00000020 (32)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "constant",
+    "always 0x00083a73 (539251)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    18,
+    "small set",
+    "2 distinct, max 64: 64(x2), 48(x1)"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "near-unique",
+    "3 distinct across 3 files - id or hash"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    22,
+    "varies",
+    "2 distinct, range 4314064..4314080"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x00000000 (0)"
+   ]
+  ],
+  "chunks": [
+   [
+    "XETL",
+    3
+   ]
+  ],
+  "vocab": []
+ },
+ {
+  "ext": ".tga",
+  "files": 1,
+  "bytes": 16777260,
+  "magic": "00000200",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x00020000 (131072)"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x08000800 (134219776)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000820 (2080)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    14,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    18,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    20,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    22,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x00000000 (0)"
+   ]
+  ],
+  "chunks": [],
+  "vocab": []
+ },
+ {
+  "ext": ".psd",
+  "files": 1,
+  "bytes": 1256469,
+  "magic": "8BPS",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x53504238 (1397768760) = '8BPS'"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000100 (256)"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000400 (1024)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000001 (1)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x08000001 (134217729)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x00000300 (768)"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x4238c655 (1111017045)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x04044d49 (67390793)"
+   ],
+   [
+    10,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x021c0700 (35391232)"
+   ],
+   [
+    12,
+    "constant",
+    "always 0x00020000 (131072)"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x42380002 (1110966274)"
+   ],
+   [
+    14,
+    "constant",
+    "always 0x25044d49 (621038921)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    16,
+    "constant",
+    "always 0x0c461000 (205918208)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0xb82689f2 (3089533426)"
+   ],
+   [
+    18,
+    "constant",
+    "always 0x9cb0da56 (2628835926)"
+   ],
+   [
+    19,
+    "constant",
+    "always 0xa7b0a101 (2813370625)"
+   ],
+   [
+    20,
+    "constant",
+    "always 0x42387790 (1110996880)"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x24044d49 (604261705)"
+   ],
+   [
+    22,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x3f3ca83a (1060939834)"
+   ]
+  ],
+  "chunks": [
+   [
+    "RGBC",
+    87
+   ],
+   [
+    "TEXT",
+    29
+   ],
+   [
+    "BIMS",
+    14
+   ],
+   [
+    "F8BI",
+    3
+   ],
+   [
+    "B8BI",
+    3
+   ],
+   [
+    "J8BI",
+    3
+   ],
+   [
+    "ICCP",
+    2
+   ],
+   [
+    "DA11",
+    2
+   ]
+  ],
+  "vocab": [
+   [
+    "xmlns",
+    3
+   ],
+   [
+    "/exif",
+    3
+   ],
+   [
+    "PixelXDimension",
+    2
+   ],
+   [
+    "PixelYDimension",
+    2
+   ],
+   [
+    "ColorSpace",
+    2
+   ],
+   [
+    "w8BIM",
+    1
+   ],
+   [
+    "xpacket",
+    1
+   ],
+   [
+    "begin",
+    1
+   ],
+   [
+    "W5M0MpCehiHzreSzNTczkc9d",
+    1
+   ],
+   [
+    "xmpmeta",
+    1
+   ]
+  ]
+ },
+ {
+  "ext": ".txd",
+  "files": 1,
+  "bytes": 7632,
+  "magic": "halb",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0x626c6168 (1651269992) = 'halb'"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x0000001b (27)"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00000030 (48)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x00000014 (20)"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x00000070 (112)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    10,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x00000000 (0)"
+   ],
+   [
+    12,
+    "constant",
+    "always 0x00490055 (4784213)"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x005f005c (6226012)"
+   ],
+   [
+    14,
+    "constant",
+    "always 0x004c004f (4980815)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x005c0044 (6029380)"
+   ],
+   [
+    16,
+    "constant",
+    "always 0x00350032 (3473458)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x00570036 (5701686)"
+   ],
+   [
+    18,
+    "constant",
+    "always 0x006e0069 (7209065)"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x006f0064 (7274596)"
+   ],
+   [
+    20,
+    "constant",
+    "always 0x00540077 (5505143)"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00630065 (6488165)"
+   ],
+   [
+    22,
+    "constant",
+    "always 0x00320068 (3276904)"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x0062002e (6422574)"
+   ]
+  ],
+  "chunks": [],
+  "vocab": []
+ },
+ {
+  "ext": ".jpg",
+  "files": 1,
+  "bytes": 325355,
+  "magic": "ffd8ffe0",
+  "fields": [
+   [
+    0,
+    "constant",
+    "always 0xe0ffd8ff (3774863615)"
+   ],
+   [
+    1,
+    "constant",
+    "always 0x464a1000 (1179258880)"
+   ],
+   [
+    2,
+    "constant",
+    "always 0x01004649 (16795209)"
+   ],
+   [
+    3,
+    "constant",
+    "always 0x48000102 (1207959810)"
+   ],
+   [
+    4,
+    "constant",
+    "always 0x00004800 (18432)"
+   ],
+   [
+    5,
+    "constant",
+    "always 0x380de1ff (940433919)"
+   ],
+   [
+    6,
+    "constant",
+    "always 0x66697845 (1718188101) = 'Exif'"
+   ],
+   [
+    7,
+    "constant",
+    "always 0x4d4d0000 (1296891904)"
+   ],
+   [
+    8,
+    "constant",
+    "always 0x00002a00 (10752)"
+   ],
+   [
+    9,
+    "constant",
+    "always 0x07000800 (117442560)"
+   ],
+   [
+    10,
+    "constant",
+    "always 0x03001201 (50336257)"
+   ],
+   [
+    11,
+    "constant",
+    "always 0x01000000 (16777216)"
+   ],
+   [
+    12,
+    "constant",
+    "always 0x00000100 (256)"
+   ],
+   [
+    13,
+    "constant",
+    "always 0x05001a01 (83892737)"
+   ],
+   [
+    14,
+    "constant",
+    "always 0x01000000 (16777216)"
+   ],
+   [
+    15,
+    "constant",
+    "always 0x62000000 (1644167168)"
+   ],
+   [
+    16,
+    "constant",
+    "always 0x05001b01 (83892993)"
+   ],
+   [
+    17,
+    "constant",
+    "always 0x01000000 (16777216)"
+   ],
+   [
+    18,
+    "constant",
+    "always 0x6a000000 (1778384896)"
+   ],
+   [
+    19,
+    "constant",
+    "always 0x03002801 (50341889)"
+   ],
+   [
+    20,
+    "constant",
+    "always 0x01000000 (16777216)"
+   ],
+   [
+    21,
+    "constant",
+    "always 0x00000200 (512)"
+   ],
+   [
+    22,
+    "constant",
+    "always 0x02003101 (33566977)"
+   ],
+   [
+    23,
+    "constant",
+    "always 0x1c000000 (469762048)"
+   ]
+  ],
+  "chunks": [
+   [
+    "TEXT",
+    5
+   ],
+   [
+    "IEC6",
+    5
+   ],
+   [
+    "JFIF",
+    3
+   ],
+   [
+    "ICCP",
+    2
+   ],
+   [
+    "HTML",
+    1
+   ],
+   [
+    "W5M0",
+    1
+   ],
+   [
+    "FED0",
+    1
+   ],
+   [
+    "AF54",
+    1
+   ]
+  ],
+  "vocab": [
+   [
+    "Adobe",
+    2
+   ],
+   [
+    "Photoshop",
+    2
+   ],
+   [
+    "7GWgw",
+    2
+   ],
+   [
+    "boundsObjc",
+    2
+   ],
+   [
+    "Leftlong",
+    2
+   ],
+   [
+    "Btomlong",
+    2
+   ],
+   [
+    "Rghtlong",
+    2
+   ],
+   [
+    "8Exif",
+    1
+   ],
+   [
+    "Windows",
+    1
+   ],
+   [
+    "Adobe_CM",
+    1
+   ]
+  ]
+ }
+]

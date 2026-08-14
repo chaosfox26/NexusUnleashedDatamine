@@ -1,0 +1,249 @@
+Id	TradeSkillTierId	AchievementId	IconPath	LocalizedTextIdName	LocalizedTextIdTooltip	TradeskillBonusEnum00	TradeskillBonusEnum01	TradeskillBonusEnum02	ObjectIdPrimary00	ObjectIdPrimary01	ObjectIdPrimary02	ObjectIdSecondary00	ObjectIdSecondary01	ObjectIdSecondary02	ObjectIdTertiary00	ObjectIdTertiary01	ObjectIdTertiary02	Value00	Value01	Value02	ValueInt00	ValueInt01	ValueInt02
+115	0	0	ClientSprites:Icon_ItemArmorFace_UI_Item_Arcane_Face	590538	506412	16	14	0	17	17	0	0	0	0	3	3	0	1.1	0.526	0	0	0	0
+284	0	0		522190	522191	57	0	0	0	0	0	0	0	0	0	0	0	0.98	0	0	0	0	0
+232	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	486146	486147	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	35	0	0
+315	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Inspiring	711517	711518	12	0	0	1	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+181	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	464305	464420	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	36	0	0
+264	0	0	ClientSprites:Icon_ItemMisc_tool_0004	498951	498952	4	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+281	0	0	ClientSprites:Icon_SkillFire_UI_ss_srngblst	509091	509092	6	0	0	1	0	0	0	0	0	306	0	0	2	0	0	0	0	0
+66	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Earth_03	498945	498946	15	28	0	16	16	0	0	0	0	4	0	0	1.25	1	0	0	0	0
+364	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	740457	740458	2	13	0	12	12	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+367	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	740463	740464	2	13	0	14	14	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+63	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Leaf	498941	498942	6	0	0	16	0	0	391	0	0	202	0	0	1	0	0	0	0	0
+347	0	0	IconSprites:Icon_ItemMisc_TechTotem	711581	711582	21	0	0	21	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+298	0	0		0	608919	57	0	0	0	0	0	0	0	0	0	0	0	1.15	0	0	0	0	0
+149	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_Powder_Garlic	413766	413767	15	16	0	2	2	0	0	0	0	2	2	0	1.2	0.9	0	0	0	0
+198	0	0	ClientSprites:Icon_ItemMisc_rune_0001	474974	474975	59	0	0	1	0	0	298	0	0	0	0	0	1	0	0	0	0	0
+167	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_Bottle_FireSauce	413834	413835	14	15	16	2	2	2	0	0	0	1	1	1	0.9	1.2	0.9	0	0	0
+113	0	0	ClientSprites:Icon_ItemMisc_tool_0003	506408	506409	16	14	0	17	17	0	0	0	0	1	1	0	1.1	0.526	0	0	0	0
+267	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Leaf	498957	498958	10	10	0	16	16	0	391	329	0	0	0	0	1.5	1.5	0	0	0	0
+230	0	0	ClientSprites:Icon_ItemMisc_tool_0002	486140	486141	4	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+250	0	0	ClientSprites:Icon_ItemMisc_Shields_01	491548	491549	56	0	0	12	0	0	53	0	0	0	0	0	5	0	0	0	0	0
+81	0	0	ClientSprites:Icon_ItemArmorFace_UI_Item_Arcane_Face	464404	464405	57	57	0	21	21	0	3	4	0	0	0	0	1.05	1.05	0	0	0	0
+350	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Geomatic	711587	711588	12	0	0	21	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+299	0	0		0	608920	57	0	0	0	0	0	0	0	0	0	0	0	1.2	0	0	0	0	0
+150	0	0	IconSprites:Icon_TradeskillTalent_Discount_Overlay	413768	413769	14	0	0	2	0	0	0	0	0	3	0	0	0.9	0	0	0	0	0
+216	0	0	ClientSprites:Icon_ItemMisc_letter_0002	486016	486017	65	0	0	14	0	0	0	0	0	0	0	0	1.08	0	0	0	0	0
+164	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_LemonWedge	413828	413829	14	15	16	2	2	2	0	0	0	3	3	3	0.9	1.2	0.9	0	0	0
+233	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	486148	486149	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	36	0	0
+333	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	711553	711554	2	0	0	14	0	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+316	0	0	IconSprites:Icon_SkillWarrior_Polarity_Field	711519	711520	1	0	0	12	0	0	0	0	0	0	0	0	5	0	0	0	0	0
+147	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_Powder_FirePepper	413758	413759	15	16	0	2	2	0	0	0	0	1	1	0	1.2	0.9	0	0	0	0
+247	0	0	ClientSprites:Icon_ItemArmorShield_shield_0001	491542	491543	13	63	63	12	12	12	0	0	0	0	0	0	1	0	0	0	8	76
+165	0	0	IconSprites:Icon_ItemMisc_Salad	413830	413831	6	10	0	2	2	0	0	288	0	221	0	0	1	1.7	0	0	0	0
+282	0	0	ClientSprites:Icon_SkillIce_UI_srcr_iceshrds	509112	509113	6	0	0	1	0	0	0	0	0	309	0	0	2	0	0	0	0	0
+334	0	0	IconSprites:Icon_ItemMisc_TechTotem	711555	711556	21	0	0	14	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+65	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Water_03	498943	498944	15	28	0	16	16	0	0	0	0	1	0	0	1.25	1	0	0	0	0
+265	0	0	ClientSprites:Icon_ItemMisc_tool_0002	498953	498954	4	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+365	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	740459	740460	8	13	0	14	14	0	0	0	0	0	0	0	10	0	0	0	0	0
+317	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	711521	711522	8	0	0	12	0	0	0	0	0	0	0	0	10	0	0	0	0	0
+199	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	474976	474977	61	0	0	1	0	0	0	0	0	0	0	0	0.88	0	0	0	0	0
+348	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	711583	711584	3	0	0	21	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+248	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Special_1	491544	491545	60	0	0	12	0	0	0	0	0	0	0	0	0.92	0	0	0	0	0
+148	0	0	IconSprites:Icon_TradeskillMisc_CookRecipe	413761	413762	20	16	0	2	2	0	0	0	0	0	0	0	1.25	0.75	0	0	0	0
+116	0	0	ClientSprites:Icon_ItemArmorNeck_UI_Item_Neck_004	506416	506417	13	26	0	17	17	0	0	0	0	0	0	0	1	1	0	0	0	0
+331	0	0	IconSprites:Icon_ItemMisc_BioMemeticMud	711549	711550	6	6	0	14	1	0	0	0	0	523	540	0	1	1	0	0	0	0
+231	0	0	ClientSprites:Icon_ItemMisc_tool_0003	486142	486143	4	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+314	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Tempestuous	711515	711516	12	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+182	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	464306	464421	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	37	0	0
+163	0	0	IconSprites:Icon_ItemMisc_Pudding	413813	413818	14	15	16	2	2	2	0	0	0	4	4	4	0.9	1.2	0.9	0	0	0
+332	0	0	IconSprites:Icon_ItemMisc_Generic_isolinear_chip	711551	711552	9	0	0	14	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+217	0	0	ClientSprites:Icon_ItemMisc_letter_0003	486018	486019	5	64	0	14	14	0	0	0	0	0	0	0	1.05	0.5	0	0	0	0
+297	0	0		0	596230	57	0	0	0	0	0	0	0	0	0	0	0	0.65	0	0	0	0	0
+183	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	464308	464410	6	0	0	21	0	0	0	0	0	382	0	0	2	0	0	0	0	0
+197	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Gears	474972	474973	58	0	0	1	0	0	0	0	0	0	0	0	0.94	0	0	0	0	0
+166	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_Spice_Shaker_RockSalt	413832	413833	14	15	16	2	2	2	0	0	0	2	2	2	0.9	1.2	0.9	0	0	0
+114	0	0	ClientSprites:Icon_ItemArmorFace_UI_Item_Reflex_Face	506411	506410	16	14	0	17	17	0	0	0	0	4	4	0	1.1	0.526	0	0	0	0
+355	0	0	IconSprites:Icon_TradeskillTalent_Maker_Mark	735887	735888	13	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+69	0	0	ClientSprites:Icon_ItemMisc_letter_0002	463966	463967	65	0	0	21	0	0	0	0	0	0	0	0	1.08	0	0	0	0	0
+221	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Green	486044	486045	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	34	0	0
+344	0	0	IconSprites:Icon_ItemMisc_Generic_rope_02	711575	711576	6	6	0	21	21	0	0	0	0	524	540	0	1	1	0	0	0	0
+201	0	0	ClientSprites:Icon_ItemMisc_tool_0004	474985	474986	57	57	57	1	1	1	46	204	45	0	0	0	1.06	1.06	1.06	0	0	0
+244	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	491536	491537	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	35	0	0
+301	0	0		0	608922	57	0	0	0	0	0	0	0	0	0	0	0	1.3	0	0	0	0	0
+146	0	0	IconSprites:Icon_TradeskillTalent_Discount_Overlay	413755	413756	14	0	0	2	0	0	0	0	0	4	0	0	0.9	0	0	0	0	0
+335	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	711557	711558	3	0	0	14	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+235	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	486152	486153	6	0	0	14	0	0	0	0	0	386	0	0	2	0	0	0	0	0
+78	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Special_2	464397	464398	61	0	0	21	0	0	0	0	0	0	0	0	0.87	0	0	0	0	0
+321	0	0	IconSprites:Icon_ItemMisc_TechTotem	711529	711530	21	0	0	12	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+178	0	0	ClientSprites:Icon_ItemMisc_tool_0003	464408	464409	4	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+112	0	0	ClientSprites:Icon_ItemArmorChest_shirt_0001	506406	506407	6	0	0	17	0	0	0	0	0	211	0	0	1	0	0	0	0	0
+353	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Tempestuous	711593	711594	12	0	0	21	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+330	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	711547	711548	8	0	0	14	0	0	0	0	0	0	0	0	10	0	0	0	0	0
+67	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Fire_03	498947	498948	15	28	0	16	16	0	0	0	0	3	0	0	1.25	1	0	0	0	0
+319	0	0	IconSprites:Icon_ItemMisc_Generic_isolinear_chip	711525	711526	9	0	0	12	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+101	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	506384	506385	16	14	0	17	17	0	0	0	0	1	1	0	1.05	0.8	0	0	0	0
+187	0	0		474026	474027	57	0	0	0	0	0	0	0	0	0	0	0	0.96	0	0	0	0	0
+287	0	0		522196	522197	57	0	0	0	0	0	0	0	0	0	0	0	1.06	0	0	0	0	0
+310	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Infernal	711507	711508	12	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0
+362	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	740451	740452	8	13	0	12	12	0	0	0	0	0	0	0	10	0	0	0	0	0
+176	0	0	ClientSprites:Icon_ItemMisc_tool_0004	464252	464253	4	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+153	0	0	IconSprites:Icon_ItemMisc_Stoutroot_plant	413779	413780	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+110	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Stick	506402	506403	6	0	0	17	0	0	0	0	0	219	0	0	1	0	0	0	0	0
+196	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Technology	474969	474970	58	0	0	1	0	0	298	0	0	0	0	0	0.86	0	0	0	0	0
+253	0	0	ClientSprites:Icon_ItemMisc_tool_0004	491554	491555	4	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+296	0	0		0	596231	57	0	0	0	0	0	0	0	0	0	0	0	0.7	0	0	0	0	0
+119	0	0	ClientSprites:Icon_ItemArmorFace_UI_Item_Battle_Face	506414	506415	16	14	0	17	17	0	0	0	0	2	2	0	1.1	0.526	0	0	0	0
+305	0	0	IconSprites:Icon_ItemMisc_Wire	711497	711498	6	6	0	1	1	0	0	0	0	521	540	0	1	1	0	0	0	0
+219	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	486031	486032	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	32	0	0
+328	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Inspiring	711543	711544	12	0	0	12	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+60	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Medpack	498935	498936	11	11	0	16	16	0	328	329	0	202	202	0	0.15	0.05	0	0	0	0
+226	0	0	ClientSprites:Icon_ItemArmorChest_shirt_0002	486130	486131	57	57	0	14	14	0	8	9	0	0	0	0	1.05	1.05	0	0	0	0
+203	0	0	ClientSprites:Icon_ItemMisc_tool_0002	474989	474990	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+160	0	0	IconSprites:Icon_TradeskillTalent_Discount_Overlay	413800	413801	14	0	0	2	0	0	0	0	0	1	0	0	0.9	0	0	0	0	0
+303	0	0	IconSprites:Icon_SkillWarrior_Polarity_Field	711493	711494	1	0	0	1	0	0	0	0	0	0	0	0	5	0	0	0	0	0
+103	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Candles	506386	506387	16	14	0	17	17	0	0	0	0	3	3	0	1.05	0.8	0	0	0	0
+346	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	711579	711580	2	0	0	21	0	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+246	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	491540	491541	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	37	0	0
+266	0	0	ClientSprites:Icon_ItemMisc_tool_0003	498955	498956	4	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+80	0	0	ClientSprites:Icon_ItemArmorLegs_pants_0004	464402	464403	57	57	0	21	21	0	2	5	0	0	0	0	1.05	1.05	0	0	0	0
+366	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	740461	740462	3	13	0	14	14	0	0	0	0	0	0	0	1	0	0	0	0	0
+249	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Special_2	491546	491547	61	0	0	12	0	0	0	0	0	0	0	0	0.88	0	0	0	0	0
+180	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	464303	464419	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	35	0	0
+349	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Infernal	711585	711586	12	0	0	21	0	0	4	0	0	0	0	0	0	0	0	0	0	0
+300	0	0		0	608921	57	0	0	0	0	0	0	0	0	0	0	0	1.25	0	0	0	0	0
+200	0	0	ClientSprites:Icon_ItemMisc_tool_0001	474983	474984	57	57	57	1	1	1	51	48	79	0	0	0	1.06	1.06	1.06	0	0	0
+312	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Verdant	711511	711512	12	0	0	1	0	0	6	0	0	0	0	0	0	0	0	0	0	0
+360	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	740443	740444	3	13	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+260	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	491568	491569	6	0	0	12	0	0	0	0	0	384	0	0	2	0	0	0	0	0
+369	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	740467	740468	3	13	0	21	21	0	0	0	0	0	0	0	1	0	0	0	0	0
+151	0	0	IconSprites:Icon_ItemMisc_Stir_Fried_Bugs	413773	413774	11	0	0	2	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+194	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	474958	474959	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	34	0	0
+192	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	474954	474955	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	32	0	0
+228	0	0	ClientSprites:Icon_ItemArmorFace_UI_Item_Arcane_Face	486135	486136	57	57	0	14	14	0	10	11	0	0	0	0	1.05	1.05	0	0	0	0
+62	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Gears	498939	498940	6	0	0	16	0	0	365	0	0	214	0	0	1	0	0	0	0	0
+285	0	0		522192	522193	57	0	0	0	0	0	0	0	0	0	0	0	1.02	0	0	0	0	0
+162	0	0	IconSprites:Icon_ItemMisc_Burger	413811	413812	10	0	0	2	0	0	0	0	0	0	0	0	1.4	0	0	0	0	0
+76	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Special_1	464244	464245	60	0	0	21	0	0	0	0	0	0	0	0	0.95	0	0	0	0	0
+251	0	0	ClientSprites:Icon_ItemArmor_Heavy_Armor_Chest_02	491550	491551	56	56	56	12	12	12	15	17	20	0	0	0	5	5	5	0	0	0
+53	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Earth_04	498925	498926	14	0	0	16	0	0	0	0	0	4	0	0	0.85	0	0	0	0	0
+337	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Geomatic	711561	711562	12	0	0	14	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+351	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Verdant	711589	711590	12	0	0	21	0	0	6	0	0	0	0	0	0	0	0	0	0	0
+294	0	0		0	596234	57	0	0	0	0	0	0	0	0	0	0	0	0.8	0	0	0	0	0
+117	0	0	ClientSprites:Icon_ItemArmorNeck_UI_Item_Neck_002	506419	506418	13	16	0	17	17	0	0	0	0	0	0	0	1	1.333	0	0	0	0
+326	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Ethereal	711539	711540	12	0	0	12	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+324	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Geomatic	711535	711536	12	0	0	12	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+75	0	0	ClientSprites:Icon_ItemArmorChest_shirt_0002	464209	464210	13	63	63	21	21	21	0	0	0	0	0	0	1	0	0	0	8	76
+158	0	0	IconSprites:Icon_TradeskillTalent_Increase_Medishot_Ingredients	413795	413796	26	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+72	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	464093	464094	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	32	0	0
+189	0	0	ClientSprites:Icon_ItemMisc_letter_0002	474941	474942	65	60	0	1	1	0	0	0	0	0	0	0	1.05	0.94	0	0	0	0
+258	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	491564	491565	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	34	0	0
+358	0	0	IconSprites:Icon_TradeskillTalent_Maker_Mark	735893	735894	13	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+58	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Air_04	498927	498928	14	0	0	16	0	0	0	0	0	2	0	0	0.85	0	0	0	0	0
+156	0	0	IconSprites:Icon_TradeskillTalent_Discount_Overlay	413788	413789	14	0	0	2	0	0	0	0	0	2	0	0	0.9	0	0	0	0	0
+207	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	474997	474998	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	37	0	0
+256	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	491560	491561	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	32	0	0
+342	0	0	IconSprites:Icon_SkillWarrior_Polarity_Field	711571	711572	1	0	0	21	0	0	0	0	0	0	0	0	5	0	0	0	0	0
+356	0	0	IconSprites:Icon_TradeskillTalent_Maker_Mark	735889	735890	13	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+224	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Technology	486122	486123	57	0	0	14	0	0	299	0	0	0	0	0	1.08	0	0	0	0	0
+290	0	0		591861	591863	55	0	0	0	0	0	0	0	0	0	0	0	0.2	0	0	0	0	0
+339	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Ethereal	711565	711566	12	0	0	14	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+357	0	0	IconSprites:Icon_TradeskillTalent_Maker_Mark	735891	735892	13	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+73	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	464095	464098	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	33	0	0
+105	0	0	ClientSprites:Icon_ItemMisc_pick_0001	506392	506393	17	0	0	17	0	0	0	0	0	0	0	0	1.2	0	0	0	0	0
+205	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Stamina_Blue	474993	474994	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	35	0	0
+291	0	0		0	594917	57	0	0	0	0	0	0	0	0	0	0	0	1.1	0	0	0	0	0
+242	0	0	ClientSprites:Icon_ItemArmorLegs_pants_0004	491532	491533	57	57	0	12	12	0	16	19	0	0	0	0	1.05	1.05	0	0	0	0
+308	0	0	IconSprites:Icon_ItemMisc_TechTotem	711503	711504	21	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+325	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Verdant	711537	711538	12	0	0	12	0	0	6	0	0	0	0	0	0	0	0	0	0	0
+222	0	0	ClientSprites:Icon_ItemArmorLegs_pants_0002	486046	486047	13	63	63	14	14	14	0	0	0	0	0	0	1	0	0	0	8	76
+108	0	0	IconSprites:Icon_TradeskillTalent_Tradeskill_Experience_Income_Up	506398	506399	11	5	0	17	17	0	164	164	0	197	0	0	0.05	1.15	0	0	0	0
+225	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Special_3	486126	486127	55	0	0	14	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+106	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Hand	506394	506395	11	0	0	17	0	0	0	0	0	0	0	0	0.075	0	0	0	0	0
+155	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_Powder_RefinedSugar	413786	413787	15	16	0	2	2	0	0	0	0	4	4	0	1.2	0.9	0	0	0	0
+255	0	0	ClientSprites:Icon_ItemMisc_tool_0003	491558	491559	4	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+292	0	0		0	0	57	0	0	0	0	0	0	0	0	0	0	0	1.08	0	0	0	0	0
+241	0	0	ClientSprites:Icon_ItemArmorChest_shirt_0002	491530	491531	57	57	0	12	12	0	15	20	0	0	0	0	1.05	1.05	0	0	0	0
+341	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Inspiring	711569	711570	12	0	0	14	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+190	0	0	ClientSprites:Icon_ItemMisc_letter_0003	474944	474945	5	60	0	1	1	0	0	0	0	0	0	0	1.05	0.94	0	0	0	0
+359	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	740440	740441	8	13	0	1	1	0	0	0	0	0	0	0	10	0	0	0	0	0
+307	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	711501	711502	2	0	0	1	0	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+259	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	491566	491567	6	0	0	12	0	0	0	0	0	385	0	0	2	0	0	0	0	0
+322	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	711531	711532	3	0	0	12	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+208	0	0	ClientSprites:Icon_SkillNature_UI_srcr_dstdvl	475003	475004	6	0	0	1	0	0	0	0	0	308	0	0	2	0	0	0	0	0
+309	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	711505	711506	3	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+257	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	491562	491563	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	33	0	0
+223	0	0	ClientSprites:Icon_SkillEnergy_UI_srcr_elctrcshck	486117	486118	59	0	0	14	0	0	299	0	0	0	0	0	1	0	0	0	0	0
+340	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Tempestuous	711567	711568	12	0	0	14	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+289	0	0		591844	591845	57	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+306	0	0	IconSprites:Icon_ItemMisc_Generic_isolinear_chip	711499	711500	9	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+323	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Infernal	711533	711534	12	0	0	12	0	0	4	0	0	0	0	0	0	0	0	0	0	0
+227	0	0	ClientSprites:Icon_ItemArmorLegs_pants_0004	486132	486133	57	57	0	14	14	0	12	13	0	0	0	0	1.05	1.05	0	0	0	0
+204	0	0	ClientSprites:Icon_ItemMisc_tool_0003	474991	474992	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+61	0	0	ClientSprites:Icon_SkillMind_UI_espr_cnfs	498937	498938	20	0	0	16	0	0	0	0	0	0	0	0	1.2	0	0	0	0	0
+104	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Parchment	506390	506391	20	5	0	17	17	0	0	0	0	0	0	0	1.2	1.05	0	0	0	0
+288	0	0		591841	591842	57	0	0	0	0	0	0	0	0	0	0	0	0.94	0	0	0	0	0
+188	0	0		474613	474614	59	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+311	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Geomatic	711509	711510	12	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+234	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	486150	486151	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	37	0	0
+79	0	0	ClientSprites:Icon_ItemArmorChest_shirt_0002	464400	464401	57	57	0	21	21	0	1	6	0	0	0	0	1.05	1.05	0	0	0	0
+368	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	740465	740466	8	13	0	21	21	0	0	0	0	0	0	0	10	0	0	0	0	0
+254	0	0	ClientSprites:Icon_ItemMisc_tool_0002	491556	491557	4	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+168	0	0	IconSprites:Icon_ItemMisc_Gourmet_pultry	437903	413838	6	10	0	2	2	0	0	286	0	269	0	0	1	1.7	0	0	0	0
+354	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Inspiring	711595	711596	12	0	0	21	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+268	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Hand	498959	498960	6	0	0	16	0	0	214	0	0	202	0	0	4	0	0	0	0	0
+202	0	0	ClientSprites:Icon_ItemMisc_tool_0004	474987	474988	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+59	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Hand	498933	498934	28	0	0	16	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+159	0	0	IconSprites:Icon_ItemMisc_Meat_pie	413797	413798	17	0	0	2	0	0	0	0	0	0	0	0	1.5	0	0	0	0	0
+102	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Leaf	506388	506389	16	14	0	17	17	0	0	0	0	4	4	0	1.05	0.8	0	0	0	0
+302	0	0		0	608957	57	0	0	0	0	0	0	0	0	0	0	0	1.35	0	0	0	0	0
+245	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	491538	491539	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	36	0	0
+345	0	0	IconSprites:Icon_ItemMisc_Generic_isolinear_chip	711577	711578	9	0	0	21	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+286	0	0		522194	522195	57	0	0	0	0	0	0	0	0	0	0	0	1.04	0	0	0	0	0
+186	0	0		474028	474029	58	0	0	0	0	0	0	0	0	0	0	0	0.8	0	0	0	0	0
+77	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Crafting_Special_3	464256	464395	55	0	0	21	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+363	0	0	IconSprites:Icon_ItemMisc_StructuralCarbonRod	740454	740455	3	13	0	12	12	0	0	0	0	0	0	0	1	0	0	0	0	0
+177	0	0	ClientSprites:Icon_ItemMisc_tool_0002	464406	464407	4	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+154	0	0	IconSprites:Icon_ItemMisc_Grilled_whole_fish	413781	413782	6	10	0	2	2	0	0	289	0	266	0	0	1	1.7	0	0	0	0
+111	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Gears	506404	506405	6	0	0	17	0	0	0	0	0	197	0	0	1	0	0	0	0	0
+54	0	0	ClientSprites:Icon_Windows_UI_CRB_TargetTemp	498931	498932	17	17	0	16	16	0	75	329	0	0	0	0	1.1	1.1	0	0	0	0
+352	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Ethereal	711591	711592	12	0	0	21	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+120	0	0	ClientSprites:Icon_ItemArmorHands_UI_Item_Battle_Glove_001	506422	506413	16	14	0	17	17	0	0	0	0	2	2	0	1.05	0.8	0	0	0	0
+329	0	0	IconSprites:Icon_SkillWarrior_Polarity_Field	711545	711546	1	0	0	14	0	0	0	0	0	0	0	0	5	0	0	0	0	0
+220	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Green	486033	486034	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	33	0	0
+68	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Air_03	498949	498950	15	28	0	16	16	0	0	0	0	2	0	0	1.25	1	0	0	0	0
+320	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	711527	711528	2	0	0	12	0	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+243	0	0	ClientSprites:Icon_ItemArmorFace_UI_Item_Arcane_Face	491534	491535	57	57	0	12	12	0	17	18	0	0	0	0	1.05	1.05	0	0	0	0
+343	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	711573	711574	8	0	0	21	0	0	0	0	0	0	0	0	10	0	0	0	0	0
+74	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Strength_Blue	464099	464101	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	34	0	0
+57	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Fire_04	498929	498930	14	0	0	16	0	0	0	0	0	3	0	0	0.85	0	0	0	0	0
+157	0	0	IconSprites:Icon_ItemMisc_Bug_kabobs	413792	413793	6	10	0	2	2	0	0	287	0	268	0	0	1	1.7	0	0	0	0
+206	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	474995	474996	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	36	0	0
+209	0	0	ClientSprites:Icon_SkillShadow_UI_stlkr_shredarmor	475005	475006	6	0	0	1	0	0	0	0	0	307	0	0	2	0	0	0	0	0
+161	0	0	IconSprites:Icon_CraftingUI_Item_Crafting_Droplet_CitricAcid	413802	413803	15	16	0	2	2	0	0	0	0	3	3	0	1.2	0.9	0	0	0	0
+361	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	740445	740446	2	13	0	1	1	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+109	0	0	IconSprites:Icon_TradeskillTalent_Architect_Mastery_Wood	506400	506401	11	11	0	17	17	0	164	155	0	219	219	0	0.05	0.05	0	0	0	0
+338	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Verdant	711563	711564	12	0	0	14	0	0	6	0	0	0	0	0	0	0	0	0	0	0
+195	0	0	ClientSprites:Icon_ItemWeaponAxe_UI_Item_Axe_001	474960	474961	13	63	63	1	1	1	0	0	0	0	0	0	1	0	0	0	8	76
+252	0	0	ClientSprites:Icon_ItemArmor_Light_Armor_Pants_03	491552	491553	56	56	56	12	12	12	16	18	19	0	0	0	5	5	5	0	0	0
+152	0	0	IconSprites:Icon_ItemMisc_Grilled_steak	413777	413778	6	10	0	2	2	0	0	285	0	208	0	0	1	1.7	0	0	0	0
+52	0	0	IconSprites:Icon_TradeskillAdditiveTechnology_Water_00	498923	498924	14	0	0	16	0	0	0	0	0	1	0	0	0.85	0	0	0	0	0
+295	0	0		0	596232	57	0	0	0	0	0	0	0	0	0	0	0	0.75	0	0	0	0	0
+118	0	0	ClientSprites:Icon_ItemArmorNeck_UI_Item_Neck_003	506420	506421	13	15	0	17	17	0	0	0	0	0	0	0	1	1.333	0	0	0	0
+229	0	0	ClientSprites:Icon_ItemMisc_tool_0004	486137	486138	4	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+327	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Tempestuous	711541	711542	12	0	0	12	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+318	0	0	IconSprites:Icon_ItemMisc_Box_01	711523	711524	6	6	0	12	12	0	0	0	0	522	540	0	1	1	0	0	0	0
+304	0	0	IconSprites:Icon_SkillEngineer_Shock_Pulse	711495	711496	8	0	0	1	0	0	0	0	0	0	0	0	10	0	0	0	0	0
+336	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Infernal	711559	711560	12	0	0	14	0	0	4	0	0	0	0	0	0	0	0	0	0	0
+236	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	486154	486155	6	0	0	14	0	0	0	0	0	387	0	0	2	0	0	0	0	0
+184	0	0	ClientSprites:Icon_ItemMisc_UI_Item_Blueprints	464310	464411	6	0	0	21	0	0	0	0	0	383	0	0	2	0	0	0	0	0
+313	0	0	IconSprites:Icon_ItemMisc_WeaponEffects_Ethereal	711513	711514	12	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+370	0	0	IconSprites:Icon_ItemMisc_Generic_Battery_02	740471	740472	2	13	0	21	21	0	0	0	0	0	0	0	12.5	0	0	0	0	0
+193	0	0	ClientSprites:Icon_CraftingUI_Item_Crafting_Dexterity_Blue	474956	474957	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	33	0	0
+293	0	0		0	596235	57	0	0	0	0	0	0	0	0	0	0	0	0.85	0	0	0	0	0
+70	0	0	ClientSprites:Icon_ItemMisc_letter_0003	463969	463971	5	0	0	21	0	0	0	0	0	0	0	0	1.05	0	0	0	0	0
+107	0	0	IconSprites:Icon_TradeskillTalent_Force_Critical_Architect	506396	506397	11	5	0	17	17	0	155	155	0	197	0	0	0.05	1.15	0	0	0	0
+270	1	1151		0	0	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	75	0	0
+269	1	1151		0	0	63	0	0	1	0	0	0	0	0	0	0	0	0	0	0	74	0	0
+271	9	1172		0	0	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	74	0	0
+272	9	1172		0	0	63	0	0	12	0	0	0	0	0	0	0	0	0	0	0	75	0	0
+273	15	1270		0	0	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	74	0	0
+274	15	1270		0	0	63	0	0	14	0	0	0	0	0	0	0	0	0	0	0	75	0	0
+283	34	1470		521000	0	28	0	0	16	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+171	65	2533	IconSprites:Icon_CraftingUI_Item_Crafting_Cup_Milk	432558	432559	27	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+174	65	2536	IconSprites:Icon_CraftingUI_Item_Crafting_Cup_Yogurt	432581	432582	27	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+173	65	2535	IconSprites:Icon_CraftingUI_Item_Crafting_Cup_SourCream	432579	432580	27	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+172	65	2534	IconSprites:Icon_CraftingUI_Item_Crafting_Cup_CitricJuice	432561	432562	27	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+275	66	1273		0	0	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	74	0	0
+276	66	1273		0	0	63	0	0	21	0	0	0	0	0	0	0	0	0	0	0	75	0	0
+175	76	3193		0	0	28	0	0	22	0	0	0	0	0	0	0	0	1	0	0	0	0	0

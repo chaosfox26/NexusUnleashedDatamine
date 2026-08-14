@@ -1,0 +1,105 @@
+Id	TypeName	EnumName
+1	Creature	Creature
+3	Econ - Tradeskill	EconTradeskill
+4	Quest - Audit Required	Quest
+5	Class - Ability	ClassAbility
+6	Misc - Shrine	MiscShrine
+7	Misc - Vehicle	MiscVehicle
+8	Class - Ability - Deprecated	ClassAbilityDep
+9	Class - Ability - Test Spell	ClassAbilityTest
+10	Creature - Test Spell	CreatureTest
+11	Creature - Deprecated	CreatureDep
+12	Quest - Test Spell	QuestTest
+13	Quest - Deprecated	QuestDep
+14	Misc - Programmer - Test	MiscProgrammerTest
+15	PvP	PvP
+16	Spell Enum	SpellEnum
+17	Econ - Consumable	EconConsumable
+18	Misc - Disguise	MiscDisguise
+19	Econ - Schematic	EconSchematic
+20	Misc - Environmental	MiscEnvironmental
+21	Class - Milestone - Deprecated	ClassMilestoneDep
+22	Econ - Talent - Item	EconTalentItem
+23	Class - Talent - Deprecated	ClassTalentDep
+24	Econ - Gadget	EconGadget
+25	Creature - Telegraph Approved	CreatureTelegraph
+26	Creature - Telegraph Test/Prototype	CreatureTelegraphTest
+27	Class - Player Pet	ClassPlayerPet
+28	Path - General	PathGeneral
+29	Econ - Item Special	EconItemSpecial
+30	Misc - Mount	MiscMount
+31	Capture and Cinematics Team	Cinematics
+32	Class - AMP - Unlock	ClassAMPUnlock
+33	Class - AMP	ClassAMP
+34	Econ - Rune Set	EconRuneSet
+35	Combat - Momentum Buff	CombatMomentumBuff
+36	Adventure	Adventure
+37	Adventure - Combat	AdventureCombat
+38	Path - Explorer	PathExplorer
+39	Econ - Gadget - Deprecated	EconGadgetDep
+40	Econ - Consumable - Deprecated	EconConsumableDep
+41	Path - Scientist	PathScientist
+42	Path - Settler	PathSettler
+43	Path - Soldier	PathSoldier
+44	Path - Deprecated	PathDep
+45	Quest - GLOBAL	QuestGlobal
+46	Quest - Z - Arkship - Exile	QuestArkshipExile
+47	Quest - Z - Arkship - Dominion	QuestArkshipDominion
+48	Quest - Z - Northern Wilds	QuestNorthernWilds
+49	Quest - Z - Everstar Grove	QuestEverstarGrove
+50	Quest - Z - Crimson Isle	QuestCrimsonIsle
+51	Quest - Z - Levian Bay	QuestLevianBay
+52	Quest - Z - Algoroc	QuestAlgoroc
+53	Quest - Z - Celestion	QuestCelestion
+54	Quest - Z - Ellevar	QuestEllevar
+55	Quest - Z - Deradune	QuestDeradune
+56	Quest - Z - Auroria	QuestAuroria
+57	Quest - Z - Galeras	QuestGaleras
+58	Quest - Z - Whitevale	QuestWhitevale
+59	Quest - Z - Farside	QuestFarside
+60	Quest - Z - Wilderrun	QuestWilderrun
+61	Quest - Z - Malgrave	QuestMalgraveZone
+62	Quest - Z - Grimvault	QuestGrimvault
+63	Quest - PCP - Crimson Badlands	QuestCrimsonBadlands
+64	Quest - PCP - Northern Wastes	QuestNorthernWastes
+65	Quest - PCP - Starcomm Basin	QuestStarcommBasin
+66	Quest - PCP - Malgrave	QuestMalgrave
+67	Quest - Z - Blighthaven	QuestBlighthaven
+68	Quest - Z - The Defile	QuestDefile
+69	Quest - Z - Coralus	QuestCoralus
+70	Quest - Z - Halon Ring 1	QuestHalonRing1
+71	Quest - Z - Halon Ring 2	QuestHalonRing2
+72	Quest - Z - Thayd	QuestThayd
+73	Quest - Z - Illium	QuestIllium
+74	Quest - SH - Arkship - Exile	QuestSHArkshipExile
+75	Quest - SH - Arkship - Dominion	QuestSHArkshipDominion
+76	Quest - SH - Salvage Rights	QuestSHSalvageRights
+77	Quest - SH - Infestation	QuestSHInfestation
+78	Quest - SH - Rage Logic	QuestSHRageLogic
+79	Quest - SH - Space Madness	QuestSHSpaceMadness
+80	Quest - SH - Deep Space Disappearance	QuestSHDeepSpaceDisappearance
+81	Quest - SH - Gauntlet	QuestSHGauntlet
+82	Quest - H - Shade's Eve	QuestHShadesEve
+83	Quest - H - Protostar Winterfest	QuestHProtostarWinterfest
+84	Quest - H - Party Graw	QuestHPartyGraw
+85	Quest - H - Starfall	QuestHStarfall
+86	Housing	QuestHousing
+87	Quest - WS - Drusera 1	QuestWSDrusera1
+88	Quest - WS - Drusera 2	QuestWSDrusera2
+89	Quest - WS - Drusera 3	QuestWSDrusera3
+90	Quest - WS - Drusera 4	QuestWSDrusera4
+91	Quest - WS - Drusera 5	QuestWSDrusera5
+92	Quest - WS - World 1	QuestWSWorld1
+93	Quest - WS - World 2	QuestWSWorld2
+94	Quest - WS - World 3	QuestWSWorld3
+95	Quest - WS - World 4	QuestWSWorld4
+96	Quest - WS - World 5	QuestWSWorld5
+97	Quest - WS - World 6	QuestWSWorld6
+101	Quest - Z - Dreadmoor	QuestDreadmoor
+102	Quest - Z - Housing	QuestZHousing
+103	Quest - Z - Discoveries	QuestDiscoveries
+104	Misc - Vanity Pet	MiscVanityPet
+105	Misc - Toy	MiscToy
+106	Quest - Z - Arcterra	
+107	Quest - Generic Live Events	QuestGenericLiveEvents
+108	MTX - Ambient	MTXAmbient

@@ -1,0 +1,18 @@
+# Static object placements for Housing1x1DungeonMayday, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.403f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.403f.area	1	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-50.4654	6.1954	320.6378	0.000000	0.707107	0.000000	0.707107
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.403f.area	2	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	0.0066	3.0379	299.5947	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.403f.area	3	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-24.0032	0.2960	148.5926	0.000000	0.707107	0.000000	0.707107
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.403f.area	4	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.0023	0.2960	106.2971	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.403f.area	5	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.0023	0.2960	190.9335	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_Custom_000_STR_Shiphands_Custom_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	1	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	0.0066	3.0379	299.5947	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	2	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	51.7693	6.1954	320.6378	0.000000	0.707107	0.000000	0.707107
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	3	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.0023	0.2960	106.2971	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	4	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.0023	0.2960	190.9335	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	5	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	24.0413	0.2960	148.5926	0.000000	0.707107	0.000000	0.707107
+Map/Housing1x1DungeonMayday/Housing1x1DungeonMayday.4040.area	6	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	53.4619	0.2960	148.5926	0.000000	0.707107	0.000000	0.707107

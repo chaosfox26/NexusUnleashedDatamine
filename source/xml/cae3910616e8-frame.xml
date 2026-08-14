@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="ActionPanelEntry" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="ActionPanelEntry" position.height="64" position.relative="0" position.width="64" position.x="768" position.y="522" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="PromptFrame" visible="1">
+    <input-redirect source="ActivateButton" target="button" targetname="Activate" />
+    <input-redirect source="ClearActionButton" target="button" targetname="UnsetChecked" />
+    <input-redirect source="SetActionButtonText" target="button" targetname="SetText" />
+    <control class="RadioButton" DisableUnselect="0" group="4" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="button" position.height="53" position.relative="0" position.width="54" position.x="5" position.y="5" Text="" TextID="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="ActionPanelEntry" targetname="OnButtonToggle" />
+        <output-redirect source="OnPressed" target="ActionPanelEntry" targetname="OnButtonPress" />
+    </control>
+</frame>

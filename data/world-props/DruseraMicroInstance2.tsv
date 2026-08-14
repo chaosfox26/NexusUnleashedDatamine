@@ -1,0 +1,7 @@
+# Static object placements for DruseraMicroInstance2, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/DruseraMicroInstance2/DruseraMicroInstance2.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_009_STR_Exolab_009.dgn	-3.6191	0.0000	-71.7226	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance2/DruseraMicroInstance2.403f.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_009_STR_Exolab_009.dgn	-3.6191	0.0000	-71.7226	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance2/DruseraMicroInstance2.4040.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_009_STR_Exolab_009.dgn	-3.6191	0.0000	-71.7226	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance2/DruseraMicroInstance2.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_009_STR_Exolab_009.dgn	-3.6191	0.0000	-71.7226	0.000000	0.000000	0.000000	1.000000

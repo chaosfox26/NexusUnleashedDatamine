@@ -1,0 +1,610 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- Meta data -->
+        <meta charset="utf-8">
+
+        <meta http-Equiv="Cache-Control" Content="no-cache" />
+        <meta http-Equiv="Pragma" Content="no-cache" />
+        <meta http-Equiv="Expires" Content="0" />
+
+        <title>Test</title>
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="css/font.css">
+        <link rel="stylesheet" type="text/css" href="css/dropMenu.css">
+        <link rel="stylesheet" type="text/css" href="css/tooltip.css">
+
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <!-- Awesome Fonts -->
+        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css"> -->
+        <!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Jockey+One|Open+Sans:300,300italic,400,400italic,600,700"> -->
+        
+
+
+
+    </head>
+    <body ondragstart="return false;" ondrop="return false;">
+        <div class="wrap">
+            <!-- Title Bar -->
+            <!-- <div id='app-upperbar' class='draggable'></div> -->
+            <div id='app-titlebar' class='draggable'></div>
+            <!-- Base -->
+            <div id='app-news'></div>
+            <div id="fullViewWrap" class="full-wrap">
+                <!-- <div class="drag-area draggable"></div> -->
+                <div id='app-fullView'></div>
+            </div>
+            <div id='app-progress'></div>
+            <div id='app-button'></div>
+
+            <!-- Overlay -->
+            <div id="overlayWrap" class="full-wrap">
+                <!-- <div class="drag-area draggable"></div> -->
+                <div id='app-overlay'></div>
+            </div>
+            <!-- Menu -->
+            <div id='app-sideMenu' class="closed"></div>
+            <!--<div id='app-menuContent'></div>-->
+
+        </div>
+
+    
+	<!-- The big buttons -->
+	<script id='tpl-bigButtons' type="text/x-handlebars-template">
+		<div class="actions">
+			{{#each buttons}}
+				<!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+			    <button id='{{this.id}}' class="{{this.class}}" type='button'>
+                    {{{this.buttonText}}}
+                {{#if isSteam}}
+                    <div class='bub show arrow-south left'>
+                       <p id="steamLoginText"><i class='fa fa-exclamation-circle'></i> {{steamLoginText}}</p>
+                    </div>
+                {{/if}}
+                </button>
+			{{/each}}
+		</div>
+
+		<!-- LOGO -->
+		<div class='brand'>
+			<img src='asset://Launcher/assets/ws_launcher_logo_ncsoft.png'>
+			<img src='asset://Launcher/assets/ws_launcher_logo_carbine.png'>
+		</div>
+	</script>
+
+
+    <!-- Error/Warning/Whatever Overlay -->
+    <script id='tpl-error' type="text/x-handlebars-template">
+        <div id='overlayContent'>
+            <div class="overlay-wrap">
+                <h1>{{{overlayTitle}}}</h1>
+                <br>
+                <!--<h3>{{{overlayCode}}}</h3>-->
+                <h3>{{{overlayText}}}</h3>
+            </div>
+            <div class="actions">
+            {{#if isError}}
+                <button id='errorConfirm' class="btn btn-grey" type='button'>{{errorConfirmText}}</button>
+                <!--<button id='submitError' class="btn btn-grey" button='button'>{{submitErrorText}}</button>-->
+            {{/if}}
+
+            {{#if isWarning}}
+                <button id='{{warnCancel}}' class="btn btn-grey" type='button'>{{warningCancelButton}}</button>
+                <button id='{{warnConfirm}}' class="btn btn-blue" button='button'>{{warningConfirmButton}}</button>
+                
+            {{/if}}
+
+            {{#if isDisconnect}}
+                <button id='{{warnConfirm}}' class="btn btn-blue" button='button'>{{warningConfirmButton}}</button>
+            {{/if}}
+            </div>
+        </div>
+
+    </script>
+
+
+	<!-- EULA -->
+	<script id='tpl-eula' type="text/x-handlebars-template">
+	    <div id='installEula'>
+	    	<div class="eulaWrap">
+	        <div id="eulaText"></div>
+	      </div>
+        <div id="displayLang">
+        	<h3>{{displayLangOpt}}</h3>
+        	<select class="styled-select" name="displayLang">
+        		{{#each dispLang}}
+	            <option value="{{this.langCode}}">{{this.lang}}</option>
+	          {{/each}}
+        	</select>
+        </div>
+        <div class="actions">
+	        <input id='declineEula' type="button" class="btn btn-grey" value="{{eulaDeclineText}}"> 
+	        <input id='{{eulaAccept}}' type="button" class="btn btn-blue" value="{{eulaAcceptText}}">
+	      </div>
+	    </div>
+	</script>
+
+
+    <!-- Login -->
+    <script id='tpl-login' type="text/x-handlebars-template">
+        <div class='loginWrap'>
+            <h1 class='fullViewTitle' id='loginTitle'>{{loginTitle}}</h1>
+            <h1 class='fullViewTitle' id='2faTitle'>{{login2FATitle}}</h1>
+            <h1 class='fullViewTitle' id='ipVerificationTitle'>{{loginIPVerificationTitle}}</h1>
+            <div class='fullViewForm' id='loginView'>
+                <form id='loginForm' name="loginForm">
+                    <fieldset class="centered">
+                        <h3 class='note' id='loginNote'><i class='fa fa-exclamation-circle'></i> {{loginNote}}</h3>
+                        <div class="field-sect">
+                            <label for='login-email'>{{loginEmail}}</label>
+                            <input id="login-email" type="text" name="email">
+                        </div>
+                        <!-- <span class='subtext link' id='{{forgotEmail}}'>{{forgotEmailText}}</span> -->
+                        <div class="field-sect">
+                            <label for="login-password">{{loginPass}}</label>
+                            <input id="login-password" type="password" name="password" maxlength="16">
+                        </div> 
+                        <p class='subtext link'><span id="{{forgotPass}}">{{forgotPassText}}</span></p>
+                        <div class="field-sect">
+                            <label class="option-label">
+                                <input class="choice" id='rememberMe' type='checkbox'>
+                                <span>{{rememberMeText}}</span>
+                            </label>
+                        </div>
+                    </fieldset>
+                    <div class="actions">
+                        <button id='loginCancel' class="btn btn-grey" type='button'>{{loginBack}}</button>
+                        <input type="submit" class="btn btn-blue" value='{{loginSubmit}}'>
+                    </div>
+                </form>
+                <!-- 2fa -->
+                <form id="twoFactorAuthForm" name="twoFactorAuthForm">
+                    <fieldset class="centered">
+                        <div class="field-sect">
+                            <label for='twoFA'>{{login2FA}}</label>
+                            <input id="twoFA" type="text" name="twoFactorAuthKey">
+                        </div>
+                        <div class="field-sect">
+                            <label class="option-label">
+                                <input class='choice label' id='rememberIP' type='checkbox'>
+                                <span>{{rememberIPText}}</span>
+                            </label>
+                        </div>
+                    </fieldset>
+                    <div class="actions">
+                        {{#if showCancel}}
+                        <button id='loginCancel' class="btn btn-grey" type='button'>{{loginBack}}</button>
+                        {{/if}}
+                        <input type="submit" class="btn btn-blue" value="{{submit2FA}}">
+                        <button id='login2FARetry' class="btn btn-purple" type='button'>{{loginRetry}}</button>
+                    </div>
+                </form> 
+                <!-- IP verification -->
+                <form id="ipVerificationForm" name="ipVerificationForm">
+                    <fieldset class="centered">
+						<div id="loginNewVerificationCodeWarning" class="field-sect hidden">
+							<label class="login-warning">{{newVerificationCodeWarning}}</label>
+						</div>
+						<div class="field-sect">
+							<label>{{loginIPVerificationNeeded}}</label>
+						</div>
+                        <div class="field-sect">
+							<label for='ipVerification'>{{loginIPVerification}}</label>
+                            <input id="ipVerification" type="text" name="ipVerificationCode">
+                        </div>
+                        <div class="field-sect">
+                            <label class="option-label">
+                                <input class='choice label' id='rememberIPAuth' type='checkbox'>
+                                <span>{{rememberIPAuthText}}</span>
+                            </label>
+                        </div>
+                    </fieldset>
+                    <div class="actions">
+                        {{#if showCancel}}
+                        <button id='loginCancel' class="btn btn-grey" type='button'>{{loginBack}}</button>
+                        {{/if}}
+                        <input type="submit" class="btn btn-blue" value="{{submitIPVerification}}">
+                        <button id='loginIPVerificationRetry' class="btn btn-purple" type='button'>{{loginRetry}}</button>
+                    </div>
+                </form>                 
+				<p id="loginText"></p> 
+            </div>
+        </div>
+    </script>
+
+
+    <!-- Setup Install -->
+    <script id='tpl-sideMenu' type="text/x-handlebars-template">
+        <div id='sideMenu'>
+            <img class="logo" src="asset://Launcher/assets/w-logo.png"/>
+            <span id="sideMenuClose" class="close"><i class="fa fa-angle-double-left"></i></span>
+            <div class="menu">
+                <div id='sideMenuTop' class="menu-sect">
+                    <h2>{{sideMenuTitle}}</h2>
+                    <ul>
+                    {{#each menuTop}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <li><a href="javascript:void(0);" class="link-out" id='{{this.id}}' type='button'>{{this.buttonText}}</a></li>
+                    {{/each}}
+                    </ul>
+                </div>
+                <div class="divider"></div>
+                <div id='sideMenuBot' class="menu-sect">
+                    {{#each menuBot}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <a href="javascript:void(0);" class="link-out" id='{{this.id}}' type='button'>{{this.buttonText}}</a>
+                    {{/each}}
+                </div>
+                <div id='sideMenuFooter' class="menu-sect">
+                    {{#each menuFooter}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <a href="javascript:void(0);" id='{{this.id}}' type='button'>{{this.buttonText}}</a>
+                    {{/each}}
+                </div>
+            </div>
+        </div>
+    </script>                
+
+
+	<!-- Menu Content -->
+	<script id='tpl-menuContent' type="text/x-handlebars-template">
+	
+	</script>
+
+
+	<!-- News -->
+	<script id='tpl-news' type="text/x-handlebars-template">
+	    <iframe src='{{newsUrl}}' frameborder="0">
+	    </iframe>
+	</script>
+
+
+	<!-- Setup Install -->
+	<script id='tpl-option' type="text/x-handlebars-template">
+	    <div id='preference'>
+	    	<h1>{{pageTitle}}</h1>
+	    	<form>
+	    		<fieldset>
+	    			{{#if isPatching}}
+	    			<div class="locked">
+		    		{{/if}}
+				    	<!-- Display Language Option -->
+				    	<div class='field-sect radio' id='displayLang'>
+				    		<h3>{{displayLangOpt}} 
+				    			{{#if isPatching}}
+				    			<span class="lock-warning">{{noChangeLanguageText}}</span>
+				    			{{/if}}
+				    		</h3>
+				    		{{#each dispLang}}
+					    		<label class="option-label">
+					    			<input class='choice' type='radio' name='displayLang' value='{{this.langCode}}'>
+					    			<span>{{this.lang}}</span>
+					    		</label>
+				    		{{/each}}
+				    	</div>
+
+				    	<!-- Install Language Option -->
+				    	<div class='field-sect checkbox' id='installLang'>
+				    		<h3>{{installLangOpt}} 
+				    			{{#if isPatching}}
+				    			<span class='lock-warning'>{{noChangeLanguageText}}</span>
+				    			{{/if}}
+				    		</h3>
+				    		{{#each installLang}}
+					    		<label class="option-label">
+					    			<input class='choice' type='checkbox' name='{{this.langCode}}InstallLang' value='{{this.langCode}}'>
+					    			<span>{{this.lang}}</span>
+					    		</label>
+				    		{{/each}}
+				    	</div>
+			    	{{#if isPatching}}
+		    		</div>
+		    		{{/if}}
+			    	<!-- Install Region Option -->
+			    	<div class='field-sect radio' id='installRegion'>
+			    		<h3>{{installRegionOpt}} 
+						{{#if isPatching}}
+				    		<span class="lock-warning">{{noChangeLanguageText}}</span>
+				    		{{/if}}
+						<span id="noChangeRegion" class="lock-warning">{{noChangeRegionText}}</span>
+			    		</h3>
+			    		{{#each installRegion}}
+				    		<label class="option-label">
+				    			<input class='choice' type='radio' name='installRegion' value='{{this.gameRegionId}}'>
+				    			<span>{{this.gameRegionName}}</span>
+				    		</label>
+			    		{{/each}}
+			    	</div>
+
+			    	<!-- Shortcut Option -->
+			    	<div class='field-sect checkbox' id='shortcut'>
+			    		<h3>{{shortcutOpt}}</h3>
+			    		<label class="option-label">
+				    		<input class='choice' type='checkbox' name='shortcutOpt' value='desktop'>
+				    		<span>{{desktopShort}}</span>
+				    	</label>
+				    	<label class="option-label">
+				    		<input class='choice' type='checkbox' name='shortcutOpt' value='startMenu'>
+				    		<span>{{menuShort}}</span>
+				    	</label>
+			    	</div>
+
+
+			    	<!-- Install/Option Information -->
+			    	<div class="log-info">
+				        <p id="installInfo">{{installInfo}}</p>
+				        <p id="addonInfo">{{addonInfo}}</p>
+
+				        <!--<div id="changes">
+
+				        </div>-->
+				    </div>
+
+				    <!-- Repair Button -->
+				    <button id='repairButton' class="btn btn-orange small" type="button">{{repairText}}</button>
+				    
+					</fieldset>
+					<div class="actions">
+						<!-- Back and Accept Button -->
+				    {{#each buttons}}
+						<!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+					    <button id='{{this.id}}' class="{{this.class}}" type='button'>{{this.buttonText}}</button>
+						{{/each}}
+					</div>
+				</form>
+	    </div>
+	</script>
+
+
+    <!-- Setup Install -->
+    <script id='tpl-optionChanges' type="text/x-handlebars-template">
+        <!-- Install/Option Information -->
+        {{#if isChange}}
+            {{#each change}}
+                <span>
+            {{/each}}
+        {{/if}}
+
+        <span>{{clickAccept}}</span>
+    </script>
+
+
+	<!-- Play -->
+	<script id='tpl-play' type="text/x-handlebars-template">
+	    <div>
+	        <input id="playButton" type="button" onclick="app.Play();" value="Play" disabled="disabled">
+	        <a href="http://www.google.com">Link</a>
+	    </div>
+	</script>
+
+
+<!-- Patch/Install Progress -->
+<script id='tpl-progress' type="text/x-handlebars-template">
+  <div class='progress sect'>
+  	<div class="wrap">
+    
+  		<div id="progressBarGlow"></div>
+      <div id="progressBarContainer">
+        <div id="progressBar">
+        <div id="progressBarCore"></div>
+        </div>
+      </div>
+      <div id='leftInfo'>
+        <p id="stageText"></p>
+        <p id="fileText"></p>
+      </div>
+      <p id="buildNum"></p><p id="percentText"></p>
+      <div class="infoProgress cta">
+        <i class='fa fa-info-circle' id='infoIcon'></i>
+        <div class='bub arrow-south left'>
+           <p id="networkText"></p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</script>
+
+    <!-- Setup Install -->
+    <script id='tpl-setupInstall' type="text/x-handlebars-template">
+        <div id='setupInstall'>
+            <h1>{{header}}</h1>
+            <form>
+                <fieldset>
+                    <!-- Install Directory -->
+                    <div class="field-sect" id="installDirectory">
+                        <input id='installLocation' type='text' value='{{installLocation}}'>
+                        <input id='installBrowse' class="btn btn-grey" type='button' value="{{browse}}">
+                    </div>
+                    
+                    <!-- Display Language Option -->
+                    <!--<div class='field-sect radio' id='displayLang'>
+                        <h3>{{displayLangOpt}}</h3>
+                        {{#each dispLang}}
+                            <label class="option-label">
+                                <input class='choice' type='radio' name='displayLang' value='{{this.langCode}}'>
+                                <span>{{this.lang}}</span>
+                            </label>
+                        {{/each}}
+                    </div>-->
+
+                    <!-- Install Language Option -->
+                    <div class='field-sect checkbox' id='installLang'>
+                        <h3>{{installLangOpt}}</h3>
+                        {{#each installLang}}
+                            <label class="option-label">
+                                <input class='choice' type='checkbox' name='{{this.langCode}}InstallLang' value='{{this.langCode}}'>
+                                <span>{{this.lang}}</span>
+                            </label>
+                        {{/each}}
+                    </div>
+
+                    <!-- Install Region Option -->
+                    <div class='field-sect radio' id='installRegion'>
+                        <h3>{{installRegionOpt}}</h3>
+                        {{#each installRegion}}
+                            <label class="option-label">
+                                <input class='choice' type='radio' name='installRegion' value='{{this.gameRegionId}}'>
+                                <span>{{this.gameRegionName}}</span>
+                            </label>
+                        {{/each}}
+                    </div>
+
+                    <!-- Shortcut Option -->
+                    <div class='field-sect checkbox' id='shortcut'>
+                        <h3>{{shortcutOpt}}</h3>
+                        <label class="option-label">
+                            <input class='choice' type='checkbox' name='shortcutOpt' value='desktop'>
+                            <span>{{desktopShort}}</span>
+                        </label>
+                        <label class="option-label">
+                            <input class='choice' type='checkbox' name='shortcutOpt' value='startMenu'>
+                            <span>{{menuShort}}</span>
+                        </label>
+                    </div>
+
+                </fieldset>
+
+
+                <!-- Back and Install Button -->
+                <div class="actions">
+                    {{#each buttons}}
+                        <!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+                        <button id='{{this.id}}' class="{{this.class}}" type='button'>{{this.buttonText}}</button>
+                    {{/each}}
+                </div>
+            </form>
+        </div>
+    </script>
+
+
+
+
+	<script id='tpl-splash' type="text/x-handlebars-template">
+	    <div id='splash'></div>
+	</script>
+
+
+
+<!-- TitleBar -->
+<script id='tpl-titlebar' type="text/x-handlebars-template">
+
+    <div class="drag-area draggable"></div>
+    <!-- <div class="trapezoid"></div> -->
+    {{#if isWest}}
+      <img class="logo draggable" src="asset://Launcher/assets/logo-wildstar.png"/>
+    {{else}}
+      <img class="logo cn draggable" src="asset://Launcher/assets/logo-wildstar-cn.png"/>
+    {{/if}}
+    
+    <img id="grabBar" src="asset://Launcher/assets/trap-v001.png"/>
+
+
+    <a href="javascript:void(0);" class='icon' id="closeButton">
+        <i class="fa fa-times"></i>
+        <div class='bub arrow-north right'>
+           <p id='tooltip-closing'>{{tooltipClosingText}}</p>
+        </div>
+    </a>
+
+    <a href="javascript:void(0);" class='icon' id="minimizeButton"><i class="fa fa-minus"></i></a>
+  
+    {{#if canOption}}
+      <a href="javascript:void(0);" class='icon' id="optionButton"><i class="fa fa-cog"></i></a>
+    {{/if}}
+  
+    {{#if isLoggedIn}}
+      <nav id="primary_nav_wrap">
+          <a href="javascript:void(0)" id='{{myAccountID}}'><i class="fa fa-user"></i>{{myAccountText}}<i class="fa fa-angle-down"></i></a>
+          <ul>
+              <li><a href="javascript:void(0)" class='myAccount-items' id='{{accountSettingsID}}'>{{accountSettingsText}}</a></li>
+              {{#if logoutShow}}
+              <li><a href="javascript:void(0)" class='myAccount-items' id='{{logoutID}}'>{{logoutText}}</a></li>
+              {{/if}}
+          </ul>
+      </nav>
+    {{/if}}
+  
+    <a href="javascript:void(0)" class='icon' id='toMenu'><i class='fa fa-bars fa-lg'></i></a>
+</script>
+
+
+	<script id='tpl-uninstall' type="text/x-handlebars-template">
+	    <div id='uninstall'>
+	    	<h1 id='uninstallTitle'>{{uninstallTitle}}</h1>
+	    	<p id='text'>{{uninstallText}}</p>
+	    	<p id='directory'>{{uninstallDir}}</p>
+
+
+	    	<form class='option' id='uninstallOther'>
+	    		<h3>{{uninstallOtherText}}</h3>
+	    		<div class="field-sect checkbox">
+	    			<label class="option-label">
+		    			<!-- Remove Settings -->
+							<input class='choice' type='checkbox' name='uninstallSett'>
+							<span>{{uninstallSettText}}</span>
+						</label>
+	    		</div>
+	    		<div class="field-sect checkbox">
+	    			<label class="option-label">
+		    			<!-- Remove Addons -->
+							<input class='choice' type='checkbox' name='uninstallAddon'>
+							<span>{{uninstallAddonText}}</span>
+						</label>
+	    		</div>
+	    		<div class="field-sect checkbox">
+	    			<label class="option-label">
+		    			<!-- Remove Screenshots & chatlogs -->
+							<input class='choice' type='checkbox' name='uninstallScreen'>
+							<span>{{uninstallScreenText}}</span>
+ 						</label>
+	    		</div>
+	    	</form>
+	    	<div class="actions">
+	    		<button id='startUninstall' class="btn btn-blue" type='button'>{{confirmUninstallButton}}</button>
+	    	</div>
+	    </div>
+	</script>
+
+
+
+<!-- TitleBar -->
+<script id='tpl-upperbar' type="text/x-handlebars-template">
+
+  <!-- LOGO -->
+  <img class='draggable' src='asset://Launcher/assets/ws_launcher_logo_ncsoft.png'>
+  <img class='draggable' src='asset://Launcher/assets/ws_launcher_logo_carbine.png'>
+  <!--
+  <a href="javascript:void(0);" id="minimizeButton"><i class="fa fa-minus"></i></a>
+
+  <a href="javascript:void(0);" id="closeButton">
+      <i class="fa fa-times"></i>
+      <div class='bub arrow-north right'>
+         <p id='tooltip-closing'>{{tooltipClosingText}}</p>
+      </div>
+  </a>
+  -->
+  {{#if canOption}}
+    <a href="javascript:void(0);" id="optionButton"><i class="fa fa-cog"></i></a>
+  {{/if}}
+</script>
+
+
+		<!-- Vendor Files -->
+        <script type="text/javascript" src='js/vendor/handlebars-v3.0.3.js'></script>
+        <script type="text/javascript" src='js/vendor/jquery-1.11.3.min.js'></script>
+        <script type="text/javascript" src='js/vendor/gaLocalStorage_1.1.js'></script>
+
+        <!-- Utils -->
+        <script type="text/javascript" src='docs/langSource.js'></script>
+        <script type="text/javascript" src='js/utils.js'></script>
+
+        <!-- Analytics -->
+        <script type="text/javascript" src='http://static.ncsoft.com/global/js/analytics.min.js'></script>
+        <script type="text/javascript" src='js/analytics.js'></script>
+        
+        <!-- Production Files -->
+        <script type="text/javascript" src='js/server.js'></script>
+
+    </body>
+</html>

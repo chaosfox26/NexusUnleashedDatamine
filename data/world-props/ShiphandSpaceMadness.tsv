@@ -1,0 +1,15 @@
+# Static object placements for ShiphandSpaceMadness, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Custom_005_STR_Ship_ShipHand_Custom_005.dgn	-35.3501	4.8586	334.1098	0.000000	1.000000	0.000000	-0.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	1	Art\Light\LIT_Point_Soft.m3	-24.7173	508.6989	367.3405	0.000000	0.000000	0.000000	1.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	2	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.5508	0.2957	79.0328	0.000000	-0.000000	0.000000	1.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	3	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-72.2770	0.1452	139.9975	0.000000	0.707107	0.000000	0.707107
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	4	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-35.3157	5.1535	215.1731	0.000000	-0.000000	0.000000	1.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	5	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-35.3434	5.1535	278.5438	0.000000	-0.000000	0.000000	1.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.403f.area	6	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-35.3576	5.1535	263.1961	0.000000	-0.000000	0.000000	1.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.4040.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_Custom_005_STR_Ship_ShipHand_Custom_005.dgn	-35.3501	4.8586	334.1098	0.000000	1.000000	0.000000	-0.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.4040.area	1	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.5508	0.2957	79.0328	0.000000	-0.000000	0.000000	1.000000
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.4040.area	2	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	20.9706	-2.9582	150.9718	0.000000	0.382683	0.000000	0.923880
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.4040.area	3	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	72.8050	-2.9367	202.8062	0.000000	0.382683	0.000000	0.923880
+Map/ShiphandSpaceMadness/ShiphandSpaceMadness.4040.area	4	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	163.4645	-2.9367	293.4081	0.000000	0.382683	0.000000	0.923880

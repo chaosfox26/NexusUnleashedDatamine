@@ -1,0 +1,8 @@
+Id	DistancePercent00	DistancePercent01	DistancePercent02	DistancePercent03	DistancePercent04	DamageModifier00	DamageModifier01	DamageModifier02	DamageModifier03	DamageModifier04
+1	0.1	0.3	0.5	0.7	0.9	1	0.8	0.7	0.3	0.1
+2	0.5	0.6	0.7	0.8	0.9	1	0.8	0.6	0.5	0.4
+3	0.4	0.5	0.6	0.7	0.8	1	0.8	0.6	0.4	0.2
+4	0.2	0.25	0.3	0.6	0.8	1	0.25	0.175	0.1	0.05
+5	0.1	0.3	0.5	0.7	0.9	0.2	0.4	0.6	0.8	1
+6	0.1	0.333333	0.5	0.7	0.9	0.482	1	1	1	1
+7	0.02	0.04	0.06	0.08	0.1	15	10	5	3	1

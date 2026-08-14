@@ -1,0 +1,86 @@
+Id	LocalizedTextIdName	AssetPath	ImagePath	ImageWidth	ImageHeight	ImageOffsetX	ImageOffsetY	HexMinX	HexMinY	HexLimX	HexLimY	Flags
+6	259615	Map\Eastern	EasternContinent	1000	1000	144	0	656	482	832	696	4
+7	259619	Map\NeighborhoodTest002NewSize		0	0	0	0	0	0	0	0	2
+8	259622	Map\Western	WesternContinent	1000	1000	0	100	500	460	788	659	4
+9	259625	Map\HalonRingNew	HalonRingContinent	1000	1000	252	292	390	403	555	523	4
+10	259627	Map\Protopia		0	0	0	0	0	0	0	0	0
+11	259630	Map\QuestTestIsland		0	0	0	0	0	0	0	0	3
+12	259636	Map\InitiateIsland		0	0	0	0	0	0	0	0	0
+13	259638	Map\EthnDunon		0	0	0	0	0	0	0	0	2
+14	259640	Map\Skullcano		0	0	0	0	0	0	0	0	2
+15	259642	Map\OsunDungeon		76	55	0	0	680	588	705	604	2
+16	259645	Map\AdventureGaleras		0	0	0	0	0	0	0	0	2
+17	259647	Map\AdventureMalgrave		1000	1000	0	0	678	623	753	678	2
+18	259649	Map\ShiphandInfestation		0	0	0	0	0	0	0	0	2
+19	259653	Map\Farsidesque		346	572	0	0	716	453	813	522	0
+20	262516	Map\HousingAlgorocNeighborhood		0	0	0	0	0	0	0	0	0
+22	270468	Map\ExileArkShipTutorial		0	0	0	0	0	0	0	0	2
+23	276797	Map\AdventureNorthernWilds		0	0	0	0	0	0	0	0	2
+24	277901	Map\AdventureHycrest		0	0	0	0	0	0	0	0	2
+25	277920	Map\Eastern		0	0	0	0	0	0	0	0	2
+26	277925	Map\AdventureWhitevale		76	76	0	0	764	566	789	588	2
+27	277936	Map\AdventureAstrovoidPrison		82	97	0	0	664	578	691	606	2
+28	277951	Map\Western		0	0	0	0	0	0	0	0	2
+30	293210	Map\DominionArkShipTutorial		0	0	0	0	0	0	0	0	0
+31	296090	Map\PublicEventIsland	PublicEventIslandContinent	1000	1000	331	350	652	532	772	625	4
+32	306183	Map\PocketCaps		0	0	0	0	78	59	103	74	0
+33	311871	Map\NewCentral	Central	1000	1000	145	0	632	461	814	683	4
+34	321689	Map\PellicaneTestWorld		0	0	0	0	1130293520	1	4294967295	0	0
+36	324430	Map\HousingAlgorocSky		22	24	0	0	48	50	55	57	0
+38	331246	Map\ShiphandAsteroidMining		28	31	0	0	882	679	891	688	0
+39	342597	Map\PvPArena		0	0	0	0	0	0	0	0	2
+40	352230	Map\KevinVortexQuarry		0	0	0	0	0	0	0	0	2
+41	373357	Map\Randyland		0	0	0	0	0	0	0	0	0
+42	376189	Map\Housing1x1DungeonDarkspurBloodsport		0	0	0	0	0	0	0	0	0
+43	376191	Map\HousingDungeonAuroria1		0	0	0	0	0	0	0	0	0
+44	376193	Map\Housing1x1DungeonMeltingPot		0	0	0	0	0	0	0	0	0
+45	376197	Map\Housing1x1DungeonMayday		0	0	0	0	0	0	0	0	0
+46	376201	Map\Housing1x1DungeonCreeperCave		0	0	0	0	680	589	687	595	0
+47	376205	Map\Housing1x1DungeonSpiderTomb		0	0	0	0	0	0	0	0	0
+48	387702	Map\TorineDungeon		172	163	0	0	742	508	799	555	2
+49	395994	Map\Coralus		0	0	0	0	0	0	0	0	0
+50	401069	Map\ShiphandVoidHunter		52	48	0	0	670	585	687	599	2
+51	401224	Map\ShiphandRageLogic		0	0	0	0	0	0	0	0	2
+52	401780	Map\Datascape		0	0	0	0	0	0	0	0	0
+53	401934	Map\KevinHTLFort		58	62	0	0	650	598	669	616	2
+54	401978	Map\WarplotsMap		0	0	0	0	0	0	0	0	2
+55	401980	Map\WarplotSkyMap		0	0	0	0	0	0	0	0	2
+56	404784	Map\KevinTemplate3		0	0	0	0	0	0	0	0	2
+57	404815	Map\ExcavationSabotage		0	0	0	0	0	0	0	0	2
+58	439475	Map\ShiphandSpaceMadness		28	21	0	0	680	592	689	598	0
+60	466161	Map\ShiphandDeepSpaceDisappearance		0	0	0	0	0	0	0	0	0
+61	470708	Map\PocketCaps		0	0	0	0	200	74	235	106	0
+62	478960	Map\ShiphandGauntlet		0	0	0	0	0	0	0	0	0
+63	485253	Map\DruseraMicroInstance1		0	0	0	0	0	0	0	0	0
+64	485262	Map\DruseraMicroInstance2		0	0	0	0	0	0	0	0	0
+65	485263	Map\DruseraMicroInstance3		0	0	0	0	0	0	0	0	0
+67	486398	Map\GeneticArchives		0	0	0	0	0	0	0	0	0
+68	504770	Map\DruseraInstance4		0	0	0	0	0	0	0	0	0
+69	507230	Map\InfiniteLabs		934	675	0	0	52	369	363	564	0
+71	535220	Map\NewCentral		0	0	0	0	0	0	0	0	0
+72	539324	Map\PCPLevianBay		0	0	0	0	0	0	0	0	0
+73	574830	Map\GrimvaultCore		2048	2048	0	264	678	588	687	594	0
+74	0	Map\AdventureFarside		0	0	0	0	0	0	0	0	0
+75	589802	Map\Housing1x1GenericEldanTestLabDungeon		0	0	0	0	676	589	687	597	0
+76	0	Map\ShiphandDominionArkship		0	0	0	0	0	0	0	0	0
+80	0	Map\WorldStory01		0	0	0	0	0	0	0	0	0
+82	0	Map\ShadesEveInstance		0	0	0	0	0	0	0	0	0
+83	0	Map\ShiphandLevel6		0	0	0	0	0	0	0	0	0
+84	633908	Map\AdventureLevianBay		0	0	0	0	0	0	2170499200	2	0
+85	634806	Map\Malgrave2ElderCubeMicro		0	0	0	0	676	587	689	597	0
+87	638828	Map\GalerasBanditBeachShip		0	0	0	0	0	0	2315512064	2	0
+90	0	Map\UltimateProtogamesJuniors		0	0	0	0	0	0	0	0	0
+91	0	Map\AugmentorsRaid		0	0	0	0	0	0	0	0	0
+92	746297	Map\Arcterra	ArcterraContinentMap	1000	1000	4294967236	160	600	556	750	617	4
+93	0	Map\DailyLoginBonus		0	0	0	0	0	0	0	0	0
+94	0	Map\PvPArena2		0	0	0	0	0	0	0	0	0
+95	0	Map\CommunityHousing		0	0	0	0	0	0	0	0	0
+96	0	Map\HalloftheHundred		0	0	0	0	0	0	0	0	0
+98	0	Map\CombatRolesTraining		0	0	0	0	0	0	0	0	0
+99	0	Map\WorldStory00		0	0	0	0	0	0	0	0	0
+101	0	Map\ProtostarWinterfest		0	0	0	0	0	0	0	0	0
+102	0	Map\NewPlayerExperience		0	0	0	0	0	0	0	0	0
+103	0	Map\MordechaiReturns		0	0	0	0	0	0	0	0	0
+104	0	Map\RedMoonTerror		0	0	0	0	0	0	0	0	0
+105	0	Map\ColdbloodCitadel		0	0	0	0	0	0	0	0	0
+107	0	Map\ShiphandHungerFromtheVoid		0	0	0	0	0	0	0	0	0

@@ -1,0 +1,21 @@
+	<!-- EULA -->
+	<script id='tpl-eula' type="text/x-handlebars-template">
+	    <div id='installEula'>
+	    	<div class="eulaWrap">
+	        <div id="eulaText"></div>
+	      </div>
+        <div id="displayLang">
+        	<h3>{{displayLangOpt}}</h3>
+        	<select class="styled-select" name="displayLang">
+        		{{#each dispLang}}
+	            <option value="{{this.langCode}}">{{this.lang}}</option>
+	          {{/each}}
+        	</select>
+        </div>
+        <div class="actions">
+	        <input id='declineEula' type="button" class="btn btn-grey" value="{{eulaDeclineText}}"> 
+	        <input id='{{eulaAccept}}' type="button" class="btn btn-blue" value="{{eulaAcceptText}}">
+	      </div>
+	    </div>
+	</script>
+

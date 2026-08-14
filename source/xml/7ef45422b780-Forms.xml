@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Forms>
+    <!-- forms go here -->
+    <!-- form -->
+    <Form Name="ConsoleWindow" Class="Window" Template="Holo_Large" Moveable="0" Border="1" Sprite="" BGColor="Black" Picture="1" BGOpacity=".5" TextColor="ffffffff" TooltipColor="" Tooltip="" LAnchorPoint="0.10000" LAnchorOffset="0" TAnchorPoint="0.1" TAnchorOffset="0" RAnchorPoint="0.9" RAnchorOffset="0" BAnchorPoint="0.9" BAnchorOffset="0" Overlapped="1" UseTemplateBG="1">
+        <Control Class="Window" LAnchorPoint="0" LAnchorOffset="0" TAnchorPoint="0" TAnchorOffset="0" RAnchorPoint="1" RAnchorOffset="0" BAnchorPoint="1" BAnchorOffset="-43" RelativeToClient="1" Font="Default" Text="" BGColor="UI_WindowBGDefault" TextColor="UI_WindowTextDefault" Template="Default" TooltipType="OnCursor" Name="Window" TooltipColor="" Picture="1" IgnoreMouse="1" Sprite="BK3:UI_BK3_Holo_InsetSimple"/>
+        <Control Class="MLWindow" Name="ConsoleOutput" ReadOnly="1" MultiLine="1" Template="Holo_ScrollList" VScroll="1" LAnchorPoint="0" LAnchorOffset="2" TAnchorPoint="0" TAnchorOffset="2" RAnchorPoint="1" RAnchorOffset="-2" BAnchorPoint="1" BAnchorOffset="-45" BGColor="ffffffff" TextColor="ffffffff" TooltipColor="" RelativeToClient="1" Border="0" UseTemplateBG="0"/>
+        <Control Class="EditBox" Name="ConsoleInput" DefaultTarget="1" KeepStringList="1" LAnchorPoint="0" LAnchorOffset="0" TAnchorPoint="1" TAnchorOffset="-37" RAnchorPoint="1" RAnchorOffset="0" BAnchorPoint="1" BAnchorOffset="0" BGColor="ffffffff" TextColor="ffffffff" TooltipColor="" RelativeToClient="1" Border="1" Template="Holo_InputBox" Tooltip="" Sprite="" Picture="0" Font="CRB_InterfaceSmall" UseTemplateBG="1"/>
+        <Event Name="EditBoxReturn" Function="OnConsoleInputReturn"/>
+        <Event Name="EditBoxTab" Function="OnConsoleInputTab"/>
+    </Form>
+</Forms>

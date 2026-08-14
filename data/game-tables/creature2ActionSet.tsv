@@ -1,0 +1,3689 @@
+Id	Description	PrerequisiteId
+1	Twain Test	0
+2	Doug Test	0
+3	RMCLD - Zombie Gib Death	0
+4	RMCLD - Psycho Super Zombie	0
+5	RMCLD - Torch Super Zombie	0
+6	RMCLD - Leech Super Zombie	0
+7	RMCLD - Leaper Super Zombie	0
+8	RMCLD - Bulldozer Super Zombie	0
+9	RMCLD - Bomber Super Zombie	0
+11	ATPC - Eldan Sentry Beam Base	0
+12	NWilds - 2HGun_Ready	0
+13	Default_Birth [0s]	0
+14	Bloody Gibs	0
+16	Default_Cast_Channel_01	0
+18	Emote_Cry_Kneeling_Loop - Human Female SND	0
+19	Auroria - Farmer - Hide Weapon -OOC	0
+20	[OLD] OOC - Default_Sleep and Sleep VFX	0
+22	Cast Scale 10 On Create	0
+23	Northern Wilds - Frostlord	0
+24	Northern Wilds - Crash Survivor	0
+25	Northern Wilds - Yeti	0
+26	Q4057 - Voting Screen - Gallow	0
+27	q3167 pumera scent marker	0
+28	Q4146 - Invis Unit Effect	0
+30	Q4092 - Debri Fire	0
+32	Q4136 - Trap before sprung	0
+33	Q4136 - Trap flare	0
+34	Q3766 - Ship Engine Trails	0
+36	Q4111 - Dynamite Bundle	0
+37	Flavor - Carry Defiance Medical Station	0
+38	Tutorial Zones - Injured Patient	0
+39	Q3770 - Puffs of Smoke	0
+40	Q3770 - Plumes of Smoke	0
+41	Q3770 - Sparks	0
+42	Q4209 - Clue Effect	0
+43	Electro Zapper Charge - Protostar Strip Mine	0
+44	Auroria - Warhound - GlowEyes	0
+45	Q3770 - Crashing Skulls Eye Effects	0
+47	Q4018 - Water Effects	0
+48	Q4203 - Aura 0	0
+49	Q4203 - Aura 1	0
+50	Q4203 - Aura 2	0
+51	Q4203 - Aura 3	0
+52	Q4227 - Sniper Flare Placement Spot onCreate	0
+53	Settler Galeras Tract 1 Exp Buff Machine	0
+54	Q3780 - SNiper Lock On	0
+55	Q4224 - Cover Indicator	0
+56	Q3817 - Fire Visual 1	0
+57	Q3817 - Fire Visual 2	0
+58	Q4092 - Bike Debri Fire	0
+59	Q4137 Beacon signal	0
+60	Q4267 - Satellite Deflection Shield	0
+61	Q4267 Orb	0
+62	Q3757 - Malick Kobb	0
+63	Q4009 - Pollution Cloud	0
+65	Q4316 - Dowsing Effect	0
+66	Q4178 - Living Loftite	0
+67	Q3786 - SIphon Effects	0
+68	Q4294 - Gold Effects	0
+69	Settler Galeras Tract 2 Evasion Buff	0
+70	Q4323 - Trap	0
+71	Settler Galeras Tract 2 Anti-Aggro Buff	0
+72	Settler Galeras Tract 4 Improvd FirstAid	0
+73	Protostar Billboard Effects	0
+74	Settler Galeras Tract 4 Intel Buff	0
+75	Settler Galeras Tract 4 Strength Buff	0
+76	Settler Galeras Tract 3 Physical Resist	0
+77	Settler Galeras Tract 3 Magical Resist	0
+78	Buzzbing Royal Jelly Glow - KLW	0
+79	Heart Particle - Infinite	0
+80	Generic - Eyes Glow - EyeGlow_RED_Small	0
+81	Q4045 - Invisible Creature Sludge Effect	0
+82	Auroria - Q2581 - Ripe Bingberry glow	0
+84	Default_Stand_Wounded [Infinite]	0
+85	Powerfield_aqu Q4386	0
+86	Q4386 - Lopp Spawn	0
+87	Spacehand Indicator	0
+88	Gallow Voting Machines - Displays	0
+89	Bosun Redmark - High Priority Kneel Use	0
+90	Q3381 - Dowsing Visual	0
+91	Q4386 - Spider Spawn	0
+92	Murkmire - Autopsy Subject - Q4366	0
+93	Whitevale - Crop Frost - Q4419	0
+94	Murkmire - Rep Mechanic - Flashlight Visuals	0
+95	Murkmire - Rep Mechanic - Stash Visuals	0
+96	Q4381 - glowy orb	0
+97	W1005 - Fulminating Spore	0
+98	WhiskeyBarrelDagun	0
+99	Whitevale -  Hide Weapon - OOC	0
+100	Whitevale - Head Squirg - Infinite	0
+101	Q4382 - Big Teleport	0
+102	C15725 - Xenobite Queen	0
+103	Randomized  - Generic State_Wounded_Ground [Inf]	0
+104	W1079 - Witch Giant Birth	0
+105	Q4439 - Corrupted Bot Reprogrammer	0
+106	NWilds - Severely Injured Crash Survivor	0
+107	Q4465 - Invis Crash FX	0
+110	Transition Cinematic - Ravenous Muncher	0
+111	Q4382 - Skeech teleport in	0
+112	Transition Cinematic - Fire	0
+113	NWilds - Lusk Sitting	0
+114	Generic - Infinite - Stand Use (Gun Reload Sound)	0
+115	C15727 - Xenobite	0
+116	W1085 - Venuviouz Sprout	0
+117	Q4527 - Coldslime Snoglogs	0
+118	Q4512 Acolyte Drumming	0
+119	Q3786 - Dominion Scanners	0
+120	Q4512 Gibbed	0
+121	Q4536 - Protostar Mining Bot - Flavor	0
+122	W859 - Invis Spacehand indicator	0
+123	W1027 - Creature Spawn In Visual	0
+124	Q4512 - Air orb	0
+125	Q4523_VisualEffectforInvisCreature	0
+126	Q4525 - Starboard Vent Effect	0
+127	Q4541 - Rubble Effects for Tremors	0
+128	Q4525 - Port Vent Effect	0
+129	Q4525 - Core Effects	0
+130	Q4541_SeismicDisruptor5000PulseEffect	0
+131	Primal Air Anomaly	0
+132	Q4507 - Scrab birth	0
+133	Q4507 - Alarm Nodes	0
+134	q4599 - Hidden Survivors	0
+135	Kneel to Stand OnCreate	0
+136	Q3788 - Gronyx Corpse Effect - Algoroc	0
+137	Red Bow - FX_Misc01 & FX_Misc02 - Grumpel Female	0
+138	Q4511 mini cyclone	0
+143	NWilds - Generic Sitting	0
+145	OnBirth - State0_State1	0
+146	Q4517 - Invisible Unit Ship Explode	0
+147	Q4517 - Smokey	0
+148	Q3886 - Burning Fire	0
+150	Q4528 - AIr Tank Bubbles	0
+151	Gronyx - Default_Stunned - Infinite - OnBirth	0
+152	Q3768 - Take Off Dust	0
+153	Q4676 - Landing Beacon	0
+154	Generic - Default_BasePose - No Animation	0
+155	KLW Test - Energy Core	0
+156	Q4676 - Drop Pod	0
+157	Wind Tunnel Debris	0
+158	Bloody Giblets	0
+159	Leg Bone Giblets	0
+160	Rib Bone Giblets	0
+161	OT_Shock_Default_BLE.m3 (Base) [Infinite] OnBirth	0
+162	q4696 - Dominion Scout Idle	0
+164	Q4510 - Cage animation state	0
+165	Artillery Fodder Permacower	0
+166	StormseekerApprentice - Flavor	0
+167	q4696 - Blocker Debris 2 State	0
+168	Bottom Reticle	0
+169	StormseekerAcolyte - Flavor	0
+170	q4696 - Ready State	0
+171	q4733 - Phase 2 AA Cannon - Galeras - T4 - E2	0
+172	q4733 - Phase 3 AA Turret - Galeras - T4 - E2	0
+173	Algoroc - Tract 2 - Sleepy Dagun	0
+174	Q4734 - Wounded	0
+175	Q4667 - Satellite Scrambler Death	0
+176	Q4737 - Slave Chain Effects	0
+178	Q4527 - Puma Effects	0
+179	Q4737 - Axe Effect	0
+180	q4733 - Falkrin Hover	0
+181	Windforger_Flavor	0
+182	Q4675 - Catapult Burning	0
+183	Q4675 - Catapult Burning2	0
+184	Q4675 - Catapult Burning3	0
+185	Q4675 - Catapult Burning4	0
+186	Q4541_SeismicDisruptorVFX	0
+187	Q4745 - Poison Gas Cloud	0
+188	Judge Kain - Rumble	0
+189	q4750 - Murgh Threatenings	0
+190	q4733 - Combat Soldier Idles (Rifle)	0
+191	q4733 - Combat Soldier Idles (Pistol)	0
+192	Exile Minion - MOBA Test	0
+193	Dominion Minion - MOBA Test	0
+194	Q4749 - Cargo Lifter 1	0
+195	Initial Town - doctor animations [dmarsh]	0
+196	Q4771 - Infinite Default_Sleep	0
+197	Generic - Infinite - Default_Sleep	0
+198	Q4756 - Dominion Cannon	0
+199	JudgeKain_EndlessCombatPhase	0
+200	Q4757 - Fire	0
+202	GallowCitizen_Beckon	0
+203	GallowCitizen_Cheer_PeacekeeperEvent	0
+204	Q4762 - Into No-Mans Land	0
+206	Q4753 Ground Explode	0
+207	Q4743 - Large Fire 1	0
+208	State_Dead_02 [Infinite]	0
+209	State_Dead_04 [Infinite]	0
+210	Cinematic_Loop_Ground [Infinite]	0
+211	Stormtalon's Lair - Stormtalon FX	0
+212	Stormtalon's Lair - Stormtalon Egg FX	0
+213	Galeras Tract 3 - Dust Devil VFX	0
+214	Skug_Egg_Hatchling_Spray	0
+215	Q4758 - Objective 1	0
+216	Q4758 - Objective 2	0
+217	Q4758 - Objective 3	0
+218	Q4109 - Drill Effects	0
+219	Q4705 - Inf Rdy	0
+220	Granok_Cry	0
+221	Female_DefaultShrug	0
+222	Ohgra_Shout	0
+223	Dominion Sniper Ready Set - Hycrest Adventure	0
+224	Q4786 - Autopolit Beacon 1	0
+225	Q4786 - Autopolit Beacon 2	0
+226	Q4786 - Autopolit Beacon 3	0
+227	Q4786 - Autopolit Beacon + Dust	0
+228	Generic - Infinite - Default Cower	0
+229	Stormtalon's Lair - Whirlwind Entity FX	0
+230	Q4741_Generator1_SmokeEffect	0
+232	Algoroc - Botsmith working on Kain	0
+234	Q4741 - Fence Anchors	0
+235	Severus Mine - OnBirth	0
+236	Q4793 Explosion	0
+237	Q4793 - Lifter Barrels	0
+238	Q4796 - Tank burning	0
+239	Default_BasePose [Infinite]	0
+243	Q4853_Scientist_Typing	0
+245	Q4841 Gronyx - OnBirth	0
+246	EAS Security Bot - Shutdown	0
+247	Caretaker_Calm_Mainroom	0
+248	Caretaker_Security	0
+251	Challenge: Save the Camp Fire 1	0
+252	Challenge: Save the Camp Fire 2	0
+253	Incite_Rebellion	0
+254	Q4758 - Target Dummy Equipped	0
+255	Algoroc - Tract 3 - Eldan_Controlled_Aura	0
+256	Ultrabot Vehicle Test	0
+257	Jumbo Explosion - Hycrest Adventure	0
+258	Auroria -InciteDissent - Hide Weapon -OOC	0
+259	Q4808 Dominion Fuel Palette	0
+260	Hide Player Visual	0
+261	Skittish Dawngrazer - LKM	0
+262	Galeras Flavor - Sniper Ready	0
+265	Exile Comm Beacon - Broken	0
+266	Discovery - Blood Visual Orb	0
+267	Northern Wilds - Act III - Mortar Team	0
+268	NWilds - Act II - Lightning	0
+270	Q4946_ProtostarDeadState	0
+271	Nooks_TreeGrab	0
+272	Q4949_GirrokOnTree	0
+273	Generic Reload [Infinite]	0
+274	Generic Kneel Use [Infinite]	0
+275	Default_Emote_Kneel [Infinite] (With Start/End)	0
+276	NW_Settler_CrateFX	0
+277	Generic Fire Small wDecal [Infinite]	0
+278	Generic Fire Large wDecal [Infinite]	0
+279	Generic Fire Smolder wDecal [Infinite]	0
+280	On Create - Default Sit - LKM	0
+281	Default_Emote_Drink_Loop [Infinite]	0
+282	Battle Medic - Anim Loop	0
+283	SettlerBuffBot_Movement	0
+284	Discovery - Granok Merc Drop pods	0
+285	Generic Kneel Use (High Priority) [Infinite]	0
+286	Turret Shoot	0
+287	Q4755 - Disguise Detector	0
+288	Q3771 - Chua Interface - Hack effects	0
+289	Q4980 - Starstem effect	0
+291	Hunting_AE_effect_temp	0
+292	Hunting Spear AE	0
+294	Q4983_DropPodCrash_VFX	0
+295	Q4983_OPENED_DropPod_VFX	0
+296	Q4948 - Explosions	0
+298	Q4986_OpenState	0
+299	Q4825 - Break Effects	0
+300	Q4825 - ShockWave	0
+302	Q4181 - Kneel Use (High Priority) [Infinite]	0
+303	Q4829 - Base Effect	0
+305	Q4987_BotForVingette	0
+306	Mechari_TempHEAD	0
+307	Protectors_TempHEAD	0
+308	Q4925 - Crashed Dominion Fighter	0
+309	Galeras - Tract 4 - Flamewing	0
+310	Q4982 - Long Range FX	0
+311	Genereic Smoke Very Large [Infinite]	0
+312	Q3771 - Chua Effects	0
+313	Q3771 - Data Interface Effect	0
+314	Pollen - Galeras - Tract 4 - Scientist	0
+315	Teleport Birth Effect - Hycrest Adventure - DY	0
+316	Mirage Despawn Effect - Malgrave Adventure - DY	0
+317	M718 - Eldan XP Shrine	0
+318	Q4947 - Probebot - Default Use Loop	0
+319	Q5034 - The Lurking Terror	0
+320	Q4955 Invis Shock Ball	0
+321	Frozen Solid - Snow Cling to Body [Infinite]	0
+322	Q3782 - Comm Relay	0
+323	Eerie Flower Dust [Infinite]	0
+324	Q3782 - Small Fire	0
+325	Q3782 - Large Fire	0
+326	Loftite_YetiCave_FX	0
+327	q5110 - Targeting Arrow	0
+328	Q4541_DirtSprayEffect	0
+329	Big Fire - Malgrave Adventure	0
+330	Invisible Raditaiton Unit visual	0
+331	Q5118 - Invis Unit - Yellow Aura	0
+337	Radiation Ground Cloud - Malgrave Adventure - DY	0
+338	Music_Stanza_BLE - Chest [Infinite]	0
+339	Forest Voice Trail [4s]	0
+340	Q5119 - Invis Unit - Major Yellow Aura	0
+341	Q4950 - Final Telegraph	0
+343	Galeras Settler Resource - Essence of Air	0
+344	[PROTOTYPE] TEST SUMMON WALL - CAN	0
+348	Algoroc - Settler - Loftite Thumper	0
+349	Terrorized Civilian - Whitevale - Tract 1	0
+350	ICI Saboteur - Q5075 - Thermock - Whitevale T1	0
+353	SmokePlumes - MalgraveAdventure	0
+354	Dual_WaveShadow_PPL [Name] [Infinite]	0
+355	Silversnout infinite sleep	0
+356	Idle PRP_ClickToMove_000	0
+357	Drunk Sitting Drinking	0
+358	Q4745 - Poison Gas Cloud	0
+359	Q4761 - Fuel Depot Smoking Bomber	0
+360	Black Hood Assassin - Whitevale - Tract 1	0
+361	Generic Prisoner (Kneeling w/Hands Behind Back)	0
+362	Sparking Fuse	0
+363	Special Cache	0
+364	Generic Holdout Ring	0
+366	Q5179 - Deploy Zone VFX	0
+367	Q5183 - Whimfiber	0
+368	Any Any - Default_Talking [Inf] - Flavor - TDG	0
+370	Hide Weapons Inf - Out of Combat	0
+371	Has Space Dysentary	0
+372	Generic Hover_Stunned [Infinite]	0
+373	QRottenRoan_QuestGiver	0
+374	Steampoolio - Scientist - Whitevale - Tract 1	0
+375	NWilds - Generic Sitting High Priority	0
+376	Malgrave Adventure - Soldier Rescue Target	0
+377	Q3927 - Keg Effects	0
+378	Smoke Billow 20m - FX - Initiate Island [KMS]	0
+379	Shadow Creep - Eldan Dig Explorer Micro - Ghost	0
+381	C185 - Bad Vegetables	0
+382	State_Wounded_Ground_01 [Infinite]	0
+383	Algoroc Tract 1 - Chua Collective - Cannon Smoke	0
+384	Water_BLE (Chest) [Infinite] (sized)	0
+385	Snow_Magic_BLU (Name) [Infinite] (sized)	0
+386	XCross_3W_11L_RED	0
+387	PRP_ClickToMove_000	0
+389	State_Wounded_Ground_03 [Infinite]	0
+390	JudgeKain_HologramEffect_ChronicleHouse	0
+391	Buff_Bot_Enrage_RED_64 (Name) [Infinite] (sized)	0
+392	HologramBase_Aura_FX	0
+393	Fungal Shroom Effects	0
+394	Kain_Stretcher_Visuals_02	0
+395	Kain_Stretcher_Visuals_03	0
+396	Q3930 - Cartel Teleport Effect	0
+397	Q4517 - Fire	0
+398	Q4767 - Explosions - Galeras - Tract 1	0
+399	LaCucaracha_IdleStandState	0
+400	Destroy Barrel	0
+401	Default_Sit [Infinite]	0
+402	AugmentedXAS_PoisonEffect	0
+403	Malgrave Adventure - Anomaly Creature	0
+404	q5112 - Invis Smoke FX - Whitevale - Tract 1	0
+405	Thayd - Broken Speeder - Sparks Splash	0
+406	Body on Fire [Infinite]	0
+407	Q4749 - Cargo Lifter 3	0
+408	Q4749 - Cargo Lifter 2	0
+409	Galeras - Tract 3 - Explorer Shortcut	0
+410	Fungal Spore	0
+411	Algoroc tract 3 - Exo-Lab Event Creature Effect	0
+412	Q5078 - Start X	0
+413	Ship Hover FX [Infinite]	0
+414	Q4856 - Repair Turret Effects	0
+415	Q4856 - Reload Turret Effects	0
+416	q5110 - Dead Loop	0
+418	Buff Smoke Red - Chest [Infinite]	0
+419	ThreatBot Startup - Blu Lightning/Elec Arc	0
+420	Smoke_Pollution_8m_GRN	0
+421	Q5308 - Cyldome	0
+423	Cargo Lifter - Thermock Hold Flavor - Whitevale	0
+424	Saboteur's Explosive Charge	0
+425	Whitevale - Tract 1 - Unlucky Gambler Passed Out	0
+426	Music_NatureTrail - Chest [Infinite]	0
+427	Smoke_Scent_GRN - Base [Infinite]	0
+428	q5112 - Dead Tank - Whitevale - Tract 1	0
+429	AP_State1_Idle [Infinite]	0
+430	m802 - Invis Smolder - Whitevale - Tract 1	0
+431	Exile Patrol Ship	0
+432	State_Wounded_Ground_02 [Infinite]	0
+433	ATeam Medpak - OnBirth	0
+434	q5333 - Meat Rack Fires - Galeras - Tract 4	0
+435	Q5327 Osun Warlord Aura	0
+436	Q5327 Osun Witch Eye	0
+437	Buff Smoke Red - Base [Infinite]	0
+438	q4678 - Banner Fire - Galeras - Tract 4	0
+439	Q4694_HoldoutRing	0
+440	GhostField_BLU [Infinite]	0
+441	Drink Loop with Cup in Hand [Infinite]	0
+442	Eat Loop with Cheese in Hand [Infinite]	0
+443	Landmine Birth Tracer - Galeras Adventure - DY	0
+446	Molotov Unit - Galeras Adventure	0
+447	q5343 - Basepose - Whitevale - Tract 2	0
+448	Shadow Blink Explosion	0
+449	LoftiteCrystal_DefaultBasePose(210)	0
+450	JusticeKorse_Kneel	0
+451	W1232 - Hazard Blue Smoke	0
+452	Ship_Smoke	0
+453	Generic State_Dead_04 [Infinite]	0
+454	Generic State_Dead_05 [Infinite]	0
+455	Eldan Augmentation Kit - Heavy	0
+456	Heavy Augment Node - OnBirth	0
+457	Light Augment Node - OnBirth	0
+458	q5351 - Eldan Defense Laser - Whitevale - Tract 2	0
+459	Q3930 - Smoke Effect	0
+460	Q5419 Drowned Exile	0
+461	PRP_HumanSkull_002 attached to base	0
+462	Agnes_LaughAnim	0
+463	Q5373 Generic Sensor Indicator Obj2 [Infinite]	0
+464	Q5373 Generic Sensor Indicator Obj3 [Infinite]	0
+465	Q5373 Generic Sensor Indicator Obj4 [Infinite]	0
+466	Q5420 - Mist	0
+469	Q5422 - Ook Head Pike	0
+470	Q5421 - Yihwa Head Pike	0
+471	Q5420 - Blood Orb	0
+472	Q5420 - Draken	0
+473	Eldan Security Node	0
+474	Algoroc Adventure - Eldan Power Node	0
+475	Primal Water Spring - Scientist - Whitevale	0
+476	Generic State_Coffin [Infinite]	0
+477	Algoroc Adventure - Invisible Missile Unit	0
+478	Generic State_Dead_03 [Infinite]	0
+479	Generic State_Dead_02 [Infinite]	0
+480	Stealth Detector - Viscera Enclave	0
+481	Gronyx Boss Target Unit - Algoroc Adventure	0
+482	Harvesting Discovery	0
+483	Soldier M669 target icon - Galeras - Tract 2	0
+484	Scientist_Actviate	0
+485	Q5181 - Delivery Point Field	0
+486	Canimid Fluff	0
+487	Q5387 - Explode	0
+488	Whitevale - Tract 2 - Firing Squad Member	0
+489	Whitevale - Tract 2 - Q5387 - Kneel	0
+490	q5353 - Red Light - Whitevale - Tract 2	0
+491	Generic Ring_Radar_8m_RED (Base) [Infinite]	0
+492	Generic Hologram Holodata Base Small [Infinite]	0
+493	Galeras - Tract 2 - Augmentation Placeholder FX	0
+494	Q5389 - BurrowFX	0
+495	Music_NatureTrail - Base [Infinite]	0
+496	Shock_Default_GLD [Infinite]	0
+497	Pulsing_Waves_RED [Infinite]	0
+498	Gib_Shock_Lg_TRQ [Infinite]	0
+499	Buff_Bot_Enrage_RED (FX_Misc01/Back) [Infinite]	0
+500	Q5261_XASScientists	0
+501	q5352 - Heat Mine - Whitevale - Tract 2	0
+502	[Test] CargoTaxi Draken Pilot	0
+503	Generic Hologram Holodata Base Medium [Infinite]	0
+504	Algoroc - Tract 3 - HUB2 - Flavor Scientist	0
+505	Razortail Rockpile TEST	0
+506	Caretaker_HACK_FX	0
+507	Caretaker_Security_WITHOUT_Particles	0
+509	AP_State2_Idle [Infinite]	0
+510	Q5363 Warbot Birth and FX - KLW	0
+511	EldanPrisonSpawnIn	0
+512	Augmentor - Default_Stunned - Infinite - OnBirth	0
+513	EldanPrison_Idle	0
+514	Generic Sit to Stand (On Birth)	0
+515	Augmentor - Default_Hover_Ready - Infinite	0
+516	[NKT] OOC - Default_Sleep and Sleep VFX	0
+517	Default Stand - Infinite	0
+518	Q5393 - Non-Combat Stealth Detection	0
+519	q5343 - Charge Aura - Whitevale - Tract 2	0
+520	Q4696_HumanBeckon	0
+521	Q4696_Granok_Salute	0
+522	Generic Hologram Holodata Base Large [Infinite]	0
+523	Kaia Vixus Hologram - Algoroc Adventure	0
+524	Generic Shiney Hologram FX Small [Infinite]	0
+525	CosmicAnomaly_BuffCloud_GRN	0
+526	Darken - 2HL_Ready (575)	0
+527	Q5393 - Radiant Legion Stealth Bot	0
+528	Hoverbike-PowerUP	0
+529	Q5375 - Seismic Explosive Indicator	0
+530	Ship_Fly_Idle - Animation (Infinite)	0
+531	Gribbon - Default_Stunned - Infinite - OnBirth	0
+532	Hoverbike-Flame-PowerUP	0
+533	Wind Shield FX - Deradune - StormwingHold	0
+534	Hycrest Adventure - Hiding Spot Indicator	0
+535	C23787 - Falkrin Fly in - Birth	0
+536	Caretaker - Default_Ready - Infinite (151)	0
+537	Caretaker - Default_Talk - Infinite (278)	0
+538	W1232 - Contaminated	0
+539	Q3487_PulseTreasureFX	0
+541	Spell - Conjure Twister	0
+542	Q5377 - Sensor VFX	0
+543	Q5376 Burning Tents	0
+545	Q5521 - Cyclone	0
+547	Q4987_DefaultHoverWalk	0
+548	Pumera Sleepy Time	0
+549	ch224 Eligible - Chat bubble	0
+550		0
+551	[dmarsh] Test Entry Anim (OnBirth default_birth)	0
+552	Injured Swifthart Stag	0
+553	Grove Rootbrute burrowed - Deradune - Tract 2	0
+554	Q5577 - Fire Trail - Whitevale - Tract 3 - Ep 3	0
+555	Q5577 - Red X - Whitevale - Tract 3 - Ep 3	0
+556	Auroria_Plagued_Effect	0
+557	ESPer Beacon	0
+558	Generic - Infinite - 1H_Cast_Loop_Weapon (1199)	0
+559	Roasted Chua Smoke	0
+560	Q5577 - Fire Effect, Infinite	0
+561	Auroria_Plagued_Effect_Oxian	0
+562	DarkSpur Rider	0
+563	Generic Default_Dance [Infinite]	0
+564	Generic - Lopp - Cower, Infinite	0
+565	Burning Moodie - Skullcano	0
+566	Q5646_Lowborn_Crying	0
+567	Q5646_Lowborn_Protest	0
+568	Squirg_Plagued_Effect	0
+569	Q5650 Witchgiant burrowed	0
+570	M1076 - Core Drill Sensor - Effects	0
+571	Q5609 - Roasting Chua - Effects	0
+572	Scuba Gear - Oghra	0
+573	Generic - Default_Talk - Infinite (278)	0
+574	Q5532 Squird Queen Destroyed Visual (Ground)	0
+575	Q5674_ExecutionerReadyState	0
+576	Q5674_Sit_Infinite_MSP100	0
+577	q5591 - Dead Pell Anim - Stormtalon's Lair	0
+578	M1053 - Granok Drop Pod	0
+579	Visual - Buff_Fastboy_RED, Infinite	0
+580	Goldensun Dawngrazer Aura - Whitevale Tract 3	0
+581	Electric Shock - Broken Datachrons Q5689	0
+582	Whitevale - Tract 3 - Squirg Head	0
+583	e362 - Chief Kaskalak FX - Skullcano	0
+584	Q5619 - Flaming Supplies	0
+585	Q5688 Zamm Alert - Deradune - Tract 2	0
+586	Auroria_Plagued_Effect_(Declan Corpse)	0
+587	Whitevale Adventure - Hostage Taker Pose	0
+588	Q5684 - Anomaly Effects Updated	0
+589	Auroria_Plagued_Effect_Holdout	0
+590	OT_Toxic_Bomb_GRN (Base) [Infinite]	0
+591	OT_Toxic_Bomb_GRN_9 (Base) [Infinite]	0
+592	OT_Buff_MentalOT_15_BLU (Name) [Infinite]	0
+593	Cold_Magic_BLU (FX-Misc01) [Infinite] (Sized Up)	0
+594	Whitevale - Tract 3 - Medevac Explode	0
+595	Growing Plants - Deradune Tract 2 Wildwood Grove	0
+596	Whitevale Tract 3 Settler Strength Tier 1 - KLW	0
+597	Whitevale Tract 3 Settler Strength Tier 2 - KLW	0
+598	Eldan Relic Cart	0
+599	Swirling_Pedals_GRN - Chest [Infinite]	0
+600	Swirling_Pedals_GRN - Chest [Infinite] (Sized Up)	0
+601	Soldier M212 target icon - Auroria - Tract 1	0
+602	Default_Birth [7s]	0
+603	2H_Gun_ReadyAim	0
+604	Settler - Auroria Tract 1 - Physical Resist	0
+605	Generic - Inf - 1H_Cast_Loop_Weapon_Up (1196)	0
+606	Hazmat Stand - Basepose - Auroria - Tract 1	0
+607	Settler - Auroria Tract 1 - Health Regen	0
+608	Crimson Isle - Air Drop - Effects	0
+609	Air Drop Crate - Effects	0
+610	Settler Auroria Tract 1 Exp Buff Machine	0
+611	Auroria_PlagueCloud_Creature	0
+612	Default_Dance [Infinite] (1s Delay)	0
+613	Q5630 - Assassin Spawn Effect	0
+614	Default_Dance [Infinite] (2s Delay)	0
+615	FX_Misc_01 - Snow_Bolt_BLU [Infinite]	0
+616	Q5754 - Deceased Plague Effect	0
+617	Q5754 - Injured/Nauseous Decker	0
+618	Exile Medevac Flavor	0
+619	Heavy Falling Dust - VFX On Create	0
+620	Q5641 - Plague effect w/ prereq	0
+621	CH297 - Plagued Veggies	0
+622	Q5532 Squirg Queen Destroyed Visual (Ceiling)	0
+623	e338 - Lava Node Burrow Anim - Skullcano	0
+624	Auroria Graveyard - Deadstate 04	0
+625	Crimson Isle - Tank Target - Telegraph effect	0
+626	Generic Play_Campfire_Loop (Sound) [Infinite]	0
+627	Default Pumera Ready - Whitevale Tract 3	0
+629	Default Snoglug Ready Whitevale Tract 3	0
+631	Q5618 - Enclave Prisoners	0
+632	Whitevale Adventure - Destination Arrow - Robbery	0
+633	Veggie Spawn	0
+634	Scanning - Crimson Isle	0
+635	Music_Stanza_BLE and Music_Nature_Trail	0
+636	Q5662_DemitriusKole_EvilLaugh	0
+637	Q2599_Aluviel_Holo_Projection	0
+638	Q2599_Farmers	0
+639	Crimson Isle - Warblimp - Gun Fire Effects	0
+641	Q5834 Malfunctioning Bot - Whitevale Tract 4.1	0
+642	Ikthian Abduction Beam - Whitevale Tract 4.1	0
+644	Purifier Hologram - WhitavaleT4 - JBN	0
+645	Q5910_PumpStation_ONE_SmokeEffect	0
+646	Q5910_PumpStation_TWO_SmokeEffect	0
+647	Q5910_PumpStation_THREE_SmokeEffect	0
+648	Q5891 and Q5892 - Water and Lightening Effects	0
+649	Zapper Patrol - Auroria Telegraph	0
+650	NWADV - On Fire	0
+651	HologramBase_Aura_FX small	0
+652	Q5909 - Eldan Probe Forcefield	0
+654	Q3782 - Small Fire - 02	0
+655	Q5887 and Q5888 - 3D_Rock_shock_BLU [4s]	0
+656	Deradune - Tract 2 - Terminite Swarm Visual	0
+657	Q5918 - Sparks	0
+658	Eldan Protector Kneeling to GetUp [Infinite]	0
+659	Q5916 Trail	0
+660	Ikthian Incubating - Whitevale - Tract 4 - Flavor	0
+661	Firefly Anomaly - Whitevale Tract 4 - BB3	0
+663	M1333 - Ikthian Spawn - Whitevale - Tract 4	0
+665	Necrohive Buzzbing_RedEyes	0
+668	Burrow_Emerge - Red Clay (1 min.)	0
+669	M1369 - Tar Bubble	0
+670	Leviathan's Rest Crash Flavor - Deradune Tract 3	0
+671	Leviathan's Rest Crash Smoke - Deradune Tract 3	0
+673	Q5843 - Suppression Emitter	0
+674	Q6031_ProtoLift_FX	0
+675	Q6031_InvisFXUnit	0
+676	HoloData_BLU_Circle_3W_2H [Infinite]	0
+677	Q5884 Staging - Whitevale T4 - EP3 - JBN	0
+678	Default_Use [Infinite] OnBirth OnExitCombat	0
+679	Hide-in-Crowds-Arrow	0
+680	Q5853 - Beam start	0
+681	Vectra action set - TWH	0
+682	Default_Emote_Kneel_Loop [Infinite]	0
+683	e540 - Thundercall High-Priest Anims - Stormtalon	0
+684	Q5853 - Whitevale T4 - Ep3 - glowFX - JBN	0
+685	Levian Bay - ACT II - Flavor Researcher Effects	0
+686	Grapple Hook Indicator	0
+687	Auroria - Protostar Directing to A-22	0
+689	Auroria_Physician_HealthBackPack	0
+690	Mozyk Rumbler soldier var - TWH	0
+691	State_Dead_05 - Inf - 100% Priority	0
+692	Esper Pet Shader	0
+694	PowerUp_02_GRN (Base) [Infinite] (With Sound)	0
+695	Mysterious Stone Head - Visuals	0
+696	Q5914 - Venator Hologram Base - Medium (Infinite)	0
+697	Animal Skulls - Snap 1-4 - Draken Totem	0
+699	Auroria - Skeech Riding Yeti	0
+700	Skug Burrowed	0
+701	Sparking Broken Dominion Spiderbot	0
+702	Halon Ring - Tract 1 - Zombie Marauder Effects	0
+703	Q6250 - Cosmotail Floater	0
+704	Farside - Q6180 - Enemy ship FX - JBN	0
+705	Q6151 - Hologram Life - Farside Tract 2.2 - BB4	0
+706	Hologram	0
+707	Detonator_InvisUnit_FX	0
+708	Everpool Water	0
+709	Q6296 Default Wound - Action set	0
+710	Q6150 - Hologram Shader - Farside Tract 2.2 - BB4	0
+711	Everstar - Red Eyes Small - Dagun	0
+712	Q6211 - Poison Exhaust Clouds	0
+713	Q6346_ChuaCam	0
+714	Q 6339 - Antidote of Faith birth effect Wilderrun	0
+715	Kelzo Widget 1 - Sword	0
+716	Kelzo Widget 2 - Shield	0
+717	Kelzo Widget 3 - Datachron	0
+718	Settler Pheromone Sprays FX	0
+719	Mine Activated - Farside - T2e1 - Q6178 - JBN	0
+720	Sleep OnBirth and OnUnware - TWH	0
+721	Farside - Ship birth - Q6181 - JBN	0
+722	Ghost	0
+723	Permanent Blue Tech Squares	0
+725	Q6355 - CastPose	0
+726	Q6355 - GroundSummonEffect	0
+727	Flame Activated - Farside - T2e1 - Q6178 - JBN	0
+728	Flames Activated - Farside - T2e1 - Q6178 - JBN	0
+729	Q6272 Corrigan Sit	0
+730	M1521 - Permanent Holographic Shader - All States	0
+731	Tamolo - Caster - Spawn Effect	0
+732	Q6404_DustEffects	0
+733	Tradeskill Hub Operator Hologram	0
+734	Hoverhog - Blue Visual	0
+735	Hoverhog - Yellow Visual	0
+736	Hoverhog - Green Visual	0
+737	Hoverhog - Red Visual	0
+738	Q6412 - Splorg Antibody sparking potion.	0
+739		0
+740	Whitevale - Q3577 - bugged pumera	0
+741	Whitevale - Q3577 - bugged jabbit	0
+742	Whitevale - Q3577 - bugged razortail	0
+743	Q6412 - Bleeding Eyes - Wilderrun	0
+744	Q6412 - Sick Alchemist	0
+745		0
+746	Farside - M1535 - Scientist Scan	0
+747	M1553 - Canimid Burrower	0
+748	AP_State0_State1 [0s]	0
+749	Levian Bay - Malfunction Scout Drone PFX	0
+750	Q6427_Grn_TeleEffect	0
+751	Q6307 - Burning Livingroot Keepers	0
+752	relic fragment - twh	0
+754	Harvesting - Farming - Overgrown Plant (Small)	0
+755	e166 - Ghost Shader - Torine Sanctuary	0
+756	M1557 - Hologram oncreate	0
+757	Harvesting - Farming - Regrowth	0
+759	Q5917 Upside Down Chua	0
+760	Q6245 - contraband cleanup - TWH	0
+761	M1578 - Prisoner Kneel Infinite	0
+762	Everstar Grove - Butterfly	0
+763	M1582 - Smoke States (Active and Complete)	0
+764	spawns 1 - Auroria T3 Windfall Quarry - JAP	0
+765	Auroria - Defender Clones - Battlefield	0
+766	M1582 - Toxic Vent States	0
+767	Q6207 - invisible creature - TWH	0
+768	Everstar - Livingroot Keeper - Growth	0
+769	AP_State2_Idle [Infinite] + Flux Teleport Cloud	0
+770	terminite dew - TWH	0
+772	M1623 Hologram Shader - Training Holdout	0
+773	M1623 Hologram Shader - Holographic Drop Pod	0
+774	Everstar Grove - Default Cast Loop	0
+775	Farside - Q6181 - Crashed Ship	0
+776	Q6485 - Hologram Effect	0
+777	Everstar Grove - T2 - m1528 - Flame Barrel FX	0
+779	Auroria - SummonedHorror - Incomplete - Stand	0
+780	Auroria - Summoned Detonators - Incomplete	0
+781	Makaza Lady rt sit - Deradune - Tract 1	0
+782	Makaza Lady lt sit - Deradune - Tract 1	0
+783	Makaza Lady Stand rt - Deradune - Tract 1	0
+784	Makaza Lady Stand lt - Deradune - Tract 1	0
+785	Bloodshaman Initiate - Deradune - Tract 1	0
+787	Q6397_ChuaDrillBirth	0
+788	Q6485 - Fire Effect	0
+789	Q6355_SummonerParticleEffects_CastPose	0
+790	Default_KnockDownToBack_Loop_Ground	0
+791	Q6274 Mordechai Redmoon	0
+792	SkeechSummoner- Large Sigil	0
+793	Infector Embryo - Spawn Anim	0
+794	Nanudans Bot	0
+795	Generic Kneel Emote [Infinite]	0
+796	Levian Bay - Q5857 - Power Core Shock_OT	0
+797	Auroria - Dracus - DetonatorChallenge_ORIGINAL	0
+798	M1675 - Farside - T2 - Lovestruck Orbitog - ALT	0
+799	Generic - Blue Lightning/Elec Arc Infuse_TriShock	0
+800	Lopp Celebration - Halon Ring - Tract 1	0
+801	Lopp Fireworks - Halon Ring - Tract 1 - JGP	0
+802	Lopp Celebration 1 - Halon Ring - Tract 1	0
+803	Lopp Celebration 2 - Halon Ring - Tract 1	0
+804	Lopp Fireworks 2 - Halon Ring - Tract 1 - JGP	0
+805	Lopp Fireworks bl - Halon Ring - Tract 1 - JGP	0
+806	Lopp Fireworks gr - Halon Ring - Tract 1 - JGP	0
+807	Lopp Fireworks gr - Halon Ring - Tract 1 - JGP	0
+808	Celebrating Lopp - Halon Ring - Tract 1	0
+809	Swarm_Vortex_GRN (Base) [Infinite] Any	0
+810	Far Out Splorg - Halon ring - Tract 1 - JGP	0
+811		0
+812	[Combat] Halon Ring Priestess Skeleton Summon	0
+813	Death to Jump OnCreate	0
+814	M1555 - Meteorite - Halon Ring - Tract 1	0
+815	Everstar - Mystpaw Dagun - Attack Actions	0
+816	deactivated freebot - TWH	0
+817	relic complete - twh	0
+818	Lopp Fireworks BIG - Halon Ring - Tract 1 - JGP	0
+819	Bone pile Smoke [Infinite]	0
+820	Q6181 - Vignette	0
+821	Gorgonoth Birth	0
+822	Burrow_Dig_2mR_DRT.m3 (Base) [Inf] (PE185 Tinted)	0
+823	Q6331 - noxious queen - TWH	0
+824	Everstar Grove - Mystwing Ravenok Attacks	0
+825	Test - CLD	0
+826	Q6301 - Everstar Grove - Swirling_pedals_grn	0
+827	Road Flare - Ellevar Adventure	0
+828	Everstar Grove - Scorched Tree - Fire FX	0
+829	Everstar Grove - Life Energy	0
+830	Chat Bubble	0
+831	Q6301 Obj 0- Everstar Grove - Swirling_pedals_grn	0
+832	Q6281 Cauldron Red	0
+833	Laveka Ritual Effect	0
+834	Bugs_InfectedParasite_BLK (Base) [Infinite]	0
+835	Q6388_BlackheartPrisoner	0
+836	Toxic Residue - Whitevale Tract 1 - JBN	0
+838	CH422 - Destination Aura - Halon Ring - Tract 1	0
+842	Everstar Grove - Bee Swarm - M1527	0
+843	Skug Queen Unburrow Birth	0
+844	Halon Ring - Jelibolli - Glow	0
+845	Farside - Target Dummy Explosion	0
+847	Q5604 - Burn effect	0
+848	Everstar Grove - Everstar Buzzbing Pollen	0
+849	Farside - Loftited Asteroid FX	0
+850	Everstar Dawngrazer - Dots Spray up	0
+851	Q5596 - Corpse Effects	0
+852	Ellevar Ikthian Ship Death FX	0
+853	Poisoned_Pell	0
+855	3D_Butterfly_Esper_01_YLW.m3 (Base) [Infinite]	0
+857	Revenroot - Celestion - Tract 1 - JGP	0
+858	Blood Root - Celestion - Tract 1 - JGP	0
+860	Ellevar Ikthian Ship Collision with Avenger	0
+862	Datachron Head	0
+863	Blood Decal - On Birth	0
+864	Auroria - Osun Initiate Swipe Attack	0
+866	Emberwood Fire - Celestion - Tract 1	0
+867	Q6589 - Stormseeker High-Shaman	0
+868	Q6589 - Vanish	0
+869	Laveka Sigil visual effect	0
+871	perched bird - twh	0
+872	Voreth Occultists_CastPose	0
+873	e395 - Hologram Effect - Datascape	0
+874	e396 - Hologram Effect - Datascape	0
+875	e397- Hologram Effect - Datascape	0
+877	Rvaz - Test	0
+885	Drunk_01_YLW (Head) [Infinite] (Any)	0
+886	Voreth Captive - Auroria Public Event	0
+887	Q3167 - Waypoint Marker - JJ	0
+889	Face_Dual_PPL (Name) [Infinite] (No Combat)	0
+890	Rally Point - Galeras Adventure	0
+891	Bubbles_Alien_GRN (Base) [Infinite]	0
+892	q6720 - gl-04 auto turret - twh	0
+895	Q3163 - Makaza Sit - JJ	0
+896	Q6485 Fire Loop Sound	0
+897	Q3170 - Kezzia Wounded - JJ	0
+898	Deadwind Moodie - Khurhak Vignette	0
+899	Caravan Kurg - Deradune - Flavor NPC	0
+900	Windfall Digsite Unstable Probe	0
+901	Q6628 - Glowing Mosstone - Celestion - Tract 1	0
+902	Auroria PubEvent - Toric - IconAboveHisHead	0
+904	Lex Teleport	0
+905	OT_Ghost_WTE and OT_GhostField_BLU [Infinite] ANY	0
+906	Blood_Splatter_Decal_01 (Base) [Infinite]	0
+907	M1709 Steam State (infinite)	0
+908	Generic Ring_Radar_8m_RED [Infinite] (Small)	0
+909	[SETTLER T1] Buff_Attributes_OT_GRN	0
+910	[SETTLER T2] Buff_Attributes_OT_GRN	0
+911	[SETTLER T3] Buff_Attributes_OT_GRN	0
+912	Exile Ark Ship Tutorial - Sparking Wire	0
+913	Exile Ark Ship Tutorial - Frozen and Dead 2	0
+914	Exile Ark Ship Tutorial - Frozen and Dead 4	0
+915	Wildfall Archivist Visual Indicator Effect	0
+916	Exile Ark Ship Tutorial - Sick vomit and stand	0
+917	Poisoned	0
+918	e388 - Avatus cast anim - Datascape	0
+919	M1710 Flickering Primal Ember State	0
+920	M1710 Primal Fire Buff State	0
+921	M1710 Primal Fire Buff State (High)	0
+922	Q6655 - Sick Radiant Guards	0
+923	Q6668 Moodie Death	0
+924	Q6625 Bush	0
+925	Oxian Hologram	0
+926	Smoke_Chimney (Smoke Sound) Q6599 KLW	0
+933	Q6625 Ambusher	0
+934	M1710 Tower Torch State	0
+935	Ellevar - Trap Engaged - Q6610 - JBN	0
+936	Tank Turrets - Ellevar Adventure	0
+938	M1709 Goal Flag State	0
+939	q6730 - banner flames - twh	0
+940	[SETTLER-T1] Loot Buff	0
+941	Dagun glowing eyes - JAP	0
+942	Exile Ark Ship Tutorial - Carrying Cannister	0
+943	Eldan Glow	0
+944	Ikthian Abduction Beam - Ellevar - T3 - MXP	0
+945	Gronyx - on birth - start burrowed	0
+946	M1717 Zanna Fire Channel	0
+947	M1734 Cart with Unrefined Ore	0
+948	Exile Ark Ship Tutorial - Sprinkler System	0
+949	Q6674 - Critter Smoke	0
+950	Q6618 - Tender Kaiya - Celestion - Tract 1	0
+951	M1734 Blown Up Ore Cart	0
+952	State_Posed and Blood [Infinite]	0
+953	Exile Ark Ship Tutorial - Force Field Projector	0
+954	Splorg Burrow - Halon Ring - Tract 1 (Spawner)	0
+956	M1700 - Abduction Beam	0
+957	Exile Ark Ship Tutorial - Dead Oxian	0
+958	Celestion - Tract 1 - Smoke Hazard	0
+959	M1736 Fire State	0
+960	DominionDestroyer_BootUp_Anims	0
+961	Jim The Butcher - Ellevar Adventure	0
+962	Q6594 - Pearl Ball - Ellevar Tract 1.2 - BB5	0
+963	M1707 Farm Droid Offline	0
+964	M1736 Fire Stream	0
+965	M1736 Fire Zone FX	0
+966	Shadowblade Target	0
+967	M1736 Orbiting Flames Chest	0
+968	Shadowclone - Ellevar Adventure	0
+969	Ellevar - Ch457 - Talkto - JBN	0
+970	M1719 - Draken Garden Gnome - Hat	0
+971	q6718 - offline bot - twh	0
+972	q6719 - offline titan - twh	0
+973	Generic - Hologram Effect - CHESTCTR - Infinite	0
+974	Aurin Mage - Celestion	0
+975	Osun Monument State - Auroria	0
+976	M1683 Rusty Equipment - Ellevar - T1 - ALT	0
+978	Ellevar - T3 - m1746 - Hoarder Rat Glitter Mouth	0
+979	Teleport In	0
+980	M1721 - Spooked Dawngrazer - Celestion - T1 - KMS	0
+981	Ellevar Adventure - Nest Fire Small	0
+982	Ellevar Adventure - Nest Fire Line	0
+983	Ellevar Adventure - Nest Fire Smolder	0
+985	Q6623 - Reconstructed Aurin - Celestion - Tract 1	0
+986	Voreth Bone Totem	0
+987	Q6649 Kill Bagum	0
+989	Eye_Single_BLE (No-Cmbt) Eye_Single_RED (In Cmbt)	0
+990	Q6650 Cornelius Visual Indicator Effect	0
+991	Summoned Bonecaller	0
+992	e387 - Earth Room Boulderback - Datascape	0
+993	Snoglug Patrol - Ellevar - Q6794 - JBN	0
+994	OT_WaterSplash.m3 (Base) [Infinite] (Sized Up)	0
+995	Broken Down Bike - Ellevar Adv	0
+996	Esper_Armor_01_YLW	0
+997	Locked Voreth Chest	0
+998	Q6660 Moodie teleport	0
+999	Auroria - Rally Point - Red Aura	0
+1000	Cheese in Trap	0
+1001	Lake Larallen Monster Birth	0
+1002	Auroria_PubEvent_ChainBase_Highlight	0
+1003	Q6576 Obj 1 - Pell Primal Storm Emitter FX - KLW	0
+1004	Ellevar Tract 3 - Mutated Dagun	0
+1005	Ellevar Tract 3 - Mutated Rat	0
+1006	Bugs_Stinky_Lite_01_GRN (Chest) [Infinite]	0
+1007	q6718 - b. i. b. spawn effect - twh	0
+1008	Q4733 - Flak Explosion - Galeras - Tract 4	0
+1009	q6725 - wounded soldier - twh	0
+1010	q6725 - wounded soldier bed - twh	0
+1011	Celestion Tract 1 Arilya Greenmoon	0
+1012	Ikthian Power Core	0
+1014	Q6655 - Sick Radiant Guards	0
+1015	Q6576 Obj 2 - Pell Primal Storm Emitter FX - KLW	0
+1016	Q6576 Obj 3 - Pell Primal Storm Emitter FX - KLW	0
+1017	Q6576 Obj 4 - Pell Primal Storm Emitter FX - KLW	0
+1018	Q6576 Obj 5 - Pell Primal Storm Emitter FX - KLW	0
+1019	q6730 - voreth wall breaker - twh	0
+1020	Q6628 - Lightkeeper - Celestion - Tract 1	0
+1021	brinlanya moonstone - qxxxx - twh	0
+1022	w1606 - Hull Breach Effects	0
+1023	M1719 - Draken Chamberpot - Celestion - Tract 1	0
+1024	Osun Female Caster - Purple Channel	0
+1025	Osun Kneel (Out of Combat)	0
+1026	w1606 - Puddle Effects	0
+1027	Q6588 - Eldan Artifact Arrow - Ellevar Tract 1.2	0
+1028	Q6601 Q6779 Red Markers	0
+1029	Q6669 - Moodie Dance	0
+1030	AuroriaPubEvent_WarbotDepotFlags_YELLOW_Highlight	0
+1031	Dominion Cannon Glow - While holding Power Core	0
+1032	mining burrow - c490 - twh	0
+1034	Auroria - T4E2 - Forge Thrall Behavior - HCon	0
+1035	Q6819 - Lightkeeper Spirit - Celestion - Tract 1	0
+1037	Ellevar Tract 3 - Q6654 - Flaming Dagun	0
+1038	overgrown grass - q6749 - twh	0
+1039	Northern Wilds - ACT III - Mortar Target Visuals	0
+1040	M1699 3s Lopp Dance	0
+1041	Relic Hunter - Epic Add Teleport In	0
+1042	Wind_AirAnomaly_noColumn.m3 (Base) [Infinite]	0
+1043	Ellevar Green-ish Crystals - KLW	0
+1044	w1606 - Puddle Electric Effect	0
+1045	Water_SprayOut_BLE (Base) [Infinite]	0
+1046	CH488 Smoke State (infinite) - HCon	0
+1047	Q6673 - Air Tank bubbles	0
+1049	e393 - Temp State - Datascape	0
+1050	Gen - Eyes Glow - EyeGlow_RED_Small - JZB Test	0
+1051	Malgrave Adventure - Water Hole	0
+1052	Ellevar - Q6607 - Default birth	0
+1053	Dazeroot Buzzbing - Celestion - Tract 1	0
+1055	Harvesting - Farming - Overgrown Plant (Medium)	0
+1056	Harvesting - Farming - Overgrown Plant (Large)	0
+1058	Levian Bay - Eldan Signal Relay	0
+1059	Generice - Pistols Ready (Infinite)	0
+1060	e157 - Fade-in SkinFX - Datascape	0
+1061	Argratha's Summoned Thrall	0
+1063	CH497 - Standing Indicator	0
+1064	w1627 - Freebot Teleport Effect	0
+1065	C31331 - Voreth Flame Prison - HCon	0
+1067	Burrow_Dig_DRT_01.m3 (Base) [Infinite] Any	0
+1068	Dustback Chompacabra - Malgrave Adventure	0
+1069	Exile Ark Ship Tutorial - Fire Extinguisher	0
+1070	Eldan Security Beam - Projector - Hazard	0
+1071	Red Eldan Probe Bot FX - ANY	0
+1072	Damaged Bot Sparks - Levian Bay - Flavor	0
+1073	Green Eldan Probe Bot FX - ANY	0
+1074	Magma Totem Spawn	0
+1076	Blue Eldan Probe Bot FX - ANY	0
+1077	Ellevar - Q6878 - Probebot staging - JBN	0
+1078	Q5865 - Drop Pod Effects	0
+1079	Turret Sit	0
+1080	Crimson Attack Ship - Galeras - Flavor	0
+1081	M1339 - Warp Pipe - Explorer Door EXIT	0
+1083	Q3770_DropPod_Smoke	0
+1084	Signal Flare Animations - Q6616 - Ellevar - T3	0
+1085	Fire Scorch	0
+1086	Q7003 - Cargo Lifter - Gorganoth babies	0
+1087	q6926 - marauder part - twh	0
+1089	Q6897 - Infected Mordesh - Celestion T3E3	0
+1091	q6931 - sleeping grund - twh	0
+1092	q6931 - sleeping eeklu - twh	0
+1093	Deradune PE147 - Bandit Ship Intro	0
+1094	Buff_ElementLogic_GRN (Q6912 Obj 0 Prereq)	0
+1095	Buff_ElementLogic_GRN (Q6912 Obj 1 Prereq)	0
+1096	Buff_ElementLogic_GRN (Q6912 Obj 2 Prereq)	0
+1097	Buff_ElementLogic_GRN (Q6912 Obj 3 Prereq)	0
+1098	Dirt Splash World Unit - On Birth	0
+1099	Q5632 - Poison Gas	0
+1100	Q6904 Ravenous Mordesh Goo Death	0
+1101	Hologram Q7009 - Dominion Ark Ship	0
+1102	Q5628 - Boss Effects	0
+1103	Q5628 - Smoldering Effects	0
+1104	Q5515 - Wind Portal Effects	0
+1105	Q6966 - Imbued Stumpling shader - JAP	0
+1106	Torine Blade Toss	0
+1107	Dots_SprayDown_GRN Dots_SprayUp_GRN [Infinite]	0
+1108	Q6976 - Augmented Aurin Spirits - Celestion T2E2	0
+1109	Q5519 - Autarka - Effects	0
+1110	Name Plate Sheild - District Citizens	0
+1111	[SETTLER-AURA] Blue Sanctuary Buff	0
+1113	PEIsland - A2 - TurretANIMs	0
+1114	Crimson Isle - Act 1 - GLA - Q5595 - Poison	0
+1115	Crimson Isle - Act 1 - GLA - Q5595 - Smoke	0
+1116	Crimson Isle - Tract II - PWM - Q5584 - VFX	0
+1117	Crimson Isle - Act II - Q5609 - PWM - Fire Effect	0
+1118	Q6975 - GOOP Cannon - Celestion T2E2	0
+1119	Crimson Isle - Act 1 - GLA - Dreg in Stasis	0
+1120	Crimson Isle - Act 1 - GLA - Super Dreg in Stasis	0
+1121	Taxi Kiosk Birth	0
+1122	Q6975 - Projector Base Red - Celestion T2E2	0
+1123	Q7033 - On Birth Construction Cloud	0
+1124	Dominion Statue - Dominion Ark Ship Tutorial	0
+1125	Default_Emote_Salute [3s][1s Delay]	0
+1127	M1840 - Lifeblood Essence - JAP	0
+1128	M1845 - Bubbling Water	0
+1131	Q7007 Scanner - Dominion Ark Ship Tutorial	0
+1132	Spell 22213 - Skug Leaper	0
+1133	Bubble_Pop_01_ORE	0
+1135	Q7025 blue aura	0
+1137	Malgrave Adv - Elemental Horror Birth	0
+1138	M1831 - Construct Spawner - Anims	0
+1139	Ellevar - T2E3 - Q7047 - shock - JBN	0
+1140	C511 - Speed Boost - Ellevar Tract 2.1 - BB6	0
+1141	Q7025 - Blue explosion	0
+1142	Malgrave Adventure - Pell Ritualist Fire	0
+1143	Broken Medical Station	0
+1144	Qxxxx - ICI DeCloaking	0
+1145	M1852 - Burrowed - JAP	0
+1146	Q6969 - Eldan Extractor N22 - Celestion T2E2	0
+1147	LazerPickaxe_2H w/wpn Icon	0
+1148	PEIsland_GladMonstrosity_BirthAnim	0
+1149	Road Flare rotated w/wpn Icon	0
+1150	Stem Dragon Unburrow	0
+1151	Deradune - 3 - Q5925 - Shadow Spawn Effect - PWM	0
+1153	Q6943 - Tele Device On Birth	0
+1154	Ellevar - T2E3 - Q7031 - Augment Analyzer - JBN	0
+1155	Deradune - 3 - Q5925 - Laveka Effects - PWM	0
+1156	OT_Ghost_WTE.m3 (Base) [Infinite] (Persist Death)	0
+1157	Ellevar - T2E3 - Q6885 - Life - JBN	0
+1158	Ellevar - T2E3 - Q6885 - Earth - JBN	0
+1159	Ellevar - T2E3 - Q6885 - Air- JBN	0
+1160	Ellevar - T2E3 - Q6885 - Fire - JBN	0
+1161	Ellevar - T2E3 - Q6885 - Water - JBN	0
+1162	Ellevar - T2E3 - Q6885 - Logic - JBN	0
+1163	PE221 - Super Ravenous Buster - Celestion T3	0
+1164	Fire_Burn_OGE	0
+1165	Poison Aura Sized down	0
+1166	SoriumCatalyst_Buff	0
+1167	Ravenous Horror - ankles	0
+1168	Generic - On Death - Explode	0
+1169	M1853 - Cruel Huntress Spawnin - JAP	0
+1170	Deradune - 3 - Q6037 - Councilor Vaelen - Effects	0
+1171	Fire_GroundSmolder_wDecal_5m_RED	0
+1172	Queen_Rylathra_OnBirth_FX	0
+1173	Q7053 - Primal Life Aura	0
+1174	Dreg Path Indicator - Malgrave Adventure	0
+1175	Fire and Smoke (Death Under Spell)	0
+1176	On Birth Construction Cloud	0
+1178	Call of the Dagon Add Spawns	0
+1179	Root Slasher Ability Spawn	0
+1180	Class - Esper - Guardin - VFX	0
+1181	M1808 - Weeping Bluepine - Ellevar - T2 - ALT	0
+1182	Tree Death - Tradeskills	0
+1183	Deradune - 3 - Q5905 - Death Pose - PWM	0
+1184	q6930 - eldan relic fragment action set - twh	0
+1185	Class - Esper - Lantern - VFX	0
+1186	Lopp Guard - Flavor 1 - Celestion Tract 1	0
+1188	Celestion Esper Shader	0
+1190	CH531 - Magical Shader PPL - Celestion - Tract 2	0
+1191	Auroria - 1 - Q5630 - Get Up Anim - PWM	0
+1193	e148 - Poisonous Mushrooms - Skullcano	0
+1196	Nanite Vending - Celestion	0
+1197	Q6961 Hologram	0
+1198	Auroria_Plagued_Effect_No_Eyes	0
+1199	Celestion - Grimhold - Steam Vent Effect	0
+1200	Chosen Blade Spawn Effect - JAP	0
+1201	Moodie Ghosts - NWPC - HCon	0
+1202	Q6968 - Cargo Lifter - Celestion T2E2 (Quest Flav	0
+1203	Mechanic Laser Axe - Exile Ark Ship Tutorial	0
+1204	7064 Dr. Petrich Holo Effect	0
+1205	Auroria - 1 - Q5652 - Strangle Weed Effects - PWM	0
+1206	Q7081 - Exile Bit Set - HCon	0
+1207	Q7082 - Dominion Bit Set - HCon	0
+1209	Auroria - 1 - Redsnout Dust Effects - PWM	0
+1211	Released Moodie Ghosts - NWPC - HCon	0
+1212	frostbitten fire pit - action set - twh	0
+1215	eldan probe nwpc - action set - twh	0
+1216	M1856 - Exo-Site Scrambler - ProbeBot Sparks	0
+1217	M1856 - Exo-Site Scrambler - Buff Cloud Sparks	0
+1218	stolen supplies - action set - twh	0
+1219	Auroria - 1 - Q3891 - Burned Man effects - PWM	0
+1221	2H_GunReadyAim (OOC) - Exile Ark Ship Tutorial	0
+1223	Auroria - 2 - Q5980 - Hive Effects - PWM	0
+1224	Spawn mound - VFX On Create	0
+1225	Ellevar - Q6881 - Smokescreen - JBN	0
+1226	ColossalTerror_Anims	0
+1227	Wawalo - NWPC - HCon	0
+1228	nwpc - frostbitten god - action set	0
+1229	Ghostpyre Worshippers - NWPC - HCon	0
+1230	Ghostpyre Flamedancer - NWPC - HCon	0
+1231	Q7109 - Canimid Birth	0
+1232	Generic Teleport - SWC	0
+1233	Celestion - Tract 2 - Dead Kurg - Swarming Flies	0
+1234	Hover Board Test	0
+1235	Q7006 Shiny gold	0
+1236	Q7027 - Data point 1 - JAP	0
+1237	Q7027 - Holo Target Cube - JAP	0
+1238	Q7027 - Data point 3 - JAP	0
+1239	Q7027 - Data point 2 - JAP	0
+1240	Q6900 Smoldering Corpse	0
+1241	Q7115 - Fungal Growth - SWC	0
+1242	Q7116 - Poisoned Canimid Quest Giver	0
+1243	Q6953 Sonya Scan Bot	0
+1244	Q6953 Crucified	0
+1245	Malgrave Adventure Taxi Gather Indicator	0
+1246	Whitevale - 1 - Q5067 - Ice Effect - PWM	0
+1247	CH517 - Fallen Fruit Red Glow	0
+1249	State_Wounded_Ground_03 [Infinite] (Any)	0
+1250	Q6955 - Primal Life Energy	0
+1251	Deathbringer Cordemia (Flavor)	0
+1252	Q6958 - Maiden Sword (rotating)	0
+1253	e329 - Laveka Aura - Skullcano	0
+1254	Mordesh Alchemist - Celestion	0
+1255	OT_Aura_Light_BLU.m3 (Base) [Infinite] (Any)	0
+1256	Eat and Attach Lightbulb	0
+1257	nwpc - skeech action set - twh	0
+1258	Q7107_SmokeOnTurret	0
+1259	NWPC_SparksCam_BeforeActivation	0
+1260	Celestion - Tract 3 - Flavor - Angry Aurin	0
+1262	Q7025 Primal Life Anomaly - Celestion - Tract 2	0
+1263	Whitevale - 2 - Burning Corpse Flavor - PWM	0
+1264	Q7024 Bohumir Ghost Overlay	0
+1265	Q5572 - Moldy Cheese Vignette	0
+1266	Q5572 - Moth-bitten Clothes	0
+1267	NCPW_MissingExplorer_Frozen_VFX	0
+1268	Stun Shamble	0
+1269	[Dungeon Boss] Mordechai - Terraformer	0
+1270	Q6901 Creature Fires	0
+1271	Q7096/7 - Holographic Effects - NWPC - HCon	0
+1272	Q???? Shiney Sparkle!	0
+1273	Q6680 Firefly Effects - Celestion - Tract 1	0
+1274	PRP_ControlPanel_EldanCrystal_000 - Birth	0
+1275	Whitevale - T4 - Pell Drumsticks	0
+1276	Chua Datacenter Interface - Algoroc - Q3771	0
+1277	Malgrave - 1 - T7185 - Cactus Explosion - JAP	0
+1278	Draken Shaman - Deradune	0
+1279	MorekThrogg_EntryVisuals	0
+1280	Q7145 - Vial Construct - Birth/Death Anim	0
+1281	Spikehorde Unburrow Birth Anim	0
+1282	KainAmbush_HoldoutCreatures_GreenBeamDown	0
+1283	Ellevar - Q7047 - Flavor - JBN	0
+1284	Q7147 - Explode onBirth smoke	0
+1285	Q6637 - Permanent Holographic Shader - All States	0
+1286	Q7147 - Darkspur Cargo Ship	0
+1287	Ghost - JAP	0
+1288	Generic - Left Eye Glow - EyeGlow_RED_Small	0
+1301	eldan analyzer - action set - twh	0
+1303	Test - UseKneel then Stand - Looping	0
+1305	Algoroc T3 - Augmented Prisoner - AuMa - HCon	0
+1306	Algoroc T3 - Augmented Prisoner- GraMa - HCon	0
+1307	Algoroc T3 - Augmented Prisoner - AuFe - HCon	0
+1308	Algoroc T3 - Augmented Prisoner - GraFe - HCon	0
+1309	Injector Vending - Deradune	0
+1310	Algoroc T3 - Augmented Prisoner - HuFe - HCon	0
+1311	Q4764 - Krog Laughing	0
+1312	New Hover Board Test	0
+1313	Program Scrambler	0
+1315	Whitevale - ICI - M805 - Smoke effect	0
+1316	Q4806 - Sergeant Kara - Galeras - Tract 2 (Combat	0
+1318	Generic Hologram Holodata Base_BB Lrg [Infinite]	0
+1319	Whitevale - Q5852 - Eldan FX	0
+1320	Mysterious - Visuals	0
+1321	M1188 - Field Zapper 2000 - Deradune T2	0
+1322	Malgrave - 1 - Dust Devil	0
+1323	OT_Sphere_Ring_BLE.m3 (Base) [Infinite]	0
+1324	OT_Sphere_Ring_5m_BLE.m3 (Base) [Infinite]	0
+1325	Generic_Telegraph_BLE.m3 (Base) [Infinite]	0
+1326	Esper Warden	0
+1327	Q4851 - Augmentor Sparks	0
+1328	Gold Pile Glow	0
+1332	PvP - Arena Spectator Talking	0
+1333	PvP - Arena Spectator Drinking	0
+1334	Q7162 Obj1 - Fire_Cylinder_OGE - On Birth	0
+1335	Q7162 Obj0 - Fire_Cylinder_OGE - On Birth	0
+1336	Benevolent Servant Rix Holo-Shader + Bowing	0
+1337	Stalker - Shadow Pact	0
+1338	Q7162 Obj2 - Fire_Cylinder_OGE - On Birth	0
+1339	Q6677 - Shrine Vines	0
+1340	Fire_Ground_wDecal_08m_RED - Infinite 2x	0
+1341	Q7151 Lopp Birth Sand Emerge	0
+1342	Sleeping Ravenok	0
+1343	Frycook Mohini Dance - Malgrave - Tract 1 - RR	0
+1345	q6188 - sleeping freed farmer - twh	0
+1348	Q4930 Default_Ready - Infinite - Galeras Tract 4	0
+1349	Q4828 - Algoroc - Tract 3 - Exolab Purifier	0
+1350	Q4828 - Algoroc - Tract 3 - Evil Caretaker	0
+1351	DominionDefenderProjection_AuroriaBattlefield	0
+1352	Treasure Kurg Animations	0
+1353	Celestion - Tract 2 - Burgaska Bow	0
+1354	Malgrave - 1 - M1903 - Demolition - Smoulder	0
+1355	[Dungeon Boss] Slavemaster Drok - Bot Spawn	0
+1356	C562 - Booster Effect	0
+1357	Black Bret's Minions	0
+1359	Grimvault - T1 - m1938 - Spy Cameras - WG	0
+1360	Malgrave - 1 - Cowboy hat - agressorbot - JAP	0
+1361	Malgrave - 1 - cowboy hat - battlebot - JAP	0
+1362	Q4670 - Burning Murgh Hut - Galeras Tract 4	0
+1363	Resurrect Test	0
+1364	Celestion - Tract 2 - Arragor Bowtie	0
+1366	Auroria - Summoned Detonators - OnAny	0
+1367	Auroria - Skeech Riding Yeti_OnAny	0
+1368	nurse sabinec - action set - twh	0
+1369	Sensor Sweep - Celestion T2E3 - ICI Sensors	0
+1370	Default_Stunned [Infinite]	0
+1371	Q7171 Explosion and Death	0
+1372	Stalker - False Retreat	0
+1373	Auroria - Skeech Riding Yeti_UPDATED_ANY	0
+1374	Scientist Experiment: Knockdown	0
+1375	Pile of Ashes - Auroria T4E2 - HCon	0
+1376	Sprinkler Teleport in	0
+1377	Floating Embers - Auroria T4E2 - HCon	0
+1378	Algoroc - T2 - m1977 - Post-Mission Visuals	0
+1379	Cave Lopp Ready	0
+1380	Performance Meds - Algoroc	0
+1381	Defective Transport - Malgrave Adventure	0
+1382	Ghostpyre Flamedancer - Malgrave PE - DY	0
+1384	Forge Door - Auroria T4E2 - HCon	0
+1386	Ghost Moodie Summon	0
+1387	Ellevar - Q6650 - Dead Slank	0
+1388	m713 - Algoroc - Tract 2 - Explorer Cawley	0
+1389	Algoroc - Tract 2 - Explorer Cloudstone talking	0
+1390	Damaged Cart Sparks - Q7393	0
+1391	burning weaver - action set - twh	0
+1392	Q6979 - Vitara's Bloom - Celestion T3E2 (Quest Ta	0
+1393	Q6979 - Bloom Guardian - Celestion T3E2 (Quest Fl	0
+1394	Everstar - Livingroot Keeper - Q6306 - Heals	0
+1395	Livingroot Mender - Q6306 - Blue Waves	0
+1396	Stealth Shader - any	0
+1397	Malgrave Adventure - Sci 1 Well	0
+1398	Stealth Deactivate	0
+1399	Q6995 - Godwood Node - Celestion T3E2 (Quest Targ	0
+1400	Q6995 - Decal - Celestion T3E2	0
+1401	Malgrave - 2 - Cowboy hat - Calvus Petasus - JMB	0
+1402	Settler Minfrastructure (Unbuilt)	0
+1403	Q6995 - Primal Siphon - Celestion T3E2 (Quest Fla	0
+1404	Q7423 - Protostar Miningbot	0
+1405	Q7116 - Rootbrute Birth	0
+1406	Q7539 Firestorm Machinery - Everstar Grove	0
+1407	Randomized - Generic Dead States [Infinite]	0
+1408	Snow Boulder	0
+1409	Q7397 - Chompacabra jump on birth - MB	0
+1410	Q6956 Sonya Scan Bot	0
+1411	Cinderbloom	0
+1412	[SETTLER-AURA] Purple Reputation Buff	0
+1414	[SETTLER-AURA] Green Health Buff	0
+1415	Birth + State 2	0
+1416	Smoke_Billow_T20m_BLK [Infinite] (Size 0.25)	0
+1417	[PROTOTYPE] Corrupt Vending Machine - Boss	0
+1418	Q4926 Radio Equipment - Galeras T1 - WK	0
+1419	Galerade - Galeras T1	0
+1420	Q6897 - Mordesh Reaper - Celestion T3E3	0
+1425	Q5521 - Altar Tornado - Deradune Tract 2 - WK	0
+1426	Celestion-Tract 3-Ravenous Corpse Decaying FX-DJU	0
+1427	Celestion - Tract 3 - Mortalus Poison Meat FX	0
+1428	Wind Boost - Galeras T3	0
+1429	Q7109 - Ancient Remains Activation	0
+1430	Q7109 - Gorganoth	0
+1431	Cheering Spectator - Deradune T1 - Settler INF	0
+1434	Tower Fires - Q7444/Q7445 - CIPC - HCon	0
+1435	[Non-Combat] Default_Stunned [Infinite] - KMS	0
+1436	Drugar the Rotted - KMS	0
+1438	Malgrave - 2 - The Fallen One FX - Bugs - JAP	0
+1439	Malgrave - 2 - Meteorite Flames - Smoulder	0
+1442	Broken Lab 22 Control Panel - CIPC - HCon	0
+1443	Palehusk Dreglord - Attacking Computer - HCon	0
+1445	Daily Rations - On Birth - CIPC - HCon	0
+1447	c603 - waterlogged victim action set - twh	0
+1448	Discovery - Buff_Offense_Red - FX_misc02	0
+1449	Discovery - Buff_Crit_OT - FX_misc02	0
+1450	Discovery - EnduranceHeart_01_RED - FX_misc02	0
+1451	Discovery - Regen_HP_OT_GRN - FX_misc02	0
+1452	Discovery - Buff_Resist_OT_OGE - FX_misc02	0
+1453	Discovery - Up_ShieldBattery_BLU - FX_misc02	0
+1454	Discovery - Buff_Attributes_OT_PPL	0
+1455	Discovery - Buff_Defense_BLE - FX_misc02	0
+1456	Discovery - Up_HP_GRN - FX_misc02	0
+1457	crimson augmentor - cipc - twh	0
+1458	dead scarhide - action set - twh	0
+1459	Q5546 Dawngrazer Boss VFX	0
+1460	Q6584 Mistpaw's Ghosty Trail	0
+1461	Generic Dust and Rock Cloud	0
+1462	dead toxic weaver - action set - twh	0
+1463	Generic - Teleport In Teleport Out - DO NOT EDIT	0
+1464	Lopp Firework (SOUND)	0
+1465	Ellevar - PublicEncounter - Hydrolord birth	0
+1466	Q6966 - Imbued Stumpling Shader - FA	0
+1468	Generic - Teleport In Only - DO NOT EDIT	0
+1470	C585 - Flame Licking Effect - MB	0
+1471	Settler Supply Capsule - JGP	0
+1472	Q7383 Shock Field	0
+1473	M2077 - Spider Spray - Spider Spawn -  MB	0
+1474	Celestion - Tract 1 - Monster Corpse Decaying FX	0
+1475	Celestion - Tract 1 - Grevitch Glowing Eyes - KMS	0
+1476	Storm-Watcher Animation Set	0
+1477	Stormdancer Listens	0
+1479	M201 - Radiation Spill - Algoroc - T1	0
+1480	Voice of the Storm Animation Set	0
+1481	Stormtalon's Lair - The Invoker	0
+1482	Corrupted Mutilator - Skeleton Micro - HCon	0
+1483	Risen Darkspur - Q7616 - Skeleton Micro - HCon	0
+1484	Settler - Datachron - JGP	0
+1485	[DEPRECATE] Settler Travel Speed Station	0
+1486	Settler Max Shield Buffer	0
+1487	Settler Crit Bonus Buffer	0
+1488	[SETTLER T1] Buff_Attributes_OT_WTE	0
+1489	[SETTLER T2] Buff_Attributes_OT_WTE	0
+1490	Malgrave Tract 2 Gronyx Dirt VFX	0
+1491	[SETTLER T3] Buff_Attributes_OT_WTE	0
+1492	Exile Morter - NW - Settler - JGP	0
+1493	Exit Simultation Effects	0
+1494	Whitevale - T2 - Q5489 - Tear Gas - JBN	0
+1495	Crimson Sensor - Galeras T2 - Crimson Sensors	0
+1496	Corrupted Remains - Scientist Raw Scan - HCon	0
+1497	Housing Teleporter - On Birth	0
+1498	Settler Lost Munitions - JGP	0
+1499	Growthshroom	0
+1500	Harvestshroom	0
+1501	Renewshroom	0
+1502	PRP_Bomb_C4Dynomite (ChestCtr) [Infinite] (S) (R)	0
+1503	Eldan Fuel Rod - Basepose	0
+1504	Harvest Wurm Unburrow	0
+1505	Default_KnockDownToBack_Loop_Ground/Shock (NCB)	0
+1506	Red Eldan Probe Bot FX - ANY Broken	0
+1507	Green Eldan Probe Bot FX - ANY Broken	0
+1508	Eldan Relic - Scientist Scan	0
+1509	[SETTLER] Assault Power Tech-Totem	0
+1510	[SETTLER] Resistances Tech-Totem	0
+1511	[SETTLER] HP Regen Tech-Totem	0
+1512	[SETTLER] EnduranceHeart_01_RED	0
+1513	[SETTLER] Regen_EnduranceHeart_01_RED.m3	0
+1514	Lock-Bot - Settler - JGP	0
+1515	Q4971 - Takeoff Smoke - Algoroc T1 (Quest Flavor)	0
+1516	Scaffolding Galeras T3 - Settler - JGP	0
+1517	Galeras Tract 2 - Supply Cache - JGP	0
+1518	Medic Medpack	0
+1519	Auroria - 1 - ArvinaWorkingFarmer - Gossip - TDG	0
+1520	Galerar T4 - Settler Payoff - JGP	0
+1521	Galares Tract 3 - High Priest Storm-Render	0
+1522	AnyAny - Talking and Idle - TDG	0
+1523	Auroria - 1 - Fluff - ArvinaTalkingFarmer02 - TDG	0
+1524	Auroria - DominionDecryptionTeleporter_GreenFX	0
+1525	Aroria -Gossip -Market Farmer -Awaiting Cure -TDG	0
+1526	Randomized Wounded Crying Sad Etc. [Inf]	0
+1527	Housing - 1x1 - Bone Pit Ghost - JAP	0
+1529	Galeras Tract 3 High Priest Ritual Hostage	0
+1530	PE221 - Ravenous Effects - Celestion T3	0
+1531	PE221 - Super Ravenous Wight (Leasher)	0
+1532	PE221 - Super Ravenous Overlord - Celestion T3	0
+1533	Stormcaller - Meditate - Galeras - 3 - WK	0
+1534	e459 - Glow Vis - Kel Voreth	0
+1535	Graffiti - Ghost Shader - Whitevale Adventure	0
+1537	Settler Resource Drill	0
+1538	Settler - Minfrastructure - Moodie Dance	0
+1539	Q5074 ICI Tracking Bugs	0
+1540	Deradune - Bloodfire Sawgrass FX	0
+1541	Grimvault - T1 - E3 - T01 - Detonation - MLB	0
+1543	Auroria - 2 - Q7698 - Canus Vallas - QGvr - TDG	0
+1545	Accelerite Crystal	0
+1546	Q7910 - Pumera Sleep OnBirth	0
+1548	Farside - 1 - Holographic Lucent - HCon	0
+1549	Farside - 1 - Baby Tanglevines - HCon	0
+1550	Q5119 Music Trail VFX	0
+1551	Q5372 Tech Trail VFX	0
+1552	Q3167 Red Scent Trail VFX	0
+1553	Q7023 Purple Scent Trail VFX	0
+1554	Witchwake Necromancer - Hover	0
+1555	Q7841 - Graffiti - Halon Ring - 2 - WK	0
+1556	Q7841 - Item Placement - Halon Ring - 2 - WK	0
+1557	Deradune - T3 - m1163 - Lifedrain Swirl	0
+1558	Farside - Tract 1 - Primal Capture States	0
+1559	Farside - 1 - Water Drill - Q7740/Q7741 - HCon	0
+1561	Platform Appear - Housing - Dungeon - ATL - HCon	0
+1562	Q7847 - Nitrofen Ice Storm - Halon Ring - 2 - WK	0
+1563	Settler Guard teleport	0
+1564	Q7799 - Malfunctioning Workbot - Sparks	0
+1565	Q7845 - Default Sleep - Halon Ring - 2 - WK	0
+1566	Terrenite - Tract 2 - Auroria	0
+1567	Q7856_OoozeActionSet	0
+1568	Q7319 - Poison Gas Cloud	0
+1569	q7942/8008 - pell loop (inf) - twh	0
+1570	Q7763 - Toria Clone Spawn	0
+1571	Sniper Aim/Teleport - Q7827 Q2828 Halon Ring - 2	0
+1572	Deradune - 3 - Q5905 - State_Dead_02	0
+1573	Deradune - 3 - Q5905 - State_Dead_03	0
+1574	Suit Power Spark	0
+1575	Corpse Blood Decal Add	0
+1576	Q7841 - Starting Graffiti - Halon Ring - 2 - WK	0
+1577	Sleeping Ekose - Q7841 - Halon Ring - 2 - WK	0
+1578	Darkspur Lifter Barrels - Halon Ring - 2 - WK	0
+1579	Q7798 - Default Run - Protostar on Treadmill	0
+1580	Protostar Generator - Settler Minf - JGP	0
+1581	q7926 - damaged scanbot action set - twh	0
+1582	Nova Blossom Pollen	0
+1583	e329 - Flame Wall - Hazard - Skullcano	0
+1584	q7924 - on birth teleport FX - twh	0
+1585	Arriving Shipment - AdvWhitevale (WitS-SPB)	0
+1586	Tar_Explosion_BLU (infinite) base - LM	0
+1587	e329 - Lava Orb - Hazard - Skullcano	0
+1588	Auroria - T2 - m1309 Mission Starter	0
+1589	Corruption Test - ALT	0
+1590	Celestion Tract 1 - Stumpkin FX	0
+1591	Sting - Buzzbing - Zone Boss	0
+1592	Celestion Firework Display	0
+1593	Celestion Tract 1 Malverine Spawn in	0
+1594	Celestion Tract 1 Yeti Spawn in	0
+1595	Farside - T1 - m2269 - Jungle Glider Scan Data	0
+1596	Farside - T1 - m2269 - Happy Jungle Drifter	0
+1597	Q7754 - Corruption Test - MB	0
+1598	M2263 - Nitrofen Anomaly - halon Ring - 2 - WK	0
+1599	M2265 - Glowstalk Feeder - Halon Ring - 2 - WK	0
+1601	Q7905 - Soulrot Gas Cloud	0
+1602	M1332 - Pollen Cloud - Power Map Traveller	0
+1603	M2281 - Snow Effects - Halon Ring - Tract 2 - KMS	0
+1604	M1332 - Pollen Spore - Power Map Collectible	0
+1605	Strain Corruption - Grimvault	0
+1606	Medic - Vortex Probe	0
+1607	BannerBurning_FlameFX	0
+1608	M2299 - Warphole Vortex - Halon Ring - T2 - KMS	0
+1610	Hologram Base - Small - Any	0
+1611	M2299 - Vortex Visuals 2	0
+1612	Pell Treasure Hunter Gold Pack State	0
+1613	Frozen Mine - Ikthian Warbot Summon	0
+1614	Grimvault - Striketeam Sniper - JBN	0
+1615	Flamespawn - Fire Elemental Summon	0
+1616	Q7849 - Fuel Booster - Halon Ring - 2 - WK	0
+1617	M2307 - Sensor Bot - Halon Ring - Tract 2 - KMS	0
+1618	Settler - Power Base - JGP	0
+1620	Hycrest - Citizens Celebrate Statue Ceremony -TDG	0
+1621	Bomb_And_Chain_Bomb_Sparks	0
+1622	Generic Hologram Shader	0
+1623	Housing - 1x2 Spiderland - Egg Goo Birth - JAP	0
+1624	Sting - Buzzbing Boss - Buzzbing Hive	0
+1625	Hycrest Governor Aluviel - PostExecution - TDG	0
+1626	NPC Stealth	0
+1627	Preserved Splorg - Green - Halon Ring - 2 - WK	0
+1628	M2279_EggOozeDeath	0
+1629	M2307 - Invisible Unit - Sensor Bot Gib FX - KMS	0
+1630	M2307 - Reward Buff Cloud	0
+1631	Grimvault - Ch690 - Visual - JBN	0
+1632	Working - KneelUse to StandUse Loop - TDG	0
+1634	charging firewalker steward- action set - twh	0
+1635	Skuttle Mine - Withdrawn OnBirth	0
+1636	M1686 - Incantations of the Flow - Water Devil	0
+1637	Q7814 - Belle Captured - Halon Ring - 2 - WK	0
+1638	Belle Walker - Wounded - Halon Ring	0
+1639	Q7824/Q7825 orange glow	0
+1640		0
+1641	Teleport In/Out Yellow -  Halon Ring - 2 - WK	0
+1642	Lucent's Outfit - Farside - 1 - HCon	0
+1643	Krogg - Vox Strongblock - Shout - Q5392 - TDG	0
+1644	Auroria - Tract 3 - Terminite Egg Visual	0
+1646	Q7829, Q7830 Water spout Lightning	0
+1647	Q7835 - Kain's Bike - Halon Ring - 2 - WK	0
+1648	Lock-Bot - Settler Prop	0
+1649	Q7801 - Pulp-Gulp Visuals - Halon Ring - T2 - KMS	0
+1650	Dead Rock Maximum Security Draken Guard - TDG	0
+1651	Q7831, Q7832 Swimming Anim	0
+1652	Q7831, Q7832 Human Swimming	0
+1653	Q7831, Q7832 - Water splash	0
+1654	Farside - 1 - Holo Creatures - HCon	0
+1655	Quest Item Placement Marker + Shader	0
+1656	Generic - Default_Emote_Cheer_Loop	0
+1657	Q7782 Surface corruption burning visuals	0
+1658	M1319 - Whitevale - Forcefield	0
+1659	Q5891 and Q5892 - Incubating Ikthians - KMS	0
+1660	Q7835 - Kain's Logs - Halon Ring - 2 - WK	0
+1662	Fire_Ground_wDecal_5m_RED	0
+1665	frostbitten teleporter action set - twh	0
+1666	Big Fire - Whitevale Adventure	0
+1667	Q5024_RottenRoan_DagunAnims	0
+1668	Q7813 Augmenation Victim - Halon Ring -2 - WK	0
+1669	PE369 - Stealth In - Whitevale Adventure	0
+1670	Q7814 - Belle Teleport Out Unit - Halon Ring - 2	0
+1671	Q4109 - Bore Drill 1 - Action Set	0
+1672	Q4109 - Bore Drill 2 - Action Set	0
+1673	Q4109 - Bore Drill 3 - Action Set	0
+1674	Wilderrun - Kel Ulgar War Drum	0
+1675	elemental condenser - q7925/8000 - twh	0
+1676	Illium Flavor - Sniper Ready	0
+1677	Luminous Gardens - Hologram Effect - TDG	0
+1678	Illium Human Bench Sit	0
+1679	Illium Mechari Bench Sit	0
+1680	Illium - Drinker - SoldierMesshall - WithDelay	0
+1683	Jabbit Invader	0
+1684	Illium - Carrying Crate	0
+1685	Illium - Bored Pilots - Flavor - RR	0
+1686	PE370 - Holobust (Flavor) - Illium - FA	0
+1687	e483 - Tremor Aura - Skash - Torine Sanctuary	0
+1688	Platform Despawning - H Dungeon - HCon	0
+1689	Geargrinders Transformer - Whitevale Adventure	0
+1690	Shovel Farmer - Arvina - TDG	0
+1691	Esper - Focus Point	0
+1692	Esper - Health Orb	0
+1693	Esper Pet Shader - Healer	0
+1694	GENERIC - Posed_Human_M Racer	0
+1695	Q7820, Q7821 Ikthian Extractor - Halon Ring - T2	0
+1696	Drilldozer Debris - Crimson Isle - JGP	0
+1698	Poison Aura FX	0
+1699	Pre-Plagued Greenfield Farmhand  - TDG	0
+1700	M1887 - Cyclone - Deradune	0
+1701	Caboose - Reference Handle	0
+1703	Zapper Patrol - Auroria Telegraph Version 2	0
+1704	Whitevale Adventure - Companionbot	0
+1705	Deathbringer Kala - Dropped Sword	0
+1706	Halon Ring-Tract 2-No Dice Summoned-DJU	0
+1707	Makaza Lady Sit_01	0
+1708	Reformed Bot Birth	0
+1709	Q7850 - Cheer OnBirth w/delay - Halon Ring - 2	0
+1710	Whitevale - T2 - m881 - Drill Bot FX (Success)	0
+1711	Wilderrun - 1 - Q6369 - Heal_Aura_M	0
+1712	Halon Ring - Tract 1 - A2627 - Star Entity - DJU	0
+1713	Freya the Handmaiden - Dropped Sword	0
+1714	[SETTLER T1] Buff_Resist_OT_WTE	0
+1715	[SETTLER T2] Buff_Resist_OT_WTE	0
+1716	[SETTLER T3] Buff_Resist_OT_WTE	0
+1717	M1322 - Biting Boulders - Titanium Ore Glow	0
+1718	PRP_Sign_Pod_Teleport_002.m3 (Base) [Infinite]	0
+1719	Stealth Shader - Delay 1s	0
+1720	OT_Aura_Light_RED.m3 (Base) [Inf] (Size 0.33)	0
+1721	Illium Settler Teleport Pad VFX	0
+1722	Illium - Spaceport - Cargo Lifter	0
+1723	Terminite Queen Burn	0
+1724	Illium - Spaceport - Cargo Lifter 2	0
+1725	Illium - Spaceport - Cargo Lifter 3 Sparks - TDG	0
+1726	PRP_Jar_AurinFlowerPot_PinkBrown_001 (Head) [Inf]	0
+1729	Auroria - T3 - Nature Cameras	0
+1730	Whitevale Tract 2 Aura Red	0
+1731	Dracus - Birth anim	0
+1734	Bride Kamala Wedding Flowers n Hat - Whitevale T3	0
+1735	Groom Dawa Wedding Hat - Whitevale T3	0
+1736	Groom Dawa Hat and Dance - Whitevale T3	0
+1737	Bride Kamala Hat and Dance - Whitevale T3	0
+1739	e489 - Ghost Shader - Selene - Torine Sanctuary	0
+1740	Ondu - Root Phase - Invis Unit	0
+1741	Base_BB_GhostWTE	0
+1742	Merchant Crate - Extorion - Whitevale Adventure	0
+1743	Corrupt Vending Machine - Boss - Protostar - KMS	0
+1744	Permanent Holographic Shader - All States	0
+1745	M1946 - Spectral Essence - Ghost Shader	0
+1746	Q7174 - Vinos Captive Kneeling Hands Behind Back	0
+1747	Firey Glory Birth - TDG	0
+1749	Q8364 - Water Ruptures - Dreadmoor - Tract 1 - WK	0
+1750	Generic Hologram Shader - Red	0
+1751	Whitevale Adventure - Police Flashlight	0
+1752	Q8360 - Groundthumper Dirt Cloud - Dreadmoor - 1	0
+1753	PE286 - Freebot - AdvWhitevale (WitS-SPA)	0
+1754	PE286 - Protostar Bot - AdvWhitevale (WitS-SPA)	0
+1755	PhantasmalMeadow_GhostActionSet_STH	0
+1757	Big Fire - Grimvault T1E3 - MLB	0
+1758	e480 - Life Pool - Ondu - Torine Sanctuary	0
+1759	Q8408 Hologram Base Medium Any [Infinite]	0
+1760	Grimvault - Exanite Glow - Q8155 - JBN	0
+1761	Dreadmoor - Tract 1 - Q8383 - Jar VFX - DJU	0
+1763	Generic - Default_Sleep	0
+1764	Dreadmoor - Tract 1 - Q8379 - Empty Jar VFX - DJU	0
+1765	Grimvault - T2 - Corruption - JBN	0
+1766	Grimvault - T2 - Corruption Spewing - JBN	0
+1767	Q8502 - Grub Zapper - Dreadmoor T2	0
+1768	Grimvault - T2 - Corruption Capsule - JBN	0
+1769	Ravenous Spawn - spawn anim	0
+1770	Generic - Eyes Glow - EyeGlow_RED_Small +PPLSmoke	0
+1771	Generic - Eyes Glow Blue - EyeGlow_BLU_large	0
+1772	Generic - Eyes Glow Blue - EyeGlow_BLU_small	0
+1773	Shiny Vind State - Housing Plugs - BFS	0
+1774	Q8415 Dreg Trophies - Kurg - Dreadmoor t1	0
+1775	Generic Hologram Shader - Red (No Baseholo)	0
+1776	Housing - 1x1 Ikthian Flying Saucer - Beam- VTD	0
+1777	Stinky Visual	0
+1778	Blushing Lopp Lover	0
+1779	Slime Covered Treasure Death - C739	0
+1780	C742 - Gravestone Effects	0
+1781	Housing - Dancefloor - Cage Dancers	0
+1782	C742_GhostActionSet_RR	0
+1783	Housing - Dancefloor - Lopp Cage Dancer	0
+1784	Q8440_BeaconFX	0
+1785	q8218 - corruption source action set - twh	0
+1786	Ghost Field (FX-Misc01) [Infinite] (Sized Up)	0
+1787	Fire_Ground_wDecal_08m_RED - Infinite 2x - Q7162	0
+1788	Fire_Ground_wDecal_08m_RED - Infinite 2x - Q7162s	0
+1789	Q8260 - Ghosting - DWS	0
+1790	Garr Bait - Camera Stand	0
+1791	Q8446_HologramSmall_Dance_LoppQ	0
+1792	Smoking Cryopod w Cryopod - Grimvault T1E3 - MLB1	0
+1793	Generic Holographic Shader All States w/Birth	0
+1794	Smoking Transport Ship - Grimvault T1E3 - MLB	0
+1795	Dreadmoor - Tract 1 - Q8389 - Arm VFX-DJU	0
+1797	Drowned Chua - Dreadmoor - Tract 1 - WK	0
+1798	Q8400 - Smoke Billow - Dreadmoor - Tract 1 - WK	0
+1799	Q8449_ApparitionCleansingStationField	0
+1800	Q8453 - Wounded Aurin - DY	0
+1802	Q8396 - Turret Fire - Dreadmoor - Tract 1 - WK	0
+1803	Q8398 - Mortar w/Delay - Dreadmoor - T1 - WK	0
+1804	Disco Lights - Malgrave - 1 - Q7154 - RBG	0
+1805	Dreadmoor T1 - Rotflesh Dreg Projections	0
+1807	M2044 - Spider Egg	0
+1808	Dreadmoor - 2 - Chemical Gas	0
+1809	M2044 - Venom Gland - Poison FX	0
+1810	m1963 - Treasure Lopp Dance	0
+1811	Coralus - Trap Engaged - Q8259 - DWS	0
+1813	Coralus - Trap Flavor - Q8259 - DWS	0
+1814	e483 - Swarmling Birth - Skash - Torine Sanctuary	0
+1815	Stealth Shader - Delay 2.5s	0
+1816	Death Override - Bride of Osiric - Q7411	0
+1817	Purple Palm Pollen	0
+1818	T8526 - Blue Spore Aura - Mushroom	0
+1819	Q7370 - Flameseeker Prophet	0
+1822	Gloomthorn Staff - Dreadmoor - Tract 1 - WK	0
+1823	M2595 Eldan Projection	0
+1824	e483 - Corruption Siphon - Skash	0
+1825	M2060 - Skulking Skitterer - Birth	0
+1826	M2060 - Skulking Shootbot - Birth	0
+1827	M2060 - Skulking Scaleform - Birth	0
+1828	Fire - Coralus 1 Q8265 - DWS	0
+1829	Dreadmoor - Tract 1 - Taxi VFX - DJU	0
+1830	C43099 - Xenobite Queen + Electricity	0
+1833	Grimvault - Vorion spawn in - JBN	0
+1834	M2680 - DotsSpraydown - Dreadmoor - Tract 1 - WK	0
+1836	Extortion Crates - Whitevale Adventure	0
+1837	Q8208	0
+1838	Q8607 - Murkmire - 1 - Snowflake Effect - HCon	0
+1839	Q8607 - Murkmire - 1 - Snowburst Effect - HCon	0
+1840	corrupted jar - action set - twh	0
+1841	Dreg - Blue Lightning Arc Infuse_TriShock -DWS	0
+1842	Q8222 Holo-News Anchor [Infinite]	0
+1843	M2556 - Swampsnake Speeder - Dreadmoor - T1 - KMS	0
+1844	M2556 - Buff Cloud - Dreadmoor - T1 - KMS	0
+1845	Protostar Signage Teleport	0
+1846	Eldan Power - Farside Tract 1 - Raw Scan	0
+1847	Primal Essence of Fire [CHEST]	0
+1848	Primal Essence of Water [CHEST]	0
+1849	Primal Essence of Earth [CHEST]	0
+1850	Primal Essence of Air [CHEST]	0
+1851	Primal Essence of Logic [CHEST]	0
+1852	Primal Essence of Life [CHEST]	0
+1853	Torine Sanctuary - Selene - Darkness Effigy	0
+1854	Coralus - 1 - E3 - Default_Emote_Eat_Loop - TDG	0
+1855	Coralus - 1 - E3 - KnockBackTo_Ground - TDG	0
+1856	Coralus - 1 - E3 - Esper_Cast_Loop_07 - TDG	0
+1857	Coralus - 1 - E3 - NPCTelegraph_Loop_06 - TDG	0
+1858	Coralus - 1 - E3 - 2H_Block_Loop - TDG	0
+1859	Eldan Bot Spawner	0
+1860	W1627 - Asteroid Thruster	0
+1861	Primal Essence of Fire [FX_MISC01]	0
+1862	Primal Essence of Water [FX_MISC01]	0
+1863	Primal Essence of Earth [FX_MISC01]	0
+1864	Primal Essence of Air [FX_MISC01]	0
+1865	Primal Essence of Logic [FX_MISC01]	0
+1866	Primal Essence of Life [FX_MISC01]	0
+1867	Q8377 - Bot sparks	0
+1868	T8456 - Bubble Helm	0
+1869	W1627 - Asteroid Thruster Explosion	0
+1870	Dreadmoor - Tract 1-Q8395-Communicator Sparks-DJU	0
+1871	Grimvault - Caretaker spawn - JBN	0
+1872	Q8517 - Reapwood Sniper	0
+1873	Coralus - 1 - E3 - Friendly Torine Blade - TDG	0
+1874	Q5063 - Mr. Wiggles Sneezing Flavor	0
+1877	Q8404 - State_Wounded_Ground [Infinite]	0
+1879	q7942/8008 - 2s delay action set - twh	0
+1881	Permanent Holographic Shader (Green) - All States	0
+1882	Power Core Globe	0
+1883	Dreadmoor-Tract 1-Q8392-Gastree Fog-DJU	0
+1884	Q8596 - Coralus 1 - Probe Bot Flavor - DWS	0
+1885	Carrying Crate - Farside T1	0
+1886	Virtue's Landing Lift  - Farside Flavor	0
+1887	M2226 - Explosion	0
+1888	Q8372 - Primal Scanner quick	0
+1889	Esper Pet - Northern Wilds Adv	0
+1890	NWADV - Green Fire	0
+1891	Q8484 - Skeleton Friends Floating - TDG	0
+1892	Torine Sanctuary - Selene - Shade Prison	0
+1893	Q7856 and Q7857_ScanBot	0
+1894	Q8484 - Skeleton Friends Shamon Shamoning - TDG	0
+1895	Zero-G Gate Visual Pop	0
+1896	Generic - Spawn Teleport In	0
+1897	Q8484 - Summoner Summoning - TDG	0
+1898	Generic - Default_Swim_Stand - Infinite	0
+1899	Banespore - Action Set	0
+1900	W1627 - Pressure Valve	0
+1901	Farside - Augmented Stemdragon birth - JBN	0
+1902	Q8374 - Caged Pell - Block [Infinite]	0
+1903	Dreadmoor - Tract 1 - Swamp- Horse Vignette - DJU	0
+1904	Farside - Steam vents - Found Encounter - JBN	0
+1905	Landmine Tracer - Galeras Adventure	0
+1906	Damaged Maintenance Bot - Farside Tract 2.2 - BB4	0
+1907	Bunker Buster - Galeras Adventure	0
+1909	Derelict Bot - Farside Tract 2.2 - BB4	0
+1910	Derelict Augmentor - Farside Tract 2.2 - BB4	0
+1911	Q8358 Seismic Scan Node - Dreadmoor - T1 - WK	0
+1912	Q8358 - Seismic Scanner - Dreadmoor - T1 - WK	0
+1913	Q8374 - Caged Pell - Stunned [Infinite]	0
+1914	Q8372 - Primal Earth Energy	0
+1915	Farside - T1 - m2269 - Inactive Visual Creatures	0
+1916	Q8363 - Bog Giant - Dreadmoor - Tract 1 - WK	0
+1917	Q8364 - Teleport In/ Use - Dreadmoor - T1 - WK	0
+1918	TEST - UI - Soldier Holdout Defend - Target	0
+1919	Farside - T1 - m2269 - Creature Traveler	0
+1920	Swimming Chua - Dreadmoor - Tract 1 - KMS	0
+1921	Q8364 - Burnt Banners - Dreadmoor - T1 - WK	0
+1922	W1627 - Trash Crawler (Probebot) Spawns	0
+1923	Q8364 - Burnt Chua Corpse - Dreadmoor - T1 - WK	0
+1924	e393_Datascape_Gloomclaw	0
+1925	Q8364 - Teleport In/Channel - Dreadmoor - T1 - WK	0
+1926	Q7212 - HologramBase_Aura_FX small	0
+1927	Farside T1 - Settler Payoff Teleporters	0
+1929	Farside - T1 - m2274 - Primatologist Idles	0
+1930	Firebreather_Fire_FX	0
+1931	Explorer Trampoline Spawn	0
+1933	q7942/8008 - 4s delay action set - twh	0
+1934	Q6431 - Protostar Employees - Farside T2 - CSC	0
+1935	summoned firewalker cinder action set - twh	0
+1936	M1151 M1161 - Whitevale - T3 - Squirg Mound	0
+1937	Protostar Scannerbot Spawn	0
+1938	q7927/8002 - charge target action set - twh	0
+1939	DRED Shock Collar	0
+1941	Deadly Accoustics Aura	0
+1943	Tank - Random Attack - Dreadmoor - T1 - WK	0
+1944	Umberblade Tank 2 - Dreadmoor - T1 - WK	0
+1945	Canimid Whack-A-Mole Burrow Up	0
+1946	Farside - T1 - m2315 - Collectable Particle FX	0
+1948	Repro case action set	0
+1949	PE221 - Ravenous Corpse - Dreadmoor - T1 - WK	0
+1950	Researcher Tube - Green Prison - ARY	0
+1951	Farside - T1 - m2288/m2315 - Drybone Mauler vFX	0
+1952	Dreadmoor-Tract 1-Settler Scout-Explosives-DJU	0
+1953	Dreadmoor-Tract 1-Settler Scout-No Explosives-DJU	0
+1954	Farside - 1 - Failed Drill - Q7740/Q7741 - HCon	0
+1956	Water Elemental Spawner FX	0
+1957	Farside Trooper Vignette - Farside Tract 2	0
+1958	Q7877_AirCoolingUnit	0
+1959	Truthbound Fanboys - Q5398 - Random Cheer	0
+1960	PE221 - Invasion Clouds - Celestion - T3 - WK	0
+1962	CH745 - Adbduction Beam	0
+1963	Settler Scout Cloud - JGP	0
+1964	Farside - T1 - m2331 - Surveillance Bot Spawn FX	0
+1965	Farside T2 -  Protostar Teleport	0
+1966	Flavor Bone Cage Trap FX	0
+1967	Stasis/Shock - Augment/Clone - Celestion - T2 -WK	0
+1968	Envelop Nature Birth/Death - Celestion - T2 - WK	0
+1970	Teleporter - Farside Tract 2 - Ch923 - MBC	0
+1971	Celestion - T1 - Necro Creatures - Medium - KMS	0
+1972	Faulty Teleporter - Farside Tract 2 - Ch923 - MBC	0
+1973	RegIS Corporate Vendor - Human Female Hologram	0
+1974	Q8505 - Nature Dissolve - RR	0
+1975	Farside - Burning Meteorites - JBN	0
+1976	Q7876_ElectricRod_VFX	0
+1977	Beach Bum Draken Sit	0
+1978	Beach bum Mordesh	0
+1979	Farside - 1 - Life Mote - HCon	0
+1980	e322 - Thunderfoot Music - Skullcano	0
+1981	e323 - Bosun Octog Music - Skullcano	0
+1982	e324 - Mordechai Redmoon Music - Skullcano	0
+1983	CH952/954 - Fire Motes - HCon	0
+1984	PE367 - Protostar Special Delivery - AdvWhitevale	0
+1985	Coralus - 1 - Sandcastler Tenzin - ActnSet - TDG	0
+1986	Dock Construction	0
+1987	Crimson Isle - Q6232 - Resourceful Chua	0
+1988	Q5374 - Fire_Ground_wDecal_5m_RED w/ Smoke Billow	0
+1989	Celestion - Tract 2 - Q6982 - Ground Decal - DJU	0
+1990	Q5263 - Stealth Shader - DWS	0
+1991	Q8759 - Confetti - Celestion - T2	0
+1993	Canimid Whack-a-Mole Burrow Up	0
+1994	Esper Boss (Projection) - Galeras Adventure	0
+1995	Q5707/Q5727 - Fallen Jetpack Trooper - Whitevale	0
+1996	SleepingStanding	0
+1997	Engineer Trap	0
+1999	Krag Studrok - Farside Flex	0
+2000	Dead Soldier Shock Vignette - Whitevale Tract 3.2	0
+2001	Medic Shock Vignette - Whitevale Tract 3.2	0
+2002	Illium - Imperium Transport Flying - TDG	0
+2003	ShockPaddles_Ready [Infinite]	0
+2004	Farside 1 - Dominion Firefighter Action Set - MRD	0
+2006	Generic - Infinite - Default Cower	0
+2007	[DS] Reality Portal FX	0
+2008	Farside 1 - Dominion Firefighter Jetpack - MRD	0
+2009	Farside - 1 - Q8778 Kurg - HCon	0
+2010	Void Stinger Tether	0
+2011	M1864 - Celestion - T3E1 - Darkwhisper Jabbit	0
+2012	FarsideT1-TourTaxi_DOMINION_PILOT	0
+2013	FarsideT1-TourTaxi_EXILE_PILOT	0
+2015	Default_Hover_Walk [Infinite] (High Priority)	0
+2016	W2149_Bloody Fork Board_Run(7553)	0
+2017	Everstar Grove - Elderoot Failed Experiment - AKS	0
+2018	W2149 - Fork in the Eye - TDG	0
+2019	W2149 - Bubbling Personality - TDG	0
+2020	e1573 - Volume Effects Unit - StormtalonEvent	0
+2021	Attack Ship - Galeras Adv	0
+2022	Generic Hologram Shader - Blue - MRD	0
+2023	Housing - 1x2 Prospector Plug - Gold FX - BEAX	0
+2024	W2149 - Bloody Eyes - TDG	0
+2025	Q7331 Q7332 - Ultrabot Activation - MLB	0
+2026	Farside - 1 - Bio-Dome 4 Scientist Typing - MRD	0
+2027	Everstar Grove - Elemental Transformation	0
+2028	W2149 - Whats in My Hand - TDG	0
+2029	W2149 - PE390 - Eyeman - TDG	0
+2030	W2149 - PE390 - LampHead - TDG	0
+2031	W2149 - PE390 - Smoke Monster FX - TDG	0
+2032	servitor charging station - action set - twh	0
+2033	s44791 Buzzbing Spawned	0
+2034	W2149 - PE390 - Eye Floating - TDG	0
+2035	Orbital Strike - Whitevale - T3 - M1110/1121	0
+2036	W2149 - PE390 - Tentacle Chest - TDG	0
+2037	W2149 - PE390 - Fish_Missle - TDG	0
+2038	Broken Scanner Bot - Flavor - ARY	0
+2039	Ghost - DY	0
+2040	Nature Despawn	0
+2042	Halon Ring - T1 - Necro Creatures - Medium - KMS	0
+2043	Ellevar - Drill Idle - MBC	0
+2044	W2149 - PE390 - Riding Ball - TDG	0
+2046	Everstar Grove - Burning Ground	0
+2047	W2149 - PE390 - Fireman - CM1	0
+2048	W2149 - PE390 - Venture Balloonman - TDG	0
+2049	Q6283 - Holdout Circle	0
+2050	Q6365 - Halonzoa Pollen - Halon Ring - T1 - WK	0
+2051	W2149 - Venture Spiderman - TDG	0
+2052	W2149 - PE390 - Spider And Eggs - CM1	0
+2053	W2149 - PE390 - Invalid Crewman - TDG	0
+2054	W2149 - PE390 - Angry Flowerpot - TDG	0
+2055	EverstarGrove - Poison Gas Action Set - DEN1	0
+2056	W2149 - PE390 - Masked Spider - TDG	0
+2057	Farside - 1 - Generic Hologram Shader - Red - MRD	0
+2058	Everstar-Q6308 - Feritle Ground Action Set - DEN1	0
+2059	Shiphand - W2149 PE390 - Shadow Wave 4 - KLW	0
+2060	Everstar Grove - Life Elemental Birth Animation	0
+2061	W2149 - SH: Space Madness - Butterflies - LST	0
+2062	W2149 - SH: Space Madness - Fairy Dust - LST	0
+2063	W2149 - PE390 - Beverage Swarm - CM1	0
+2064	W2149 - SH: Space Madness - Tongue Wall - LST	0
+2065	W2149 - SH: Space Madness - Tongue Floor - LST	0
+2066	W2149 - SH: Space Madness - Jabbit Hat - LST	0
+2067	W2149 - SH: Space Madness - Dawngrazer Hat - LST	0
+2068	Everstar Grove - Elderoot Failed Exp02 - AKS	0
+2069	Q6328 Ghostly Trail - Halon Ring - T1 - WK	0
+2070	Q6328 Ghost/Sleeping	0
+2071	Shiny Fever - Halon Ring - Tract 1 - WK	0
+2072	Pollen Mine	0
+2073	Health Boost - Q5535/Q5722 - Whitevale Tract 3.2	0
+2074	Ship_Landing_01, Ship_Fly_Idle, Ship_Takeoff_01	0
+2075	W2149 - Space Madness - Dawngrazer - LST	0
+2076	Enslaved Probe	0
+2077	Bot Head on Pile o Scrap - TDG	0
+2078	Malgrave 1 -  Redsand - Aggressive Arachnid - SPB	0
+2080	Blob - Whitevale - T3 - Assassinate - JBN	0
+2081	Summoned Eldan Probebot (Unleash Probebot)	0
+2082	OnBirth - AP_State3_State0	0
+2083	W2149 - SH: Space Madness - Death Sigils - LST	0
+2084	W2149 - SH: Space Madness - Pollen - LST	0
+2085	Creeping Crawler Spawn - Burst	0
+2086	Celestion - T3 - m1838 - LifeBuff vfx	0
+2087	W2149 - PE390 - Stuck in Vent - TDG	0
+2088	Vengeful Mender - Q6306 - Blue Waves/Cast_Act_Up	0
+2089	W2149 - PE390 - Camera Eye - TDG	0
+2090	W2149 - PE390 - Sparkles The AlarmLight - TDG	0
+2091	Scout Bivouac - Settler Scout PROP	0
+2092	EverstarGrove - Bee Swarn	0
+2093	Hand in Tar - Whitevale - T3 - M3047/3048	0
+2094	Malgrave 1 - Beachgoer cheering - SPB	0
+2096	W2149 - PE390 - Mr Sparkles - TDG	0
+2097	Samu-Samu Robot Minion	0
+2098	Malgrave 1 - Human Male Point and flex - SPB	0
+2099	Malgrave 1 - Human Female laugh and No - SPB	0
+2100	Malgrave 1 - Human Male Shout and Cheer - SPB	0
+2101	Malgrave 1 - cheer and cheer - SPB	0
+2102	The Weave - MXP	0
+2103	Malgrave 1 - Clap and Pause - SPB	0
+2104	Malgrave 1 - Drink and sit - SPB	0
+2105	W2149 - Garr_VomitDecal_90d_10mR_GRN_9 - LST	0
+2106	W2149 - Shadow_Base_NoDecal_PPL - LST	0
+2107	Draken male - applaud, cheer, cry - SPB	0
+2108	Varill Longwood Hologram - Whitevale T3 - MBC	0
+2109	W2149 - PE390 - Eyeman - TDG	0
+2110	Q6283 and Q6506 - Triangulator Spawn in	0
+2111	Q6328 Ghost Shader/Shiny Fever - Halon Ring - T1	0
+2112	Malgrave - PC - Holo Depot - HCon	0
+2113	Malgrave - PC - Depot Rez In - HCon	0
+2114	W2149 - PE390 - Evil Oxygen Tank - CM1	0
+2115	W2149 - PE390 - Venture Websack - TDG	0
+2116	Dracus - Burrow Up	0
+2117	Downed Drill Fake Attacks - Everstar Grove	0
+2118	Malgrave 1 - get up and fall down - SPB	0
+2119	Malgrave 1 - Punching Human - SPB	0
+2120	Malgrave - PC - Drop Pod - HCon	0
+2121	Q8813 Grave Dig	0
+2122	W2149 - PE390 - Abusive Alcohol - TDG	0
+2123	W2149 - Fire Establisher - CM1	0
+2124	Q8813 Ghosts	0
+2125	Malgrave - PC - Exile - Heat - HCon	0
+2126	Malgrave PC - Dominion S1 - Sand Particles - MRD	0
+2127	Fezar Hologram - Whitevale T3 - MBC	0
+2128	W2149 - Shower Water - CM1	0
+2129	W2149 - Shower Water_brn - CM1	0
+2130	W2149 - Shower Magic - CM1	0
+2131	W2149 - PE390 - Fire Nightmare - dws	0
+2132	Halon Ring-Tract 2-Q7799-Drilldriver Sparks-DJU	0
+2133	W2149 - PE390 - Crazed Behavior - TDG	0
+2135	W2149 - Space Madness - Spectral Effect - LST	0
+2136	W2149 - PE390 - Flashlight Visuals - TDG	0
+2137	W2149 - Space Madness - Phase 3 Shader - LST	0
+2138	Severed Cable - Galeras - MBC	0
+2139	W2149 - Shower Blood - CM1	0
+2140	Drunk_01_YLW  and Mouth_Ooze_GRN (Any)	0
+2141	W2149 - Shower Fire - CM1	0
+2143	e393 - [Datascape] Gloomclaw - Tether Unit	0
+2146	Corrupt Vending Machine - Boss - w2149 - dws	0
+2147	W2149 - PE390 - Starchaser - WeldPoint - TDG	0
+2148	Drunken Stunned Wander - KMS	0
+2149	W2149 - PE390 - Glowstick Visuals - TDG	0
+2150	W2149 - PE390 - Holding Glowstick Visuals - TDG	0
+2151	m2091 Bot Teleport	0
+2152	e393- Datascape Gloomclaw Caretaker	0
+2153	Data Sniffer - Anim	0
+2154	Malgrave PC - Dominion Stage 1 - ScrabBirth - MRD	0
+2155	W2149 - PE390 - Flashlight no anim - TDG	0
+2156	Q7850 Cry - Halon Ring - Tract 2 - WK	0
+2157	W2149 - Hanging Cocoon - CM1	0
+2158	Q5610 - Holo Cam Visuals	0
+2159	w2149 - pe390 - WeldBot Underthrust - TDG	0
+2160	NWADV - Teleporter	0
+2161	Standing Use (Loop) [Infinite] - Any/Any - KMS	0
+2162	Shiphand - W2149 PE390 - Fire Wave 2 - KLW	0
+2163	Shiphand - W2149 PE390 - Fire Wave 3/4 - KLW	0
+2164	Shiphand - W2149 PE390 - Fire Wave 5/6 - KLW	0
+2165	W2149 - PE390 - Air Bubbles - TDG	0
+2167	W2149 - PE390 - Air Bubbles - No Anim - TDG	0
+2168	Shocking Hands - Whitevale - PE398 - JBN	0
+2169	Ellevar - T1 - m1690 - Inactive Visual FX	0
+2170	Shock Electorcute Infinite w/ sound	0
+2171	Housing - 1x2 Proto Hazard - GravLift Actn - BEAX	0
+2173	Ellevar - T1 - m1690 - Post Mission vFX	0
+2174	Ellevar - T1 - m1690 - Collectable vFX	0
+2175	Malgrave - PC - Settler Bat Signal - HCon	0
+2176	Ghost + Use Anim - MBC	0
+2177	Microscope Spawn	0
+2178	c28174 Livingroot Grower	0
+2179	Gaze of the Moldwood Model	0
+2180	Halon Ring Nitrofen Fish	0
+2182	Whitevale - PE398 - Smoke - JBN	0
+2183	[DS] Datascape Entry - Teleport VFX OnBirth	0
+2184	Whitevale - PE398 - Sparks - JBN	0
+2185	CH746 - Yeti	0
+2186	Q5860 - Repair Construct Visuals	0
+2187	Coralus - T1 - Exo-Lab XC-01 - Power Beam - CM1	0
+2188	Malgrave PC - Lifter - Flavor - ARY	0
+2189	Q6952 Torine Blade - Celestion T3 - WK	0
+2190	Wilderrun 1 - CH 977 - Holy Sculpture - SPB	0
+2191	Coralus - T1 - Exo-Lab XC-01 - State0 - CM1	0
+2192	Levian Bay - Moving Dominion Soldier Action Set	0
+2194	Malgrave - PC - Settler LRR Fuel Drill Win - HCon	0
+2195	Coralus - 1 - E4 - Hologram Scan - CM1	0
+2196	Hellfire Flame - Galeras Adventure - Hellfire Tan	0
+2197	Malgrave - PC - Settler LRR Failed Drill - HCon	0
+2198	Ch 977  Called Torine 2 - SPB	0
+2199	Q6995 Godwood Primal Life - Celestion - T3	0
+2201	Ch 977  Called Torine 1 - SPB	0
+2203	Q8273 - On birth teleport FX - DWS	0
+2204	Q8596 - Stealth Shader - DWS	0
+2205	e444 - Blood Pit Spectators - Cheering - Male	0
+2206	e444 - Blood Pit Spectators - Cheering - Female	0
+2207	NWADV - Vulnerable Loop	0
+2208	OT_Ghostly_Smoke_02_PPL.m3 (Base) [Infinite] ANY	0
+2209	Squirg Summon	0
+2210	[DS] Holo Cannon - TEMP	0
+2211	Everstar Grove - Q6306 - Livingroot Mender - AKS	0
+2212	Q5859 Security Node Action Set	0
+2213	Q5859 Primary Access Hub Action Set	0
+2214	Exile Arkship Tutorial - Blue Esper Shader - JDT	0
+2215	OT_Esper_Shader_Override_YLW.m3 (Base) [Infinite]	0
+2216	Levian Bay - Skeech Flavor - Attacks - RBG	0
+2217	grancor/grancor's cage action set - twh	0
+2218	Whitevale - PE398 - Megadroid aura	0
+2219	Levian Bay - Skeech Flavor - Drool - RBG	0
+2220	Levian Bay - Skeech Flavor - Poke - RBG	0
+2221	Housing - 1x2 Robot Workshop - Construct - BEAX	0
+2222	Housing - 1x1 Cubig Feed - Bigpig - BEAX	0
+2223	Mordesh Stasis Death Float - Celestion - Tract 3	0
+2224	q8834 - Invisible Unit - FX	0
+2225	Whitevale - T4 - m1320 - Core Sampler Bot Effects	0
+2227	Whitevale - T4 - m1320 - Seismic Monitor FX	0
+2228	NWADV - Running Loop	0
+2229	Incendiary Grenade - Green Fire	0
+2230	Generic - Lopp - Use	0
+2231	Incendiary Grenade - Red Fire	0
+2232	Settler PO - Ellevar T2	0
+2233	Malgrave PC - S1 - Holdout - RootbruteBirth - MRD	0
+2234	Ship_Landing_01, Ship_Fly_Idle, Ship_Takeoff_01	0
+2235	Malgrave PC - Weapon Cache Action Set - MRD	0
+2236	Water Ball Emitter - Scientist Raw Scan	0
+2237	Malgrave PC - Soldier Holdout - Teleport In - MRD	0
+2238	Malgrave PC - Witch Giant Birth - MRD	0
+2239	Malgrave PC - Gorgonoth Birth - MRD	0
+2240	Malgrave PC - Gronyx Birth - MRD	0
+2241	Malgrave PC Stemdragon Birth - MRD	0
+2242	Malgrave PC - Buzzbing Birth - MRD	0
+2243	Malgrave PC - Spider Birth - MRD	0
+2244	Eyewash Dispenser Birth Visual	0
+2245	Malgrave PC - Canimid Birth - MRD	0
+2246	Geyser FX - Scientist Raw Scan	0
+2247	Thayd - Alchemist Maze - Granok Test - TDG	0
+2248	Thayd - Alchemist Maze-Granok Fire Test Paperhold	0
+2250	Default_BikeMount_basepose	0
+2251	Looting	0
+2252	Q6673 Burning	0
+2253	Thayd - Alchemist Maze - Granok Test-Hologram-TDG	0
+2254	Primal Water Generator	0
+2255	Carrying Bomb - Malgrave PC - Flavor - ARY	0
+2256	Thayd - Alchemist Maze - Formulating Granok - TDG	0
+2257	Thayd - Granok Female Point and flex - TDG	0
+2258	Q6593 - Young Hydroguard - Ellevar Tract 1.2	0
+2259	Exile Stasis Field - Crimson Isle	0
+2260	Power Reservoir - Ellevar - T3 - Q8785 - MBC	0
+2261	lakitu lopp - action set - twh	0
+2262	Primal Air Bubble	0
+2263	M1694 - Pygmy Roamer Birth in - Ellevar Tract 1	0
+2264	M1695 - Highland Aloe	0
+2265	M1695 - Highland Aloe - Item FX	0
+2266	Q7539 - Vengeful Mender - Angry FX - AKS	0
+2267	Power Conduit - Ellevar - T3 - Q8785 - MBC	0
+2268	e166 - Featherlight Totem FX - Torine Sanctuary	0
+2269	Generic Hologram Shader - Green (No Baseholo)	0
+2272	Water Ball - Scientist Raw Scan - Item FX	0
+2275	Thayd - DDE Flavor - Lopp Dance - CM1	0
+2276	Thayd - DDE Flavor - Lopp Dance Hologram - CM1	0
+2277	Thayd - Dancing Aurin - CM1	0
+2278	Thayd - DDE Flavor - Aurin Dance Hologram - CM1	0
+2280	Thayd - Alchemist Maze - Study Relic - TDG	0
+2281	Q7212 - Death and HologramBase_Aura_FX small	0
+2282	Explorer Pathfinding Speedboy	0
+2283	Thayd - Red Arrow - CM1	0
+2284	Thayd - Blue Arrow - CM1	0
+2285	Thayd - Yellow Arrow - CM1	0
+2286	Housing - 1x1 Cubig Feed - Cubig Hoverboard- BEAX	0
+2287	Malgrave PC - Exile Soldier Unstealth - MRD	0
+2288	Illium - Toric's Ship - Landing - LST	0
+2289	Illium - Radiant Legion Trainee - Salute - LST	0
+2290	Celestion - Tract 1 - Q6667 - Fear Fetish - DJU	0
+2291	Thayd - Alchemist Maze - Thinking Granok - TDG	0
+2292	Medical Holo - Flavor - ARY	0
+2294	CH 977 - Purified Torine 1 - SPB	0
+2295	W2149 - PE390 - Generic - Glowstick in Hand - TDG	0
+2296	spiny biter action set - malgrave pc - twh	0
+2297	CH 977 - Purified Torine 2 - SPB	0
+2298	Malgrave PC - Dominion - Stage 1-2 - Bike - MRD	0
+2299	Generic_Hover_OGE (FX_Misc01) [Inf] (Sm/Flipped)	0
+2300	W2149 - PE390 - Nightmare Envelop - CM1	0
+2301	Burrowing - Grimvault - T1 - MBC	0
+2302	Invisible Assailant Fire - DEN1	0
+2303	Malgrave - PC - Cooling Vent Visuals - HCon	0
+2304	[DS] e399 - Avatus - Shock Sphere Visual	0
+2305	Invisible Assailant - Water - DEN1	0
+2306	Dominion Speeder Pilot - MRD	0
+2307	[SETTLER-AURA] Protection Field Buff	0
+2308	Malgrave PC - Exile - Stage 1-2 - Bike - MRD	0
+2309	Invisible Assailant - Earth - DEN1	0
+2310	Invisible Assailant - Air - DEN1	0
+2311	Cooling Creature - Visual Trigger - ARY	0
+2312	Hycrest Adventure - Flare	0
+2313	Shiphand - W2149 PE390 - Electric Wave 2 - KLW	0
+2314	Shiphand - W2149 PE390 - Electric Wave 3 - KLW	0
+2315	Shiphand - W2149 PE390 - Electric Wave 5 - KLW	0
+2316	Shiphand - W2149 PE390 - Electric Wave 6 - KLW	0
+2317	Shiphand - W2149 PE390 - Electric Wave 4 - KLW	0
+2318	W2149 PE390 Shorting Surging Cam Bots	0
+2319	e395- [Datascape] Fire Elemental - Asteroid Viz	0
+2320	Patrolling Cankertail - Grimvault - T1E1 - Q7667	0
+2321	Malgrave - PC - Reactor Core Visuals - HCon	0
+2322	Housing - w1895 Creeper Cave - Totem - BEAX	0
+2323	Grevitch the Gruesome - Celestion - T1 - WK	0
+2324	Jetpack - Hycrest Adventure	0
+2325	Celestion - Tract 2 - Teleporter VFX - DJU	0
+2326	Aurin Hunter - Settler IMP	0
+2327	Intestinal Wall Model	0
+2328	chua lead dance	0
+2329	[DS] Spider - Broodling - Burrow_Up	0
+2331	Exile Arkship Tutorial - Sadie on Cot - JDT	0
+2332	Ghost - Q7214 Payoff - RR	0
+2333	Chua Dancer Right	0
+2334	Housing - w1895 Creeper Cave - Shadow Bolt - BEAX	0
+2336	Chua Dancer Left	0
+2338	Celestion - Tract 1 - Q6663 - Shadow VFX - DJU	0
+2339	Bot Spawner Idle - W2173 - RBG	0
+2341	[SETTLER-AURA] Protection Field Buff BLue	0
+2342	Levian Bay - Act 3 - m1364 - Dominion Cannon	0
+2343	Max Health - Settler Buff Machine	0
+2344	Shield Charging - Settler Buffer	0
+2345	Shiphand - W2149 PE390 - Shadow Wave 3 - KLW	0
+2346	Thayd - Draken Prisoner Shock - CM1	0
+2347	Thayd - Sitting Black Hoods Agent	0
+2348	Shiphand - W2149 PE390 - Shadow Wave 2 (H) - KLW	0
+2349	Shiphand - W2149 PE390 - Shadow Wave 5 (S) - KLW	0
+2350	Levian Bay - Act 3 - m1364 - Flavor NPCs	0
+2351	Shiphand - W2149 PE390 - Shadow Wave 2 (B) - KLW	0
+2352	OT_Shadow_Base_PPL.m3 [Inf] (Persist Death)	0
+2353	Aurin Side dancers	0
+2354	W2183 - Gauntlet - Arena 2 - Rocket Yeti - TDG	0
+2355	Ship Misfire - Grimvault - T1E1 - JBN	0
+2356	Shiphand - W2149 PE390 - Shadow Wave 6 - KLW	0
+2357	Aurin Lead Singer	0
+2358	W2183 - Gauntlet - Arena 2 - P Dr Voodoo - TDG	0
+2359	W2183 - Gauntlet - Arena 2 - Championator - TDG	0
+2360	M2466 - Exanite Interactions - CSC	0
+2361	W2183 - Pyro Jetpack - CM1	0
+2362	W2183 - Gauntlet - The Morticianatrix - TDG	0
+2363	Q7003 - Shiny Egg	0
+2364	Strain Mine Birth FX	0
+2365	W2183 - PE446 - Shock King Aura - CM1	0
+2366	Landing Signal - Grimvault - Flavor - Q7663 - JBN	0
+2368	[DS] Avatus - Settler - Wall Tower	0
+2369	Fire Ward Guardian	0
+2370	W2183 - PE446 - Teleport Entry Effect - CM1	0
+2371	Agnesse - Stasis Float - Celestion - T1 -WK	0
+2372	W2183 - Bot Flavor - Arena 2 - DWS	0
+2374	Ghost - Base_BB	0
+2375	Celestion-Tract 2-Q6982-Zeta Agent Sparks-DJU	0
+2376	[DS] Avatus - Settler - Shield Tower	0
+2377	[DS] Avatus - Settler - Attack Tower	0
+2378	Raw Scan - Electric Scrap Effect	0
+2379	Housing - Mayday - Hydra - BEAX	0
+2380	W2183 - Arena 2 - Intro Rocket Yeti - TDG	0
+2381	W2183 - PE446 - Teleport - Goonbot - CM1	0
+2382	W2183 - PE446 - Teleport - Goon Leader - CM1	0
+2383	Everstar Grove - Rootbrute Aware and LeaveCombat	0
+2384	Toxic Spit - Scientist Raw Scan - Item FX	0
+2385	Grimvault - T1E1 - Q7667 - Cower	0
+2386	Everstar Grove - m1528 - Canopy Leaf FX	0
+2387	W2183 - PE446 - Teleport - Goon Brawler - CM1	0
+2388	W2183 - PE446 - Teleport - Goon Medic - CM1	0
+2389	[DS] Avatus - Settler - Tesla Tower	0
+2390	W2183 - Gauntlet Camera Light - CM1	0
+2391	Everstar Dawngrazer - OnBirth and OnExitCombat	0
+2392	M1516 - Thrasher Bramble Seed - Item FX	0
+2393	Enraged Guardian - CombatExit - Nature Despawn	0
+2394	[DS] Settler Tower Part FX BLU	0
+2395	[DS] Settler Tower Part FX GLD	0
+2396	W2183 - PE446 - Teleport - Shock King - CM1	0
+2397	W2183 - PE446 - Teleport - Slice - CM1	0
+2398	W2183 - PE446 - Teleport - Dice - CM1	0
+2399	[DS] Avatus - Holo Cannon	0
+2400	Warm Radiation - S2 - ARY	0
+2401	W2183 - PE446 - Teleport - Maniac - CM1	0
+2402	W2173 Tornado hazard	0
+2403	ESPer Reap	0
+2404	M218 - Loftite - Item FX Small Loftite	0
+2405	M218 - Loftite - Item FX Loftite	0
+2406	M218 - Loftite - Item FX Large Loftite	0
+2407	Generic Hologram Shader - Blue	0
+2408	Loftite Filled Cryopod	0
+2409	W2173 Ice Spike hazard	0
+2410	SpotLight changing colors Action set RVN	0
+2411	Fireworks Stage Grimvault T1 RVN	0
+2412	Wilderrun 1 - Fool's Hope SatCom Tech - SPB	0
+2414	W2173 Caretaker - Deactivate Anim	0
+2415	Q6408 - Pell - laying on back - SPB	0
+2416	Everstar Grove - m1527 - Bee Swarm (half-size)	0
+2417	Everstar Grove - m1527 - Bee Swarm (normal size)	0
+2418	Housing - Mayday - Artaxian Terror - BEAX	0
+2419	Everstar Grove - m1527 - Bee Swarm (on splines)	0
+2420	Elemental Charge Earth - W2173 - Drusera 1 - RBG	0
+2421	W2173 Fire hazard	0
+2422	Housing - Mayday - Hydra End - BEAX	0
+2423	M2133 Datachron On	0
+2424	w2173 - Beam Target	0
+2425	W2183 - PE446 - Gauntlet Hologram Shader (Blue)	0
+2426	Exile Arkship Tutorial - Mechari Stealth - JDT	0
+2427	Malgrave PC - Stage 2 - Exposed Wire Spark - MRD	0
+2428	Elemental Charge Fire - W2173 - Drusera 1 - RBG	0
+2429	Elemental Charge Air - W2173 - Drusera 1 - RBG	0
+2430	Elemental Charge Water - W2173 - Drusera 1 - RBG	0
+2431	Elemental Charge Logic - W2173 - Drusera 1 - RBG	0
+2432	Elemental Charge Life - W2173 - Drusera 1 - RBG	0
+2433	W2173 Air Water Effects	0
+2434	Exile Arkship Tutorial - Draken Teleporters - LST	0
+2435	HologramBase_Aura_FX - MRD	0
+2436	Generic Hologram Shader - Red - Scale 6.5 - MRD	0
+2437	Rez In - BLU	0
+2438	M1632 - Rootbrute burrow up	0
+2439	Explosion Chua Dance RVN	0
+2441	PO1849 - PE447 - Self Destruct Sparks - VEW	0
+2442	CS_Gun_LightBlast_BLE.m3 (Base) [Inf] (Size 2)	0
+2443	Lightreach Patron Fruit	0
+2444	Confetti Aurin Dance RVN	0
+2445	W2183 - Banner Flavor - DWS	0
+2446	W2183 - PE446 - Main Event Spotlight - CM1	0
+2447	Exile Arkship - Relic Room - Fission Bomb - JDT	0
+2448	Loftite Bulb Glow FX	0
+2449	M1666 - Loftite Bulb - Item FX Loftite Bulb	0
+2450	W2183 - PE446 - Default attack - CM1	0
+2451	W2183 - PE446 - Beer Can Product - TDG	0
+2452	splorg animation	0
+2453	PEI_A1_Transmitter_BeamDown	0
+2454	M1666 Floating Loftite Drifters	0
+2456	Exile Arkship - Veggie Burrow - JDT	0
+2457	Generic Hologram Shader Green - BEAX	0
+2458	Rift Stasis Bubble - Isle of Eternity - ARY	0
+2459	M1663 - Osun Banner	0
+2460	Fuselage - Grimvault - T1E1 - JBN	0
+2461	m1613 - Inactive Visual FX	0
+2462	m1613 - Collectable Drop FX	0
+2463	W2183 - PE446 - Sandwich Product - TDG	0
+2464	Housing - w1895 Creeper Cave - Flux Death - BEAX	0
+2465	Ice Breath - Tether	0
+2466	Pell Salvagebot	0
+2467	Rift - Isle of Eternity - ARY	0
+2468	PE314 - Smithy - Grimvault T1E1 - JBN/MLB1	0
+2469	Stunned stasis - ARY	0
+2471	Q8895 - Schematic Terminal - MRD	0
+2472	Exile Arkship - Q8796 - Weather Sparks- JDT	0
+2473	Rift Unstable - Isle of Eternity - ARY	0
+2474	Q6521 - Pell Cleric Hologram (1)	0
+2475	W2183 - PE446 - Homegame Product - TDG	0
+2476	SeekerAlpha_StandStates	0
+2478	dormant logic tendril action set - pei w2a2 - twh	0
+2479	W2183 - PE446 - Gauntlet Hologram Shader (Blue)	0
+2482	Platform Flickering - Grimvault T1 settler - RVN	0
+2483	M3067 - Rootbrute burrow up	0
+2484	Strain Spawn - Grimvault - T1E1 - JBN	0
+2485	W2183 - PE446 - Plushie Product - TDG	0
+2486	Wilderrun 1 - Q8910 - Creature 49549 - SPB	0
+2487	Wilderrun 1 - Q8910 - Creature 49551 - SPB	0
+2488	Wilderrun 1 - Q8910 - Creature 49553 - SPB	0
+2489	Generic_BaseHolo_BLU_1o5W_3H (Base) [Inf] (0.7)	0
+2490	PE314 - Turret Spawn - Grimvault T1E1 - JBN/MLB6	0
+2491	W2183 - Forcefield Activate and Deactivate - CM1	0
+2492	Teleporter ACtive	0
+2493	Housing - Chronium Lab - Energy Trap - BEAX	0
+2494	W2183 - PE446 - Hanging Skull Product - TDG	0
+2496	M1576 Eldan Protectors Offline	0
+2497	M1576 - Shock Floor	0
+2498	Wilderrun 1 - Q8914 - Lab Rat On Birth - SPB	0
+2499	Wilderrun - T1 - m1631 - Bot Spawn FX	0
+2500	Wilderrun - T1 - m1631 - Base Station Spawn FX	0
+2501	Wilderrun - T1 - m1631 - Science Bot	0
+2502	Wilderrun - T1 - m3059 - Blinking Datachron	0
+2503	Wilderrun - T1 - m3059 - Skeleton FX	0
+2504	Wilderrun - T1 - m3052 - Dead Ekose FX	0
+2505	Ascendancy Glow - Isle of Eternity - ARY	0
+2506	Jump Platform - Global - Explorer Trampoline - WG	0
+2508	W2189 - Room C - Boss Malverine - Datacube Eaten	0
+2509	Q6306 - Terminite Slime visuals	0
+2510	Q5029 - Explosion	0
+2511	Ship Hand-DSD-PE447-Drowned Anim-DJU	0
+2512	mote of life action set - w2b2-3 - twh	0
+2513	Celestion - Celestial Vind - Random - KMS	0
+2514	[Non-Combat] Default_Hover_Stand [Infinite] - KMS	0
+2515	OnBirth - State1_State0	0
+2516	life energy fissure action set - w2b1-3 - twh	0
+2517	Housing - 1x1 AA Tower - Tornado - BEAX	0
+2518	Q6541 - Pell High Shaman	0
+2519	Q6541 - Pell High Shaman Hologram (1)	0
+2520	spreading flame action set - w2b1-4 - twh	0
+2521	Shield Q8923 - Settler - ARY	0
+2522	W2189 - Baneslime Blister - On Death Burst	0
+2523	PEI - WS2 - Logic Capacitor - HCon	0
+2524	W2183 - TV Effect - CM1	0
+2525	PEI - WS2 - B1-1 Logical Overflow - HCon	0
+2526	PEI - WS2 - Aggitated Thought - On Birth - HCon	0
+2527	PE446 - beartrap - BirthLoop	0
+2528	PEI - WS2 - B1-2 - Unbuilt Platform - HCon	0
+2530	Time Beam Rift - ARY	0
+2531	Generic - I'm Invisible - TDG	0
+2532	Housing - 1x1 Helipad - Flying Airship - BEAX	0
+2533	Explorer Leaf Platform - Global - Leaf FX (30s)	0
+2534	Explorer Leaf Platform - Global - Leaf FX (60s)	0
+2535	Camera Base Station - Explorer - Spawn FX	0
+2536	Camera Bot - Global - Bot Spawn FX - WG	0
+2537	Torn Rift Unstable - Isle of Eternity - ARY	0
+2538	Q8935 - Ascendancy Surveillance - Q Glow - MRD	0
+2539	Add Holo Weapon on Birth	0
+2540	Deep Freeze - Birth Death Anim	0
+2541	fire lord action set - pei w2b1-4 - twh	0
+2542	Glowy Eyes and Fists	0
+2543	w2173 - Logic Elemental Spawn	0
+2544	PEI - WS2 - Chaos Data  - HCon	0
+2545	Astrovoid Adv - Hologram - All Visuals	0
+2546	Shivering Box - Grimvault - Q8129/7672 - JBN	0
+2547	M2340 - Fire Essence - Item FX	0
+2549	Housing - 1x1 AA Tower - Flying Shellark - BEAX	0
+2550	Creature 49611-  On Birth	0
+2551	Wilderrun - T2 - m2284 - Inactive Visuals	0
+2552	Holo mordesh - SPB	0
+2553	w2173 - Life Elemental Spawn	0
+2554	M2340 - Water Essence - Item FX	0
+2555	M2340 - Storm Essence - Item FX	0
+2556	M2340 - Earth Essence - Item FX	0
+2557	PE446 - beartraps pop-up - TDG	0
+2558	w2173 - Life Elemental Visuals	0
+2559	Halon Ring - T1 - Necro Creatures - Large - KMS	0
+2560	Ship Hand-DSD-PE447-Hookfoot Attacks-DJU	0
+2561	Wilderrun - Torine Holo - 8894 - SPB	0
+2562	Q7761 - Tresayne Obj 1 -Stasis	0
+2563	Aura_Light_YLW.m3 (Double)	0
+2564	Hellrose Bowl - AP_State1_Idle	0
+2565	[DS] Mini-Gronyx SpawnFX	0
+2566	Teleport+Ready - Shiphand DSD - 2 - WK	0
+2568	PEI - WS2 - B1-2 - Boundless Gale - HCon	0
+2569	Q8936 - Radiation Cloud - MRD	0
+2570	Fire Body FX [Infinite]	0
+2572	M698 - Falkrin Feather - Item FX	0
+2573	Wilderrun - T2 - m2347 - Base Station - Stealthed	0
+2574	Dancing Moodies - Animation and Shader	0
+2575	Housing - 1x1 Cubig Feed - Cubig Golden - BEAX	0
+2576	Ikthian Laser Invis FX - PE447 - W2188 - WK	0
+2577	Machine Blue Static Hover - Grimvault T2E1 - MLB2	0
+2578	[GA] e410 - Platform - Helix 2	0
+2579	Housing - Mannequin - AAC	0
+2580	Q8945 - Medivac - Grimvault T2 - CSC	0
+2581	Q7376/Q7377 - Augmented Kevo Teleport Out	0
+2582	Dominion Arkship Tutorial - Brain Scan FX - LST	0
+2583	e392 - Datascape - Void Desert - Node - Mod - Sm	0
+2584	e392 - Datascape - Void Desert - Node - Mod - Med	0
+2585	e392 - Datascape - Void Desert - Node - Mod - Lg	0
+2586	e392 - Datascape - Void Desert - Intestine - Mod	0
+2587	Housing - Mayday - Power Core - BEAX	0
+2588	[GA] e410 - Platform - Helix 2a	0
+2589	W2189 - Strain Suspension	0
+2590	Ship Hand-DSD--PE447-Gold Glowy Effect-DJU	0
+2591	Swarm_Vortex_GRN (Base) [Infinite] (Size 2) Any	0
+2592	Q8894 - Science Bot - on Birth - SPB	0
+2593	W2173 - Hologram Shader	0
+2594	TP FLuff stuff	0
+2595	Q3902 - Fire Ground Line - MRD	0
+2596	TP Cannon Fluff	0
+2597	Blood_Splatter_Decal_01 (Weapon_Mass)[Infinite]	0
+2598	Blindness Sigil - Hycrest Adventure	0
+2599	Disorient Sigil - Hycrest Adventure	0
+2600	Knockdown Sigil - Hycrest Adventure	0
+2601	Q8939 - Beam-In - Farside T2 - CSC	0
+2602	Holo Visions - RVN	0
+2603	Q7683 Q8097 - Friendly NPC Spawn FX - MLB1	0
+2604	Mobile Ligthing Rod Birth	0
+2605	Q5172 - Security Warbot - Idle Sleep Mode - TDG	0
+2606	PO1849 - PE447 - Explosion + Sparks - VEW	0
+2607	PO1849 - Self-destruction Large Fire - VEW	0
+2608	PO1849 - Burnt Ground - VEW	0
+2609	PO1849 - Explosion Smoulder - VEW	0
+2610	PO1849 - Leaking Tanks - VEW	0
+2611	Wisp visuals	0
+2612	M711 - Toxic Waste	0
+2613	Grumpel - Default_Ready - Infinite (151)	0
+2614	Flare on Birth VFX attach - SPB	0
+2615	Housing - Kel Voreth - Karg the Overseer - BEAX	0
+2616	PO1849 - Damaged Tanks - VEW	0
+2617	PO1849 - Smoldered Tanks - VEW	0
+2618	PO1852 - Goliath Death - VEW	0
+2619	Corrupted Waste - Grimvault T1E3 - MLB1	0
+2620	Fire Ward - 2HL_Hover_Talk_4sec	0
+2621	Q8910 Explosives Action Set	0
+2622	PO1849 - Drowned Nerid - VEW	0
+2623	Wilderrun 1 - Q8896- hidden bomb explosion - SPB	0
+2624	Eldan Defense Probe	0
+2625	Wire Sparks - Flavor - ARY	0
+2626	Northern Wilds - Doctor Bennett - Flask - MRD	0
+2627	Everstar Grove - Rootbrute LeaveCombat	0
+2628	Northern Wilds - Sadie Brightland - MRD	0
+2630	NW_PUZZLE_CONSOLE_SPARKS	0
+2631	Red Hologram	0
+2632	Q8939 - Smoking Corpse - CSC1	0
+2633	Death Explosion - PE429 Merciful 4 - HycrestAdv	0
+2634	Purple Bubbly Shader	0
+2636	[DS] Fire Room - Dracus - Lavalanche Invisible	0
+2637	Housing - 1x2 Blasted Landscape - Beam In - VTD	0
+2638	Stormcaller Dagun - Levian Bay	0
+2639	Q8939 - Smalloprojector - CSC1	0
+2640	Teleport In/out - CM1	0
+2641	DOminion CAnnon TP	0
+2642	Q5856 Complete - ZinCambots Birth envelop	0
+2643	Corruptive Aura buff station	0
+2644	Lighting	0
+2645	Levian Bay Eldan Protector FX - TDG	0
+2647	Q8539 - Captain Sabes Bowing Spawn - MLB1	0
+2648	State3_Idle [Infinite]	0
+2649	Q6306 Mender birth - Celestion - T2 - WK	0
+2651	Vorion Corruption Aura - Grimvault - T2 - JBN	0
+2652	Conjure Elemental	0
+2653	PlagueWyrm_Auroria_Plagued_Effect	0
+2654	Hycrest Adventure - Warbot Drop	0
+2655	Q7499/8804 - Science Scans - VEW	0
+2656	W2352 - Eyeball Laser Target	0
+2657	use the cannon RVN	0
+2658	Granok/Draken Cheering	0
+2659	Aurin/mechari enjoying  - RVN	0
+2660	Human Tp cheer - rvn	0
+2661	Housing - Eldan Test Lab - Rock Whirlwind - BEAX	0
+2662	lone flower - action set - twh	0
+2664	Levian Bay - Vomit - CM1	0
+2665	Everstar Grove-Q6307-Dead Villagers-DJU	0
+2666	Q8356 - Entity - Grimvault Tract 2.3 - BB8	0
+2667	Jury Rigged Datachron	0
+2668	Everstar Grove-Q6306-Butterfly VFX-DJU	0
+2669	Elderoot Enraged FX - Everstar Grove - WK	0
+2670	Bazooka Fire stuff	0
+2671	C694 - Shaking Crate - Grimvault T!E3 - MLB1	0
+2672	Butterfly Box	0
+2673	MEcahri female Cheering	0
+2674	PE 491 - Primal Charge - DY	0
+2676	Q8025 - Fridgelet Spawn - Grimvault T1E3 - MLB1	0
+2677	PE 491 - Life Buff - DY	0
+2678	sitting around campfire - Aurin	0
+2679	sitting around campfire- human	0
+2680	Dominion Arkship - Aurin Treehuggers - JDT	0
+2681	Primal Sacrifice - PE 491 - DY	0
+2682	Mask Dispencer	0
+2683	Everstar - Overrun Guard - Attack Actions - VEW	0
+2684	Levian Bay - Flare Light - CM1	0
+2685	Dominion Arkship - Q7017 - Eviction Notice - JDT	0
+2686	Probe bomb station	0
+2687	W2352 - Entity Birth - CSG	0
+2688	Northern Wilds - Sadie Brightland Laying Down	0
+2689	Girrok NPCTelegraph_Loop_01 Inf	0
+2690	Northern Wilds - Deadeye Smoking Gun - MRD	0
+2691	Girrok Vulnerable Loop - Wilderrun - 2	0
+2693	Randomized - Generic Dead States [Infinite] - MRD	0
+2694	Augmentor NPCTelegraph_Loop_01 Inf	0
+2695	Probed Citizen Female - Ellevar T3 - JGP	0
+2696	Q8573 - System Board - Grimvault T2E1 - MLB2	0
+2697	Probed Citizen Male - Ellevar T3 - JGP	0
+2698	Q5101 - Agitated Buzzbing - Drool - TDG	0
+2699	W2352 -  Corrupted Peep - Birth and Eye Glow	0
+2700	Generic - Drusera Birth Anim	0
+2701	Unstable Razordisk	0
+2702	w2352 - Goo Explosion	0
+2703	Dominion Arkship - Eviction Notice Paper - JDT	0
+2705	Exile Ark Ship Tutorial - Sick Spew - TDG	0
+2706	Q4525_WaterSpray_FX	0
+2707	Drusera - Birth and Despawn Anims	0
+2708	Q4525_WaterSplash_AND_Smoke	0
+2709	Q4525_Airship_SirenFX	0
+2710	Q7689 - Sentry Spot Light - Grimvault T1E3 - MLB!	0
+2711	Q7768 - Red Ore Glow - Wilderrun - 2 - MB	0
+2712	Green Glowing	0
+2713	State_Dead (Anim 1213)	0
+2714	Adventures - Teleport In	0
+2715	Q8973 - Dreg Teleport on Spawn	0
+2716	Everstar - Naturalist Flutterfree's Staff - VEW	0
+2717	Generic - Sleep - Infinite	0
+2718	Q8784 - Burning Alchemist Assistant - VEW	0
+2719	Arkship - Cliff Carry Medpack - TDG	0
+2720	Everstar Grove-Settler-Construction Cloud-DJU	0
+2721	Dominion Ship - Exile Arkship - Bridge - HCon	0
+2722	Aura_Light_YLW.m3 (Double)	0
+2723	Drusera - Grimvault Tract 2.3 - BB8	0
+2724	OT_Esper_Shader_Override_BLU.m3 (Base) [Infinite]	0
+2725	Q7754 - Jabbits Eating	0
+2726	Shade of Fire - FX - Grimvault Tract 2.3 - BB8	0
+2727	Shade of Water - FX - Grimvault Tract 2.3 - BB8	0
+2728	Shade of Logic - FX - Grimvault Tract 2.3 - BB8	0
+2729	Shade of Life - FX - Grimvault Tract 2.3 - BB8	0
+2730	Shade of Earth - FX - Grimvault Tract 2.3 - BB8	0
+2731	Shade of Air - FX - Grimvault Tract 2.3 - BB8	0
+2732	Arkship - Use Anim with Container in Hand - TDG	0
+2733	Wilderrun 2 - Q7768 - Eldan Control Panel - SPB	0
+2734	Q8077 - Jabbits Eating	0
+2735	Q7685 - Sabes in Helm - Grimvault T1E3 - MLB1	0
+2736	Warplot Minion - Stormtalon - Cyclone - BEAX	0
+2737	Q4987 - Augmentor Spawner Despawn - MRD	0
+2738	tremor ridge miner - vignette exile female - twh	0
+2739	tremor ridge miner - vignette male granok - twh	0
+2740	Q5941 - Freed Aurin	0
+2741	Eldan Data Node Arrow - Grimvault Tract 2.3 - BB8	0
+2742	Q8600 - Jigawatt - Shader and Static - MLB2	0
+2743	Galeras Adventure Hub Holograms	0
+2744	M1731 - Teleport In	0
+2746	Q8980 - Assistant on the Ground	0
+2747	Arkship - Exile - Guard Holding BotHead - TDG	0
+2748	Q8980 - Camera Spawn/Despawn	0
+2749	Strain Suppression Field - Settler Bonus	0
+2750	Q8574 Q8984 - Giant Turret FX - MLB2	0
+2751	Adventure Hub - Simulation Entrance	0
+2752	Q8574 Q8984 - Eldan Probe FX - MLB2	0
+2753	Arkship - Exile - Victor Scibot Scanning - TDG	0
+2754	Gib - Small Meat + Metal	0
+2755	OnBrith Dirt Explosion	0
+2756	Dominus Parable - JGP	0
+2757	Evindra Parable - JGP	0
+2758	Q6672 - Greenbough Guardian - Attacks random	0
+2759	Q6672 - Greenbough Guardian - Attacks random test	0
+2760	Q6890 - Webbed datapad - CM1	0
+2761	Q5582 Hologram	0
+2762	Celestion - Tract 1 - Q6981 - Decloak FX - DJU	0
+2763	Q6311 - Poisoned Drilltech Chua	0
+2765	Warplot Boss - Murderbot Clone - BEAX	0
+2766	Exile Ark Ship Tutorial - Frozen and Dead Coffin	0
+2768	Data Node - Grimvault Tract 2.3 - BB8	0
+2769	Default_Emote_Kneel (_Start, _Loop) [Infinite]	0
+2770	Q8600 - Gigawatt - Shader and Static - MLB2	0
+2771	[Generic] Ravenous Mordesh	0
+2772	Any - Any - Default_Swim_Stand (Infinite)	0
+2773	Any - Any - Anim - Default_Hover_Stand - INFINITE	0
+2774	Default Birth	0
+2775	Defiled Probebot - The Core - Grimvault Tract 2.3	0
+2776	Data Node Access Point - Grimvault T2.3 - BB8	0
+2777	Bottle of Slush - Item FX	0
+2778	Celestion-T1-Q6666-Scan Bot Invis Spawn In-DJU	0
+2779	Shadow - Grimvault - Q8159 - JBN	0
+2780	Algoroc T3 - Augmentor Prison Bot Corpse - MRD	0
+2781	Q8583 - Clone - Grimvault T2E1 - MLB2	0
+2782	Any - Any - ShockPaddles_Wound_D2U - Infinite	0
+2783	Q7025 Greater Primal Life Anomaly Celestion - T2	0
+2784	Corrupted Remains - Item FX	0
+2785	Any - Any - Emote Shout - Infinite	0
+2787	Any - Any - Emote Shout (Flicker Light)- Infinite	0
+2788	Holographic Pedastal - Grimvault Tract 2.3 - BB8	0
+2789	Q5501 - Witch Doctor	0
+2790	Combat Speed (FX-Misc01) [Infinite]	0
+2792	Stealth Buffer (FX-Misc01) [Infinite]	0
+2793	Exp Buffer (FX-Misc01) [Infinite] (Sized Up)	0
+2794	Health Regen (FX-Misc01) [Infinite] (Sized Up)	0
+2795	Dodge Buffer (FX-Misc01) [Infinite] (Sized Up)	0
+2796	Rep Booster (FX-Misc01) [Infinite] (Sized Up)	0
+2797	Magic Proc (FX-Misc01) [Infinite] (Sized Up)	0
+2798	Physic Proc (FX-Misc01) [Infinite] (Sized Up)	0
+2799	Tech Proc (FX-Misc01) [Infinite] (Sized Up)	0
+2800	Stun Proc (FX-Misc01) [Infinite] (Sized Up)	0
+2801	Knockdown Proc (FX-Misc01) [Infinite] (Sized Up)	0
+2802	Weapon Power (FX-Misc01) [Infinite] (Sized Up)	0
+2803	Eldan Turret Target - Grimvault T2E1 - MLB2	0
+2804	Ellever Q6588 - Cargo Lifter Sparks - dws	0
+2805	Q6583 - Electricity - CM1	0
+2806	Reactive Shield (FX-Misc01) [Infinite] (Sized Up)	0
+2807	Reactive Healer (FX-Misc01) [Infinite] (Sized Up)	0
+2808	Q7003 - Burgaska Baby idle random	0
+2814	Whitevale Adventure Hub Teleport In/Out	0
+2815	Volcanic Fissure Spawn	0
+2816	Magic Resist (FX-Misc01) [Infinite] (Sized Up)	0
+2817	Physical Resist (FX-Misc01) [Infinite] (Sized Up)	0
+2818	Tech Res (FX-Misc01) [Infinite] (Sized Up)	0
+2819	Exile Arkship - M3141/ M3154 Platform Rez - HCon	0
+2820	Q7003 - Burgaska Baby idle random	0
+2821	[SETTLER-AURA] Green Healer Buff	0
+2822	Q6623 - Black Blood Splat - Celestion	0
+2823	Adventure Hub Holograms	0
+2824	Celestion T1- Pollenberry Grove Base Sparks - VEW	0
+2825	e479 - Deadringer Shallaos - Chime Appearance	0
+2826	Q5696 - Flame Spray	0
+2827	Celestion-T2-Q6987-Decrypting-DJU	0
+2828	Q6623 - Envelop DeRez Blu - Celestion - T1 - WK	0
+2829	Q9025 - Honey Blob - Nooks - Celesiton - T1 - WK	0
+2830	Drunk Standing Holding Cup	0
+2831	Dead Lord Voricus - Q5511 (post quest) - RBG	0
+2832	Malfunctioned Augmentor	0
+2833	Port Parts - Ellevar T2	0
+2834	[TS] Void Elemental	0
+2836	Q6970 - Avatar Spawn In - Celestion T2 - VEW	0
+2837	M71 - Accelerite - Item FX Large Accelerite	0
+2838	M71 - Accelerite - Item FX Accelerite	0
+2839	M71 - Accelerite - Item FX Small Accelerite	0
+2840	Any Any - TaxiMount_BasePose (7592) - Infinite	0
+2841	Any Any - Paddles_Cast_Channel_01 (1300)-Infinite	0
+2846	Invisible Assailant Logic - DEN1	0
+2847	Invisible Assailant Life - DEN1	0
+2848	Voodoo Ward Item FX	0
+2849	Agility of Gnarlfoot Item FX	0
+2850	Cheerleader Dance (Human Female)	0
+2851	Hoogle Protection Aura	0
+2852	Electrified Meat Item FX	0
+2853	Augmentation rep station actionset	0
+2854	depr_Loftite Lob - Tether	0
+2855	Generic - Infinite - Stand Use (NO SOUND)	0
+2856	Jump enhancer	0
+2858	Toxic Goo - Whitevale Adventure	0
+2859	Generic - Burrow_Up	0
+2860	Esper_Cast_Channel_11	0
+2861	Esper_Cast_Loop_07	0
+2862	Crazed Zubblehead - Whitevale - T4 - JBN	0
+2863	Pop-Up Drone Spawn	0
+2864	Q6735 - ON CSI Fail Visuals	0
+2865	Magnetic Mine Tether	0
+2866	C700 - Challenge Hologram - Grimvault T3E1 - MLB1	0
+2870	Green holo effect	0
+2871	Warplot Boss - Mordechai - Treasure - BEAX	0
+2872	Transmorphing Hoogle Totem	0
+2873	Q5625 - Spell Spawned Enhanced Pumera	0
+2875	Ch511 Race Arrow Birth and Death	0
+2876	Levian Bay - Broken Eldan Beam - CM1	0
+2878	Grimvault - chompacabra Staging - Q8993 - JBN	0
+2881	Augmented Creature Glow	0
+2882	Dominion Arkship - Holograms - HCon	0
+2883	Cankertube Forest - Globellum Statis Float - MLB7	0
+2884	Luminous Gardens - Nomad Beacon - DWS	0
+2885	Housing - w1895 Creeper Cave - Boss - BEAX	0
+2886	Q5926 - Witchwake Totem	0
+2887	Luminous Gardens - Cozmotron - DWS	0
+2888	Ellevar - T1 - m3145 - Pre-Mission In. Visuals	0
+2889	Ellevar - T1 - m3145 - Post-Mission Visual 01	0
+2890	Q5646_Lowborn_Protest	0
+2891	Q5883 - Ambush Moodies	0
+2892	Deradune - T3 - Necro Creatures - Medium - KMS	0
+2893	Smoke Screen - NWAdv - Pyromaniac	0
+2894	Q3655 Draken Resting Place	0
+2896	Hold staff and loop - rvn	0
+2897	Base Pose - Any - Infinite + Particle Birth	0
+2898	Q5920 - Eldan Energy Signature	0
+2899	Celestion - T2 - Q6986 - Ship Debris Fire - DJU	0
+2900	Thayd - Veggie Burrow and Effect - CM1	0
+2901	Thayd Settler Teleport Pad VFX	0
+2902	Fortune Teller - Aura	0
+2903	Exile Arkship - Brew Keg - HCon	0
+2904	Sprite Cast B	0
+2905	Sprite Cast A	0
+2906	Terrain Sampler - Success - Q8994 - Grimvault-JBN	0
+2907	Terrain Sampler - Fail - Q8994 - Grimvault-JBN	0
+2908	Warplot Boss - Metal Maw - Symbiote - BEAX	0
+2909	Gloomshroud FX	0
+2911	Celestion - Disabled Probe - VEW	0
+2912	Celestion T2 - Damaged Screen - VEW	0
+2913	CH1005 - Left Arrow - CM1	0
+2914	CH1005 - Down Arrow - CM1	0
+2915	CH1005 - Up Arrow - CM1	0
+2916	CH1005 - Right Arrow - CM1	0
+2917	Q9062 - Drone - MLB7	0
+2918	Default_Emote_WallPound (6705) [Infinite]	0
+2920	Auroria - T1 - Hycrest - Citizen - Neutral - MRD	0
+2921	Auroria - T1 - Hycrest - Citizen - Wealthy - MRD	0
+2922	Auroria - T1 - Hycrest - Citizen -Depressed - MRD	0
+2924	High priest creature - RVN	0
+2925	Q9062 Q9121 - Bombing Target - MLB7	0
+2926	Celestion - Tract 2 - Elderoot's Seed Aura - KMS	0
+2927	Eldan Wire Sparks - Levian bay	0
+2928	Q5501 Altar Skulls	0
+2929	Q6979 - Vitara Barrier - Celestion - T3E2 - WK	0
+2930	AnyAny - AP_State0_Idle(1118) [Infinite] - TDG	0
+2931	Celestion-T3-Ravenous Corpse Decaying FX #2-DJU	0
+2932	Q6979 - Scorch Decal - Celestion - T3E2 - WK	0
+2933	Warplot - Attack Ship - Fly Idle	0
+2934	Q9063 Q9122 - Astral Captive Stunned - MLB7	0
+2935	Deradune - T3 - Flavor - Shock Effect	0
+2936	Exile Arkship - Man in Water Tank - SPB	0
+2937	Warplot Superweapon - Parasitic Swarm - BEAX	0
+2938	W2352 - Strain Scythe Acid on Death	0
+2939	Celestion - T3 - A2805 - Pet Slank Bow - VEW	0
+2940	Q9063 - Teleporter - MLB7	0
+2941	Settler / Explorer Mile Marker	0
+2942	Logical Crystal glimmer	0
+2943	Earth crystal smoke	0
+2944	Air Crystal cyclone	0
+2945	Fire Crystal fiery	0
+2946	Water crystal splash	0
+2947	Bug Eyes	0
+2948	Q9064 - Globellum BrainEyes - MLB7	0
+2949	Mining Bot - Offline	0
+2950	Wire Sparks - Galeras	0
+2951	Dominion Arkship - Chroalist - HCon	0
+2952	Primal Essence of Air - Grimvault Tract 3.3 - BB9	0
+2953	Ellevar - T1 - m3145 - Lopp Clothes FX	0
+2954	Ellevar - T1 - m3145 - Power Map Creature FX	0
+2955	Scientist pell 01 - boogie	0
+2956	Drummer pell - RVN	0
+2958	visionseer- Pell RVN	0
+2959	Loud-screamer -pell  RVN	0
+2960	Dominion Arkship - Chorister Book - HCon	0
+2961	Malgrave Adv - Draken Ghost Angry	0
+2962	Malgrave Adv - Draken Ghost	0
+2963	Q9073 - Weave Knot - Celestion - T3 - WK	0
+2964	Grimvault - T3 - m3163 - Shock_Cloud_BLU	0
+2965	Any-State_Wounded_Ground_01 [Infinite]	0
+2966	Any-State_Wounded_Ground_02 [Infinite]	0
+2967	Any-State_Wounded_Ground_03 [Infinite]	0
+2968	Any-State_Dead_04 [Infinite]	0
+2969	Any-State_Dead_03 [Infinite]	0
+2970	Any-State_Dead_02 [Infinite]	0
+2971	Immovable Object - Tether	0
+2973	Celestion - Tract 1 - Rogum - VEW	0
+2974	Grand Statue Effect	0
+2975	M3160 - Vomited Grumpel - MLB7	0
+2976	Diagonal Air gush - RVN	0
+2977	Q8759 - Fireworks - random	0
+2978	PEI - WS2 - B1-2 - Platform Despawn Effect - HCon	0
+2979	Robolympics twirling - C1014 - RVN	0
+2980	Q8759 - Celestial Aura	0
+2981	Dominion Arkship - Hologram-ish fire - CSC/MLB3	0
+2982	Tether	0
+2983	Q8759 - Matria's Flowers	0
+2984	Illium - Toric Flag Bearers - KLW	0
+2985	Grimvault - Lucy Lazarin Staging - JBN	0
+2986	Ellevar Tract 3 - Mutated Malverine	0
+2987	Dominion Arkship - Aurin Arbor Critters - MRD	0
+2988	Hologram Shader and auras - Red	0
+2989	Dominion Arkship - Blue Holo with auras - courage	0
+2990	Green holo effect with red aura	0
+2992	Strain Warden - Tether - Display	0
+2993	Dracus (Boss)(Base - Tank) - Divide and Conquer	0
+2994	Generic Hologram with yellow aura	0
+2995	Dominion Ark Ship - Holodeck Recruits - MRD	0
+2996	Exanite Flower - Q8995 - Grimvault - T3E1 - JBN	0
+2997	Exanite Flower 2 - Q8995 - Grimvault - T3E1 - JBN	0
+2998	DomArkship - Holodeck Recruit Teleport In - MRD	0
+2999	Ellevar - Stormseeker Tech-Tome - CM1	0
+3000	Galeras - Talon of Osiric - CM1	0
+3001	AnyAny - Default_Chair_04 [Infinite]	0
+3002	Adventure Hub Vendor - Hologram Yellow Aura	0
+3003	Q9014 - Hologram Effect	0
+3005	Dominion Arkship - Blue with auras - Knowledge	0
+3006	e411- Mega Metal Maw Vulnerable On Start	0
+3007	AnyAny - Default_Chair_10 [Infinite]	0
+3008	Green holo effect with red aura - Purity	0
+3009	Moving Exanite Pillar Ground Effect - W2967	0
+3010	Trough - Water	0
+3011	Exanite Eruption - M3178 - Grimvault - T3E1 - JBN	0
+3014	Test	0
+3015	Envelop_DeRez_RED and Envelop_DeRez_Reverse_RED	0
+3017	Algoroc - T2 - m3180 - Fire FX on Birth	0
+3018	Quantum Materializer - Birth/Death Effect	0
+3019	Hamronious elder - RVN	0
+3020	A2805 - Brief Hearts - VEW	0
+3021	Quantum Materializer - Birth/Death Effect -Shield	0
+3022	Quantum Materializer - Birth/Death Effect -Weapon	0
+3023	TMNS - Eye	0
+3024	Mug_SCGlass_002 [Infinite] ->BROKEN<-(4 Use_Anim)	0
+3025	Osun Ore Deposit - MRD	0
+3026	State_Posed [Infinite]	0
+3027	Q9017 Elonya Illusion - Grimvault Tract 3.3 - BB9	0
+3028	Birth - State 0 - State 1	0
+3029	Warplot Boss - Selene -  Prison Shade - BEAX	0
+3030	PvP Warplot DropPodCrash_VFX	0
+3031	Galeras - T4 - m3205 - Base Station - Stealthed	0
+3032	Whitevale - T2 - m881 - Drill Bot FX (Failure)	0
+3033	C700 - Platform FX - Grimvault T3E1 - MLB1	0
+3034	PRP_GeneticArchives_Platform_A_000 (Chest) [Inf]	0
+3035	PRP_GeneticArchives_TesttubeStrain_000.m3 [Inf]	0
+3036	W2967 - Moving Pillar Spell Target	0
+3037	PRP_Eldan_Dome_HexPiece_001.m3 (Chest) [Inf]	0
+3038	PRP_Crystals_Pearl_Blue_FX_000.m3 (Chest) [Inf]	0
+3039	W2967 - Envelop Nature on Birth	0
+3040	AnyAny_Default_Emote_Cry_Loop	0
+3041	Farside - Primal Matrix Stabilizer - CM1	0
+3042	Grimvault - Genesis Prime Figurine - CM1	0
+3043	[KV] e449 - Trogun Flame Sphere Appearance	0
+3044	PRP_Bust_SkullwithTusks_Ivory_001 (Chest) [Inf]	0
+3045	Teleport in FX - Bot Summons	0
+3046	Golden Feather of Eyria - Relic Quest - DWS	0
+3047	AnyAny - Default_Loot_Loop [Infinite]	0
+3048	AnyAny - Journal_Loot_Loop [Infinite]	0
+3049	W2967 - Envelop Nature on Birth + Anim Change	0
+3050	AnyAny - Drinking Glass [Infinite] - TDG	0
+3051	AnyAny - Carry Fruitbasket - TDG	0
+3052	Q7940/Q8006 - Ritualist - Farside - 1 - WK	0
+3053	AnyAny Default_Stand_Carry[Infinite]	0
+3054	Default_Chair_10 [Infinite] With tophat	0
+3055	W2967 - Dust Envelop on Death	0
+3056	AnyAny - Cambot - FlashFX [Infinite]	0
+3057	Arkship - Carry food - SPB	0
+3058	Dominion Flag on science bot	0
+3059	Jet streams	0
+3060	Thayd - Alchemy Cauldron - CM1	0
+3061	W2967 - Offensive Overgrowth	0
+3062	Generic State_Dead_05 with zzz sleep [Infinite]	0
+3063	Default_mount_ride_medium (infinite)	0
+3064	Default_bikemount_basepose	0
+3065	Default_Exile_StartScreen_Loop_01 with flex	0
+3066	Ghostly Elder - Q9075 - RVN	0
+3067	Vomit_MouthSpew_GRN State [Infinite]	0
+3068	AnyAny - Hold Book for Other - TDG	0
+3069	Dracus: Smokey Cloud	0
+3070	Grimvault - Catalyst Energy - Q8996 - JBN	0
+3071	Grimvault - Catalyst Energy 2 - Q8996 - JBN	0
+3072	[Non-Combat] Infected Miner Effect - RLU	0
+3073	Ravager Strain: Hover & Smokey Fog	0
+3074	Q8837 - Water Spout	0
+3075	TMNS - Flamethrower	0
+3076	[Dungeon][GA] TMNS - Leader - Summoning Pool	0
+3077	Steam M 3158	0
+3078	Fire M 3158	0
+3079	water M 3158	0
+3080	mud M 3158	0
+3081	depr_Pinned Down - Tether	0
+3082	Grimvault Exile Fly in and Out - Settler - JGP	0
+3083	earth M 3158	0
+3084	air M3158	0
+3085	lightning M3158	0
+3086	life M3158	0
+3087	Grimvault DOM Cargo Landing	0
+3088	AnyAny - Protostar Ultra-Pollen To-Go - TDG	0
+3089	Grimvault Dom Attack Ship - JGP	0
+3090	Grimvault Dom Attack Ship - Idle - JGP	0
+3091	Grimvault Attckship De-cloak - JGP	0
+3092	W2967 - Corrupted Creature	0
+3093	AnyAny - ICI Newthaw - Cattle Prod - TDG	0
+3094	Dominion Arkship - Exile Eviction Holograms - MRD	0
+3095	Hologram Shader and auras - Justice	0
+3096	[Dungeon][KV] Kel Voreth - Grond - Bone Cage	0
+3097	Generic Hologram Shader Green (USE) - MXP	0
+3099	Dominion Arkship - Aurin Treehuggers - MRD	0
+3100	Housing - Mayday - Artaxian Terror (Cine) - BEAX	0
+3101	AnyAny - Chua - Holding Suitcase - TDG	0
+3102	AnyAny - Default_Mount_Sit_Med [Inf]	0
+3104	M2212/M2404 Frozen Corpse	0
+3105	War-Chanter Pet - JGP	0
+3106	W2988 Wrecked Robot Action Set	0
+3107	Training Holo Red - Flavor - ARY	0
+3108	AnyAny - Default_Chair_10 [Infinite], purple foot	0
+3109	Blood_Splatter_Decal Smaller	0
+3110	harmonious speaker - RVN	0
+3111	Thayd - Ch1004 - Talkto - DWS	0
+3112	Yellow Hologram [Infinite]	0
+3113	Sexy_Sit_01	0
+3114	AnyAny - Default_Emote_Sit_Sexy_Loop_01 [Inf]	0
+3115	Red Hologram (Any, Any)	0
+3116	Red Tutorial Holo - ARY	0
+3117	Red Tutorial Holo Misc Rocket - ARY	0
+3118	AnyAny - Default_Mount_Sit_Med [Inf] + Hearts	0
+3119	Rowsdower with Dynamite	0
+3120	AnyAny - 2H_Cast_Loop_01(889) [Inf]- TDG	0
+3121	Housing - w1895 Creeper Cave - Davon's Bot - BEAX	0
+3122	AnyAny - Detonator in Hand	0
+3123	Clynch - Moment of Opportunity - BUFF - Heal 20%	0
+3124	Clynch - Moment of Opportunity - BUFF - Heal S20%	0
+3125	Strain Corruption - Envelop Spawn + Death	0
+3126	Exile Arkship - Greenhouse- Dead Exile Male -SPB	0
+3127	Exile Arkship - Greenhouse- Dead Exile Female SPB	0
+3129	Broken Scanner Bot - Sparks - ARY	0
+3130	AnyAny - Camerabot in Hand	0
+3131	Holo Rainbow - Flavor - ARY	0
+3132	Dominion Arkship - Final Holodeck Effects - JDT	0
+3134	Wilderrun 1 - Q8914 - Lab Rats in cages - SPB	0
+3135	Thayd - PE522 - Guard Teleport Entry - CM1	0
+3136	Thayd - PE522 - Prisoner Teleport Entry - CM1	0
+3137	Thayd - PE522 - Kain Teleport Entry - CM1	0
+3138	Flank Point - Q8054/7664 - Grimvault - JBN	0
+3139	Q7664 - Grimvault - Tank Root - JBN	0
+3140	Grimvault - T2 - m2356/m3135 - Frost FX - WG	0
+3141	Logic Buff VFX	0
+3142	Grimvault - T2 - m2536/m3135 - Sleep FX	0
+3143	W2988 - Strain Mauler Digging	0
+3144	Eldan PLatform - Small - Brith - W2988	0
+3145	Eldan PLatform - Large - Brith - W2988	0
+3146	Eldan PLatform - Circle - Brith - W2988	0
+3147	Eldan PLatform - SCircle - Brith - W2988	0
+3148	AnyAny - npctelegraph_loop_03 [Inf] - TDG	0
+3149	Cassian Ghost - Auroria - Item Challenge	0
+3150	Warbot Sock'Em Tether	0
+3154	Grimvault - T1 - m3090/m3094 - Mission Starter FX	0
+3155	C1061 - Inferno Chest - Auroria T4 - RR	0
+3156	Warplot Creature - Moodie Shade - BEAX	0
+3157	Warplot Creature - Spirit Totem - BEAX	0
+3158	Poison Aura On Birth	0
+3159	Military Set - salute	0
+3160	PE325 - Eldan Spawn In FX - JBN/MLB8	0
+3161	De-Cloaking Emitter - JGP	0
+3162	FXmisc01 De-cloak - JGP	0
+3163	Base De-cloak - JGP	0
+3164	Trinette Stealth	0
+3165	PE325 - Target Arrow - JBN/MLB8	0
+3166	Swimming Backwards - Flavor	0
+3167	NWPC - Kezrek Hologram FX - HCon	0
+3168	Electricuted  - Warbot - Flavor	0
+3169	Snow impact effects - Flavor - ARY	0
+3170	Scanbots Death/Birth envelop	0
+3171	Globellum Brain	0
+3172	[GA] Act 2 - Probes - Birth VFX	0
+3173	Galeras-T1-Q5181-Delivery Point Field 2-DJU	0
+3174	Grimvault - T3 - m3163 - Post-Mission FX	0
+3175	NWPC - Frozen Remains - HCon	0
+3176	Grimvault - T3 - m3169 - Mission Starter FX	0
+3177	CH956 - Target Effect - CM1	0
+3178	Grimvault - T3 - m3169/m3234 - Relic FX - WG	0
+3179	[GA] Ravager Shadowy Hands [OOC]	0
+3181	Flamedancer/ no birth - Deradune Micro - DY	0
+3183	Skugg - On Birth - Aggro Sound	0
+3184	Strain_mid_ppl	0
+3185	W2189 - Vilespawn Swarmer Action Set	0
+3186	W2967 - Safezone - RBG	0
+3187	AnyAny - Chua Holding Bomb	0
+3188	Strain Bile Spewer	0
+3189	Drusera - w2988 Spawn/Despawn - rez only	0
+3190	Generic - Envelop_Dust_Reverse_OGE [2.4s] Birth	0
+3191	Q6822 - Voreth Cinematic Anims - MRD	0
+3192	SOUND - Exanite Shard	0
+3193	W2352 - Strain Envelop on birth and death	0
+3194	Q5359 - Fire Envelop on Death - CM1	0
+3195	Grimvault - T4 - m3255 - Collectable Buff	0
+3197	Primal Siphon Dom - GV T4	0
+3198	W2352 - Red Light Aura Effect - CSG	0
+3200	Primal Siphion Stations - JGP	0
+3201	Grimworm Spit - Grimvault - PE528 - JBN/MLB9	0
+3203	Grimvault - T4 - m3255 - Myala Everstar	0
+3204	Grimvault - T4 - m3255 - Emperor Myrcalus	0
+3205	Grimvault - T4 - m3255 - Victor Lazarin	0
+3206	Grimvault - T4 - m3255 - Durek Stonebreaker	0
+3207	Grimvault - T4 - m3255 - Kezrek Warbringer	0
+3208	Grimvault - T4 - m3255 - Dance Party	0
+3209	Grimvault - T4 - m3255 - Krag Studrok	0
+3210	C1078 Interference - CSC	0
+3211	C1078 Interference 2 - CSC	0
+3212	Whitevale Tract 2 Aura Red and Aware Eye - CM1	0
+3213	Burning Grimworm - PE528 - Grimvault - T4 - JBN	0
+3214	Grimvault - T4 - m3255 - Buzzbing Pollen	0
+3215	Grimvault - T4 - m3255 - Phineas T. Rotostar	0
+3217	Envelop_DeRez_Reverse_GRN	0
+3218	Envelop_DeRez_GRN	0
+3219	Envelop_DeRez_Reverse_GRN Envelop_DeRez_GRN	0
+3220	Envelop_DeRez_LG_Reverse_GRN	0
+3221	Envelop_DeRez_LG_GRN	0
+3222	Envelop_DeRez_LG_Reverse_GRN Envelop_DeRez_LG_GRN	0
+3223	Teleporter Malgrave Quest/Event - ARY	0
+3224	M3253 - Grimvault - T4 - Strain Heart death	0
+3225	MalgravePC_SuperiorPowerSurgeController_ActionSet	0
+3226	Noxious Fumes - PE 551 - DY	0
+3227	AnyAny-Emote_UseKneeling_Loop-[Inf](No Sound)-TDG	0
+3228	Illium Red Yellow Hologram Q9368	0
+3229	Thayd Blue Hologram Q9367	0
+3230	[Datascape] e395 - Life Elemental - Who Do?	0
+3231	Auroria - Dracus - DetonatorChallenge_Green_NEW	0
+3232	Q4508 - Electric envelop reverse	0
+3233	Sorrow Buff - PE528 - Grimvault - T4 - JBN/MLB9	0
+3234	Vice Buff - PE528 - Grimvault - T4 - JBN/MLB9	0
+3235	Deceit Buff - PE528 - Grimvault - T4 - JBN/MLB9	0
+3236	Agony Buff - PE528 - Grimvault - T4 - JBN/MLB9	0
+3237	Strain Heart Blood - PE528 - Grimvault - T4	0
+3238	Dreadphage Staging - PE528 - Grimvault - T4	0
+3239	Arkship Tutorial - Destination Screens - JDT	0
+3240	Invisible Assailant - Interference - CSC	0
+3241	Malgrave PC - Eldan Artifact Scan - MRD	0
+3242	Teleporter Malgrave PCP-  INSIDE ELDAN -ARY	0
+3243	Cryopod Smoke - Grimvault T1E3 - MLB1	0
+3244	M218 - Loftite Formation FX	0
+3246	M2341 Torine Watcher (Stealth)	0
+3247	Levian Bay PC - Q9374 - Snoglug - MRD	0
+3248	Q7167 - Protostar Signs	0
+3249	Thayd Ch1002 Talk To Head Bubble (Any)	0
+3250	LevianBayPCP_AquaplasmPuddle_BirthDeath	0
+3251	Malgrave - T2 - m2057 - Core Sampler Bot	0
+3252	AnyAny - Default_Emote_Wave [Inf] - TDG	0
+3253	Default_Emote_Eat_Loop [Infinite]	0
+3256	Farside - T2 - m1595 - Invis Flare Mortar - WG	0
+3257	LevianBayPCP - GeyserAnims	0
+3259	Dead Soldier - Staging - Grimvault - Q7675	0
+3260	Dead Trooper - Staging - Grimvault - Q7675	0
+3261	Q6174 - Decloak Effect	0
+3262	[DS] e392 - Void Desert - Remnants	0
+3263	Default Hover Birth	0
+3264	[GA] e413 - Black Hole Appearance	0
+3265	Defensive Protocol Unit Adds onBirth	0
+3266	e494 - [DS] Scaretaker Room - Jump Pad	0
+3267	Deadly Peep - Grimvault - T1E1 - JBN	0
+3268	AnyAny - Default_StartScreen_Loop_01(5612) - TDG	0
+3269	LevianBayPCP - Bomb Hologram FX - STH	0
+3270	Q9377 - Modified Shredder - MRD	0
+3271	Q9377 - Modified Seaspine - MRD	0
+3272	Q9377 - Modified Raptor - MRD	0
+3273	Explorer - Global - Eldan Teleport Sign - WG	0
+3274	Plasma Beam Fire	0
+3275	Levian Bay PC - Q9376 Caretaker - MRD	0
+3276	Dead Explorer (Most Races) - Global - Flavor NPC	0
+3277	Dead Explorer (Draken) - Global - Flavor NPC	0
+3278	Dead Explorer (Mechari) - Global - Flavor NPC	0
+3279	Dead Explorer (Granok) - Global - Flavor NPC	0
+3280	Malgrave - T1 - m1954 - Dig Attempt FX - WG	0
+3281	LevianBayPCP - Posion FX on Jar	0
+3282	Whitevale Adv - Holostation Effects	0
+3283	Malgrave - T2 - m2082 - Excavation Bot (Success)	0
+3284	Malgrave - T2 - m2082 - Excavation Bot (Failure)	0
+3285	Malgrave - T2 - m2082 - Dig Attempt FX - WG	0
+3286	Nano-Field Generator	0
+3287	Strain Pheromone - Scientist Raw Scan - Item FX	0
+3288	Levian Bay - Annihilator Fire - HCon	0
+3290	Strain Pheromone Sac	0
+3291	Explorer - Global - Eldan Relic - Dig FX - WG	0
+3292	Q9387 - Ikthian Blood - ARY	0
+3295	Sprinkler Teleport in 2	0
+3296	[SETTLER-AURA] Protection Field Buff Grimvault	0
+3297	[SETTLER-AURA] Protection Field BLu Grimvault	0
+3298	Wilderrun-T2-Q8077-Strain Alchemist-DJU	0
+3299	M1634 - Strain_mid_ppl	0
+3300	Greater Primal Earth Nexus	0
+3301	[DS] Datascape Entry - Red Teleport VFX OnBirth	0
+3302	Hellrose Bowl - PE248 - Cubig	0
+3303	Rage Logic - Rail Gun Speeder - CM1	0
+3304	Rage Logic - EMP Speeder - CM1	0
+3305	Rage Logic - Rocket Speeder - CM1	0
+3306	Algoroc - T2 - Rock Platform Despawn - WG	0
+3307	Q9375 - Birth - MRD	0
+3308	AnyAny-HousingFireworks Small - TDG	0
+3309	Generic Hologram Shader Green & Float Pose - DHM	0
+3310	Arid Mircoburst - Farside 1 - VEW	0
+3311	Mechari Holding Holo-Projector	0
+3312	Explorer Leaf Platform - Global - Leaf FX (120s)	0
+3313	Flex and Yes Loop	0
+3314	Stasis - Pain Loop - CSC	0
+3316	Q9375 - 1118 - MRD	0
+3317	Deradune - Q5992/3 Green Caretaker spawn	0
+3318	Unstable Filament Spawn	0
+3319	Levian Bay PCP - Q9374 - Water - MRD	0
+3320	Q7792 - Elemental Strain Effects	0
+3321	Augmented Hookfoot Creature Glow	0
+3322	On Birth - Envelop_Electric_LG_Reverse_BLU	0
+3323	Q9374 - Water Dracus birth - MRD	0
+3324	Q9374 - Water Elemental birth - MRD	0
+3325	Q9374 - Aquaplasm Despawn - MRD	0
+3326	Q9374 - Geyser Audio - MRD	0
+3327	Cryoglider Green Glow (Buff_ElementLife_GRN)	0
+3328	Falkrin1 - Grimvault T2 Flavor - RVN	0
+3329	stand state override - RVN	0
+3330	Falkrin2 - Grimvault T2 Flavor - RVN	0
+3331	Q7792 - Corruptor Effects	0
+3332	Generic Hologram Shader - Red - OnBirth	0
+3333	static - Grimvault T2 Flavor - RVN	0
+3334	Hellrose Bowl - Volcanic Ash	0
+3335	Explorer - Global - Misc - Dig FX - WG	0
+3336	Auroria - T4 - m1701 - Clue 4 - Dig FX - WG	0
+3337	Smoking Meat	0
+3338	Shades of Elements - Area Corruption - GV2 - KRW	0
+3339	Q4785 Force Field Disabled	0
+3340	Pyre Everflame	0
+3341	Shades of Elements - Console Interact - GV2 - KRW	0
+3342	Gorg Cinematic Test - MLB1	0
+3343	Corrupted Torine - EyeGlow_RED_Small - Cast Glow	0
+3344	Infested Root	0
+3345	Exile Arkship Tutorial - M3136 - Retired Crown	0
+3346	Explorer Translocate Beacon - Global - WG	0
+3347	Green Eldan Probe Bot FX - Q9375 - MRD	0
+3348	Q4760 Shock Paddle - Galeras - T1	0
+3350	Levian Bay PCP - Q9376 - Avatar Death -MRD	0
+3351	Levian Bay PCP - Q9376 - Projector Red - MRD	0
+3354	M1743 - Hologram Shader	0
+3355	Q5658_Spawn_SFX	0
+3356	Fire_GroundSmolder_wDecal_10m_RED	0
+3357	Mysterious Wisp Death	0
+3358	W2988 - Terminus Warden	0
+3359	Q9149 Q9161 - Robot Part PFX Object - MLB7	0
+3363	Spellgiver Blood hand Fx - RVN	0
+3364	[DS] Avatus - Fragment	0
+3365	Envelop_Corruption_Reverse On Birth	0
+3366	Raid Key - Glubglob's Spawnling - BEAX	0
+3367	PE523 - Grove-Breaker Icons - JBN/MLB8	0
+3368	PE523 - Hero-Killer Icons - JBN/MLB8	0
+3369	PE523 - Primal-Striker Icons - JBN/MLB8	0
+3370	W2967 - Sing then Dance - Steamglider A	0
+3371	W2967 - Dance then Sing - Steamglider B	0
+3372	AnyAny- Default_Talk(vID=131)Wait RDM/Loop -TDG	0
+3373	AnyAny- Scannerbot Scan Cycle - TDG	0
+3374	W2967 - Storytime - DEN1	0
+3375	W2967 - Steamglider Dance Foreve	0
+3376	W2967 - Frizlet Dancing	0
+3377	Small Firework (SOUND)	0
+3378	W2988 - Deactivated Protector Ready	0
+3379	Target_Laser_RED OnBirth	0
+3380	Raid Key - Farside - War Mech - BEAX	0
+3381	Grimvault - T3 - PE523 - Offensive Aura	0
+3382	Grimvault - T3 - PE523 - Defensive Aura	0
+3383	Grimvault - T3 - PE523 - Special Aura	0
+3384	AnyAny- Sitting Eating a Space Taco - TDG	0
+3385	AnyAny - Space Taco Stand Hologram - [Inf] - TDG	0
+3386	W2189 - Caretaker Birth Anim	0
+3387	Raid Key - Farside - Probe Action Set - BEAX	0
+3388	Raid Key - Farside - Protector Action Set - BEAX	0
+3389	Raid Key - Farside - Augmentor Action Set - BEAX	0
+3390	Raid Key - Farside - Commander Action Set - BEAX	0
+3391	Generic - Buff_Smoke_RED_14 (0.4 scale)	0
+3392	EldanPhaseBlaster_EnergyBall_Sound	0
+3393	Adventures Sim Core - Teleport Pad	0
+3394	Farside - Q6181/6581 - Vicious' Ship	0
+3395	Q9118 - Cass Quietly Ravel Spawn - MLB7	0
+3396	Sparks - Ch1038 - Grimvault - T3 - JBN	0
+3397	Q9062 Q9121 - Bombing Target SELECTED - MLB7	0
+3398	bike rider - Bike - Grimvault t3 - RVN	0
+3400	hoverboard attach - Grimvault t3 - RVN	0
+3401	bike rider ex - Bike - Grimvault t3 - RVN	0
+3402	Blackheart Hut AOI - Auroria - 3 - HCon	0
+3403	Q9161 - Override Spawn and Teleport - MLB7	0
+3404	Q9161 Q9149 - Freebots at Camps - MLB7	0
+3405	Hologram FX - CH1038 - Grimvault - T3 -JBN	0
+3406	Q9149 Q9161 - Freebot Drone Torso - MLB7	0
+3407	Warplot Boss - Avatus - Dimensional Rift - BEAX	0
+3409	Q9064 Q9123 - Psychic Anchor FX - MLB7	0
+3410	PE169 - Dust Birth/Death - TDG	0
+3411	Illium - Imperium Transport Flying - CM1	0
+3412	Q9174 invi creature - RVN	0
+3413	PE588 - Aggregor the Dust Eater Forming - TDG	0
+3414	Warplot Boss - Ohmna - Birth - BEAX	0
+3415	Hibernating orbitog	0
+3416	M1675 - Hibernating Orbitog	0
+3417	M1675 - Lovestruck Orbitog	0
+3418	Tangle Bramble - FX	0
+3420	E.Arkship - Shocked Exile - TDG	0
+3421	Humanoid Staff (Logic - Support)-Inversion Anchor	0
+3423	Whitevale Adv - Darkspur Death Knell	0
+3424	Whitevale Adv - Marauder Death Knell	0
+3425	Whitevale Adv - Protostar Death Knell	0
+3426	e395 - [Datascape] Logic Elemental - Logic Prison	0
+3428	Q7488_SurgeBeacon Action Set	0
+3429	M1790 - Platform red shader	0
+3431	Randomized Holographic Distraction Anims [Inf]	0
+3432	[BAM]  D6 - D11 Red Dazeroot Buzzbing - Celestion	0
+3433	[BAM] D6 - D11 Red Glow Effect	0
+3434	Holographic Distraction - Spawn in	0
+3435	Q5796 Aurin Prisoner - Hands behind back	0
+3436	[BAM]  D6 - D11  Red Glow Ravenous Celestion	0
+3437	Vitara's Power [CHEST]	0
+3438	Eye Stalk - Base	0
+3439	Grimvault - T3 - Grimworts - JBN	0
+3440	Illium - T1 - m2419 - Platform Spawn -> Despawn	0
+3441	[BAM]  D6 - D11 Red Glow Ellevar Malverine	0
+3442	[BAM] D6 - D11 Red Glow Ellevar Mutated Dagun	0
+3443	M2067 - Eldan Artifact - Datacube FX	0
+3444	Malgrave - PC - Quarantined Remains - HCon	0
+3445	w3023 - Dominion Spawn effect - PWM	0
+3446	M2067 - Datacube Fragment - Data FX	0
+3447	Healing Spring	0
+3448	w3023 - Exile Spawn effect - PWM	0
+3449	Dominion Arkship - Hologram Shader - Red - LST	0
+3450	Exile Arkship - Hologram Shader - Blue - LST	0
+3451	Malgrave Adventure - Water Hole Mirage	0
+3452	Essence visual - Q9527 - RVN	0
+3453	Dracus - Birth anim D6 Red Glow	0
+3454	Q4527 - Puma Effects - D6 Red	0
+3455	Exile Arkship - Hologram Shader Lite - Blue - TDG	0
+3456	Generic Death	0
+3458	PhagetechFabricatorRadiationProxy	0
+3459	Q7174 - On Birth Use Infinite	0
+3461	D.Arkship - HoloShader(Red)-telegraph_loop_01-TDG	0
+3462	Emote_Cry_Kneeling_Loop - Looping Sound	0
+3463	[BAM] D6 - D11 Red Whitevale Deadrock Collar	0
+3464	[BAM] D6 - D11 Malfunctioning Bot - Whitevale	0
+3465	[BAM] D6 - D11 Red Eyes Glow - EyeGlow_RED_Small	0
+3466	Crying Aurin SFX - Exile Arkship	0
+3467	AnyAny - Default_Chair_08 [Infinite]	0
+3468	DetonationBomb_Burn_Sound	0
+3469	Corruptor Intro - Grimvault - T3 - Q8996/9005	0
+3470	[BAM] D6 - D11  Red Auroria_Plagued_Effect	0
+3471	State_Wounded_Ground_01 [Infinite] (Female SFX)	0
+3472	State_Wounded_Ground_02 [Infinite] (Female SFX)	0
+3473	Generic - Infinite - Stand Use (Glass clinking)	0
+3475	State_Wounded_Ground_03 [Infinite] (Female SFX)	0
+3477	Default_Stand_Wounded [Infinite] (Female SFX)	0
+3478	Glass Clink (IdleOnBirth) StopClink (IdleOnDeath)	0
+3479	State_Wounded_Ground_01 [Infinite] (Male SFX)	0
+3480	State_Wounded_Ground_02 [Infinite] (Male SFX)	0
+3481	State_Wounded_Ground_03 [Infinite] (Male SFX)	0
+3482	Default_Stand_Wounded [Infinite] (Male SFX)	0
+3483	Scientist Ability - Teleport Animation	0
+3484	NorthernWilds_Adventure_Caretaker_FastDeath_Sound	0
+3485	Wounded Female (SFX Only - no vis) [inf]	0
+3486	Wounded Male (SFX Only - no vis) [inf]	0
+3487	Bandaging (SFX Only - no vis)	0
+3488	Chowdower - Q9527 - RVN	0
+3489	Undertow - Vortex - FX	0
+3490	Q9531 - Honey Drop - Splash - RVN/MLB9	0
+3491	Essence Rot Looping Sound	0
+3493	Corrupt generator - Q9053 - RVN	0
+3494	Tornado Swarm - SFX	0
+3495	NWPC - Holo Wawalo - HCon	0
+3496	NWPC - Holo Matron - HCon	0
+3497	NWPC - Holo Augmentor - HCon	0
+3498	Assault Infuser	0
+3499	Destruco Drone	0
+3500	NWADV - Rally Point Aura	0
+3501	Adventures - Bottle in Hand	0
+3502	Warplot Boss - Murderbot - Forcefield - BEAX	0
+3503	Envelop_DeRez_Reverse_BLU.m3 (Base) (Birth)	0
+3504	Ripjaw Snapper Spawn	0
+3505	Wire Sparks - Wilderrun	0
+3506	PureWaterEngineer_BootUp_Anims	0
+3508	Grimvault - T4 - PL Content - Data Pyramid - WG	0
+3510	Q7174 - Brewers Working	0
+3511	Q7178 Kneeling Captured Scout	0
+3513	Settler Level Bonus Attack Ship Gas	0
+3514	SE14 - Shadeling Spawn - JDT	0
+3517	TMNS - Controller - Fester Bomb - Tether Unit	0
+3518	SE14 - Lost Soul Consumed - JDT	0
+3519	Targeting Arrow Q5390	0
+3520	E.Ark - Relic - Frozen Serrik Freeze - TDG	0
+3521	AnyAny - Exile_StartScreen_Loop_01(7724)- TDG	0
+3522	Jumping in place - TDG	0
+3523	Enigma/Sectert Op Chamber Flavor - Stand and Use	0
+3524	Enigma/Sectert Op Chamber Flavor - Striaght Talk	0
+3525	Enigma Chamber Flavor - YesNoTalk -RBG	0
+3526	Enigma/Sectert Op Chamber Flavor - Kneel and Use	0
+3527	Enigma Chamber - Sitting Guardsmen	0
+3528	W3045 Hologram Death	0
+3529	Sectert Op Chamber Flavor - YesNoTalk -RBG	0
+3530	Burning Eyeball	0
+3531	SE14 - Shade Tribute Birth	0
+3532	Proximity Mine Birth Sound	0
+3533	Q9565 Invis Ghost Field	0
+3534	SE14 - Gourdinista1 - TDG	0
+3535	SE14 - AnyAny - Chua Holding Bomb - Q9565	0
+3536	SE14 - Gourdinista2 - TDG	0
+3537	DrainingOoze_SplashFX	0
+3538	Warplot - Red Generator - BEAX	0
+3539	Warplot - Blue Generator - BEAX	0
+3540	Q5604 - Anti-Air Cannon Fire loop	0
+3541	Halon Ring-T1-Security Beam-Projector-Hazard-DJU	0
+3542	WaterTwisterLoopingSound	0
+3543	Q9178-Q9184 Scanbot	0
+3544	Halon Ring-Tract 1-Bandits Spawn IN-DJU	0
+3545	BFG - Ikthian - VFX	0
+3546	PvP Warplot - Team Plug Forcefield (Blue)	0
+3547	Q9282 - Caretaker Birth/Leave	0
+3548	Anchors A Weigh - FX	0
+3550	Datascape - Datacore Avatus Vignette - Birth	0
+3551	SE14 - Q9588/9589 - Bonfire Bye Bye	0
+3552	Pyropaw Fire FX - Fluff - Grimvault - T3	0
+3553	M3242 - Power Augmentor	0
+3554	OT_Aura_Light_RED.m3 (Base) [Inf] (Size 0.2) -KMS	0
+3555	SE14 - Q9565/9578 - Visual - RR	0
+3557	M3245 - Grimvault T4 - Strain Spawner - spew	0
+3558	SE14 - Q9590/Q9591 Hooligans	0
+3559	w3045 - Teleport Entry Effect - PWM	0
+3560	Teleport Weapon In - Grimvault - PE528 - JBN/MLB9	0
+3561	SE14 - Q9592/9593 - Spider Poof - RR	0
+3562	Eldan Derez Reverse	0
+3563	Eldan Artifact Placement Holo	0
+3564	Conjured bomb - sound	0
+3565	w2189 - Burnable Strain Objects	0
+3566	SE14 PE597 W3044 - Jack Shade Birth/Death - KLW	0
+3567	[DS] Fire Room - Hazard - Protection Sphere - SND	0
+3568	SE14 - Treat Box Spawn - RR	0
+3569	Q9619 - Virtual War Mech - VRV	0
+3570	Vunerability - Q9620 - Grimvault - T4 - JBN	0
+3571	InVunerability - Q9620 - Grimvault - T4 - JBN	0
+3572	Q9636 - Probebot Spawn	0
+3573	Q9636 - Maintenance Dispenser spawn	0
+3574	Hologram - Q9620 - Grimvault - T4 - JBN	0
+3575	W3045 - Avatus Projection	0
+3576	SE14 - Q9586/Q9587 - Collectable FX - RR	0
+3577	M3242 Eldan Generator	0
+3578	star-comm basin strain boss - twh	0
+3579	SCS-543:Arbiter_DamageElecFX	0
+3580	SCS-101 Mender_HealPose	0
+3581	SCS-101 Mender_HealPose_02	0
+3582	Halon Ring-Goldenhand Cellar-Dead Bandits-DJU	0
+3583	SE14 - Gourdinista3 - TDG	0
+3584	M2456 - Melee Combat and Corpse	0
+3585	M2456 - Guard	0
+3586	Q9274 - Eldan Telepathy	0
+3587	M2456 - Corrupt Default_Stunned [Infinite]	0
+3588	M2457 - Melee Combat and Corpse	0
+3589	M2457 - Guard	0
+3590	M2457 - Corrupt Default_Stunned [Infinite]	0
+3591	Generic OnBirth - Default_Emote_Cheer	0
+3592	Invisible - BEAX	0
+3593	SE14 - Q9588/Q9589 - permaburn	0
+3595	LevianBayPCP - HoloShaderGRN - FluffQuestHubCreat	0
+3596	Spawner - PE523 - Grimvault - T3 - JBN/MLB8	0
+3597	Square Data - Q9620 - Grimvault - T3 - JBN	0
+3598	SE14 - Q6945 Invisible unit action set	0
+3599	SE14_Q9633 - Fertilizer Fog - TDG	0
+3600	SE14 - Gourdinista4 - TDG	0
+3601	PE606 - Shadeling Death - DY	0
+3602	SE14 - Q9596/Q9578 - Poof - RR	0
+3603	Hot Brew - Q9646/Q9647 - Grimvault - T4 - JBN	0
+3604	w3045 - Red Orb Despawn Effect - PWM	0
+3605	w3045 - Blue Orb Despawn Effect - PWM	0
+3606	w3045 - Green Orb Despawn Effect - PWM	0
+3607	w3045 - Yellow Orb Despawn Effect - PWM	0
+3608	Shield Resonator - SFX	0
+3609	W3045 - Hologun Effects - RBG	0
+3610	SE14 - Q9645 - GHost Version 1 Appearance - SPB	0
+3611	SE14 - Q9645 - GHost Version 2 Appearance - SPB	0
+3612	Ambar Dance	0
+3613	Q9816 - Fireworks - CSC	0
+3614	SE14 - Q9645 - Ghost Version 3 Appearance - SPB	0
+3615	SE14 - Q9645 - Ghost Version 4 Appearance - SPB	0
+3616	Flashlight Battery FX [SE14]	0
+3617	Shadeling Dance - SE14 - JGP	0
+3618	Q9618 - Jingo Closeup Action Set - CSC	0
+3619	Generic - TX_MwaHaHaHa OGE - Name - OOC	0
+3620	Q9618 - Jango Closeup Action Set - CSC	0
+3621	Grimvault - Brewmaster - Use - Glass - JBN	0
+3622	SE14 - Shadeling Dance Spawn - JGP	0
+3623	Q9618 - Wingo Closeup Action Set - CSC	0
+3624	Q9618 - Hongo Closeup Action Set - CSC	0
+3626	GC133 - Starlight - Dancer 1 - Closeup - CSC	0
+3627	GC133 - Sunbeam - Dancer 4 - Closeup - CSC	0
+3628	GC133 - Silverglow - Dancer 2 - Closeup - CSC	0
+3629	W3045 - Avatus Projection Death Effect	0
+3630	GC133 - Moonbeam - Dancer 3 - Closeup - CSC	0
+3631	Grimvault - PE528 - Ship Spawn In - JBN/MLB9	0
+3632	Guyen Rock Loop	0
+3633	Mordesh Lead Singer	0
+3634	OT_Ghost_WTE.m3 (FX_MISC_01) [Infinite]	0
+3635	[DS] e395 - Life - Summon Caretaker	0
+3636	[DS] e395 - Life - Summon Scrab	0
+3637	SE14 - Q9645 - Champion Spawn in / Out VFX Team 1	0
+3638	SE14 - Q9645 - Champion Spawn in / Out VFX Team 2	0
+3640	SE14 - Q9645 - Game Initiation Bot - SPB	0
+3641	Terminite Burrow UP s74770	0
+3643	Datascape - Intro Vignette - Avatus	0
+3644	Datascape - Caretaker Intro - Vignette	0
+3645	W3045 - Raider Teleport In	0
+3647	Encrust - Crust - FX	0
+3648	w3045 - Green Logic Burst - PWM	0
+3649	w3045 - Decryption Sequence Effects	0
+3650	Hops - Q9646/Q9647 - Grimvault - T4 - JBN	0
+3651	Default_NPCTelegraph_Loop_04 - 5s - MLB9	0
+3652	M2362 - Guarding Torine	0
+3655	M2362 - Corrupted Pumera - Field Study	0
+3656	Slotmachine - Hologram Shader - Blue	0
+3657	Slotmachine - Hologram Shader - Red	0
+3658	Slotmachine - Hologram Shader - Orange	0
+3659	Emote_Cry_Kneeling_Loop (Human Male SND)	0
+3660	Grimvault - Grimwort SFX	0
+3661	Dreadsiege Wall - Grimvault - PE528 - JBN/MLB9	0
+3662	Grimvault - 4 - Random Orbital Strike - FX-453300	0
+3663	Q7143 - Dust Envelop on Death	0
+3664	Datascape - Progression Console Rez In - HCon	0
+3666	PE447 - Abduction Teleport in - Sound on spawn	0
+3667	Slotmachine - Selection Visual	0
+3668	Wilderrun - T2 - Q8061 Q7756 - SporePod - SFX	0
+3669	Q9269/Q9630 - Rez and Orientation Gadget	0
+3670	Q9269/Q9630 - Rez and Orientation Micro-cell	0
+3671	Q9269/Q9630 - Rez and Orientation Imperium Crate	0
+3672	W3045 - Target Point Birth Effect - Platform Room	0
+3673	W3045 - Circuit Buster Birth - DEN1	0
+3674	Freebot SMASH! Spawn In	0
+3675	Broxx Spinesnapper - Spawn In	0
+3676	Golrath the Unforgettable - Spawn In	0
+3677	Mistress Crucifex - Spawn In	0
+3678	Razorella - Spawn In	0
+3679	Jabbit Punch - Spawn In	0
+3680	Deathbringer Hope - Spawn In	0
+3681	Swordsister Mercy - Spawn In	0
+3682	Murghderer - Spawn In	0
+3683	Big Boss Badpaddles - Spawn In	0
+3684	The Heartbreaker - Spawn In	0
+3685	The Mindquaker - Spawn In	0
+3686	Elda - Spawn In	0
+3687	Rudo - Spawn In	0
+3688	Q8999 Q9008 - Grimvault - Soldier reinforcement	0
+3689	M1533 M1603 - Farside - Demo - Scavenger dirt	0
+3690	Hat Trick - Jabbit Spawn	0
+3691	w3045 - Red Rez / Derez Effects - Pwm	0
+3692	w3045 - Green Rez / Derez Effects - Pwm	0
+3694	e395 - Life Essence - Birth SFX	0
+3695	Slot Machine Personal - Buff_1 Reward Creatures	0
+3696	Moving Exanite Pillar attack effect - W2967 [DEV]	0
+3697	e395 - Crystaline Matrix - on Death SFX	0
+3698	SE14 - Hologram Shader - Orange	0
+3699	w3045 - Red Rez / Derez Effects - Boss - pwm	0
+3700	w3045 - Green Rez / Derez Effects - Boss - Pwm	0
+3701	Farside Adv - Nanite Swarm	0
+3702	Farside Adv - Nanites	0
+3703	SE14_Goopyhands_TDG	0
+3704	SE14 - Fire Dancer 1 - Dance	0
+3705	Lava Geyser Infinite	0
+3706	Housing - 1x1 Containment Unit - Ghost Float	0
+3707	SE14 - Fire Dancer 2 - Dance - SPB	0
+3708	SE14 - Fire Dancer 3 - Dance - SPB	0
+3709	SE14 - Fire Dancer 4 - Dance - SPB	0
+3710	Boomerang Derby - Hat	0
+3711	Fire Wall Infinite	0
+3712	[DEPRECATE] [SE14] Shadeling Cry Loop	0
+3713	[DEPRECATE] [SE14] Shadeling Cheer Loop	0
+3714	W3045 - Clone Decoy	0
+3715	[UP] e2675 - Hut-Hut	0
+3716	OT_Ghost_WTE.m3 (FX_MISC_01) [Infinite]	0
+3717	Megadroid Churner - Farside Adventure	0
+3718	1x2 osun forge - Frost Tower	0
+3719	1x2 osun forge - Fire Tower	0
+3720	1x2 osun forge - Lightning Tower	0
+3721	Farside Adv - Beacon of Light	0
+3722	Default_KnockDownToBack_GetUp_Combat (Birth)	0
+3723	Teleport in OnBirth - Farside Adventure	0
+3724	SE14 - Q9588/Q9589 Hay Decoration - RR	0
+3725	SE14 - Items - Spider Drop - JDT	0
+3726	Mortalis Envigorator - JGP	0
+3727	Slot Machine button blink	0
+3729	SE14 - Ritual Fire - CM1	0
+3730	AnyAny - Default_Chair_06 [Infinite]	0
+3731	SE14 - Q9588/Q9589 Hay Decoration (permaburn)- RR	0
+3732	w3045 - Decryption Sequence - Action Set	0
+3733	Farside Adventure - LG Hallucination Birth - BEAX	0
+3734	Farside Adventure - Mirage Totem - BEAX	0
+3735	W3045 - Deadly Rays	0
+3736	SE14 Hologram Shader - Blue - RR	0
+3737	PVP Taxi Jump Pad - SFX	0
+3738	DC101 - Levian Bay PCP - Water Eruption - WG	0
+3739	DC101 - Levian Bay PCP - Water Spray - WG	0
+3740	OnBirth OnDeath - Fire Envelop	0
+3741	DC101 - Levian Bay PCP - Water Splash - WG	0
+3742	[UP] e2674 - Fire Creature	0
+3743	[UP] e2674 - Water Creature	0
+3744	[UP] e2674 - Air Creature	0
+3745	[UP] e2674 - Earth Creature	0
+3746	Farside Adventure - Mainframe - Shield Gen - BEAX	0
+3747	Farside Adventure - Electric Hive Queen-Boss-BEAX	0
+3748	DC102 - Levian Bay PCP - Strain Egg Death - WG	0
+3749	Dirty Bomb	0
+3750	DC101 - Levian Bay PCP - Explosion Air - WG	0
+3751	Phineas A. Rotostar - Protogames Announcer	0
+3752	Shiphand_level6 Pell Boss Aura - KRW	0
+3753	Default Birth / Death	0
+3755	[SE14] - Plague: Locust Swarm - Locust Swarm	0
+3756	DC100 - Levian Bay PCP - Dusty Explosion - WG	0
+3757	[UP] e2676 - Turret - Ultimate Protogames	0
+3758	Battery - Levian Bay Adv	0
+3759	Q6257 Swiftfell Engulfed FX	0
+3760	[SE14] Plaguebringer Zynlla - Locust Swarm - MXP	0
+3761	Levian Bay - Unstable Node	0
+3762	[SE14] Plaguetechs - Locust Swarm - MXP	0
+3763	Shade Cultists Birth In - MXP	0
+3764	Soulrotted FX - w3009 - Side Mission 2 - JBN	0
+3765	Soulrot Leakage - w3009 - Side Mission 2 - JBN	0
+3766	Plague Wind SFX	0
+3767	Generic - Loot Pile FX	0
+3768	Nano-Bite Scourge Audio	0
+3770	C1114 - Temporal Waste - MLB10	0
+3771	C1114 - Suit Dummy Hologram - MLB10	0
+3775	AnyAny-Dominion_StartScreen_Loop_01[Inf]TDG	0
+3776	[UPJ] Room 3 - Boss - Gorgonoth	0
+3777	AnyAny - Default_Sleep[Inf] Sleeping - TDG	0
+3778	Ghost Pell - w3009 - Side Mission 4 - JBN	0
+3779	Battle Banner (Pell Deploy Banner)	0
+3780	Q9758/Q9759 - Targeting Reticle - RR	0
+3781	AnyAny - Default_Emote_Cheer_Loop [Inf] - TDG	0
+3782	RestlessGhost Pell - w3009 - Side Mission 4 - JBN	0
+3783	Corpse Blood Decal Add Green Test	0
+3784	AnyAny - 2H_Cast_Loop_01 with Torch - KDM	0
+3785	Pell Boss Ghost - w3009 - Side Mission 4 - JBN	0
+3787	Acid Wave Audio s74607	0
+3788	Generic - AP_Birth_State0 [0s]	0
+3789	Yeti Boss - w3009 - Side Mission 1 - JBN	0
+3790	Q6281 Blood Priestess OOC - Halon Ring - T1 - WK	0
+3791	Halon Ring - T1 - Holo Creatures - Medium - KMS	0
+3792	Noxious Breeze - Noxious Wave FX	0
+3793	Adventures Quest Givers - Inside the Adventure	0
+3794	Energy Eruption Trap FX	0
+3796	Emote_Cry_Kneeling_Loop [Infinite] - KMS	0
+3797	Halon Ring - T1 - Necro Creatures - Small - KMS	0
+3798	AnyAny - Fog_Ground_10mR_WTE [Inf] - TDG	0
+3799	BoneTrap BirthStandDeath FX - TDG	0
+3800	PvP Sabotage SFX - Attack Ship Straffing Run	0
+3801	AP_State3_Idle [Infinite]	0
+3802	SE14 Q9565/Q9578 Broken Shady Holoprojector	0
+3804	Randomized - WF14 - Festive Slank Bows - KLW	0
+3805	C1114 - Temporal Waste - Friz - MLB10	0
+3806	Q6260 Hand FX - BMOT	0
+3807	Malgrave Adv - Bee Swarm	0
+3808	WF14 - PEO4475 - Floating Item Action Set - CM1	0
+3809	WF14 - w3094 - collectable aura - DWS	0
+3810	AP_State1_Idle [Infinite] (OnDeath)	0
+3811	Eyeball Mine - SFX	0
+3812	[UP] - w2980 - Protostar Event Specialist Holo	0
+3813	Strain Corruption - Envelop Spawn + Death	0
+3814	Grimvault 4 - World Story 0 -Eyeball Laser Target	0
+3815	WF14 - PEO4475 - Floating Item Action Set 2 - CM1	0
+3816	WF14 - PEO4475 - Floating Item Action Set 3 - CM1	0
+3817	Tether Web - Bundled Web	0
+3818	WF14 Randomized Sparkles w/Invis Death	0
+3819	WS0 - Pro Ward - Boss Pose - PWM	0
+3820	Q6274 Q6486 Laveka Spawn in - Halon Ring - T1  WK	0
+3821	WS0 - Shadow Peep Spawn and attack - RBG	0
+3822	WS0 - Watcher - Peep Spawn and attack - RBG	0
+3823	Q9618 - Cinematic - Draken Lead Singer Dancing	0
+3824	q9618 - Cinematic Anims - Krag Studrok	0
+3825	q9618 - Cinematic Anims - Female Dancers	0
+3826	q9618 - Cinematic Anims - Male Dancers	0
+3827	q9618 - Cinematic Anims - Dancers	0
+3829	(ct) Target Dummy Shader	0
+3830	GC133 - Cinematic Anims - Female Dancers	0
+3831	GC133 - Cinematic Anims - Krag Studrok	0
+3832	GC133 - Cinematic Anims - Male Dancers	0
+3833	WS0 - Giant Death Effects - PWM	0
+3834	ES0 - Weaver - Logic Shard - SFX	0
+3835	Winterfest Tree - Settler - JGP	0
+3836	Q6283 Q6506 Landing Ship - Halon Ring - T1 - WK	0
+3839	WS0 - Umbral Despoiler - Casting - RBG	0
+3840	[RMT] e4558 - Shredder - Platform Flame	0
+3841	WF14 - Golden Plushie Aura - DWS	0
+3843	WS0 - Portal Ward	0
+3844	OT_Esper_Shader~BLU+NPCTelegraph_Loop_01	0
+3845	OT_Esper_Shader~BLU+NPCTelegraph_Loop_03	0
+3846	Generic_Holo_YLW.m3 (Base) [Inf] ANY	0
+3847	Strain Corruption - Archon- Envelop Spawn + Death	0
+3848	WF14 - Broken Snowman - CM1	0
+3849	Drunk - Mouth_Ooze_GRN (OnEnterCombat) - MLB11	0
+3850	WF14 PE679 W3094 - Speed Boost - KLW	0
+3851	Envelop_Dust_Reverse_OGE	0
+3852	Fragment Zero - Bone Trap Ambush - VFX	0
+3853	Coralus - Dreg Playspace - Dreglords - MLB11	0
+3855	Generic - Eyes Glow - EyeGlow_RED_Smal_TESTTEST	0
+3856	FragmentZero_OverSeer_EntryEffects	0
+3857	W2967 - Envelop Nature on Birth - Gourds	0
+3858	M3242 Tower Beam	0
+3859	M3242 Source Beam	0
+3860	M3242 Sparking Wire	0
+3861	M3182 Dirt kickup	0
+3862	Skeech Hag Boss - Shiphand_level6 - KRW	0
+3864	PE328 - Target Arrow - JBN/MLB9	0
+3865	FragmentZero_GREEN_OverSeer	0
+3866	LB0018 - Soldier - Path Ability - Supply Drop	0
+3867	e2680 - Vending Machine - Coin - SFX	0
+3869	Default_KnockDownToBack_Loop_Ground	0
+3871	OnBirth - Derez - On Death - Explode	0
+3872	[UPJ] Room 2 - Boss 1 - Bomb Spawn in	0
+3873	Canimid Burrow Up - Levian Bay Adv	0
+3875	Ghost_Transparent_WTE.m3 (Base) [Infinite]	0
+3876	Invisible Spider Mine - MXP	0
+3878	On Birth OnDeath - Envelop_Electric_LG BLU	0
+3879	Soldier Mine Placement	0
+3880	w1232 - Floor Smoke	0
+3881	Levian Bay Adv - Hologram / Teleport In / Death	0
+3882	FragZero - BlackBox - Smoke	0
+3884	Q6613 - Smoke FX - MLB10	0
+3885	Hide Weapons Inf - Out of Combat Q4705	0
+3886	W1319 - Marauder Ship Landing - CM1	0
+3888	Pistols_Ready [Infinite]	0
+3889	Q5514 - Falkrin Hut action set	0
+3890	W1627 - Overseerbot visuals - CM1	0
+3891	Levian Bay Adv - Grapple Target	0
+3893	Protogames Cambot - Spawn In VFX	0
+3894	[DS] e395 - Life - Fire Event - Shield (Visible)	0
+3895	Q5513 - Boss Aura Light	0
+3896	[UP] e2674 - Protostar Intern	0
+3897	[UP] e2673 - Crate Teleport In	0
+3898	[UP] e2673 - Vulnerable Smash FX	0
+3899	Play_Dance_Evolution_3D_Source_Music (Looping)	0
+3900	Enhanced Splorg - Sparks (Chest) and Red Pulse	0
+3901	Stacking_Poison_Dot - Base - Infinite	0
+3902	[UPJ] Botherbot - Room2 - Boss 3	0
+3903	Cinematic Testing Summons FX - Global - WG	0
+3904	Default_Cast_Burrow_Up (Birth)	0
+3905	[DS] Settler Tower Part FX RED	0
+3906	Artic Wave Audio	0
+3907	Cinematic Spawn - Caretaker - Adventures - WG	0
+3908	Scanner - Levian Bay Adventure	0
+3909	Generic - Eyes GlowPurple - EyeGlow_Purple_large	0
+3911	Levian Bay PCP - Toys - Holoparrot - JDT	0
+3913	Cankershroom Spawn In - MLB10	0
+3914	Eldan Energy Shard - Q7759 - SFX	0
+3915	Emote_Cry_Kneeling_Loop - Generic	0
+3916	[SETTLER T1] Buff_Fastboy	0
+3917	[SETTLER T2] Buff_Fastboy	0
+3918	[SETTLER T3] Buff_Fastboy	0
+3919	[ARA] Data Packet Visuals - HCon	0
+3920	SE14 - Shadeling Portal Explosion	0
+3922	[ARA] Chaser Unit VFX	0
+3923	[ARA] Phage Ooze Area Denial VFX	0
+3924	[LPI] Balloon Party Death	0
+3925	[LPI] Floating Lopp - Lopp Party Palace	0
+3926	Ice Effect - Arcterra - BMOT	0
+3927	Plasmatic Fallout - Morthun - Arcterra - ETS	0
+3931	Default_Misc_01 [Infinite]	0
+3932	Ice_Ground_5m.m3 (Base) [Infinite] (Size 2)	0
+3933	Winterfest Public Event Snowman Test	0
+3934	Calldown - Reward Chest	0
+3935	Randomized - WF14 - SuperMall Shopper Race Anim	0
+3936	GC220 - Whitevale Adventure Intro - Fire FX	0
+3937	Ghost - Arcterra	0
+3938	Ghost - Personal Demons - Birth	0
+3939	GL-4C13R - Arcterra - ETS	0
+3940	Randomized - WF14 - SuperMall Protostar Anim	0
+3941	OT_Book_Hover_YLW_1 - Housing - Infinite - WK	0
+3942	Missile_Start [0s]	0
+3943	Winterfest - Public Event - Snowtron Ice Field	0
+3944	Arcterra - Smite Sleep	0
+3945	Arcterra - Gregul Pose	0
+3946	Arcterra - Moghar Pose	0
+3948	WF14 - Exploding Plushie Aura - DWS	0
+3949	Arcterra - Helgad Pose	0
+3950	Arcterra - Ruthga Pose	0
+3951	Kulgha - Snow Drift - Audio	0
+3952	[LPI] Tier 1 - Rematerialize	0
+3954	CH459_EggOozeDeath	0
+3955	Exile Arkship Tutorial - Warbot ArcWelder	0
+3956	Q6916 - Dirt Burrow	0
+3957	Support Role Training - Holo-Assailants	0
+3958	Arcterra - DE - Radar Repair - Sparks - Rapid Tap	0
+3959	Arcterra - DE - Radar Repair - Angry Osun	0
+3960	Arcterra - DE - Radar Repair - Sparks - Precision	0
+3961	Arcterra - DE - Radar Repair - Ice - Ice Explode	0
+3962	Yellow Glow - CSG	0
+3963	[LPI] Destination Arrow	0
+3964	Mini Frost Orb - Kulgha - VFX	0
+3965	AlphaSanctum - GreenStasis	0
+3967	W3404 PE781 Etheric Being/Void Creature - KLW	0
+3968	Q7018 - Jaillyn Sweetspur Armor - MLB12	0
+3969	[LPI] Cartel Glow	0
+3970	[LPI] Destination Arrow 2	0
+3971	Soul Amalgam - Arcterra	0
+3972	Decayed Soul- Arcterra	0
+3973	Q7018 - Exile NPC Boss Defeated - MLB12	0
+3974	[LAIRS] CP1 - Gift of Replinishment - Heal - BMOT	0
+3975	Teleport In - Banker	0
+3976	[LAIRS] CP2 - Staunch Defense - Defense - BMOT	0
+3977	[LAIRS] CP3 - Bloodthirsty Rampage - BMOT	0
+3978	[LAIRS] CP4 - Splitting Image - BMOT	0
+3979	[LAIRS] CP5 - Storm Call - BMOT	0
+3980	[LAIRS] CP6 - Reflective Shielding - BMOT	0
+3981	[LAIRS] CP7 - Spirit of Mist - BMOT	0
+3982	[LAIRS] CP8 -  - BMOT	0
+3983	[LAIRS] CP9 -  - BMOT	0
+3984	[LAIRS] CP10 -  - BMOT	0
+3987	Plant Overgrown Aura FX_Misc02 (Any, Any)	0
+3988	FF_Egg_Arcterra	0
+3990	AnyAny - MeleeTelegraph_Loop_01 [Inf] - KDM	0
+3991	AnyAny - Misc_01 [Inf] - KDM	0
+3992	AnyAny - Emote_Bow [Inf] - KDM	0
+3993	Conduit - Pillar of Kel Havik	0
+3994	SFX - Soldier Holo Turret	0
+3995	Frozen Lopp - Arcterra T1 - Visual - DE324 - KMS	0
+3996	Arcterra T1 - 1H_Block_Loop - Staging - KMS	0
+3997	MTX - Rune Station	0
+3998	Exile Arkship-Cryo Bay-Dead Mechanics-DJU	0
+4004	Gold Eldan Probe Bot FX - ANY	0
+4005	HA15-Board on Back-Emote Anims-DJU	0
+4006	Default_Birth [5s]	0
+4007	Katja Zarkhov - W3404 PE781 - Boss VFX	0
+4009	CH472_EggOozeDeath	0
+4010	w3404 -  Ravenous Mordesh w/birth anim	0
+4011	w3404 -  Ravenous Mordesh w kneelend	0
+4013	Alpha Sanctum - Primordial Warden	0
+4014	HA15 - Holoring Hologram Shader - MLB13	0
+4016	Q7013 - Stealth Deactivate - MLB12	0
+4017	[WB] Algoroc - Kraggar - Landslide VFX	0
+4018	W3404 PE781 - Random Explosions - KLW	0
+4019	Exile Arkship - Q6742 - Veggie Popup - DJU	0
+4020	AlphaSanctum - GreenStasis2	0
+4021	Q7013/Q7017 - Jaillyn Vignette In/Out FX - MLB12	0
+4022	Farside - Big Graw - Knock Down	0
+4023	WF14 - Plushie Body - Mechari	0
+4024	WF14 - Plushie Body - Protostar	0
+4025	WF14 - Plushie Body - Carrot	0
+4026	WF14 - Plushie Body - Grund	0
+4027	WF14 - Plushie Body - Lopp (Red)	0
+4028	WF14 - Plushie Body - Lopp (Blue)	0
+4029	WF14 - Plushie Body - Rowsdower	0
+4030	Q10416 Hologram Entrance	0
+4031	Frost Spire Visuals	0
+4032	Frost Pylon Visuals	0
+4033	Discovery - Winterfest Snowman Pet	0
+4034	Generic - State_Stasis_Float [Infinite]	0
+4035	Rimeling - Death - Arcterra	0
+4036	Hell Imprisonment - Chain Post	0
+4037	Penny Arcade - End Table - Death	0
+4039	Teleport In - Lockbox	0
+4041	w3009 - Gorganoth Boss	0
+4042	w3009 - Holdout Defend unit action set	0
+4043	Arcterra - Dead laser grid - Q10031 - JBN	0
+4044	Dominion Arkship Tutorial - Eldan Holo - MLB12	0
+4045	OnDeath - Tornado	0
+4046	Ice Devil Birth - 83375s	0
+4047	WF14 - Hesitant Customer	0
+4049	Gorgonoth - Avalanche Sweep - Wave Audio	0
+4050	WF14 - Snowblower	0
+4051	Damaged Observabot Sparks - MLB12	0
+4052	Darkwitch Staging - PE817 - Arcterra - JBN	0
+4053	Generic - Large Glowing Eyes - ETS	0
+4054	Kundar - Freeze Over - Ice Crystal	0
+4058	Arcterra - T1 - Kundar ven Offen - KMS	0
+4060	Q10435 / Q10442 - Darkmatron Corpse	0
+4061	w3009 -Vault - Platform Birth	0
+4063	Support Role Training - Tenacious Holo-Assailants	0
+4064	Randomized - Toy Arcterra Snowflakes - KLW	0
+4065	Hycrest Endless Combat - Auroria - JBN	0
+4067	Ice_Ground_5m.m3 (Base) [Infinite] (Size 0.5)	0
+4068	[RMT] Robomination Maze	0
+4069	Default_Stealth_Stand	0
+4070	Stealth_Stand [Infinite] OnBirth OnExitCombat	0
+4071	Q10484 - Snow Explosion - WK	0
+4072	SC15Q4 - Laser Decoration - Left - MLB16	0
+4073	SC15Q4 - Laser Decoration - Right - MLB16	0
+4074	[RMT] e4550 - Engineers - Engine - Lubricant	0
+4075	[RMT] e4550 - Engineers - Engine - Cooling	0
+4076	Sulak - Burster Crew - VFX	0
+4077	GC239 - Falkrin Diplomacy - AP_State0_Idle - WG	0
+4079	Rain of Decay - Phastasm - Arcterra	0
+4080	SF16 - Starfall Firework Holder - JDT	0
+4082	Adventure Decor Holograms	0
+4083	AC16Q1 - Laser Decoration - Left - MLB16	0
+4084	AC16Q1 - Laser Decoration - Right - MLB16	0
+4085	[RMT] e4550 - Shower Miniboss - Cloud	0
+4086	[RMT] Star	0
+4087	Glasha Bladewitch - Energy Gun FX SND	0
+4088	Glasha Bladewitch - Energy Sword FX SND	0
+4089	Arcterra - Frozen Slobber - Nashdul	0
+4090	[RMT] e4556 - Bosun Octog - Chaos Orb	0
+4091	DC16Q1 - Laser Decoration - Left - MLB16	0
+4092	DC16Q1 - Laser Decoration - Right - MLB16	0
+4093	[RMT] e4556 - Bosun Octog - Squirgling	0
+4094	TEST - Soul Amalgam - Arcterra	0
+4095	NPEU - Holo NPC VFX - KLW	0
+4096	HA15 - Laser Decoration - Right - MLB16	0
+4097	HA15 - Laser Decoration - Left - MLB16	0
+4098	[RMT] - Poison_Aura_12mR_YLW	0
+4099	Pants - Part 1 - NPEU - JBN	0
+4100	Shirt - Part 1 - NPEU - JBN	0
+4101	NPEU - Bot/Construct - Holo VFX - KLW	0
+4104	PVP OW - Scoring Zone - JDT	0
+4105	[UNUSED] Randomized - NPEU - Flashing Holo Props	0
+4106	BC16Q2 - Laser Decoration - Left - MLB17	0
+4107	BC16Q2 - Laser Decoration - Right - MLB17	0
+4108	Primal Manifestation Arrow - NPEU - JBN	0
+4109	[RMT] Starmap - Navigation Core Appearance	0
+4110	w3404 - Portal Effects	0
+4112	Dancing Moodies - Animation	0
+4113	Mordechai Hand Death	0
+4114	RMT - Living Sludge Spawn	0
+4115	[RMT] - Roasting Cubig	0
+4117	Dancing Moodie - NPC Decor	0
+4118	EpicNodeWurmUnburrow	0
+4120	AnyAny - Cambot - FlashFX [Infinite][Random Wait]	0
+4121	Generic - Blue Aura	0
+4122	Generic - Distortion Bubble (Red)	0
+4123	Generic - Distortion Bubble (Green)	0
+4124	Generic - Ghost Field	0
+4126	Randomized - Q418 - Cupcake Disguises	0

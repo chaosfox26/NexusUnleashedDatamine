@@ -1,0 +1,4 @@
+Id	EnumName	LocalizedTextId	ModelSequenceId
+1	MannequinPose_Stand	537765	7740
+2	MannequinPose_Flex	537766	7741
+3	MannequinPose_Combat	537767	7742

@@ -1,0 +1,65 @@
+Id	LocalizedTextId	LuaString
+1	196396	BAKED - Doors
+2	196397	BAKED - Roofs
+3	196399	BAKED - Entries
+4	196402	INT - Seating
+5	196405	INT - Beds
+6	196407	INT - Tables
+7	196408	INT - Containers
+8	196414	INT - Electronics
+9	196415	INT - Bookcases, Shelves, Display Cases
+10	196416	INT - Cabinets, Dressers
+11	196417	INT - Cookware, Barware
+12	196418	INT - Plants
+13	196419	INT - Lighting
+14	196421	INT - Toys, Loot
+15	196445	INT - Rugs
+16	196446	INT - Tools, Hardware
+17	196452	INT - Weapons, Armor
+18	196459	INT - Drapes, Curtains
+19	196460	INT - Windows
+20	196461	INT - Wall Decor
+21	196462	OLD - EXT - LANDSCAPE - Seating
+22	196463	OLD - EXT - LANDSCAPE - Tables
+23	196466	OLD - EXT - LANDSCAPE - Containers
+24	196467	OLD - EXT - LANDSCAPE - Cookware, Barware
+25	196468	EXT - LANDSCAPE - Trees
+26	196469	OLD - EXT - LANDSCAPE - Lighting
+27	196474	OLD - EXT - LANDSCAPE - Tools, Hardware
+28	196476	OLD - EXT - LANDSCAPE - Weapons, Armor
+29	196478	OLD - EXT - LANDSCAPE - Accents
+30	196480	EXT - LANDSCAPE - Fencing
+31	196481	OLD - EXT - WALL - Lighting
+32	196487	OLD - EXT - WALL - Windows
+33	196486	OLD - EXT - WALL - Accents
+34	196485	OLD - EXT - WALL - Hardware
+35	196536	OLD - EXT - WALL - Plants
+36	196809	INT - Food
+37	196888	INT - Books, Papers
+38	198688	OLD - INT - Clutter
+39	241388	INT - Statues, Sculptures
+41	363034	INT - Audio
+42	364163	EXT - LANDSCAPE - Bushes, Shrubbery
+43	364166	OLD - EXT - LANDSCAPE - Flowers, Flowering Plants
+44	364167	EXT - LANDSCAPE - Grasses
+45	364170	OLD - EXT - LANDSCAPE - Statues, Sculptures
+46	364208	INT - Accents
+47	364211	INT - Banners, Flags
+48	364218	INT - Building Blocks
+49	364223	INT - Fireplace
+50	364224	INT - Mannequins
+51	364225	INT - Pillows
+52	364226	INT - Special
+53	364227	INT - Travel Posters
+54	366969	INT - Trophy
+55	413334	WARPLOT - Trap
+56	476400	OLD - EXT - LANDSCAPE - Building Blocks
+57	476521	INT - Bathroom
+58	573478	WARPLOT - Turret
+59	672028	INT - Doors
+60	672088	INT - Spaceship
+61	678565	INT - Hoverpark Building Blocks
+62	690223	EXT - Rocks
+63	695269	EXT - Particle Effects
+64	703153	EXT - Characters and Creatures
+65	754010	EXT - Vehicles

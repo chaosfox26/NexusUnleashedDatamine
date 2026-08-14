@@ -1,0 +1,12 @@
+    <!-- Setup Install -->
+    <script id='tpl-optionChanges' type="text/x-handlebars-template">
+        <!-- Install/Option Information -->
+        {{#if isChange}}
+            {{#each change}}
+                <span>
+            {{/each}}
+        {{/if}}
+
+        <span>{{clickAccept}}</span>
+    </script>
+

@@ -1,0 +1,62 @@
+Id	TargetType	Flags
+1	Self	IsPlayer
+2	Self	None
+3	PrimaryTarget	IsEnemy
+4	PrimaryTarget	11
+5	PrimaryTarget	IsPlayer, IsFriendly
+6	SecondaryTarget	IsEnemy
+7	SecondaryTarget	IsPlayer, IsFriendly
+8	3	IsEnemy
+9	3	11
+10	4	IsEnemy
+11	4	IsPlayer, IsFriendly
+12	5	IsEnemy
+13	5	43
+14	SecondaryTarget	20
+17	6	11
+18	7	IsEnemy
+19	8	IsEnemy
+20	PrimaryTarget	IsFriendly
+21	SecondaryTarget	IsFriendly
+22	3	10
+23	4	IsFriendly
+24	5	42
+25	7	IsPlayer, IsFriendly
+26	7	IsFriendly
+27	4	IsFriendly, IsEnemy, AlsoIncludeEnemies
+28	SecondaryTarget	IsPlayer, IsFriendly, AlsoIncludeEnemies
+29	3	IsEnemy, AlsoIncludeEnemies
+30	4	IsPlayer, IsFriendly, AlsoIncludeEnemies
+31	8	IsEnemy, AlsoIncludeEnemies
+32	SecondaryTarget	IsEnemy, AlsoIncludeEnemies
+33	7	IsPlayer, IsFriendly, AlsoIncludeEnemies
+34	8	IsPlayer, IsFriendly
+37	8	IsPlayer, IsFriendly, AlsoIncludeEnemies
+40	PrimaryTarget	10
+41	8	IsEnemy
+42	3	43
+43	8	43
+44	Self	IsFriendly
+46	8	11
+48	PrimaryTarget	73
+49	SecondaryTarget	73
+50	SecondaryTarget	IsFriendly, IsEnemy
+52	7	IsEnemy, AlsoIncludeEnemies
+54	SecondaryTarget	13
+56	SecondaryTarget	45
+57	SecondaryTarget	IsFriendly, IsEnemy, AlsoIncludeEnemies
+58	7	IsPlayer, IsFriendly, AlsoIncludeEnemies
+59	3	50
+60	SecondaryTarget	144
+61	8	IsPlayer, IsFriendly, AlsoIncludeEnemies
+62	3	AlsoIncludeEnemies
+63	7	IsFriendly, AlsoIncludeEnemies
+64	4	43
+65	3	43
+66	SecondaryTarget	137
+67	SecondaryTarget	148
+68	3	18
+69	7	IsPlayer, AlsoIncludeEnemies
+70	3	11
+71	3	IsPlayer, IsFriendly, AlsoIncludeEnemies
+72	3	IsPlayer, IsFriendly

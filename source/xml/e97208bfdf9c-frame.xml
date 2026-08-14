@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="PropertiesForm" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="PropertiesFrame" position.height="24" position.relative="0" position.width="200" position.x="680" position.y="542" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="PromptFrame" visible="1">
+    <input-redirect source="SetEditProps" target="props" targetname="SetChecked" />
+    <input-redirect source="SetEditTerrain" target="terrain" targetname="SetChecked" />
+    <control class="RadioButton" DisableUnselect="1" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="terrain" position.height="16" position.relative="0" position.width="90" position.x="5" position.y="4" Text="Edit Terrain" TextID="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheck" target="PropertiesFrame" targetname="OnSetEditTerrain" />
+    </control>
+    <control class="RadioButton" DisableUnselect="1" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="props" position.height="16" position.relative="0" position.width="90" position.x="105" position.y="4" Text="Edit Props" TextID="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheck" target="PropertiesFrame" targetname="OnSetEditProps" />
+    </control>
+</frame>

@@ -1,0 +1,20 @@
+# Static object placements for DruseraMicroInstance1, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3e3e.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3e3f.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3e41.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3f3e.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3f3f.area	1	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_010_STR_Exolab_010.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3f40.area	1	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_010_STR_Exolab_010.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.3f41.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.403f.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.403f.area	1	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_010_STR_Exolab_010.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.4040.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.4040.area	1	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_010_STR_Exolab_010.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.4041.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.413e.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.413f.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000
+Map/DruseraMicroInstance1/DruseraMicroInstance1.4141.area	0	Art\Structure\Model\Dungeon_Kits\Drusera\STR_Drusera_01EndRoom_000_STR_Drusera_01EndRoom_000.dgn	-0.1172	-845.5705	244.7343	0.000000	0.000000	0.000000	1.000000

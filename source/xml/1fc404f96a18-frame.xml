@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="HeightDialog" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="HeightDialog" position.height="53" position.relative="0" position.width="200" position.x="700" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetBrushModeAdditive" target="additive" targetname="SetChecked" />
+    <input-redirect source="SetBrushModePlateau" target="plateau" targetname="SetChecked" />
+    <input-redirect source="SetBrushModeSmooth" target="smooth" targetname="SetChecked" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="18" position.relative="0" position.width="192" position.x="9" position.y="4" Text="Height" TextID="0" TXDName="Text" visible="1" />
+    <control class="RadioButton" DisableUnselect="0" group="2" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="plateau" position.height="18" position.relative="0" position.width="32" position.x="151" position.y="26" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Plateau" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="HeightDialog" targetname="OnSetBrushModePlateau" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="2" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="additive" position.height="18" position.relative="0" position.width="32" position.x="11" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Add" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="HeightDialog" targetname="OnSetBrushModeAdditive" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="2" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="smooth" position.height="18" position.relative="0" position.width="32" position.x="76" position.y="27" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Smooth" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="HeightDialog" targetname="OnSetBrushModeSmooth" />
+    </control>
+</frame>

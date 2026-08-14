@@ -1,0 +1,20 @@
+<!-- TitleBar -->
+<script id='tpl-upperbar' type="text/x-handlebars-template">
+
+  <!-- LOGO -->
+  <img class='draggable' src='asset://Launcher/assets/ws_launcher_logo_ncsoft.png'>
+  <img class='draggable' src='asset://Launcher/assets/ws_launcher_logo_carbine.png'>
+  <!--
+  <a href="javascript:void(0);" id="minimizeButton"><i class="fa fa-minus"></i></a>
+
+  <a href="javascript:void(0);" id="closeButton">
+      <i class="fa fa-times"></i>
+      <div class='bub arrow-north right'>
+         <p id='tooltip-closing'>{{tooltipClosingText}}</p>
+      </div>
+  </a>
+  -->
+  {{#if canOption}}
+    <a href="javascript:void(0);" id="optionButton"><i class="fa fa-cog"></i></a>
+  {{/if}}
+</script>

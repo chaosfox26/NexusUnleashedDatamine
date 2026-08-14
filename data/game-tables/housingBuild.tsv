@@ -1,0 +1,11 @@
+Id	Description	AssetPath	ConstructionEffectsId	BuildPreDelayTimeMS	BuildPostDelayTimeMS	BuildTime00	BuildTime01	BuildTime02	BuildTime03	BuildTime04	BuildTime05	BuildTime06	BuildTime07	ModelSequenceId00	ModelSequenceId01	ModelSequenceId02	ModelSequenceId03	ModelSequenceId04	ModelSequenceId05	ModelSequenceId06	ModelSequenceId07
+1	Private 1x1 Generic		1	10000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	Private 1x2 Generic	Art\Prop\Housing\BuildAnimations\Generic\PRP_BuildAnim_Generic_1x2.m3	3	10000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3	Private 2x2 Generic		2	10000	1500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	Private 2x2 Granok Medium	Art\Prop\Housing\BuildAnimations\Granok\PRP_BuildAnim_Granok_1Story.m3	2	2000	1500	0.0006944	0.0006944	0.0006944	0.0006944	0	0	0	0	1109	1110	6667	1119	0	0	0	0
+5	Private 3x2 Generic		4	10000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	Private 2x2 WarPlot		2	10000	5000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7	Private 1x3 WarPlot		3	10000	5000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8	Private 4x3 WarPlot		5	10000	10000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9	Private 3x2 WarPlot		4	10000	10000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10	Private 2x3 WarPlot		6	10000	10000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

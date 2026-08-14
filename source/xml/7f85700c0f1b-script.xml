@@ -1,0 +1,29 @@
+    <!-- Error/Warning/Whatever Overlay -->
+    <script id='tpl-error' type="text/x-handlebars-template">
+        <div id='overlayContent'>
+            <div class="overlay-wrap">
+                <h1>{{{overlayTitle}}}</h1>
+                <br>
+                <!--<h3>{{{overlayCode}}}</h3>-->
+                <h3>{{{overlayText}}}</h3>
+            </div>
+            <div class="actions">
+            {{#if isError}}
+                <button id='errorConfirm' class="btn btn-grey" type='button'>{{errorConfirmText}}</button>
+                <!--<button id='submitError' class="btn btn-grey" button='button'>{{submitErrorText}}</button>-->
+            {{/if}}
+
+            {{#if isWarning}}
+                <button id='{{warnCancel}}' class="btn btn-grey" type='button'>{{warningCancelButton}}</button>
+                <button id='{{warnConfirm}}' class="btn btn-blue" button='button'>{{warningConfirmButton}}</button>
+                
+            {{/if}}
+
+            {{#if isDisconnect}}
+                <button id='{{warnConfirm}}' class="btn btn-blue" button='button'>{{warningConfirmButton}}</button>
+            {{/if}}
+            </div>
+        </div>
+
+    </script>
+

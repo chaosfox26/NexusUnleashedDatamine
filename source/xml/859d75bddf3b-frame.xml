@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="SourceControlPanelEntry" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="SourceControlPanelEntry" position.height="24" position.relative="0" position.width="180" position.x="690" position.y="542" transparent="1" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="PromptFrame" visible="1">
+    <input-redirect source="DisableCheckins" target="checkin" targetname="Hide" />
+    <input-redirect source="DisableCheckins" target="undocheckout" targetname="Hide" />
+    <input-redirect source="EnableCheckins" target="checkin" targetname="UnHide" />
+    <input-redirect source="EnableCheckins" target="undocheckout" targetname="UnHide" />
+    <input-redirect source="SetFilename" target="filename" targetname="SetText" />
+    <control class="Text" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="filename" position.height="21" position.relative="0" position.width="137" position.x="4" position.y="1" Text="--unset filename--" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="checkin" position.height="16" position.relative="0" position.width="16" position.x="144" position.y="3" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="MaximizeButton" visible="1">
+        <output-redirect source="OnPressed" target="SourceControlPanelEntry" targetname="OnCheckin" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="undocheckout" position.height="16" position.relative="0" position.width="16" position.x="160" position.y="3" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="CloseButton" visible="1">
+        <output-redirect source="OnPressed" target="SourceControlPanelEntry" targetname="OnUndoCheckout" />
+    </control>
+</frame>

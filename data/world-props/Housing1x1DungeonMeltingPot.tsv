@@ -1,0 +1,16 @@
+# Static object placements for Housing1x1DungeonMeltingPot, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_000_STR_NaturalCave_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.3f3f.area	1	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	-9.1876	-17.5185	15.7143	-0.092915	0.025391	-0.000444	0.995350
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.3f3f.area	2	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	26.6652	-17.5184	16.1187	-0.092155	0.156973	0.011864	0.983222
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.3f40.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_000_STR_NaturalCave_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.3f40.area	1	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	-9.1876	-17.5185	15.7143	-0.092915	0.025391	-0.000444	0.995350
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.3f40.area	2	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	26.6652	-17.5184	16.1187	-0.092155	0.156973	0.011864	0.983222
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.403f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_000_STR_NaturalCave_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.403f.area	1	Art\Prop\Natural\Rock\SandStonePlatedRust\PRP_Rock_SandStonePlatedSmall_Rust_001.m3	-1.7303	-4.0047	27.4095	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.403f.area	2	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	-9.1876	-17.5185	15.7143	-0.092915	0.025391	-0.000444	0.995350
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.403f.area	3	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	26.6652	-17.5184	16.1187	-0.092155	0.156973	0.011864	0.983222
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.4040.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_000_STR_NaturalCave_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.4040.area	1	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	-9.1876	-17.5185	15.7143	-0.092915	0.025391	-0.000444	0.995350
+Map/Housing1x1DungeonMeltingPot/Housing1x1DungeonMeltingPot.4040.area	2	Art\Prop\Natural\Rock\Algoroc_CraggyPillars\PRP_Rock_Algoroc_CraggyPillars_000.m3	26.6652	-17.5184	16.1187	-0.092155	0.156973	0.011864	0.983222

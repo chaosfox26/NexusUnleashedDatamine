@@ -1,0 +1,25 @@
+Id	PublicEventTypeEnum	PublicEventId	StatIndex	LocalizedTextIdStatName	IconPath
+1	BattlegroundVortex	0	0	293290	
+2	BattlegroundVortex	0	1	293291	
+3	BattlegroundHoldTheLine	0	0	293292	
+4	BattlegroundCannon	0	0	293293	
+5	BattlegroundCannon	0	1	293294	
+6	BattlegroundSabotage	0	0	293295	
+7	BattlegroundSabotage	0	1	293296	
+8	AdventureMalgrave	0	0	318058	
+11	WorldEvent	0	0	0	
+12	AdventureMalgrave	0	1	321595	
+13	AdventureMalgrave	0	2	321653	
+14	AdventureMalgrave	0	3	321668	
+15	AdventureMalgrave	0	4	321669	
+16	AdventureSkywatch	0	0	344930	
+17	AdventureSkywatch	0	1	344931	
+18	AdventureSkywatch	0	2	344937	
+19	AdventureSkywatch	0	3	345008	
+21	Warplot	0	0	393485	
+22	Warplot	0	1	552918	
+23	Warplot	0	2	552920	
+24	NonCombatEvent	733	0	685138	IconSprites:Icon_ItemMisc_Icon_WfestSnow_NotHit
+25	NonCombatEvent	733	1	685139	IconSprites:Icon_ItemMisc_Icon_WfestSnow_Hit
+28	NonCombatEvent	776	0	739006	IconSprites:Icon_ItemMisc_Icon_WfestSnow_NotHit
+29	NonCombatEvent	776	1	739007	IconSprites:Icon_ItemMisc_Icon_WfestSnow_Hit

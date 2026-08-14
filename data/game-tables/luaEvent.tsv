@@ -1,0 +1,100 @@
+Id	EventName	Parameters
+2	AlertReputation	s
+3	AlertChallenge	i
+4	SoldierHoldoutStart	i
+5	SoldierHoldoutNextWave	b
+6	SoldierHoldoutEnd	i
+7	AlertChallengeSucceed	i
+8	AlertChallengeFail	i
+9	AlertSpacehandStartFishing	i
+10	AlertSpacehandUpdateFishing	i
+11	AlertSpacehandSucceedFishing	
+12	AlertSpacehandFailFishing	
+13	StoryPanelDialogShow	isi
+14	LeftDemoArea	
+15	ResourceScanClear	
+16	ResourceScanAdd	siiii
+17	PursuitIndicatorUpdate	ib
+18	PursuitIndicatorShow	
+19	PursuitIndicatorHide	
+20	ShowVote	iib
+21	HideVote	
+22	PopulateVote	iii
+23	AdvMalgraveShowResource	
+24	AdvMalgraveUpdateResource	iiiii
+26	AdvMalgraveHideResource	
+27	AdvMalgraveResourceSet	ii
+28	ProfessionShow	i
+29	ProfessionHide	
+30	ShowClueUI	
+31	HideClueUI	
+32	PopulateClueUI	ii
+33	ShowCost	ii
+34	ScoreBoardDisplay	b
+35	ScoreBoardUpdate	ii
+36	ShowAugment	b
+37	UpdateAugment	i
+38	CraftingTutorial	i
+39	VoteResult	ii
+40	ShowTutorial	i
+41	Show_Press_F_Window	b
+42	WhitevaleAdvResource	iiii
+43	WhitevaleArea	iiii
+44	ShowProfessionSelection	
+45	VoteTimerCancel	
+46	WhitevaleAdvShow	b
+47	NWAdventureResource	ii
+48	KillDeathDisplay	b
+49	KillDeathUpdate	s
+50	ShowBattleUI	iiiii
+51	HideBattleUI	
+52	UpdateEnemy	iiiii
+53	UpdateSelf	iiiii
+54	PvP_CTF_FlagSpawned	i
+55	PvP_CTF_FlagCollected	i
+56	PvP_CTF_FlagSocketed	i
+57	PvP_CTF_FlagDropped	i
+58	PvP_CTF_FlagStolen	i
+59	PvP_CTF_FlagRecovered	i
+60	PvP_CTF_FlagStolenDroppedCollected	i
+62	PvP_HTL_TimeToBeat	ib
+63	PvP_HTL_Respawn	
+64	NWADV_ShowUI	
+65	NWADV_HideUI	
+66	NWADV_UpdateProgress	i
+67	NWADV_UpdateLevel	i
+68	NWADV_SkeechBases	i
+69	NWADV_MoodieBases	i
+70	NWADV_MeleeShrine	ii
+71	NWADV_MagicShrine	ii
+72	NWADV_HunterShrine	ii
+74	PvP_HTL_CaptureModifier	ii
+75	PvP_HTL_PrepPhase	b
+76	Farside_UpdateEnemyAttacks	iiii
+77	Farside_UpdateUnits	iiiii
+78	Farside_UpdateTrainers	iiiib
+79	Farside_NewDay	iii
+80	Farside_UpdateResources	iiiii
+81	Farside_UpdateEnemyBuilding	iiii
+82	Farside_UpdateResourceSummary	ii
+83	Farside_OpenTrainerWindow	iiii
+84	Farside_HideGemini	
+85	PvP_Sabotage_BombCarrier	iii
+86	PvP_Sabotage_BombDropped	i
+87	NWADV_KillDeathRatio	ii
+88	AdvLevianBayShowUI	
+89	AdvLevianBayUpdateProgress	i
+90	AdvLevianBayUpdatePosition	iiib
+91	AdvLevianBayHideUI	
+92	AdvLevianBayTeamDead	i
+93	Protogames_PersonalPoint	i
+94	Protogames_EventTally	ii
+95	Protogames_PhineasFlavor	s
+96	Dungeons_IncreasePoints	i
+97	PvP_CTF_NeutralDespawned	i
+103	ArcterraShow	
+104	ArcterraUpdatePoints	i
+105	ArcterraUpdateTimer	iii
+106	PVP_BG_HALLS_ROUND_WINNER	ii
+107	PVP_BG_HALLS_R2_WINNER	i
+108	PVP_BG_HALLS_R3_WINNER	i

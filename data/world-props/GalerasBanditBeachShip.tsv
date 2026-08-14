@@ -1,0 +1,9 @@
+# Static object placements for GalerasBanditBeachShip, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/GalerasBanditBeachShip/GalerasBanditBeachShip.403f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_002_STR_Ship_ShipHands_002.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/GalerasBanditBeachShip/GalerasBanditBeachShip.4040.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_002_STR_Ship_ShipHands_002.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/GalerasBanditBeachShip/GalerasBanditBeachShip.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_002_STR_Ship_ShipHands_002.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/GalerasBanditBeachShip/GalerasBanditBeachShip.3f3f.area	1	Art\Prop\Constructed\Player_Paths\Settler\PRP_Holocrypt_000.m3	-0.0200	0.0834	-13.6043	0.000000	-0.000000	0.000000	1.000000
+Map/GalerasBanditBeachShip/GalerasBanditBeachShip.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_ShipHand_002_STR_Ship_ShipHands_002.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/GalerasBanditBeachShip/GalerasBanditBeachShip.3f40.area	1	Art\Prop\Constructed\Player_Paths\Settler\PRP_Holocrypt_000.m3	-0.0200	0.0834	-13.6043	0.000000	-0.000000	0.000000	1.000000

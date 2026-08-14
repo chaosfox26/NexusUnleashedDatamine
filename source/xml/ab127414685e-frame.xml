@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="MessageBox" moveable="1" Name="MessageBox" position.height="240" position.relative="0" position.width="480" position.x="403" position.y="389" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetText" target="text" targetname="SetText" />
+    <input-redirect source="SetTextByID" target="text" targetname="SetTextID" />
+    <input-redirect source="SetTitle" target="title" targetname="SetText" />
+    <input-redirect source="SetTitleByID" target="title" targetname="SetTextID" />
+    <control class="Text" moveable="0" Name="title" position.height="20" position.relative="0" position.width="467" position.x="5" position.y="1" Text="Message!" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" moveable="0" Name="text" position.height="171" position.relative="0" position.width="469" position.x="5" position.y="26" Text="---nobody has set the text in the message box---" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" moveable="0" Name="StandardButton" position.height="22" position.relative="0" position.width="134" position.x="174" position.y="208" Text="Ok" TextID="3" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="MessageBox" targetname="OnOkay" />
+    </control>
+</frame>

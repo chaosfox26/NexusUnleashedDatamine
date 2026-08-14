@@ -1,0 +1,8 @@
+Id	SalvageCritChance	TurninMultiplier	RuneCostMultiplier	DyeCostMultiplier	VisualEffectIdLoot	IconColorR	IconColorG	IconColorB	DefaultRunes	MaxRunes	AssetPathDieModel	SoundEventIdFortuneCardFanfare
+1	0	1	0.55	1	13824	0.394	0.394	0.394	0	0		0
+2	0	1	0.55	1	13824	0.5	0.5	0.5	0	1	Art\Icon\Attachment\Dice\Icon_Attachment_Dice_000.m3	0
+3	0.05	1	0.65	1	13825	0	0.5	0	1	2	Art\Icon\Attachment\Dice\Icon_attachment_Dice_Green_000.m3	0
+4	0.05	1	0.75	1	13826	0.058	0.158	0.5	2	3	Art\Icon\Attachment\Dice\Icon_attachment_Dice_Blue_000.m3	0
+5	0.05	1	0.85	1	13827	0.39	0	0.5	3	4	Art\Icon\Attachment\Dice\Icon_attachment_Dice_Purple_000.m3	0
+6	0.05	1	1	1	13828	0.5	0.183	0	4	5	Art\Icon\Attachment\Dice\Icon_attachment_Dice_Orange_000.m3	0
+7	0.05	1	1.25	1	36451	0.93	0.51	0.93	5	6	Art\Icon\Attachment\Dice\Icon_attachment_Dice_Pink_000.m3	0

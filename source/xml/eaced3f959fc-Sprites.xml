@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="Sector_Base_Locked" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="9" x1="9" x2="9" x3="9" x4="9" x5="397" y0="1" y1="1" y2="1" y3="1" y4="1" y5="338" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Node_Blue_Pending" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="563" x1="563" x2="563" x3="563" x4="667" x5="667" y0="2" y1="2" y2="2" y3="2" y4="92" y5="92" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Node_Red_Pending" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="560" x1="560" x2="560" x3="560" x4="672" x5="672" y0="377" y1="377" y2="377" y3="377" y4="474" y5="474" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Node_Green_Pending" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="560" x1="560" x2="560" x3="560" x4="672" x5="672" y0="758" y1="758" y2="758" y3="758" y4="855" y5="855" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Sector_Base_Unlocked" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="407" x1="407" x2="407" x3="407" x4="795" x5="795" y0="1" y1="1" y2="1" y3="1" y4="338" y5="338" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Sector_Base_Completed" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="810" x1="810" x2="810" x3="810" x4="1197" x5="1197" y0="1" y1="1" y2="1" y3="1" y4="338" y5="338" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Connector_SectorBottomRight_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="13" x1="13" x2="13" x3="13" x4="129" x5="129" y0="375" y1="375" y2="375" y3="375" y4="467" y5="467" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Connector_Bridge_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="338" x1="338" x2="338" x3="338" x4="447" x5="447" y0="419" y1="419" y2="419" y3="419" y4="437" y5="437" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Connector_Bridge_Inactive" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="450" x1="450" x2="450" x3="450" x4="560" x5="560" y0="419" y1="419" y2="419" y3="419" y4="436" y5="436" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Connector_SectorWideRight_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="623" x1="623" x2="623" x3="623" x4="671" x5="671" y0="384" y1="384" y2="384" y3="384" y4="462" y5="462" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Background_1" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix_BG_1.tex" x0="0" x1="0" x2="0" x3="0" x4="1492" x5="1492" y0="0" y1="0" y2="0" y3="0" y4="932" y5="932" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Background_2" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix_BG_2.tex" x0="0" x1="0" x2="0" x3="0" x4="984" x5="984" y0="0" y1="0" y2="0" y3="0" y4="612" y5="612" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Background_3" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix_BG_3.tex" x0="0" x1="0" x2="0" x3="0" x4="492" x5="492" y0="0" y1="0" y2="0" y3="0" y4="308" y5="308" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Tooltip_Base" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="0" x1="0" x2="0" x3="11" x4="286" x5="298" y0="474" y1="474" y2="474" y3="483" y4="633" y5="643" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Connector_SectorWideLeft_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="623" x1="623" x2="623" x3="623" x4="671" x5="671" y0="384" y1="384" y2="384" y3="384" y4="462" y5="462" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white" FlipY="1"/>
+    </Sprite>
+    <Sprite Name="Connector_SectorTopRight_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="13" x1="13" x2="13" x3="13" x4="129" x5="129" y0="375" y1="375" y2="375" y3="375" y4="467" y5="467" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white" FlipX="1"/>
+    </Sprite>
+    <Sprite Name="Connector_SectorBottomLeft_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="13" x1="13" x2="13" x3="13" x4="129" x5="129" y0="375" y1="375" y2="375" y3="375" y4="467" y5="467" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white" FlipY="1"/>
+    </Sprite>
+    <Sprite Name="Connector_SectorTopLeft_Active" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="13" x1="13" x2="13" x3="13" x4="129" x5="129" y0="375" y1="375" y2="375" y3="375" y4="467" y5="467" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white" FlipX="1" FlipY="1"/>
+    </Sprite>
+    <Sprite Name="InfoPane_Base" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="34" x1="156" x2="406" x3="689" x4="934" x5="1062" y0="703" y1="703" y2="703" y3="703" y4="703" y5="792" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Node_Pathfinding" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="671" x1="671" x2="671" x3="671" x4="783" x5="783" y0="0" y1="0" y2="0" y3="0" y4="95" y5="95" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="NodeRank_Base" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="808" x1="808" x2="808" x3="810" x4="821" x5="823" y0="498" y1="498" y2="498" y3="500" y4="512" y5="514" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Node_Purple_Pending" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="1120" x1="1120" x2="1120" x3="1120" x4="1232" x5="1232" y0="-3" y1="-3" y2="-3" y3="-3" y4="94" y5="94" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Vignette" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_Vignette.tex" x0="0" x1="0" x2="0" x3="240" x4="960" x5="1200" y0="0" y1="0" y2="172" y3="592" y4="800" y5="800" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="PendingState_Base" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix2.tex" x0="54" x1="54" x2="204" x3="976" x4="1114" x5="1114" y0="818" y1="818" y2="818" y3="818" y4="818" y5="912" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <AutoButton Name="Node_Blue_Locked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="0" y1="0" y2="0" y3="0" y4="95" y5="95" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Blue_Unlocked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="95" y1="95" y2="95" y3="95" y4="190" y5="190" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Blue_Started" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="190" y1="190" y2="190" y3="190" y4="285" y5="285" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Blue_Completed" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="285" y1="285" y2="285" y3="285" y4="380" y5="380" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Red_Locked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="380" y1="380" y2="380" y3="380" y4="475" y5="475" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Red_Unlocked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="475" y1="475" y2="475" y3="475" y4="570" y5="570" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Red_Started" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="570" y1="570" y2="570" y3="570" y4="665" y5="665" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Red_Completed" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="665" y1="665" y2="665" y3="665" y4="760" y5="760" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Green_Locked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="760" y1="760" y2="760" y3="760" y4="855" y5="855" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Green_Unlocked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="855" y1="855" y2="855" y3="855" y4="950" y5="950" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Green_Started" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="950" y1="950" y2="950" y3="950" y4="1045" y5="1045" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Green_Completed" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="0" x1="0" x2="0" x3="0" x4="112" x5="112" y0="1045" y1="1045" y2="1045" y3="1045" y4="1140" y5="1140" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Purple_Locked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="673" x1="673" x2="673" x3="673" x4="785" x5="785" y0="94" y1="94" y2="94" y3="94" y4="189" y5="189" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Purple_Unlocked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="673" x1="673" x2="673" x3="673" x4="785" x5="785" y0="189" y1="189" y2="189" y3="189" y4="284" y5="284" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Purple_Completed" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="672" x1="672" x2="672" x3="672" x4="784" x5="784" y0="285" y1="285" y2="285" y3="285" y4="380" y5="380" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Prismatic_Locked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="673" x1="673" x2="673" x3="673" x4="785" x5="785" y0="473" y1="473" y2="473" y3="473" y4="568" y5="568" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Prismatic_Unlocked" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="673" x1="673" x2="673" x3="673" x4="785" x5="785" y0="568" y1="568" y2="568" y3="568" y4="663" y5="663" Stretchy="1" StateBits="31" Direction="Across"/>
+    <AutoButton Name="Node_Prismatic_Completed" Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="672" x1="672" x2="672" x3="672" x4="784" x5="784" y0="664" y1="664" y2="664" y3="664" y4="759" y5="759" Stretchy="1" StateBits="31" Direction="Across"/>
+    <Sprite Name="Node_Prismatic_Pending" Cycle="1">
+        <Frame Texture="UI\Assets\Textures\UI_PrimalMatrix.tex" x0="1120" x1="1120" x2="1120" x3="1120" x4="1232" x5="1232" y0="376" y1="376" y2="376" y3="376" y4="473" y5="473" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>

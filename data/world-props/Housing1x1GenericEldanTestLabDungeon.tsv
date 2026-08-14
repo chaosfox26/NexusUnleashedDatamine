@@ -1,0 +1,10 @@
+# Static object placements for Housing1x1GenericEldanTestLabDungeon, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_005_STR_Exolab_005.dgn	0.0000	0.2842	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_005_STR_Exolab_005.dgn	0.0000	0.2842	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.403f.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_005_STR_Exolab_005.dgn	0.0000	0.2842	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.403f.area	1	Art\Prop\Constructed\Floors\Eldan\PRP_Floor_Pod_Teleport_001.m3	-133.2645	-3.3318	87.4586	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.403f.area	2	Art\Prop\Constructed\Door\Eldan\PRP_Door_IrisEldanMicro_000.m3	-96.0517	-1.8677	139.6925	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.403f.area	3	Art\Prop\Constructed\Door\Eldan\PRP_Door_IrisEldanMicro_000.m3	-64.3701	-1.8818	75.7747	0.000000	0.707107	0.000000	0.707107
+Map/Housing1x1GenericEldanTestLabDungeon/Housing1x1GenericEldanTestLabDungeon.4040.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_005_STR_Exolab_005.dgn	0.0000	0.2842	0.0000	0.000000	0.000000	0.000000	1.000000

@@ -1,0 +1,39 @@
+<!-- TitleBar -->
+<script id='tpl-titlebar' type="text/x-handlebars-template">
+
+    <div class="drag-area draggable"></div>
+    <!-- <div class="trapezoid"></div> -->
+    {{#if isWest}}
+      <img class="logo draggable" src="asset://Launcher/assets/logo-wildstar.png"/>
+    {{else}}
+      <img class="logo cn draggable" src="asset://Launcher/assets/logo-wildstar-cn.png"/>
+    {{/if}}
+    
+    <img id="grabBar" src="asset://Launcher/assets/trap-v001.png"/>
+
+
+    <a href="javascript:void(0);" class='icon' id="closeButton">
+        <i class="fa fa-times"></i>
+        <div class='bub arrow-north right'>
+           <p id='tooltip-closing'>{{tooltipClosingText}}</p>
+        </div>
+    </a>
+
+    <a href="javascript:void(0);" class='icon' id="minimizeButton"><i class="fa fa-minus"></i></a>
+  
+    {{#if canOption}}
+      <a href="javascript:void(0);" class='icon' id="optionButton"><i class="fa fa-cog"></i></a>
+    {{/if}}
+  
+    {{#if isLoggedIn}}
+      <nav id="primary_nav_wrap">
+          <a href="javascript:void(0)" id='{{myAccountID}}'><i class="fa fa-user"></i>{{myAccountText}}<i class="fa fa-angle-down"></i></a>
+          <ul>
+              <li><a href="javascript:void(0)" class='myAccount-items' id='{{accountSettingsID}}'>{{accountSettingsText}}</a></li>
+              <li><a href="javascript:void(0)" class='myAccount-items' id='{{logoutID}}'>{{logoutText}}</a></li>
+          </ul>
+      </nav>
+    {{/if}}
+  
+    <a href="javascript:void(0)" class='icon' id='toMenu'><i class='fa fa-bars fa-lg'></i></a>
+</script>

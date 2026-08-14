@@ -1,0 +1,7 @@
+# Static object placements for MiningMicroNorthernWastes, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/MiningMicroNorthernWastes/miningmicronorthernwastes.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\IceCave_Kit\STR_IceCave_007_STR_IceCave_007.dgn	-18.8458	-1224.1234	-143.2004	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroNorthernWastes/miningmicronorthernwastes.3f40.area	0	Art\Structure\Model\Dungeon_Kits\IceCave_Kit\STR_IceCave_007_STR_IceCave_007.dgn	-18.8458	-1224.1234	-143.2004	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroNorthernWastes/miningmicronorthernwastes.403f.area	0	Art\Structure\Model\Dungeon_Kits\IceCave_Kit\STR_IceCave_007_STR_IceCave_007.dgn	-18.8458	-1224.1234	-143.2004	0.000000	0.000000	0.000000	1.000000
+Map/MiningMicroNorthernWastes/miningmicronorthernwastes.4040.area	0	Art\Structure\Model\Dungeon_Kits\IceCave_Kit\STR_IceCave_007_STR_IceCave_007.dgn	-18.8458	-1224.1234	-143.2004	0.000000	0.000000	0.000000	1.000000

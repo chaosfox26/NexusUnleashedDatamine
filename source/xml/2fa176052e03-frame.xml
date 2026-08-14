@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="MessageBoxYesNoCheckbox" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="MessageBoxYesNoCheckbox" position.height="240" position.relative="0" position.width="389" position.x="640" position.y="434" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetCheckText" target="checkboxmessage" targetname="SetText" />
+    <input-redirect source="SetCheckTextByID" target="checkboxmessage" targetname="SetTextID" />
+    <input-redirect source="SetText" target="message" targetname="SetText" />
+    <input-redirect source="SetTextByID" target="message" targetname="SetTextID" />
+    <input-redirect source="SetTitle" target="title" targetname="SetText" />
+    <input-redirect source="SetTitleByID" target="title" targetname="SetTextID" />
+    <control class="Text" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="title" position.height="22" position.relative="0" position.width="383" position.x="1" position.y="1" Text="--unset title--" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="no" position.height="23" position.relative="0" position.width="83" position.x="226" position.y="189" Text="" TextID="65" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="MessageBoxYesNoCheckbox" targetname="OnNo" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="yes" position.height="23" position.relative="0" position.width="83" position.x="74" position.y="190" Text="" TextID="64" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="MessageBoxYesNoCheckbox" targetname="OnYes" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="checkbox" position.height="12" position.relative="0" position.width="12" position.x="12" position.y="217" Text="" TextID="0" TXDName="Checkbox" visible="1">
+        <output-redirect source="OnCheck" target="MessageBoxYesNoCheckbox" targetname="OnCheck" />
+        <output-redirect source="OnUncheck" target="MessageBoxYesNoCheckbox" targetname="OnUncheck" />
+    </control>
+    <control class="Text" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="message" position.height="160" position.relative="0" position.width="379" position.x="4" position.y="25" Text="--unset mesage--" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="checkboxmessage" position.height="20" position.relative="0" position.width="349" position.x="30" position.y="215" Text="--unset checkboxmessage--" TextID="0" TXDName="Text" visible="1" />
+</frame>

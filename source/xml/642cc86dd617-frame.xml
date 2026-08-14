@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="FileOpenDialog" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="FileOpenDialog" position.height="240" position.relative="0" position.width="320" position.x="640" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="FileOpenDialog_SetEntryCount" target="Array" targetname="SetRows" />
+    <input-redirect source="FileOpenDialog_SetName[]" target="Array" targetname="SetName" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="cancel" position.height="23" position.relative="0" position.width="53" position.x="256" position.y="211" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Cancel" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="FileOpenDialog" targetname="FileOpenDialog_OnCancel" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="okay" position.height="23" position.relative="0" position.width="53" position.x="201" position.y="212" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Okay" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="FileOpenDialog" targetname="FileOpenDialog_OnOkay" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="20" position.relative="0" position.width="313" position.x="3" position.y="1" Text="Open World..." TextID="0" TXDName="Text" visible="1" />
+    <control class="Array" child.cols="2147483647" child.form="UI\_OLD\Genesis\FileOpenListEntry.form" child.height="0" child.rows="2147483647" child.width="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Array" position.height="186" position.relative="0" position.width="314" position.x="6" position.y="26" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="Array" visible="1">
+        <array-redirect source="OnSelect" target="FileOpenDialog" targetname="FileOpenDialog_OnSelect[]" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="getlatest" position.height="12" position.relative="0" position.width="12" position.x="10" position.y="220" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="Checkbox" visible="1">
+        <output-redirect source="OnCheckToggle" target="FileOpenDialog" targetname="FileOpenDialog_OnGetLatestToggle" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text1" position.height="17" position.relative="0" position.width="168" position.x="30" position.y="215" Text="Get latest on open" TextID="0" TXDName="Text" visible="1" />
+</frame>

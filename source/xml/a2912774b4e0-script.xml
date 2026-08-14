@@ -1,0 +1,93 @@
+	<!-- Setup Install -->
+	<script id='tpl-option' type="text/x-handlebars-template">
+	    <div id='preference'>
+	    	<h1>{{pageTitle}}</h1>
+	    	<form>
+	    		<fieldset>
+	    			{{#if isPatching}}
+	    			<div class="locked">
+		    		{{/if}}
+				    	<!-- Display Language Option -->
+				    	<div class='field-sect radio' id='displayLang'>
+				    		<h3>{{displayLangOpt}} 
+				    			{{#if isPatching}}
+				    			<span class="lock-warning">{{noChangeLanguageText}}</span>
+				    			{{/if}}
+				    		</h3>
+				    		{{#each dispLang}}
+					    		<label class="option-label">
+					    			<input class='choice' type='radio' name='displayLang' value='{{this.langCode}}'>
+					    			<span>{{this.lang}}</span>
+					    		</label>
+				    		{{/each}}
+				    	</div>
+
+				    	<!-- Install Language Option -->
+				    	<div class='field-sect checkbox' id='installLang'>
+				    		<h3>{{installLangOpt}} 
+				    			{{#if isPatching}}
+				    			<span class='lock-warning'>{{noChangeLanguageText}}</span>
+				    			{{/if}}
+				    		</h3>
+				    		{{#each installLang}}
+					    		<label class="option-label">
+					    			<input class='choice' type='checkbox' name='{{this.langCode}}InstallLang' value='{{this.langCode}}'>
+					    			<span>{{this.lang}}</span>
+					    		</label>
+				    		{{/each}}
+				    	</div>
+			    	{{#if isPatching}}
+		    		</div>
+		    		{{/if}}
+			    	<!-- Install Region Option -->
+			    	<div class='field-sect radio' id='installRegion'>
+			    		<h3>{{installRegionOpt}} 
+			    			<span id="noChangeRegion" class="lock-warning">{{noChangeRegionText}}</span>
+			    		</h3>
+			    		{{#each installRegion}}
+				    		<label class="option-label">
+				    			<input class='choice' type='radio' name='installRegion' value='{{this.gameRegionId}}'>
+				    			<span>{{this.gameRegionName}}</span>
+				    		</label>
+			    		{{/each}}
+			    	</div>
+
+			    	<!-- Shortcut Option -->
+			    	<div class='field-sect checkbox' id='shortcut'>
+			    		<h3>{{shortcutOpt}}</h3>
+			    		<label class="option-label">
+				    		<input class='choice' type='checkbox' name='shortcutOpt' value='desktop'>
+				    		<span>{{desktopShort}}</span>
+				    	</label>
+				    	<label class="option-label">
+				    		<input class='choice' type='checkbox' name='shortcutOpt' value='startMenu'>
+				    		<span>{{menuShort}}</span>
+				    	</label>
+			    	</div>
+
+
+			    	<!-- Install/Option Information -->
+			    	<div class="log-info">
+				        <p id="installInfo">{{installInfo}}</p>
+				        <p id="addonInfo">{{addonInfo}}</p>
+
+				        <!--<div id="changes">
+
+				        </div>-->
+				    </div>
+
+				    <!-- Repair Button -->
+				    <button id='repairButton' class="btn btn-orange small" type="button">{{repairText}}</button>
+				    
+					</fieldset>
+					<div class="actions">
+						<!-- Back and Accept Button -->
+				    {{#each buttons}}
+						<!--<img id='{{this.id}}' src='{{imgUrl}}'> -->
+					    <button id='{{this.id}}' class="{{this.class}}" type='button'>{{this.buttonText}}</button>
+						{{/each}}
+					</div>
+				</form>
+	    </div>
+	</script>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="MessageBoxSlider" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="MessageBoxSlider" position.height="53" position.relative="0" position.width="320" position.x="0" position.y="0" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetSliderMax" target="slider" targetname="SetMax" />
+    <input-redirect source="SetSliderMin" target="slider" targetname="SetMin" />
+    <input-redirect source="SetSliderStepSize" target="slider" targetname="SetStepSize" />
+    <input-redirect source="SetSliderValue" target="slider" targetname="SetValue" />
+    <input-redirect source="SetTitle" target="title" targetname="SetText" />
+    <input-redirect source="SetValue" target="value" targetname="SetText" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="close" position.height="16" position.relative="0" position.width="16" position.x="300" position.y="4" Text="" TextID="0" TXDName="CloseButton" visible="1">
+        <output-connect source="OnPressed" target="MessageBoxSlider" targetname="Hide" />
+    </control>
+    <control class="EditBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="value" position.height="22" position.relative="0" position.width="73" position.x="240" position.y="25" Text="0" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MessageBoxSlider" targetname="OnTextChange" />
+    </control>
+    <control class="Text" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="title" position.height="22" position.relative="0" position.width="290" position.x="2" position.y="0" Text="--title not set--" TextID="0" TXDName="Text" visible="1" />
+    <control class="FloatSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="1.000000" minimum="0.000000" moveable="0" Name="slider" position.height="12" position.relative="0" position.width="232" position.x="5" position.y="30" step="0.100000" TotalSteps="11" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1">
+        <output-redirect source="OnScrollChange" target="MessageBoxSlider" targetname="OnSliderChange" />
+    </control>
+</frame>

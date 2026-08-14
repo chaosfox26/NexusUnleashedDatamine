@@ -1,0 +1,4 @@
+# Static object placements for AdvancedOmniplasmLab, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/AdvancedOmniplasmLab/AdvancedOmniplasmLab.4040.area	0	Art\Structure\Model\Dungeon_Kits\Eldan_Kit\Exolabs\STR_Exolab_009_STR_Exolab_009.dgn	248.3271	-1485.7875	219.5852	0.000000	0.000000	0.000000	1.000000

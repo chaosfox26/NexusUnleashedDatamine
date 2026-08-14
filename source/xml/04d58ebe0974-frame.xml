@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="ImportTerrainDialog" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="ImportTerrainDialog" position.height="223" position.relative="0" position.width="400" position.x="640" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetAdditive" target="additive" targetname="SetChecked" />
+    <input-redirect source="SetAverageCornerHeights" target="average" targetname="SetChecked" />
+    <input-redirect source="SetBlack" target="black" targetname="SetText" />
+    <input-redirect source="SetFilename" target="filename" targetname="SetText" />
+    <input-redirect source="SetSelectionMask" target="Checkbox" targetname="SetChecked" />
+    <input-redirect source="SetWhite" target="white" targetname="SetText" />
+    <input-redirect source="UnsetSelectionMask" target="Checkbox" targetname="UnsetChecked" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="17" position.relative="0" position.width="304" position.x="8" position.y="3" Text="Import Terrain" TextID="0" TXDName="Text" visible="1" />
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="filename" position.height="18" position.relative="0" position.width="316" position.x="12" position.y="48" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="ImportTerrainDialog" targetname="OnFilenameChange" />
+        <output-redirect source="OnEditBoxChange" target="ImportTerrainDialog" targetname="OnFilenameChange" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="browse" position.height="18" position.relative="0" position.width="46" position.x="336" position.y="48" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Browse" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="ImportTerrainDialog" targetname="OnBrowse" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text1" position.height="16" position.relative="0" position.width="60" position.x="17" position.y="32" Text="Filename:" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="cancel" position.height="18" position.relative="0" position.width="56" position.x="328" position.y="196" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Cancel" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="ImportTerrainDialog" targetname="OnCancel" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="import" position.height="18" position.relative="0" position.width="56" position.x="265" position.y="196" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Import" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="ImportTerrainDialog" targetname="OnImport" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="black" position.height="18" position.relative="0" position.width="64" position.x="98" position.y="95" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="ImportTerrainDialog" targetname="OnBlackChange" />
+        <output-redirect source="OnEditBoxChange" target="ImportTerrainDialog" targetname="OnBlackChange" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="white" position.height="18" position.relative="0" position.width="64" position.x="261" position.y="95" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="ImportTerrainDialog" targetname="OnWhiteChange" />
+        <output-redirect source="OnEditBoxChange" target="ImportTerrainDialog" targetname="OnWhiteChange" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text2" position.height="18" position.relative="0" position.width="352" position.x="16" position.y="73" Text="Please select the height range for your image..." TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text3" position.height="18" position.relative="0" position.width="60" position.x="38" position.y="95" Text="Black:" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text4" position.height="18" position.relative="0" position.width="55" position.x="201" position.y="95" Text="White:" TextID="0" TXDName="Text" visible="1" />
+    <control class="RadioButton" DisableUnselect="1" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="average" position.height="18" position.relative="0" position.width="140" position.x="27" position.y="149" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Average Corner Heights" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="ImportTerrainDialog" targetname="OnAverageCornerHeights" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="additive" position.height="18" position.relative="0" position.width="140" position.x="236" position.y="149" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Additive" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="ImportTerrainDialog" targetname="OnAdditive" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text5" position.height="18" position.relative="0" position.width="353" position.x="13" position.y="125" Text="Terrain import blend mode:" TextID="0" TXDName="Text" visible="1" />
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Checkbox" position.height="12" position.relative="0" position.width="12" position.x="67" position.y="175" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="Checkbox" visible="1">
+        <output-redirect source="OnCheck" target="ImportTerrainDialog" targetname="OnSelectionMaskSet" />
+        <output-redirect source="OnUncheck" target="ImportTerrainDialog" targetname="OnSelectionMaskUnset" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text6" position.height="18" position.relative="0" position.width="122" position.x="92" position.y="172" Text="Use selection mask." TextID="0" TXDName="Text" visible="1" />
+</frame>

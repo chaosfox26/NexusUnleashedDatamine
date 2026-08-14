@@ -1,0 +1,96 @@
+Id	LiveEventTypeEnum	MaxValue	Flags	LiveEventCategoryEnum	LiveEventIdParent	LocalizedTextIdName	LocalizedTextIdSummary	IconPath	IconPathButton	SpritePathTitle	SpritePathBackground	CurrencyTypeIdEarned	LocalizedTextIdCurrencyEarnedTooltip	WorldLocation2IdExile	WorldLocation2IdDominion
+1	0	0	0	0	0	0	0					0	0	0	0
+2	0	5	0	0	0	0	0					0	0	0	0
+3	1	0	0	0	0	0	0					0	0	0	0
+6	0	200000	0	0	0	0	0					0	0	0	0
+8	1	50000	48	4	0	739514	620967	LoginIncentives:sprLoginIncentives_JackShade	BK3:btnHolo_Blue_Med_EventShadesEve	Event_ShadesEve:sprEvent_Shade_Title_Localized	WelcomeWindow:WelcomeWindow_LiveEventFire	6	736569	0	0
+10	0	50000	16	4	8	0	622884					0	0	0	0
+11	0	50000	16	4	8	0	624228					0	0	0	0
+12	0	10000	8	0	0	0	627498					0	0	0	0
+13	0	10000	8	0	0	0	0					0	0	0	0
+14	0	50000	48	4	0	740816	627735	LoginIncentives:sprLoginIncentives_Winterfest	BK3:btnHolo_Blue_Med_EventWinterfest		WelcomeWindow:WelcomeWindow_LiveEventSnow	9	736570	46661	46856
+15	0	5	14	0	0	0	638733					0	0	0	0
+16	1	0	12	2	0	0	682121					0	0	0	0
+17	1	0	108	0	0	731801	686495	LoginIncentives:sprLoginIncentives_DoubleXP1			WelcomeWindow:WelcomeWindow_LiveEventBattle	0	0	51558	51555
+18	1	0	108	0	0	731803	686507	LoginIncentives:sprLoginIncentives_Prestige			WelcomeWindow:WelcomeWindow_LiveEventBattle	0	0	51558	51555
+19	1	0	108	0	0	731804	686512	LoginIncentives:sprLoginIncentives_Crown			WelcomeWindow:WelcomeWindow_LiveEventGroup	0	0	51558	51555
+20	1	0	44	0	0	731805	686515	LoginIncentives:sprLoginIncentives_Enemy			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	51269	51270
+21	1	0	104	0	0	743596	686520	LoginIncentives:sprLoginIncentives_SpaceChase			WelcomeWindow:WelcomeWindow_LiveEventShip	0	0	51558	51555
+22	1	0	104	0	0	745396	745397	LoginIncentives:sprLoginIncentives_AdventureChase			WelcomeWindow:WelcomeWindow_LiveEventGroup	0	0	51558	51555
+23	1	0	104	0	0	749905	749906	LoginIncentives:sprLoginIncentives_DungeonChase			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	51558	51555
+24	1	0	104	0	0	756653	756654	LoginIncentives:sprLoginIncentives_BattleChase2			WelcomeWindow:WelcomeWindow_LiveEventBattle	0	0	51558	51555
+25	1	0	104	0	0	758831	758832	LoginIncentives:sprLoginIncentives_FlashSale			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	51558	51555
+26	1	0	104	0	0	758833	758834	LoginIncentives:sprLoginIncentives_FlashSale			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	51558	51555
+27	1	0	104	0	0	758835	758836	LoginIncentives:sprLoginIncentives_FlashSale			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	51558	51555
+28	1	0	104	0	0	760252	760251	LoginIncentives:sprLoginIncentives_FlashSale			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	51558	51555
+29	1	0	0	0	0	0	0					0	0	0	0
+30	1	0	0	0	0	0	0					0	0	0	0
+31	1	0	0	0	0	0	0					0	0	0	0
+32	1	0	0	0	0	0	0					0	0	0	0
+33	1	0	0	0	0	0	0					0	0	0	0
+34	1	0	0	0	0	0	0					0	0	0	0
+35	1	0	0	0	0	0	0					0	0	0	0
+36	1	0	0	0	0	0	0					0	0	0	0
+37	1	0	0	0	0	0	0					0	0	0	0
+38	1	0	0	0	0	0	0					0	0	0	0
+39	1	0	0	0	0	0	0					0	0	0	0
+40	1	0	0	0	0	0	0					0	0	0	0
+41	1	0	0	0	0	0	0					0	0	0	0
+42	1	0	0	0	0	0	0					0	0	0	0
+43	1	0	0	0	0	0	0					0	0	0	0
+44	1	0	0	0	0	0	0					0	0	0	0
+45	1	0	0	0	0	0	0					0	0	0	0
+46	1	0	0	0	0	0	0					0	0	0	0
+47	1	0	0	0	0	0	0					0	0	0	0
+48	1	0	0	0	0	0	0					0	0	0	0
+49	1	0	0	0	0	0	0					0	0	0	0
+50	1	0	0	0	0	0	0					0	0	0	0
+51	1	0	0	0	0	0	0					0	0	0	0
+52	1	0	104	0	0	731806	703025	LoginIncentives:sprLoginIncentives_HoverboardAppreciation			WelcomeWindow:WelcomeWindow_LiveEventHoverboard	0	0	51558	51555
+53	1	0	0	0	0	0	703026					0	0	0	0
+54	1	0	0	0	0	0	703027					0	0	0	0
+55	1	0	0	0	0	0	703028					0	0	0	0
+56	1	0	0	0	0	0	703029					0	0	0	0
+57	1	0	0	0	0	0	703030					0	0	0	0
+58	1	0	0	0	0	0	703031					0	0	0	0
+59	1	0	0	0	0	0	703032					0	0	0	0
+60	1	0	0	0	0	0	703033					0	0	0	0
+61	1	0	0	0	0	0	703034					0	0	0	0
+62	1	0	0	0	0	0	703035					0	0	0	0
+63	1	0	0	0	0	0	703036					0	0	0	0
+64	1	0	0	0	0	0	703037					0	0	0	0
+65	1	0	0	0	0	0	703038					0	0	0	0
+66	1	0	0	0	0	0	703039					0	0	0	0
+67	1	0	0	0	0	0	703040					0	0	0	0
+68	1	0	0	0	0	0	703041					0	0	0	0
+69	1	0	0	0	0	0	703042					0	0	0	0
+70	1	0	0	0	0	0	703043					0	0	0	0
+71	1	0	0	0	0	0	703044					0	0	0	0
+72	1	0	0	0	0	0	703045					0	0	0	0
+73	1	0	0	0	0	0	703046					0	0	0	0
+74	1	0	0	0	0	0	703047					0	0	0	0
+75	1	0	0	0	0	0	703048					0	0	0	0
+76	1	0	0	0	0	0	703049					0	0	0	0
+77	0	0	2	0	0	0	731909					0	0	0	0
+78	1	0	36	4	0	743025	743026	LoginIncentives:sprLoginIncentives_StarFall			WelcomeWindow:WelcomeWindow_LiveEventSnow	0	0	51558	51555
+82	1	0	12	2	0	0	762784					0	0	0	0
+83	1	0	36	2	0	763638	763639	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventGrassField	0	0	0	0
+84	1	0	36	2	0	763640	763641	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+85	1	0	36	2	0	763642	763643	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventSnow	0	0	0	0
+86	1	0	36	2	0	767119	767120	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventSnow	0	0	0	0
+87	1	0	36	2	0	767123	767124	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventGrassField	0	0	0	0
+88	1	0	36	2	0	769518	769519	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventGrassField	0	0	0	0
+89	1	0	36	2	0	769520	769521	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+90	1	0	36	2	0	769692	769689	LoginIncentives:sprLoginIncentives_LevelUp50			WelcomeWindow:WelcomeWindow_LiveEventExplore	0	0	0	0
+91	1	0	36	2	0	769733	769734	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+92	1	0	36	2	0	769735	769736	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+93	1	0	36	2	0	769737	769738	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+94	1	0	36	2	0	769739	769740	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+95	1	0	108	0	0	770111	770112	LoginIncentives:sprLoginIncentives_Crown			WelcomeWindow:WelcomeWindow_LiveEventGroup	0	0	51558	51555
+100	1	0	104	0	0	770571	770572	LoginIncentives:sprLoginIncentives_LiveEvent			WelcomeWindow:WelcomeWindow_LiveEventGrassField	0	0	53269	53270
+101	1	0	104	0	0	770576	770577	LoginIncentives:sprLoginIncentives_LiveEvent			WelcomeWindow:WelcomeWindow_LiveEventGrassField	0	0	53269	53270
+102	1	0	104	0	0	770578	770579	LoginIncentives:sprLoginIncentives_LiveEvent			WelcomeWindow:WelcomeWindow_LiveEventGrassField	0	0	53269	53270
+103	1	0	36	2	0	771700	771701	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+104	1	0	36	2	0	771702	771703	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+105	1	0	36	2	0	771704	771705	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0
+106	1	0	36	2	0	771706	771707	LoginIncentives:sprLoginIncentives_SignatureGift			WelcomeWindow:WelcomeWindow_LiveEventFire	0	0	0	0

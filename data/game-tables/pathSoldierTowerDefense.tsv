@@ -1,0 +1,7 @@
+Id	PathSoldierEventId	BuildCost	LocalizedTextIdName	WorldLocation2IdDisplay	TowerDefenseBuildType	Spell4Id	SoldierTowerDefenseFlags	SoldierTowerDefenseImprovementType
+1	177	30	215367	19284	0	0	0	1
+2	177	10	215485	19118	4	0	5	2
+3	177	20	215984	18781	1	0	0	3
+4	177	10	215994	18780	2	0	6	4
+6	177	10	221525	18779	2	0	6	4
+7	177	10	221526	19262	4	0	5	2

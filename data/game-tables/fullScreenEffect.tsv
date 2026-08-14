@@ -1,0 +1,17 @@
+Id	Description	TexturePath	ModelPath	Priority	FullScreenEffectTypeEnum	AlphaMinStart	AlphaMinEnd	AlphaStart	AlphaEnd	HzStart	HzEnd	SaturationStart	SaturationEnd
+1	Low Health effect	UI\LowHPFX\LowHPFX.tex		1	0	0.25	0.75	0.5	1	0.75	2	1	0.6
+2	CC - Blind - BLK		Art\FX\Fullscreen\Blind\FS_Blind_Shutter_01_BLK.m3	5	1	1	1	1	1	1	1	1	1
+3	CC - Snare - AQU		Art\FX\Fullscreen\Snare\FS_Snare_01_BLU.m3	1	1	1	1	1	1	1	1	1	1
+4	CC - Root - GRN		Art\FX\Fullscreen\Root\FS_Root_01_GRN.m3	1	1	1	1	1	1	1	1	1	1
+5	CC - Hold - RED		Art\FX\Fullscreen\Hold\FS_Hold_01_RED.m3	1	1	1	1	1	1	1	1	1	1
+6	Dmg - Wind - BRN		Art\FX\Fullscreen\WindStorm\FS_WindStorm_01_BRN.m3	1	1	1	1	1	1	1	1	1	1
+7	CC - Blind - WTE		Art\FX\Fullscreen\Blind\FS_Blind_Shutter_01_WTE.m3	5	1	1	1	1	1	1	1	1	1
+8	Cinema - Migraine - RED		Art\FX\Fullscreen\Cinema\Elderoot_Psychic_Fullscreen\Migrane_Effect_RED.m3	5	1	1	1	1	1	1	1	1	1
+10	Text - LevelUp		Art\FX\Fullscreen\LevelUp\FS_LevelUp_Text.m3	5	1	1	1	1	1	1	1	1	1
+12	Low Health Effect 2		Art\FX\Fullscreen\Snare\FS_Snare_01_BLU.m3	1	2	0.25	0.75	0.5	1	0.75	2	1	0.6
+13	Global - Fatigue		Art\FX\Fullscreen\Fatigue\Fatigue_Effect.m3	1	1	1	1	1	1	1	1	1	1
+14	Hologram - White		Art\FX\Fullscreen\Hologram\Hologram_Effect_White.m3	1	1	1	1	1	1	1	1	1	1
+15	Cinema - IceOver		Art\FX\Fullscreen\Cinema\HallsOfTheHundred_IceOver_Fullscreen\HallsOfTheHundred_IceOver_Fullscreen_000.m3	1	1	1	1	1	1	1	1	1	1
+16	Swarm - GRN		Art\FX\Fullscreen\InsectSwarm\FS_InsectSwarm_01_GRN.m3	1	1	1	1	1	1	1	1	1	1
+17	Dmg - Wind - BLU		Art\FX\Fullscreen\WindStorm\FS_WindStorm_01_BLU.m3	1	1	1	1	1	1	1	1	1	1
+19	Cinema - Vignette		Art\FX\Fullscreen\Vignette\FS_Vignette_Radial_01_BLK.m3	1	1	1	1	1	1	1	1	1	1

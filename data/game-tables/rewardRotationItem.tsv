@@ -1,0 +1,7 @@
+Id	RewardItemTypeEnum	RewardItemObject	Count	IconPath	MinPlayerLevel	WorldDifficultyFlags
+3	3	18	6000	IconSprites:Icon_Windows_UI_Coin_Essence_Purple	50	2
+4	3	18	3000	IconSprites:Icon_Windows_UI_Coin_Essence_Purple	50	2
+5	3	18	5000	IconSprites:Icon_Windows_UI_Coin_Essence_Purple	50	1
+6	3	18	4000	IconSprites:Icon_Windows_UI_Coin_Essence_Purple	50	1
+7	3	18	4000	IconSprites:Icon_Windows_UI_Coin_Essence_Purple	50	1
+18	3	18	1000	IconSprites:Icon_Windows_UI_Coin_Essence_Purple	50	1

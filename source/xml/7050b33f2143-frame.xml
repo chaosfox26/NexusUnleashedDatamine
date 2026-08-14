@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="TransformsForm" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="MainTransforms" position.height="360" position.relative="0" position.width="156" position.x="618" position.y="308" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetTransformRotateX" target="rotate_x" targetname="SetText" />
+    <input-redirect source="SetTransformRotateY" target="rotate_y" targetname="SetText" />
+    <input-redirect source="SetTransformRotateZ" target="rotate_z" targetname="SetText" />
+    <input-redirect source="SetTransformScaleX" target="scale_x" targetname="SetText" />
+    <input-redirect source="SetTransformScaleY" target="scale_y" targetname="SetText" />
+    <input-redirect source="SetTransformScaleZ" target="scale_z" targetname="SetText" />
+    <input-redirect source="SetTransformTranslateX" target="trans_x" targetname="SetText" />
+    <input-redirect source="SetTransformTranslateY" target="trans_y" targetname="SetText" />
+    <input-redirect source="SetTransformTranslateZ" target="trans_z" targetname="SetText" />
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_y" position.height="24" position.relative="0" position.width="45" position.x="5" position.y="141" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformRotateY" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_z" position.height="24" position.relative="0" position.width="45" position.x="5" position.y="166" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformRotateZ" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_x" position.height="24" position.relative="0" position.width="45" position.x="6" position.y="115" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformRotateX" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_y_lock" position.height="22" position.relative="0" position.width="24" position.x="53" position.y="141" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="y" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnRotateYToggle" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_z_lock" position.height="22" position.relative="0" position.width="24" position.x="52" position.y="166" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="z" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnRotateZToggle" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_x_lock" position.height="22" position.relative="0" position.width="24" position.x="53" position.y="115" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="x" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnRotateXToggle" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate_all_unlock" position.height="22" position.relative="0" position.width="70" position.x="79" position.y="168" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="rotateunlock" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-connect source="OnPressed" target="rotate_x_lock" targetname="UnsetChecked" />
+        <output-connect source="OnPressed" target="rotate_y_lock" targetname="UnsetChecked" />
+        <output-connect source="OnPressed" target="rotate_z_lock" targetname="UnsetChecked" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rotate" position.height="35" position.relative="0" position.width="43" position.x="93" position.y="122" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="RotateButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnSelectRotateToggle" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_y" position.height="24" position.relative="0" position.width="45" position.x="5" position.y="228" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformTranslateY" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_z" position.height="24" position.relative="0" position.width="45" position.x="4" position.y="253" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformTranslateZ" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_x" position.height="24" position.relative="0" position.width="45" position.x="5" position.y="202" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformTranslateX" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_y_lock" position.height="23" position.relative="0" position.width="24" position.x="52" position.y="228" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="y" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnTranslateYToggle" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_z_lock" position.height="23" position.relative="0" position.width="24" position.x="52" position.y="253" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="z" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnTranslateZToggle" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_x_lock" position.height="23" position.relative="0" position.width="24" position.x="53" position.y="202" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="x" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnTranslateXToggle" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans_all_unlock" position.height="22" position.relative="0" position.width="70" position.x="78" position.y="255" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="transunlock" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-connect source="OnPressed" target="trans_x_lock" targetname="UnsetChecked" />
+        <output-connect source="OnPressed" target="trans_y_lock" targetname="UnsetChecked" />
+        <output-connect source="OnPressed" target="trans_z_lock" targetname="UnsetChecked" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="trans" position.height="38" position.relative="0" position.width="48" position.x="95" position.y="208" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="TranslateButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnSelectTranslateToggle" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_y" position.height="24" position.relative="0" position.width="45" position.x="5" position.y="52" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformScaleY" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_z" position.height="24" position.relative="0" position.width="45" position.x="5" position.y="77" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformScaleZ" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_x" position.height="24" position.relative="0" position.width="45" position.x="6" position.y="26" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnEditBoxChange" target="MainTransforms" targetname="OnChangeTransformScaleX" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_y_lock" position.height="22" position.relative="0" position.width="24" position.x="53" position.y="52" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="y" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnScaleYToggle" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_z_lock" position.height="22" position.relative="0" position.width="24" position.x="52" position.y="77" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="z" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnScaleZToggle" />
+    </control>
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_x_lock" position.height="21" position.relative="0" position.width="24" position.x="53" position.y="26" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="x" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnScaleXToggle" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale_all_unlock" position.height="22" position.relative="0" position.width="70" position.x="79" position.y="79" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="scaleunlock" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-connect source="OnPressed" target="scale_x_lock" targetname="UnsetChecked" />
+        <output-connect source="OnPressed" target="scale_y_lock" targetname="UnsetChecked" />
+        <output-connect source="OnPressed" target="scale_z_lock" targetname="UnsetChecked" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="1" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="scale" position.height="35" position.relative="0" position.width="42" position.x="92" position.y="35" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="ScaleButton" visible="1">
+        <output-redirect source="OnCheckToggle" target="MainTransforms" targetname="OnSelectScaleToggle" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="2" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="global" position.height="23" position.relative="0" position.width="40" position.x="7" position.y="292" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="global" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+    <control class="RadioButton" DisableUnselect="0" group="2" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="local" position.height="23" position.relative="0" position.width="40" position.x="52" position.y="292" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="local" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="cog" position.height="20" position.relative="0" position.width="40" position.x="98" position.y="293" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="cog" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+    <control class="RadioButton" DisableUnselect="0" group="3" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="rectangle" position.height="22" position.relative="0" position.width="52" position.x="9" position.y="328" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="rectangle" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+    <control class="RadioButton" DisableUnselect="0" group="3" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="circle" position.height="22" position.relative="0" position.width="36" position.x="62" position.y="328" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="circle" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+    <control class="RadioButton" DisableUnselect="0" group="3" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="lasso" position.height="22" position.relative="0" position.width="47" position.x="100" position.y="328" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="lasso" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1" />
+</frame>

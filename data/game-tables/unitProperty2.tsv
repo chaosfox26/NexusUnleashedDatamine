@@ -1,0 +1,201 @@
+Id	Description	EnumName	DefaultValue	LocalizedTextId	ValuePerPoint	Flags	TooltipDisplayOrder	ProfiencyFlagEnum	ItemCraftingGroupFlagBitMask	EquippedSlotFlags
+0	Strength	Strength	1	115676	0	100	1	0	0	0
+1	Dexterity	Dexterity	1	116114	0	100	2	0	0	0
+2	Technology	Technology	1	116115	0	100	4	0	0	0
+3	Magic	Magic	1	116116	0	100	3	0	0	0
+4	Wisdom	Wisdom	1	116117	0	100	5	0	0	0
+5	Base Focus Pool	BaseFocusPool	0	116118	1.5	596	3	0	32	0
+6	Rating Focus Recovery	RatingFocusRecovery	0	164518	10	84	4	0	1	0
+7	Base Health	BaseHealth	1	164519	18	52	4	0	32	0
+8	Health Regen Multiplier	HealthRegenMultiplier	1	164520	0	68	11	0	0	0
+9	Resource 0 Max	ResourceMax_0	0	0	0	36	0	0	0	0
+10	Resource 1 Max	ResourceMax_1	0	0	0	36	0	0	0	0
+11	Resource 2 Max	ResourceMax_2	0	0	0	36	0	0	0	0
+12	Resource 3 Max	ResourceMax_3	0	760437	0.2	52	1	0	16	0
+13	Resource 4 Max	ResourceMax_4	0	0	0	36	0	0	0	0
+14	Resource 5 Max	ResourceMax_5	0	0	0	36	0	0	0	0
+15	Resource 6 Max	ResourceMax_6	0	0	0	36	0	0	0	0
+16	Resource 0 Regen Multiplier	ResourceRegenMultiplier_0	0	0	0	68	0	0	0	0
+17	Resource 1 Regen Multiplier	ResourceRegenMultiplier_1	0	0	0	68	0	0	0	0
+18	Resource 2 Regen Multiplier	ResourceRegenMultiplier_2	0	0	0	68	0	0	0	0
+19	Resource 3 Regen Multiplier	ResourceRegenMultiplier_3	0	0	0	68	0	0	0	0
+20	Resource 4 Regen Multiplier	ResourceRegenMultiplier_4	0	116119	0	68	0	0	0	0
+21	Resource 5 Regen Multiplier	ResourceRegenMultiplier_5	0	116120	0	68	0	0	0	0
+22	Resource 6 Regen Multiplier	ResourceRegenMultiplier_6	0	116122	0	68	0	0	0	0
+23	Interrupt Armor: After CC Recharge Time	InterruptArmor_AfterCCRechargeTime	1000	116123	0	Unknown04	25	0	0	0
+24	Interrupt Armor: After CC Recharge Count	InterruptArmor_AfterCCRechargeCount	1	116124	0	Unknown04	26	0	0	0
+25	Rating Lifesteal	RatingLifesteal	0	116125	10	84	40	0	32	0
+26	Resist Physical	ResistPhysical	0	116126	0	68	48	0	0	0
+27	Resist Tech	ResistTech	0	116127	0	68	49	0	0	0
+28	Resist Magic	ResistMagic	0	116128	0	68	47	0	0	0
+29	Rating MultiHit Chance	RatingMultiHitChance	0	116129	10	596	7	0	2	0
+30	KillingSpree Out Of Combat Grace Period MS	KillingSpreeOutOfCombatGracePeriodMS	6000	116130	0	None	0	0	0	0
+31			0	116131	0	None	0	0	0	0
+32	Rating Avoid Reduce / Strikethrough	Rating_AvoidReduce	0	116132	10	596	5	0	1	0
+33	Rating Avoid Increase / Deflect	Rating_AvoidIncrease	0	164522	10	596	7	0	1	0
+34	Rating Crit Chance Increase	Rating_CritChanceIncrease	0	164523	10	596	19	0	8	0
+35	Assault Rating	AssaultRating	0	164524	10	116	1	0	0	0
+36	Support Rating	SupportRating	0	125959	10	116	2	0	0	0
+37	Rating Critical Mitigation	RatingCriticalMitigation	0	151159	10	596	8	0	16	0
+38	Resource 7 Max	ResourceMax_7	0	151298	0	36	0	0	0	0
+39	Resource 7 Regen Multiplier	ResourceRegenMultiplier_7	0	0	0	68	0	0	0	0
+40	Stamina	Stamina	1	188494	0	68	6	0	0	0
+41	Shield Capacity Max	ShieldCapacityMax	0	200617	0	52	1	0	0	0
+42	Armor	Armor	0	241472	5	84	3	0	4	0
+43	Rating Crit Chance Decrease / Deflect Crit	Rating_CritChanceDecrease	0	244034	10	68	9	0	0	0
+44	Interrupt Armor: Threshold	InterruptArmor_Threshold	0	262523	0	36	24	0	0	0
+45	Interrupt Armor: Recharge Time	InterruptArmor_RechargeTime	1000	262524	0	Unknown04	25	0	0	0
+46	Interrupt Armor: Recharge Count	InterruptArmor_RechargeCount	1	262525	0	Unknown04	26	0	0	0
+47	Rating Crit Severity Increase	RatingCritSeverityIncrease	0	345464	10	596	10	0	4	0
+48	PvP Offense Rating	PvPOffensiveRating	0	529409	10	84	1	0	0	0
+49	PvP Defense Rating	PvPDefensiveRating	0	529411	10	84	2	0	0	0
+50	Resource 8 Max	ResourceMax_8	0	0	0	36	0	0	0	0
+51	Resource 8 Regen Multiplier	ResourceRegenMultiplier_8	0	0	0	68	0	0	0	0
+52	Resource 9 Max	ResourceMax_9	0	0	0	36	0	0	0	0
+53	Resource 9 Regen Multiplier	ResourceRegenMultiplier_9	0	0	0	68	0	0	0	0
+54	Resource 10 Max	ResourceMax_10	0	0	0	36	0	0	0	0
+55	Resource 10 Regen Multiplier	ResourceRegenMultiplier_10	0	0	0	68	0	0	0	0
+56	Rating Intensity	RatingIntensity	0	685916	10	596	35	0	16	0
+57	Rating Vigor	RatingVigor	0	685917	10	596	35	0	16	0
+58	Rating Glance Chance	RatingGlanceChance	0	685918	10	596	15	0	2	0
+59	Rating Armor Pierce	RatingArmorPierce	0	695591	10	84	15	0	1	0
+60	Rating Multi-Hit Amount	RatingMultiHitAmount	0	695570	10	84	20	0	4	0
+61	Rating Glance Amount	RatingGlanceAmount	0	695581	10	84	20	0	8	0
+62	Rating Damage Reflect Amount	RatingDamageReflectAmount	0	695593	10	68	25	0	0	0
+63	Rating Damage Reflect Chance	RatingDamageReflectChance	0	695596	10	84	16	0	8	0
+64	Rating CC Resilience	RatingCCResilience	0	712131	10	84	50	0	4	0
+65			0	0	0	None	0	0	0	0
+66			0	0	0	None	0	0	0	0
+67			0	0	0	None	0	0	0	0
+68			0	0	0	None	0	0	0	0
+69			0	0	0	None	0	0	0	0
+70			0	0	0	None	0	0	0	0
+71			0	0	0	None	0	0	0	0
+72			0	0	0	None	0	0	0	0
+73			0	0	0	None	0	0	0	0
+74			0	0	0	None	0	0	0	0
+75			0	0	0	None	0	0	0	0
+76			0	0	0	None	0	0	0	0
+77			0	0	0	None	0	0	0	0
+78			0	0	0	None	0	0	0	0
+79			0	0	0	None	0	0	0	0
+80			0	0	0	None	0	0	0	0
+81			0	0	0	None	0	0	0	0
+82			0	0	0	None	0	0	0	0
+83			0	0	0	None	0	0	0	0
+84			0	0	0	None	0	0	0	0
+85			0	0	0	None	0	0	0	0
+86			0	0	0	None	0	0	0	0
+87			0	0	0	None	0	0	0	0
+88			0	0	0	None	0	0	0	0
+89			0	0	0	None	0	0	0	0
+90			0	0	0	None	0	0	0	0
+91			0	0	0	None	0	0	0	0
+92			0	0	0	None	0	0	0	0
+93			0	0	0	None	0	0	0	0
+94			0	0	0	None	0	0	0	0
+95			0	0	0	None	0	0	0	0
+96			0	0	0	None	0	0	0	0
+97			0	0	0	None	0	0	0	0
+98			0	0	0	None	0	0	0	0
+99			0	0	0	None	0	0	0	0
+100	Move Speed Multiplier	MoveSpeedMultiplier	1	543660	0	36	0	0	0	0
+101	Base Avoid/Deflect Chance	BaseAvoidChance	0	295585	0	68	0	0	0	0
+102	Base Crit Chance	BaseCritChance	0	543663	0	68	0	0	0	0
+103	Damage Mitigation Pct Offset	DamageMitigationPctOffset	0	306988	0	68	0	0	0	0
+104	Base Avoid Reduce / Strikethrough Chance	BaseAvoidReduceChance	0	543678	0	68	0	0	0	0
+105	Base Avoid/Deflect Crit Chance	BaseAvoidCritChance	0	543679	0	68	0	0	0	0
+106	Stealth Detection Modifier	StealthDetectionModifier	1	543681	0	Unknown04	0	0	0	0
+107	Base Focus Recovery In Combat	BaseFocusRecoveryInCombat	0.011	364915	0	68	0	0	0	0
+108	Base Focus Recovery Out of Combat	BaseFocusRecoveryOutofCombat	0.011	368721	0	68	13	0	0	0
+109	Can see through stealth	SeeThroughStealth	0	543680	0	Unknown04	0	0	0	0
+110	Friction Max	FrictionMax	1	543677	0	36	0	0	0	0
+111	Heal to Shield Conversion	HealToShieldConversion	0	422517	0	100	0	0	0	0
+112	Base Multi Hit Amount	BaseMultiHitAmount	0	422519	0	68	0	0	0	0
+113			0	543676	0	None	0	0	0	0
+114	PvP XP Multiplier	PvPXPMultiplier	1	543666	0	12	0	0	0	0
+115			0	543665	0	None	0	0	0	0
+116			0	543664	0	None	0	0	0	0
+117	SpellMechanicEnergyRegenOrDecayMultiplier	SpellMechanicEnergyRegenOrDecayMultiplier	1	0	0	Unknown04	0	0	0	0
+118	SpellMechanicEnergyDecayOverdriveMultiplier	SpellMechanicEnergyDecayOverdriveMultiplier	1	0	0	Unknown04	0	0	0	0
+119			1	543662	0	None	0	0	0	0
+120			1	543661	0	None	0	0	0	0
+121			1	543659	0	None	0	0	0	0
+122	Ignore Armor Base	IgnoreArmorBase	0	543658	0	68	0	0	0	0
+123	Ignore Shield Base	IgnoreShieldBase	0	543657	0	68	0	0	0	0
+124	Max Threat vs Creature	MaxThreatVsCreature	0	0	0	Unknown04	0	0	0	0
+125	Breath Decay	BreathDecay	0.8	0	0	Unknown04	0	0	0	0
+126	CC Power	CCPower	1	0	0	Unknown04	0	0	0	0
+127	Critical Hit Severity Multiplier	CriticalHitSeverityMultiplier	1.5	543654	0	68	0	0	0	0
+128			1	543653	0	None	0	0	0	0
+129	Jump Height	JumpHeight	2.5	543652	0	36	0	0	0	0
+130	Gravity Multiplier	GravityMultiplier	1	543651	0	36	0	0	0	0
+131	XP Multiplier	XpMultiplier	1	543648	0	Unknown04	0	0	0	0
+132	Threat Multiplier	ThreatMultiplier	1	543647	0	Unknown04	0	0	0	0
+133	NPC Spell Execution Freq Multiplier	NPCSpellExecutionFreqMultiplier	1	0	0	Unknown04	0	0	0	0
+134	Falling Damage Multiplier	FallingDamageMultiplier	1	543645	0	36	0	0	0	0
+135	Focus Cost Modifier	FocusCostModifier	1	543643	0	68	0	0	0	0
+136	Cooldown Reduction Modifier	CooldownReductionModifier	1	543642	0	36	0	0	0	0
+137	Base Lifesteal	BaseLifesteal	0	543640	0	68	0	0	0	0
+138	Damage Dealt Multiplier: Melee	DamageDealtMultiplierMelee	1	543639	0	68	0	0	0	0
+139	Damage Dealt Multiplier: Ranged	DamageDealtMultiplierRanged	1	543638	0	68	0	0	0	0
+140	Damage Dealt Multiplier: Spell	DamageDealtMultiplierSpell	1	543637	0	68	0	0	0	0
+141	Damage Dealt Multiplier: Physical	DamageDealtMultiplierPhysical	1	543635	0	68	0	0	0	0
+142	Damage Dealt Multiplier: Tech	DamageDealtMultiplierTech	1	543634	0	68	0	0	0	0
+143	Damage Dealt Multiplier: Magic	DamageDealtMultiplierMagic	1	543633	0	68	0	0	0	0
+144	Damage Mitigation Pct Offset: Physical	DamageMitigationPctOffsetPhysical	0	567110	0	68	0	0	0	0
+145	Damage Mitigation Pct Offset: Tech	DamageMitigationPctOffsetTech	0	567111	0	68	0	0	0	0
+146	Damage Mitigation Pct Offset: Magic	DamageMitigationPctOffsetMagic	0	567112	0	68	0	0	0	0
+147	Base Tenacity	BaseTenacity	0	766112	0	68	0	0	0	0
+148	Base Hope	BaseHope	0	766113	0	68	0	0	0	0
+149	Base Toughness	BaseToughness	0	766114	0	68	0	0	0	0
+150	Damage Taken Offset: Physical	DamageTakenOffsetPhysical	0	543632	0	68	0	0	0	0
+151	Damage Taken Offset: Tech	DamageTakenOffsetTech	0	543630	0	68	0	0	0	0
+152	Damage Taken Offset: Magic	DamageTakenOffsetMagic	0	543629	0	68	0	0	0	0
+153	Heroism	Heroism	0	766115	0	68	0	0	0	0
+154	Base MultiHit Chance	BaseMultiHitChance	0	685919	0	68	0	0	0	0
+155	Base Damage Reflect Amount	BaseDamageReflectAmount	0	685920	0	68	0	0	0	0
+156	Base Damage Reflect Chance	BaseDamageReflectChance	0	685921	0	68	0	0	0	0
+157	Base Critical Mitigation	BaseCriticalMitigation	0	685922	0	68	0	0	0	0
+158	Base Intensity	BaseIntensity	0	685923	0	68	0	0	0	0
+159	Damage Taken Multiplier: Physical	DamageTakenMultiplierPhysical	1	543628	0	68	0	0	0	0
+160	Damage Taken Multiplier: Tech	DamageTakenMultiplierTech	1	543627	0	68	0	0	0	0
+161	Damage Taken Multiplier: Magic	DamageTakenMultiplierMagic	1	543626	0	68	0	0	0	0
+162	Healing Multiplier: Outgoing	HealingMultiplierOutgoing	1	543625	0	68	0	0	0	0
+163	Healing Multiplier: Incoming	HealingMultiplierIncoming	1	543624	0	68	0	0	0	0
+164	Base Glance Chance	BaseGlanceChance	0	685924	0	68	0	0	0	0
+165	CC Duration Modifier	CCDurationModifier	1	543622	0	36	0	0	0	0
+166	PvP Offense Pct Offset	PvPOffensePctOffset	0	567113	0	68	0	0	0	0
+167	PvP Defense Pct Offset	PvPDefensePctOffset	0	567114	0	68	0	0	0	0
+168	Rating Tenacity	RatingTenacity	0	766117	10	84	51	0	0	0
+169	Rating Hope	RatingHope	0	766118	20	84	52	0	0	0
+170	Rating Toughness	RatingToughness	0	766119	10	84	53	0	0	0
+171	KillSpreeCCVMulitplier	KillSpreeCCVMulitplier	1	125961	0	Unknown04	0	0	0	0
+172	Focus Final Multiplier	FocusFinalMultiplier	0	151398	0	None	0	0	0	0
+173	Menace	Menace	0	766116	0	36	0	0	0	0
+174			0	161903	0	None	0	0	0	0
+175	Shield Mitigation Max	ShieldMitigationMax	0	161904	0	68	2	0	0	0
+176	Shield Regen Amount Pct	ShieldRegenPct	0.25	161905	0	68	4	0	0	0
+177	Shield Tick Time	ShieldTickTime	500	161906	0	68	28	0	0	0
+178	Shield Reboot Time	ShieldRebootTime	2500	161908	0	68	3	0	0	0
+179	Shield Damage Types	ShieldDamageTypes	0	161909	0	Unknown04	30	0	0	0
+180	Slow Fall Multiplier	SlowFallMultiplier	1	543615	0	36	0	0	0	0
+181	Path Xp Multiplier	PathXpMultiplier	1	543614	0	Static, Unknown04	0	0	0	0
+182	Scientist Scan Bot Thoroughness Multiplier	ScientistScanBotThoroughnessMultiplier	1	543613	0	Static, Unknown04	0	0	0	0
+183	Scientist Scan Bot Scan Time Multiplier	ScientistScanBotScanTimeMultiplier	1	543612	0	Static, Unknown04	0	0	0	0
+184	Scientist Scan Bot Range Multiplier	ScientistScanBotRangeMultiplier	1	543611	0	Static, Unknown04	0	0	0	0
+185	Scientist Scan Bot Health Multiplier	ScientistScanBotHealthMultiplier	1	543609	0	Static, Unknown04	0	0	0	0
+186	Scientist Scan Bot Health Regen Multiplier	ScientistScanBotHealthRegenMultiplier	1	0	0	Static, Unknown04	0	0	0	0
+187	Scientist Scan Bot Speed Multiplier	ScientistScanBotSpeedMultiplier	1	543607	0	Static, Unknown04	0	0	0	0
+188	Settler Improvement Time Multiplier	SettlerImprovementTimeMultiplier	1	543606	0	Static, Unknown04	0	0	0	0
+189	Creature Scientist Scan Multiplier	CreatureScientistScanMultiplier	0	229535	0	Static, Unknown04	31	0	0	0
+190	Scientist Scan Bot Cooldown Multiplier	ScientistScanBotCooldownMultiplier	1	543604	0	Static, Unknown04	0	0	0	0
+191	Mount Speed Multiplier	MountSpeedMultiplier	1	543603	0	37	0	0	0	0
+192			0	685925	0	None	0	0	0	0
+193			0	685926	0	None	0	0	0	0
+194			0	685927	0	None	0	0	0	0
+195	Base Glance Amount	BaseGlanceAmount	0	685928	0	68	0	0	0	0
+196	Base Vigor	BaseVigor	0	685931	0	68	0	0	0	0
+197			0	0	0	None	0	0	0	0
+198			0	0	0	None	0	0	0	0
+199			0	0	0	None	0	0	0	0

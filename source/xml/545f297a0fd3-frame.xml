@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="SnappingForm" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="Snapping" position.height="53" position.relative="0" position.width="156" position.x="388" position.y="241" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="snap" position.height="24" position.relative="0" position.width="24" position.x="5" position.y="25" Text="" TextID="0" TXDName="StandardButton" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="StandardButton1" position.height="24" position.relative="0" position.width="24" position.x="68" position.y="25" Text="" TextID="0" TXDName="StandardButton" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="StandardButton1" position.height="24" position.relative="0" position.width="24" position.x="99" position.y="25" Text="" TextID="0" TXDName="StandardButton" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="StandardButton1" position.height="24" position.relative="0" position.width="24" position.x="128" position.y="25" Text="" TextID="0" TXDName="StandardButton" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="StandardButton1" position.height="24" position.relative="0" position.width="24" position.x="37" position.y="25" Text="" TextID="0" TXDName="StandardButton" visible="1" />
+</frame>

@@ -1,0 +1,229 @@
+Id	Description	WorldId	EventTypeEnum	EventData	PrerequisiteId	Priority	DelayMS	ClientEventActionId
+10	Q3486 - NW Zone Change - Eldan Tower - Sky	426	5	35	4164	9	0	3
+11	Q3486 - NW Quest Change - Eldan Tower - Sky	426	1	3486	4164	10	13500	3
+16	Dead State Change	0	2	1	1951	999	2000	5
+18	Deradune Bloodsky	0	3	37	3440	10	1000	6
+22	q3561 Subzone Alpha - Quest Test island - Quest	0	1	3561	2900	0	0	7
+23	Q3561 Subzone Alpha - Quest Test island - Zone	0	0	263	2900	10	0	7
+24	Q3561 Subzone Alpha - Quest Test island - Zone 2	0	0	262	2900	10	0	7
+26	Deradune - Bloodsky Active	0	0	484	3441	0	0	6
+32	Q3486 - Prop Load - Eldan Tower - Storm Prop	426	4	328289	2805	11	0	10
+33	Northern Wilds - Q3486 - Eldan Tower Storm State1	426	1	3486	2805	10	1500	10
+35	Northern Wilds - Q3486 - Eldan Tower Storm State0	426	1	3486	4033	9	0	11
+42	Test - Prop Load - Door	0	4	785701	4216	10	0	17
+43	Test - Quest Change - Door Prop	0	1	12	4216	9	0	17
+44	Test - Quest Change - Door Prop	0	1	12	4217	9	0	16
+45	Q3486 - SoundKit Change	0	1	3486	7670	2	0	18
+46	Northern Wilds Crash Site Zone - SoundKit Change	426	5	35	4252	2	0	19
+47	Northern Wilds Crash Site Zone - SoundKit Change	426	5	35	7670	2	0	18
+54	Northern Wilds - Medical Station - Prop State 1	426	4	330468	0	1	0	23
+62	PvP Asteroid - Death Event	1204	2	0	6145	100	0	30
+71	Algoroc - WorldDestroyer - Quest Change	51	1	4829	7906	1	0	39
+72	Algoroc - WorldDestroyer - Quest Change	51	1	4829	7907	0	0	38
+73	Algoroc - WorldDestroyer - Prop Load - State 1	51	4	1052194	7906	2	0	39
+74	Algoroc - WorldDestroyer - Prop Load - State 0	51	4	1052194	7907	1	0	38
+84	Q5634 - Wildwood Grove Sky - Zone	22	0	586	8788	1	0	43
+86	Q5634 - Wildwood Grove Sky - Quest	22	1	5634	8796	1	0	44
+91	Q5634 - Terraformer Prop State 1	22	4	315391	8880	2	0	47
+92	Q5634 - Terraformer Prop off State 0	22	4	315391	8368	2	0	48
+93	Q5634 - Terraformer  Quest Change State 0	22	1	5634	8368	1	0	48
+94	Q5634 - Terraformer  Quest Change State 1	22	1	5634	8880	1	0	47
+96	Q5853 - Whitevale T4 - Ep3  - Calmwater Ritual	51	1	5853	9032	10	1000	50
+97	Deradune - Tract 1 - Q3160 Ship Quest Update	22	1	3160	8580	1	0	51
+98	Deradune - Tract 1 - Q3160 Ship Prop Load	22	4	217874	8580	1	0	51
+99	Q5840 - Zone Change - Whitevale Tract 4.1 - Sky	51	0	1316	9230	0	0	52
+100	Silverscale Station - Q5897 - Snow Off - KMS	51	1	5897	9495	9	0	53
+101	Silverscale Station - Q5898 - Snow Off - KMS	51	1	5898	9495	9	0	53
+102	NWADV - Prop Load - Eldan Tower - Storm Prop	1393	4	328289	1050	1	0	10
+106	Crimson Isle - Q5573 Act 1 Sky Change	870	1	5573	29195	9	1000	56
+107	Crimson Isle - Q5575 Act 1 Sky Change	870	1	5575	29194	9	1000	56
+108	QTI - Med Station Prop Load Test 1	625	4	1184449	1050	0	15000	57
+109	QTI - Med Station Prop Load Test 2	625	4	1184448	1050	0	15000	58
+111	Levian Bay - Q5867 Power Pod 0 State 0	1387	4	1162640	9378	0	0	60
+112	Levian Bay - Q5867 Power Pod 1 State 0	1387	4	1163057	9379	0	0	61
+113	Levian Bay - Q5867 Power Pod 2 State 0	1387	4	1162937	9380	0	0	62
+114	Deradune - Tract 1 - Cage 1 Prop Load	22	4	1087033	4992	1	0	63
+115	Deradune - Tract 1 - Cage 2 Prop Load	22	4	1087034	4992	1	0	64
+116	Deradune - Tract 1 - Cage 3 Prop Load	22	4	1087035	4992	1	0	65
+117	QTI - Test Zone Name Change	625	0	263	4992	1000	0	66
+120	Q6589 - Zone Change - Hurricane - Ellevar	22	5	78	11303	0	0	69
+121	Q6589 - Quest Change - Hurricane - Ellevar	22	1	6589	11303	0	0	69
+122	Q6578 - Zone Change - Clear - Ellevar	22	5	78	11307	10	0	70
+123	Q6578 - Quest Change - Clear - Ellevar	22	1	6578	11307	9	12000	70
+125	W1606 Shiphand - Nexus Orbit Skybox	1606	3	112	11649	10	1000	71
+126	W1606 Shiphand - Space Travel Skybox	1606	3	113	11650	11	1000	72
+127	W1606 Shiphand - Space Stars Skybox	1606	3	114	11651	12	1000	73
+128	W1627 Shiphand - Space Travel Skybox	1627	3	113	11796	11	1000	72
+129	Crimson Isle - Q5573 Act 1 - Shield Generator	870	1	5573	9439	9	2000	76
+130	Crimson Isle - Q5575 Act 1 - Shield Generator	870	1	5575	9440	8	2000	76
+131	Crimson Isle - Act 1 - Shield Generator State 1	870	4	1373867	1050	1	0	75
+133	Q6641 - Hazard Gas - Quest Change	22	1	6641	13237	0	0	78
+134	Q6641 - Hazard Gas - Zone Change	22	0	400	13237	0	0	78
+135	Q5860 - Levian Bay - Star Comm Station Sky	1387	0	1309	14531	10	0	79
+136	Q5860 - Levian Bay - Star Comm Station Sky	1387	0	1309	14530	1	0	80
+137	SpellSlinger Void Plane Sky	0	9	0	28187	0	0	81
+138	Ellevar - Q6879 - Skybox Change - JBN	22	1	6879	15893	0	0	82
+139	Whitevale - Terraformer - Q5707 Change	51	1	5707	13480	1	0	83
+140	Whitevale - Terraformer - Prop Load - Destroyed	51	4	830649	13480	2	0	83
+141	Whitevale - Terraformer - Q5727 Change	51	1	5727	13480	1	0	83
+142	Wickwood Tree State1 - Prop Load	22	4	2392047	17549	0	0	85
+143	Wickwood Tree State1 - Quest Change 8637	22	1	8637	17549	0	0	85
+144	Wickwood Tree State2 - Prop Load	22	4	2392047	17548	0	0	86
+145	Wickwood Tree State0 - Quest Change 8638	22	1	8638	17516	0	0	84
+146	Q6165 - Falling Debris - MLB3	1421	1	6165	17968	0	0	87
+147	Q6497 - Falling Debris - MLB3	1421	1	6497	17968	0	0	87
+149	Q6302 - Elderoot Awake	990	1	6302	14123	10	1	89
+150	Q6302 - Elderoot Awake - Prop Load	990	4	1616496	14123	10	1	89
+151	Q6302 - Elderoot Asleep	990	1	6302	18394	10	1	90
+152	Elderoot Dead - Quest Change	990	1	8784	18402	11	1	91
+153	Elderoot Dead - Prop Load	990	4	1616496	18402	11	1	91
+154	Q6283 - Vortex sky - Dominion - Halon Ring t1	1463	1	6283	18723	0	0	92
+155	Q6506 - Vortex sky - Exile - Halon Ring t1	1463	1	6506	18725	0	0	92
+159	Q5868 - Exo-lab teleporter On - Prop Load - RBG	1387	4	1099272	0	10	0	94
+160	Celestion - T3 - PE221 Sky Change	51	6	240	19273	1	0	95
+161	Celestion - T3 - PE221 Sky Change	51	0	1805	19273	0	0	95
+162	Q6677- Western Embertree Not burning Celestion T1	51	1	6677	19438	2	0	96
+163	Q6677- Eastern Embertree Not burning Celestion T1	51	1	6677	19440	0	0	96
+164	Q6677- NEast Embertree Not burning Celestion T1	51	1	6677	19442	0	0	96
+165	Q6677- Western Embertree Not burning Celestion T1	51	5	1641	19438	2	0	96
+166	Q6677- Eastern Embertree Not burning Celestion T1	51	5	1640	19440	0	0	96
+167	Q6677- NEast Embertree Not burning Celestion T1	51	5	1639	19442	0	0	96
+168	QTI - Client Event - Skybox with Interior	625	0	2564	19507	20	0	97
+170	Shiphand: DSD - Lights Off - KMS	2188	5	2627	0	9	0	98
+171	Shiphand: DSD - Lights On - KMS	2188	7	1851	20365	9	0	99
+173	Celestion-Tract 2-ICI Falling Debris On 1-DJU	51	1	6986	22829	9	0	101
+175	Q7862 - Lights On Quest - Fist of Azrion - MLB1	1061	1	7682	23554	50	0	102
+176	Q7862 - Lights On Zone - Fist of Azrion - MLB1	1061	5	4236	23554	0	0	102
+177	Q8096 - Lights On Zone - Widowmaker - MLB1/CSC1	1061	5	4249	23555	0	0	103
+178	Q8096 - Lights On Quest - Widowmaker - MLB1/CSC1	1061	1	8096	23555	50	0	103
+182	w2967 - Drusera Instance 4 - Entity Sky	2967	7	2290	23911	1	5000	104
+183	SpellSlinger Void Plane Sky (Interior)	0	9	0	28187	0	0	105
+184	Grimvault - PE523 - Attack Phase - JBN/MLB8	1061	0	3034	26237	1	0	106
+185	Grimvault - PE523 - Attack Phase 1 - JBN/MLB8	1061	7	2402	26237	1	0	106
+186	Grimvault - PE523 - Attack Phase 2 - JBN/MLB8	1061	7	2405	26237	1	0	106
+187	Grimvault - PE523 - Attack Phase 3 - JBN/MLB8	1061	7	2408	26237	1	0	106
+189	Q7685 - Red Sky on Quest - MLB1	1061	1	7685	28019	100	0	108
+190	Q8099 - Red Sky on Quest - MLB1/CSC1	1061	1	8099	28020	100	0	108
+191	Q7898  Generator 4 state - Prop Load	1666	4	2184149	28065	2	0	110
+192	Q7898 Generator4 state - Quest change	1666	1	2184149	28065	1	0	110
+193	Q7898  Generator 1 state - Prop Load	1666	4	2184451	28065	2	0	111
+194	Q7898  Generator 1 state -Quest	1666	1	2184451	28065	1	0	111
+195	Q7898  Generator 2 state - Prop Load	1666	4	2184448	28065	2	0	112
+196	Q7898  Generator 2 state -Quest	1666	1	2184448	28065	1	0	112
+197	Q7898  Generator 3 state - Prop Load	1666	4	2184445	28065	2	0	113
+198	Q7898  Generator 3 state -Quest	1666	1	2184445	28065	1	0	113
+199	Q7898  Generator 5 state - Prop Load	1666	4	2184461	28065	2	0	114
+200	Q7898  Generator 5 state -Quest	1666	1	2184461	28065	1	0	114
+201	Q7898  Generator 6 state - Prop Load	1666	4	2184464	28065	2	0	115
+202	Q7898  Generator 6 state -Quest	1666	1	2184464	28065	1	0	115
+203	Q7898  Generator 7 state - Prop Load	1666	4	2184467	28065	2	0	116
+204	Q7898  Generator 7 state -Quest	1666	1	2184467	28065	1	0	116
+205	Q7898  Generator 8 state - Prop Load	1666	4	2184470	28065	2	0	117
+206	Q7898  Generator 8 state -Quest	1666	1	2184470	28065	1	0	117
+207	Q8042  Generator 1 state - Prop Load	1666	4	2386254	28065	2	0	118
+208	Q8042  Generator 1 state -Quest	1666	1	2386254	28065	1	0	118
+209	Q8042  Generator 2 state - Prop Load	1666	4	2386255	28065	2	0	119
+210	Q8042  Generator 2 state -Quest	1666	1	2386255	28065	1	0	119
+211	Q8042  Generator 3 state - Prop Load	1666	4	2386253	28065	2	0	120
+212	Q8042  Generator 3 state -Quest	1666	1	2386253	28065	1	0	120
+213	Q8042  Generator 4 state - Prop Load	1666	4	2386248	28065	2	0	121
+214	Q8042  Generator 4 state -Quest	1666	1	2386248	28065	1	0	121
+215	Q8042  Generator 5 state - Prop Load	1666	4	2386260	28065	2	0	122
+216	Q8042  Generator 5 state -Quest	1666	1	2386260	28065	1	0	122
+217	Q8042  Generator 6 state - Prop Load	1666	4	2386259	28065	2	0	123
+218	Q8042  Generator 6 state -Quest	1666	1	2386259	28065	1	0	123
+219	Q8042  Generator 7 state - Prop Load	1666	4	2386258	28065	2	0	124
+220	Q8042  Generator 7 state -Quest	1666	1	2386258	28065	1	0	124
+221	Q8042  Generator 8 state - Prop Load	1666	4	2386261	28065	2	0	125
+222	Q8042  Generator 8 state -Quest	1666	1	2386261	28065	1	0	125
+223	Grimvault - Desolate Highland DOM - Sky Change	1061	0	2119	28493	0	0	126
+224	Grimvault - Desolate Highland EXILE - Sky Change	1061	0	2687	28494	0	0	126
+225	Q7685 - Red Sky on Zone - Fist of Azrion - MLB1	1061	5	4236	28019	0	0	108
+226	Q8099 - Red Sky On Zone - Widowmaker - MLB1/CSC1	1061	5	4232	28020	0	0	108
+227	Q7685 - Abandoned - SWC/MLB1	1061	1	7685	28555	0	0	102
+228	Q7685 - Known - SWC/MLB1	1061	1	7685	28558	90	0	102
+229	Q8099 - Known - SWC/MLB1	1061	1	8099	28565	90	0	103
+230	Q8099 - Abandoned - SWC/MLB1	1061	1	8099	28566	0	0	103
+231	Q7691 - Boss Sky on Quest - MLB1	1061	1	7691	28782	100	0	127
+232	Q7691 - Boss Sky on Zone - Department YYZ - MLB1	1061	0	2243	28782	0	0	127
+235	Q8105 - Boss Sky on Quest - MLB1	1061	1	8105	28808	100	0	127
+236	Q8105 - Boss Sky on Zone - Department YYZ - MLB1	1061	0	2310	28808	0	0	127
+238	Q7771 - Megadroid Head - Off State - PWM	22	4	1541685	22109	2	0	128
+239	Q7771 - Megadroid Head - On State - PWM	22	4	1541685	29116	1	0	129
+240	Crimson Isle - Q5573 Act 1 Sky Change Zone	870	5	622	29205	5	0	55
+241	Grimvault - PE523 - Defend Phase - JBN/MLB8	1061	0	3034	29418	1	0	107
+242	Grimvault - PE523 - Defend Phase 1 - JBN/MLB8	1061	7	2401	29418	1	0	107
+243	Grimvault - PE523 - Defend Phase 2 - JBN/MLB8	1061	7	2404	29418	1	0	107
+244	Grimvault - PE523 - Defend Phase 3 - JBN/MLB8	1061	7	2407	29418	1	0	107
+245	w2173 - Red Alert Skybox	2173	7	1759	29495	10	0	130
+249	Q9064 - Lights Out - Mind of the Glo - MLB7	1061	1	9064	30793	50	0	133
+250	Q9123 - Lights Out - Mind of the Glo - MLB7	1061	1	9123	30794	50	0	134
+251	Q6283 - Vortex sky - Dominion - Halon Ring t1	1463	0	1583	31514	0	0	92
+252	Q6506 - Vortex sky - Exile - Halon Ring t1	1463	5	1583	31513	0	0	92
+257	Q9123 - Dead Globellum Sky - MLB7	1061	1	9123	33338	50	0	138
+258	Q9064 - Dead Globellum Sky - MLB7	1061	1	9064	33339	50	0	138
+259	Q9195: Black Focus - OnQuestChange	1061	1	9195	34079	1	0	139
+260	Q9195: Black Focus - Prop Load	1061	4	1790560	34079	2	0	139
+261	Q9195: Black Focus Beam 1 - OnQuestChange	1061	1	9195	34079	1	0	140
+262	Q9195: Black Focus Beam 1 - Prop Load	1061	4	3765620	34079	2	0	140
+263	Q9195: Black Focus Beam 2 - OnQuestChange	1061	1	9195	34079	1	0	141
+264	Q9195: Black Focus Beam 2 - Prop Load	1061	4	3765629	34079	2	0	141
+265	Q9195: Black Focus Beam 3 - OnQuestChange	1061	1	9195	34079	1	0	142
+266	Q9195: Black Focus Beam 3 - Prop Load	1061	4	3765611	34079	2	0	142
+269	q7496 Savage Coast Radar Dish - Prop Load	2997	4	5100066	26289	2	0	145
+270	q7496 Savage Coast Radar Dish - Quest Change	2997	1	5100066	26289	1	0	145
+271	WS0 - Q9792 Skybox Change	1061	0	4428	36065	100	0	147
+272	SE14 - Bunker Sound Zone Kit	3044	7	2840	37267	10	0	148
+274	GC030 Q5868 - Star Comm On Sky - MLB10	1387	1	5868	37416	50	0	150
+275	SE14 - Boss Fight Sound Zone Kit 1	3044	7	4770	37804	10	16000	151
+276	SE14 - Boss Fight Sound Zone Kit 2	3044	7	2840	37804	10	0	151
+277	Q6992 - Alert Sky on Quest - MLB12	1634	1	6992	38059	100	0	152
+278	Q6992 - Alery Sky on Zone - MLB12	1634	5	1679	38059	0	0	152
+280	W3404 PE781 - Etheric Skybox 1 PO4921 - KLW	3404	7	4921	38154	20	0	154
+281	W3404 PE781 - Etheric Skybox 2 PO4923 - KLW	3404	7	4923	38155	20	0	154
+284	W3404 PE781 - Selfdestruct Skybox PO4927 - KLW	3404	7	5013	38183	100	0	156
+285	DE324 - Arcterra T1 - Blizzard - KMS	3335	3	324	38485	10	1000	158
+286	DE324 - Arcterra T1 - Blizzard - KMS	3335	5	4763	38485	5	0	158
+287	Q7018 - Boss Room Skybox on Zone - MLB12	1634	0	2962	39906	100	0	159
+289	Bor Milug - Arcterra T1 - PE Interior Snow - KMS	3335	7	5058	39108	10	1000	161
+290	Bor Milug - Arcterra T1 - Z Interior Snow - KMS	3335	5	4774	39108	10	1000	161
+292	Q7018 - Aurin Room Skybox on Zone - MLB12	1634	0	2963	39904	100	0	163
+293	Q7018 - Mordesh Room Skybox on Zone - MLB12	1634	0	2964	39905	100	0	164
+294	Torment Zone - Matuk - Arcterra - ETS	3335	5	4945	40181	10	0	165
+298	Ring of Scorn - PEO - Matuk - Arcterra - Dom	3335	7	5032	40567	1	0	167
+299	Ring of Scorn - Zone - Matuk - Arcterra - Ex	3335	5	4768	40571	1	0	167
+300	Ring of Scorn - PEO - Matuk - Arcterra - Ex	3335	7	4807	40567	1	0	167
+302	Carrion Vale - PEO - Kundar - Arcterra - Dom	3335	7	5033	40573	1	0	168
+303	Carrion Vale - Zone - Kundar - Arcterra - Ex	3335	5	4785	40574	1	0	168
+304	Carrion Vale - PEO - Kundar - Arcterra - Ex	3335	7	4808	40573	1	0	168
+306	FG Nest - PEO - Frostgale - Arcterra - Dom	3335	7	5109	40576	1	0	169
+307	FG Nest - Zone - Frostgale - Arcterra - Ex	3335	5	4782	40577	1	0	169
+308	FG Nest - PEO - Frostgale - Arcterra - Dom	3335	7	5111	40576	1	0	169
+309	Winterbone Woods - Zone - Renhakul - Arcterra	3335	5	4960	40604	1	0	170
+310	Winterbone Woods - PEO - Renhakul - Arcterra	3335	7	5120	40605	1	0	170
+311	DE324-Arcterra T1-Blizzard Sound Event Start-DJU	3335	3	324	41711	10	1000	171
+312	W3009 - ws2 part 6 - Boss Sky - JBN	3009	7	4329	40684	99	0	172
+313	W3009 - ws2 part 6 - Boss Sky - JBN	3009	0	4966	40684	99	0	172
+1312	Renhakul - Zone - Music - Arcterra	3335	5	4960	40604	1	0	1172
+1313	Renhakul - PEO - Music - Arcterra	3335	7	5120	40605	1	0	1172
+1315	Ring of Scorn - PEO - Matuk - Music - Dom	3335	7	5032	40567	1	0	1174
+1316	Ring of Scorn - Zone - Matuk - Music - Ex	3335	5	4768	40571	1	0	1174
+1317	Ring of Scorn - PEO - Matuk - Music - Ex	3335	7	4807	40567	1	0	1174
+1318	Torment Zone - Matuk - Music - ETS	3335	5	4945	40181	10	0	1174
+1320	Carrion Vale - PEO - Kundar - Music - Dom	3335	7	5033	40573	1	0	1175
+1321	Carrion Vale - Zone - Kundar - Music - Ex	3335	5	4785	40574	1	0	1175
+1322	Carrion Vale - PEO - Kundar - Music - Ex	3335	7	4808	40573	1	0	1175
+1324	FG Nest - PEO - Frostgale - Arcterra - Dom	3335	7	5109	40576	1	0	1173
+1325	FG Nest - Zone - Frostgale - Music - Ex	3335	5	4782	40577	1	0	1173
+1326	FG Nest - PEO - Frostgale - Music - Dom	3335	7	5111	40576	1	0	1173
+1327	DE324-Arcterra T1-Blizzard Sound Zone Reenter-DJU	3335	5	4843	41711	10	1000	1176
+1328	NPEU - EXILE - Combat Area - Darken Sky - JBN	3460	5	5967	43175	100	5000	1177
+1329	NPEU - DOM - Combat Area - Darken Sky - JBN	3460	5	5967	43196	100	5000	1177
+1330	NPEU - EXILE - Quest Area - Darken Sky - JBN	3460	5	5968	43197	100	5000	1178
+1331	NPEU - DOM - Quest Area - Darken Sky - JBN	3460	5	5968	43198	100	5000	1178
+1333	e4552 - w3202 - RMT Engineer MiniBoss Sky	3032	0	6017	43845	20	0	1180
+1334	e4550 - w3202 - RMT Engineer Boss Sky	3032	7	4550	43786	20	0	1181
+1335	e4558 w3032 - RMT - Shredder boss sky	3032	0	5975	43797	20	0	1182
+1336	e4554 w3032 - RMT - Airlock Mordechai boss sky	3032	0	5989	43801	20	0	1183
+1337	e4552 - w3202 - RMT Engineer Sky (ZoneChange)	3032	0	5978	43804	20	0	1181
+1338	[CBC] End Room boss Music	3522	0	6028	44326	0	0	1184

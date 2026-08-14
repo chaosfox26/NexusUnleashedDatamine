@@ -1,0 +1,277 @@
+Id	TutorialId	Page	TutorialLayoutId	LocalizedTextIdTitle	LocalizedTextIdBody00	LocalizedTextIdBody01	LocalizedTextIdBody02	Sprite00	Sprite01	Sprite02	SoundEventId
+1	1	0	1	198997	198998	0	0	Icon_TutorialSmall_UI_TutTemp			0
+2	1	1	2	198999	199000	0	0	Icon_TutorialSmall_UI_TutTemp			0
+3	1	2	3	199001	199002	0	0	Icon_TutorialMedium_UI_TutTemp			0
+4	1	3	4	199004	199005	0	0	Icon_TutorialMedium_UI_TutTemp			0
+5	1	4	5	199006	199007	0	0	Icon_TutorialLarge_UI_TutTemp			0
+6	1	5	6	199008	199009	0	0	Icon_TutorialXLarge_UI_TutTemp			0
+52	23	1	5	210807	210808	563825	563826		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_1A	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_1B	0
+54	25	0	3	213764	213765	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Armorer			0
+57	294	0	3	213775	213776	564149	564150	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Tradeskill_Codex_3			0
+77	56	0	5	221095	221117	566664	566665		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Salvaging_Pg_1_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Salvaging_Pg_1_2	0
+79	29	0	1	248775	221232	561576	564520	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Schematics_Pg_1_2			0
+80	34	0	3	221727	221886	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Weaponsmith			0
+81	35	0	3	221728	221936	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Technologist			0
+82	36	0	3	221729	221947	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Architect			0
+83	37	0	3	221748	221776	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Miner			0
+84	38	0	3	221749	221973	561672	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_RelicHunter			0
+85	39	0	5	221750	221974	561515	561516		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Farmer_1_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Farmer_1_2	0
+86	40	0	3	221751	221975	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Survivalist			0
+87	41	0	3	221752	221984	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Cook			0
+90	131	0	3	221873	221874	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Tailor			0
+91	78	0	5	223764	223765	257203	257204		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Soldier_Unlock_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Soldier_Unlock_2	0
+92	81	0	3	223766	223767	257208	257209	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_defend			0
+94	80	0	3	224034	224035	257218	257219	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_timed			0
+95	82	0	3	224089	224090	257243	257244	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_fortify			0
+96	83	0	3	224096	224098	257223	257224	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_assassinate			0
+97	84	0	3	224101	224102	257238	257239	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_swat			0
+98	85	0	3	224105	224106	257228	257229	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_demolition			0
+99	86	0	3	224107	224108	257233	257234	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_rescue			0
+100	87	0	5	224109	224110	257317	257318		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Explorer_Unlock_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Explorer_Unlock_2	0
+101	88	0	3	224111	224112	257322	257323	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_explorer_vista			0
+102	89	1	3	224114	224115	257327	257328	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Explorer_OpsMission_Pg_1_1			0
+103	90	0	3	224116	224117	257331	257332	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_explorer_hidden_door			0
+104	91	0	3	224118	224119	257336	257337	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Explorer_OpsMission_Pg_2_2			0
+105	92	0	3	224120	224121	257344	257345	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_explorer_powermap			0
+106	93	0	3	224122	224123	257266	257267	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Scientist_Experimentation_Pg_3			0
+107	94	0	3	224126	224127	257279	257280	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Scientist_Specimen_Pg_1_2			0
+108	95	0	5	224129	224130	257284	257285		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Settler_Unlock_2	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Settler_Unlock_Page_2_1	0
+110	97	0	3	224133	224134	257302	257303	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Settler_CivilService_Pg_1_1			0
+111	98	0	1	224135	224136	257294	257295	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Settler_Depot_UI			0
+112	75	0	1	225624	225625	257194	257195	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Path_Mission_Complete			0
+118	63	0	3	233290	233291	257158	257159	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Quest_Tracker			0
+120	65	0	3	233294	233295	257177	257178	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Quest_Botched			0
+121	272	0	1	233296	233297	257175	257176	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Comm_Turn_In			0
+122	105	0	3	233301	233302	257153	257154	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Quest_Icon_1			0
+123	68	0	3	233303	233304	257179	257180	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Chalenge_Unlocked			0
+124	70	0	3	233306	233307	257187	257188	ClientSprites:Icon_TutorialMedium_ui_tutorial_medium_challenge_reward_track			0
+129	1	6	5	248757	248758	248759	248760		Icon_TutorialSmall_UI_TutTemp	Icon_TutorialSmall_UI_TutTemp	0
+133	118	0	1	256784	611931	257286	257287	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Settler_Datachron		ClientSprites:Icon_TutorialLarge_UI_Tutorial_Large_Settler_PublicSafety_Pg_1_2	0
+136	154	1	3	257160	257161	257162	257163	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Guide_Arrow			0
+144	79	1	3	257210	612201	257211	257212	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_conquer			0
+152	115	0	3	257249	612208	257251	257252	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_first_strike			0
+154	114	0	3	257259	612211	257260	257261	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_soldier_security			0
+156	93	1	3	257268	612215	257269	257270	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Scientist_Experimentation_Pg_2			0
+181	122	0	3	273563	285804	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_WASD			0
+182	123	0	3	273564	298804	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_DoubleJump			0
+183	124	0	1	273565	298820	754632	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Camera			0
+184	73	0	3	273566	299219	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Hostile_Telegraph			0
+186	129	0	1	279278	279279	563847	563848	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Circuit_Board_Crafting_2_01			0
+187	130	0	3	279554	279555	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Outfitter			0
+189	126	0	3	280362	298825	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_TSpell			0
+195	135	0	5	310742	310743	310744	310751		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Walatiki_Pg_1_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Walatiki_Pg_1_2	0
+196	136	0	1	310762	310780	310763	310764	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Arena_Intro_1			0
+201	194	0	1	333403	333404	344329	344330	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Guild_Renown			0
+202	140	0	3	333932	345430	333933	333934	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Intro_1			0
+204	140	1	3	333959	333960	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Intro_2			0
+205	141	0	3	333961	558024	333962	333963	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Interior_1			0
+207	141	1	3	333976	558056	333977	333978	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Interior_2			0
+208	142	0	3	334221	334222	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Housing_Settings_Pg_1			0
+209	143	0	3	335385	335386	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Plug_Benefits_1			0
+210	143	1	3	335552	558126	335553	335554	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Plug_Benefits_2			0
+214	145	0	3	410772	410773	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_Sprint			0
+220	150	1	5	438516	438517	688023	688025		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Cogwheel	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Interactive_Objects	0
+221	151	0	5	438566	551596	438567	438568		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PVP_HoldtheLine_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PVP_HoldtheLine_2	0
+225	72	0	1	439057	547833	439058	439059	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Achievement_Complete			0
+226	289	0	3	439061	439062	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Death_HoloCrypt			0
+228	106	0	5	439065	439066	690962	690963		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Hazards_3	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Hazards_2	0
+230	158	0	1	439177	439178	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_SpaceMadness_1			0
+231	158	1	1	439180	439181	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_SpaceMadness_2			0
+232	159	0	3	443355	443356	0	0	ClientSprites:Icon_TutorialMedium_UI_PCPMalgrave_SettlerStage1_001			0
+233	162	0	3	443360	443361	0	0	ClientSprites:Icon_TutorialMedium_UI_PCPMalgrave_SoldierStage1			0
+234	161	0	3	443362	443363	0	0	ClientSprites:Icon_TutorialMedium_UI_PCPMalgrave_ScientistStage1			0
+235	160	0	3	443367	443368	0	0	ClientSprites:Icon_TutorialMedium_UI_PCPMalgrave_ExplorerStage1			0
+236	163	0	3	470175	470176	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Algoroc_Exile_T1			47230
+238	271	0	3	489749	489750	489751	489752	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_Dodge			0
+241	276	0	3	491928	491929	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_WarriorResource			0
+244	178	0	1	494181	494182	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Soldier_Icon			0
+245	179	0	1	494183	611908	494184	494185	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Settler_Icon			0
+246	180	0	1	494186	494187	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Scientist_Icon			0
+247	181	0	1	494190	494191	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Explorer_Icon			0
+248	277	0	3	504043	504044	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_EsperResource			0
+249	278	0	3	504062	504063	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_SpellslingerResource			0
+250	279	0	3	504065	504066	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_StalkerResource			0
+251	280	0	3	504085	504086	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_MedicResource			0
+252	281	0	3	504913	504914	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_EngineerResource			0
+253	105	1	3	505348	505349	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Quest_Icon_2			0
+254	157	0	3	505976	505977	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Mini_Map			0
+259	74	0	3	546794	546795	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Binding_Recall			0
+260	195	0	3	546796	546797	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_Amps			0
+261	196	0	1	546813	546814	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Reputation			0
+263	102	0	5	548172	548173	548224	710786		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_LAS_Intro_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_LAS_Intro_2	0
+264	197	0	3	553318	553319	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Algoroc_Exile_T2			47231
+265	198	0	3	553320	553321	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Algoroc_Exile_T3			47232
+266	199	0	3	556138	556140	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Celstion_Exile_T1			47237
+267	200	0	3	556495	556496	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Celstion_Exile_T2			47238
+268	201	0	3	556499	556500	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Celstion_Exile_T3			47239
+269	202	0	3	556501	556502	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Galeras_Exile_T1			47250
+270	203	0	3	556506	556507	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Galeras_Exile_T2			47251
+271	204	0	3	556508	556509	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Galeras_Exile_T3			47252
+272	205	0	3	556512	556513	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Galeras_Exile_T4			47253
+273	222	0	3	556596	556597	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Deradune_Dom_T1			47242
+274	223	0	3	556601	556602	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Deradune_Dom_T2			47243
+275	224	0	3	556603	556604	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Deradune_Dom_T3			47244
+276	225	0	3	556605	556606	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Ellevar_Dom_T1			47245
+277	226	0	3	556607	556608	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Ellevar_Dom_T2			47246
+278	227	0	3	556609	556610	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Ellevar_Dom_T3			47247
+279	228	0	3	556628	556629	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Auroria_Dom_T1			47233
+280	229	0	3	556631	556632	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Auroria_Dom_T2			47234
+281	230	0	3	556633	556634	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Auroria_Dom_T3			47235
+282	231	0	3	556635	556636	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Auroria_Dom_T4			47236
+283	233	0	3	556700	556701	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_NorthernWilds_Exile_T1			47256
+284	234	0	3	556703	556704	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_NorthernWilds_Exile_T2			47257
+285	235	0	3	556729	556730	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_EverstarGrove_Exile_T1			47248
+286	236	0	3	556731	556732	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_EverstarGrove_Exile_T2			47249
+287	237	0	3	556734	556735	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_CrimsonIsle_Dom_T2_1			47240
+288	238	0	3	556741	556742	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_CrimsonIsle_Dom_T2_2			47241
+289	239	0	3	556743	556744	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_LevianBay_Dom_T2_1			47254
+290	240	0	3	556745	556746	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_LevianBay_Dom_T2_3			47255
+292	221	0	3	557553	557554	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Grimvault_Shared_T2			49956
+293	217	0	3	557577	557578	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Malgrave_Shared_T1			49957
+294	219	0	3	557581	557582	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Malgrave_Shared_T1			49957
+295	218	0	3	557590	557591	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Malgrave_Shared_T2			49958
+296	216	0	3	557601	557602	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Wilderrun_Dom_T1			49963
+297	214	0	3	557603	557604	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Wilderrun_Exile_T1			49963
+298	215	0	3	557605	557606	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Wilderrun_Shared_T2			49964
+299	210	0	3	557607	557608	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Farside_Exile_T1			49953
+300	211	0	3	557613	557614	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Farside_Shared_T2			49954
+301	212	0	3	557616	557617	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Farside_Dom_T1			49953
+302	213	0	3	557619	557620	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Farside_Shared2_T2			49954
+303	206	0	3	557842	557843	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Whitevale_Exile_T1			49959
+304	207	0	3	557844	557845	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Whitevale_Dom_T2			49960
+305	208	0	3	557846	557847	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Whitevale_Shared_T3			49961
+306	209	0	3	557848	557849	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Whitevale_Shared_T4			49962
+307	241	0	3	557864	558107	557865	557866	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Plugs			0
+308	142	1	5	558009	558010	558011	558012		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Housing_Settings_Pg_2_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Housing_Settings_Pg_2_2	0
+309	141	2	3	558053	558057	558054	558055	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Interior_3			0
+310	232	0	3	560803	560804	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Grimvault_Dom_T1			49955
+311	242	0	5	562300	563242	562301	562302		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_1_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_2_1	0
+312	242	1	5	562304	562310	562305	562306		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_1_2	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_2_2	0
+313	243	0	3	562311	563150	562312	562313	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_PvP_Warplot_Gameplay_Pg_1			0
+314	243	2	5	562314	562315	563349	563350		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Gameplay_Pg_3_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Gameplay_Pg_3_2	0
+315	242	2	5	563106	563107	563351	563352		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_3_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_3_2	0
+316	244	0	5	563127	563128	563133	563145		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Bank_Pg_1_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Bank_Pg_1_2	0
+317	243	3	5	563222	563223	563224	563225		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Gameplay_Pg_4_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Gameplay_Pg_4_2	0
+318	242	3	5	563236	563237	563353	563354		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_4_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Warplots_Setup_Pg_4_2	0
+319	243	1	5	563339	0	563340	563341		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Gameplay_Pg_2_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_PvP_Warplot_Gameplay_Pg_2_2	0
+320	23	2	5	563828	615537	563829	563830		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_2A	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_2B	0
+321	129	1	1	563849	563850	563851	563852	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Circuit_Board_Crafting_2_02	ClientSprites:Icon_TutorialLarge_UI_Tradeskill_Gen_Coordinate	ClientSprites:Icon_TutorialLarge_UI_Tradeskill_Gen_Coordinate	0
+323	245	0	3	565448	565449	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Dyes			0
+327	247	0	1	568647	568648	568678	568708	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Adventures_SimCore_1			0
+328	248	0	1	568649	568650	568677	568711	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Adventures_Intro_1			0
+330	255	0	3	571188	611924	571189	571190	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Settler_CivilService_Pg_1_2			0
+331	256	0	3	571191	611930	571192	571193	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Settler_Cache_Pg_1_2			0
+332	257	0	3	571194	611932	571195	571196	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Settler_PublicSafety_Pg_1_2			0
+333	258	0	3	571200	612227	571201	571208	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_explorer_operations			0
+335	259	0	3	571245	612229	571246	571247	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Explorer_OpsMission_Pg_2_1			0
+336	260	0	3	571290	612214	571291	571292	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Scientist_Specimen_Pg_1_1			0
+337	261	0	3	571295	612212	571296	571297	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Scientist_Experimentation_Pg_1_1			0
+340	262	0	3	572673	572674	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_PCPBadlands_01			58970
+341	263	0	3	572675	572676	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_PCPMalgrave_01			58969
+352	293	0	3	611642	611643	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_PCPLevian_01			58974
+353	261	1	3	612216	612217	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Scientist_Experimentation_Pg_2_2			0
+354	295	0	3	613097	613098	613099	613100				0
+355	295	1	3	613103	613104	613105	613106				0
+356	296	0	3	614564	614565	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Auction			0
+357	297	0	3	614568	614569	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Circles			0
+358	296	1	3	614692	614693	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Commodities_Trading			0
+363	303	0	3	615426	615427	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Blighthaven_Exile			58967
+364	302	0	3	615428	615429	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Blighthaven_Dominion			58966
+365	304	0	3	615513	615489	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Northern_Wastes			58973
+366	305	0	3	615643	615637	0	0	Icon_TutorialMedium_UI_Tutorial_Medium_Blighthaven_Episode2			58968
+367	307	0	3	617673	617674	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_account_inventory_00			0
+368	307	1	3	617680	617681	617682	617683	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_account_inventory_01			0
+369	307	2	3	617684	617685	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_account_inventory_02			0
+370	306	0	3	617686	617687	617690	617691	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_credd_00			0
+372	306	1	3	617695	617696	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_credd_01			0
+373	306	2	3	617697	617698	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_credd_02			0
+374	308	0	3	624259	624262	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medals			0
+375	309	0	3	624260	624261	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medal_hycrest			0
+376	310	0	3	624263	624264	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medal_astrovoid			0
+377	311	0	3	624265	624266	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medal_wilds			0
+378	312	0	3	624267	624268	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medal_galeras_tempest			0
+379	313	0	3	624269	624270	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medal_whitevale			0
+380	314	0	3	624271	624272	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_adventure_medal_malgrave			0
+381	315	0	3	626472	626473	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_SE14_Forest_01			0
+382	315	1	3	626474	626475	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_SE14_Forest_02			0
+383	315	2	3	626479	626480	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_SE14_Forest_03			0
+384	316	0	3	626485	626486	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_SE14_Shadeling_01			0
+385	316	1	3	626487	626488	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_SE14_Shadeling_02			0
+386	317	0	3	662221	662223	0	0	ClientSprites:Icon_TutorialMedium_UI_ProtogamesAcademy_FindingReplacements			0
+387	318	0	3	662226	662227	0	0	ClientSprites:Icon_TutorialMedium_UI_ProtogamesAcademy_InterruptArmor			0
+388	318	1	3	662228	662229	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_moo			0
+389	327	0	3	662232	662233	678700	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_BoB_Battery_1			0
+390	328	0	3	662235	662236	662241	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_BoB_Battery_1			0
+391	319	0	1	662237	662238	0	0	ClientSprites:Icon_TutorialSmall_UI_ProtogamesAcademy_Knockdown			0
+392	320	0	1	662239	662240	0	0	ClientSprites:Icon_TutorialSmall_UI_ProtogamesAcademy_Tether			0
+393	321	0	1	662242	662243	0	0	ClientSprites:Icon_TutorialSmall_UI_ProtogamesAcademy_Subdue			0
+394	328	1	3	662244	662245	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_BoB_Power_Up_1			0
+395	325	0	3	662247	662248	0	0	ClientSprites:Icon_TutorialMedium_UI_ProtogamesAcademy_PlayerRoles			0
+396	326	0	3	662250	662251	672238	0	ClientSprites:Icon_TutorialMedium_UI_ProtogamesAcademy_ExitingPage1			0
+398	246	0	1	672050	672051	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Vehicle_4			0
+399	326	1	3	672407	672408	0	0	ClientSprites:Icon_TutorialMedium_UI_ProtogamesAcademy_ExitingPage2			0
+400	332	0	3	672458	672459	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_NorthernWilds_Exile_T1			0
+401	331	0	3	672460	672461	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_EverstarGrove_Exile_T1			0
+402	329	0	3	672462	672463	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_CrimsonIsle_Dom_T2_2			0
+403	330	0	3	672464	672465	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_LevianBay_Dom_T2_2			0
+404	334	0	3	672601	672602	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_Guard_Directions_1			0
+405	335	0	3	672615	672616	672617	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_Mount_Rental_2			0
+406	333	0	3	672618	672619	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_Taxi_1			0
+408	333	1	3	672658	672659	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_Taxi_2			0
+409	334	1	3	672660	672661	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Med_Guard_Directions_3			0
+410	337	0	5	677089	677090	734844	735175		ClientSprites:Icon_TutorialSmall_UI_Tutorial_runecrafting_0_small	ClientSprites:Icon_TutorialSmall_UI_Tutorial_runecrafting_1_small	0
+411	327	1	3	678701	678702	678703	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_BoB_Power_Up_1			0
+412	338	0	3	681907	681908	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Contract			0
+415	172	0	5	689576	0	689577	689578		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Medic_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Medic_2	0
+416	345	0	5	689580	0	689581	689582		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Warrior_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Warrior_2	0
+417	349	0	5	689583	0	689584	689585		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Spellslinger_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Spellslinger_2	0
+418	347	0	5	689586	0	689587	689588		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Engineer_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Engineer_2	0
+419	346	0	5	689589	0	689590	689591		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Esper_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Esper_2	0
+420	348	0	5	689592	0	689593	689594		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Stalker_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Innate_Stalker_2	0
+422	360	0	1	694709	694710	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Quest_Bang			0
+424	363	0	5	698916	698917	708748	708749		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_LAS_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_LAS_2	0
+425	183	0	3	700083	700084	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Shields			0
+426	362	0	3	700454	700455	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_account_inventory_00			0
+428	362	1	5	700458	0	700459	700460		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Salvaging_Pg_1_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Salvaging_Pg_1_2	0
+429	362	2	3	700461	700462	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Nesting_Bag			0
+430	102	1	5	710788	0	710789	710790		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Combat_AbilityBuilder_2	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Combat_AbilityBuilder	0
+431	367	0	3	712139	712140	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Community_1			0
+432	365	0	5	712157	712158	712163	718169		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Healing_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Healing_2	0
+433	366	0	5	712164	712165	712166	718170		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Tanking_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Tanking_2	0
+434	351	0	3	718180	718181	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Discoveries			0
+435	367	1	3	718240	718241	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Community_2			0
+438	367	2	3	718252	718253	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Community_3			0
+440	368	0	3	718310	719666	718311	718312	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_imbuements			0
+441	360	1	1	718890	718891	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Quest_Bang_Accepted			0
+442	370	0	1	718893	718894	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Quest_Complete			0
+443	371	0	1	719058	719059	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Quest_TalkTo			0
+444	73	1	3	719504	719505	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Friendly_Telegraph			0
+445	375	0	5	722315	0	722316	722317		ClientSprites:Icon_TutorialSmall_UI_Tutorial_runes_0_small	ClientSprites:Icon_TutorialSmall_UI_Tutorial_runes_1_small	0
+446	343	0	1	727253	727254	0	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Bags			0
+447	23	4	5	728007	0	728008	728009		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_4A	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_4B	0
+448	23	0	5	728010	0	728011	728012		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_0A	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Crafting_Page_0B	0
+450	23	5	3	729058	729059	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Crafting_Page_5			0
+451	23	3	3	729060	729061	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Crafting_Page_3			0
+452	383	0	3	731532	731535	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Large_Content_Finder			0
+453	384	0	3	732445	732446	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_ArcterraZone_Synopsis			68975
+454	337	1	3	734845	734846	734847	735176	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_runes			0
+455	388	0	5	739562	739518	739519	739520		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Runesets	ClientSprites:Icon_TutorialSmall_UI_Tutorial_runecrafting_3_small	0
+456	389	0	5	739620	0	739621	739622		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Combat_Arcterra_01	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Combat_Arcterra_02	0
+458	389	1	5	739629	739630	739631	739632		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Combat_Arcterra_03	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Combat_Arcterra_04	0
+459	390	0	3	739681	739682	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_moo			0
+460	394	0	3	741632	741645	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_imprints_1			0
+461	394	1	3	741644	741646	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_imprints_2			0
+462	395	0	3	744636	744672	744637	744638	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Madam_Fay_Large_1			0
+463	395	1	5	744669	0	744670	744671		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Madam_Fay_Small_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Madam_Fay_Small_2	0
+464	396	0	5	745671	745899	745897	745730		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Store_1	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Store_2	0
+465	396	1	5	745889	0	745895	745890		ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Store_3	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Store_4	0
+466	399	0	1	753531	753532	754631	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Camera			0
+467	400	0	3	753533	753534	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Combat_DoubleJump			0
+468	401	0	3	753548	753549	0	0	ClientSprites:Icon_TutorialMedium_ui_tutorial_large_moo			0
+469	402	1	3	753605	753606	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Guide_Arrow			0
+470	398	0	3	753658	753659	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_PvP_Bonuses			0
+471	403	0	3	753890	753891	753894	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_Housing_Plug_Benefits_1			0
+472	403	1	1	753892	753893	753895	0	ClientSprites:Icon_TutorialSmall_UI_Tutorial_Small_Store_2			0
+473	404	0	3	755048	755252	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_PvP_Quests2			0
+474	241	1	3	755533	755534	0	0	ClientSprites:Icon_TutorialMedium_UI_Social_Housing_008			0
+475	407	0	3	756884	756885	0	0	ClientSprites:Icon_TutorialMedium_UI_Tutorial_Medium_HalonRing_Shared_T1			0

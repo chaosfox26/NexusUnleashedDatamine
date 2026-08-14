@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="PropPickerFrame" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="PropPicker" position.height="130" position.relative="0" position.width="200" position.x="680" position.y="529" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="PropPicker_SetDesc" target="desc" targetname="SetText" />
+    <input-redirect source="PropPicker_SetProp" target="Icon" targetname="SetImage" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="21" position.relative="0" position.width="187" position.x="5" position.y="1" Text="Props &amp; Interiors" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="prop" position.height="72" position.relative="0" position.width="72" position.x="59" position.y="28" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="PropPicker" targetname="PropPicker_OnPropSelect" />
+    </control>
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Icon" position.height="64" position.relative="0" position.width="64" position.x="63" position.y="32" TXDName="Icon" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="desc" position.height="18" position.relative="0" position.width="176" position.x="12" position.y="102" Text="" TextID="0" TXDName="Text" visible="1" />
+</frame>

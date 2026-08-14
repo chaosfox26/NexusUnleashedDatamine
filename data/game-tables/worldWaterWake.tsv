@@ -1,0 +1,11 @@
+Id	Flags	ColorTexture	NormalTexture	DistortionTexture	DurationMin	DurationMax	ScaleStart	ScaleEnd	AlphaStart	AlphaEnd	DistortionWeight	DistortionScaleStart	DistortionScaleEnd	DistortionSpeedU	DistortionSpeedV	PositionOffsetX	PositionOffsetY
+1	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1125	1350	0.2	3.2	0.8	0	0.02	1.5	1.5	0	-1.5	0	0
+2	0		Art\Water\Temp\Water_DirectionalRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1000	1200	0.2	4.2	0.8	0	0.1	1.5	1.5	0	-0.5	0	0
+3	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	500	600	0.2	1.7	0.8	0	0.1	1.5	1.5	0	-1.5	0	0
+4	0		Art\Water\Temp\Water_DirectionalRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1000	1200	0.2	4.2	0.8	0	0.1	1.5	1.5	0	-0.5	0	0
+5	1		Art\Water\Temp\Water_DirectionalRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	2000	2400	0.2	4.2	0.8	0	0.1	1.5	1.5	0	-0.5	0	0.5
+6	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	6000	6000	0.2	12.2	1	0	0.2	1.5	0.5	0	0	0	0
+7	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	3000	3000	0.2	6.2	1	0	0.2	1.5	0.5	0	0	0	0
+8	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1400	1600	0.2	4.2	0.5	0	0.1	1.5	1	0	-0.2	0	0
+9	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	1400	1600	0.2	4.2	0.5	0	0.1	1.5	1	0	-0.2	0	0
+10	0		Art\Water\Temp\Water_CircularRipple_000_Normal.tex	Art\Water\Temp\Water_BaseTEMP_BlueGreen_000_Normal.tex	500	600	0.2	1.7	0.8	0	0.1	1.5	1.5	0	-1.5	0	0

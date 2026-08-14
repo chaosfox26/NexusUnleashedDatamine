@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="SpawnPickerFrame" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="SpawnPicker" position.height="114" position.relative="0" position.width="200" position.x="700" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SpawnPicker_AddSpawn" target="spawns" targetname="AddItem" />
+    <input-redirect source="SpawnPicker_Clear" target="spawns" targetname="Clear" />
+    <control class="TextListBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="spawns" position.height="78" position.relative="0" position.width="188" position.x="6" position.y="28" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="ListBox" visible="1">
+        <output-redirect source="OnItemSelect" target="SpawnPicker" targetname="SpawnPicker_OnSpawnSelect" />
+    </control>
+    <control class="Text" font.color="0" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="title" position.height="18" position.relative="0" position.width="191" position.x="5" position.y="2" Text="Spawns" TextID="0" TXDName="Text" visible="1" />
+</frame>

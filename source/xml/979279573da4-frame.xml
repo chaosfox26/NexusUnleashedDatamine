@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="TextureDialog" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="TextureDialog" position.height="267" position.relative="0" position.width="200" position.x="700" position.y="314" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetAutoTexture" target="textureAdd" targetname="SetChecked" />
+    <input-redirect source="SetTexture0" target="texture0" targetname="SetImage" />
+    <input-redirect source="SetTexture1" target="texture1" targetname="SetImage" />
+    <input-redirect source="SetTexture2" target="texture2" targetname="SetImage" />
+    <input-redirect source="SetTexture3" target="texture3" targetname="SetImage" />
+    <input-redirect source="SetTextureAdd" target="textureAdd" targetname="SetChecked" />
+    <input-redirect source="SetTextureSet" target="textureSet" targetname="SetChecked" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="Text" position.height="18" position.relative="0" position.width="192" position.x="4" position.y="4" Text="Texture" TextID="0" TXDName="Text" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texture1" position.height="64" position.relative="0" position.width="64" position.x="127" position.y="28" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texture2" position.height="64" position.relative="0" position.width="64" position.x="11" position.y="117" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texture3" position.height="64" position.relative="0" position.width="64" position.x="129" position.y="117" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texture0" position.height="64" position.relative="0" position.width="64" position.x="11" position.y="27" TXDName="Icon" visible="1" />
+    <control class="RadioButton" DisableUnselect="0" group="4" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texturebutton1" position.height="20" position.relative="0" position.width="64" position.x="131" position.y="93" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Texture1" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetTexture1" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="4" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texturebutton2" position.height="20" position.relative="0" position.width="64" position.x="12" position.y="184" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Texture2" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetTexture2" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="4" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texturebutton3" position.height="20" position.relative="0" position.width="64" position.x="130" position.y="183" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Texture3" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetTexture3" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="4" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="texturebutton0" position.height="20" position.relative="0" position.width="64" position.x="12" position.y="94" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Texture0" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetTexture0" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="5" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="textureAdd" position.height="20" position.relative="0" position.width="61" position.x="13" position.y="231" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Add" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetTextureAdd" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="5" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="textureSet" position.height="20" position.relative="0" position.width="61" position.x="129" position.y="229" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Set" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetTextureSet" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="5" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="autotexture" position.height="20" position.relative="0" position.width="61" position.x="12" position.y="208" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Autotexture" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="TextureDialog" targetname="OnSetAutoTexture" />
+    </control>
+</frame>

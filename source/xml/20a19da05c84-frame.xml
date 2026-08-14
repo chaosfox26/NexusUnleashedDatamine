@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="MessageBoxString" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="MessageBoxString" position.height="91" position.relative="0" position.width="333" position.x="640" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetString" target="input" targetname="SetText" />
+    <input-redirect source="SetTitle" target="title" targetname="SetText" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="title" position.height="18" position.relative="0" position.width="163" position.x="7" position.y="2" Text="" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="okay" position.height="18" position.relative="0" position.width="42" position.x="220" position.y="62" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Okay" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="MessageBoxString" targetname="OnOkay" />
+    </control>
+    <control class="EditBox" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="input" position.height="27" position.relative="0" position.width="314" position.x="7" position.y="32" Text="" TextID="0" TXDName="EditBox" visible="1">
+        <output-redirect source="OnCharEntered" target="MessageBoxString" targetname="OnTextChange" />
+        <output-redirect source="OnEditBoxChange" target="MessageBoxString" targetname="OnTextChange" />
+    </control>
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="cancel" position.height="18" position.relative="0" position.width="44" position.x="276" position.y="61" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Cancel" TextID="0" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnPressed" target="MessageBoxString" targetname="OnCancel" />
+    </control>
+</frame>

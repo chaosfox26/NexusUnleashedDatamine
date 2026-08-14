@@ -1,0 +1,7 @@
+# Static object placements for Housing1x1DungeonCreeperCave, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/Housing1x1DungeonCreeperCave/Housing1x1DungeonCreeperCave.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_004_STR_NaturalCave_004.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonCreeperCave/Housing1x1DungeonCreeperCave.3f40.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_004_STR_NaturalCave_004.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonCreeperCave/Housing1x1DungeonCreeperCave.403f.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_004_STR_NaturalCave_004.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonCreeperCave/Housing1x1DungeonCreeperCave.4040.area	0	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_004_STR_NaturalCave_004.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000

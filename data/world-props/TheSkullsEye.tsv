@@ -1,0 +1,9 @@
+# Static object placements for TheSkullsEye, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/TheSkullsEye/TheSkullsEye.3f3f.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_TheSkullsEye_000_STR_Shiphands_TheSkullsEye_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/TheSkullsEye/TheSkullsEye.3f40.area	0	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_TheSkullsEye_000_STR_Shiphands_TheSkullsEye_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/TheSkullsEye/TheSkullsEye.403f.area	0	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.0023	0.0834	48.3468	0.000000	0.000000	0.000000	1.000000
+Map/TheSkullsEye/TheSkullsEye.403f.area	1	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_TheSkullsEye_000_STR_Shiphands_TheSkullsEye_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/TheSkullsEye/TheSkullsEye.4040.area	0	Art\Prop\Constructed\Door\ShipHand\PRP_Shiphand_Door_000.m3	-0.0023	0.0834	48.3468	0.000000	0.000000	0.000000	1.000000
+Map/TheSkullsEye/TheSkullsEye.4040.area	1	Art\Structure\Model\Dungeon_Kits\Shiphand_Kit\STR_Ship_Shiphand_TheSkullsEye_000_STR_Shiphands_TheSkullsEye_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000

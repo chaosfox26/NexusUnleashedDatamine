@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="MessageBoxColorPicker" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="MessageBoxColorPicker" position.height="187" position.relative="0" position.width="320" position.x="640" position.y="434" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetAlpha" target="alphaslider" targetname="SetValue" />
+    <input-redirect source="SetAlphaColor_Text" target="alpha255" targetname="SetText" />
+    <input-redirect source="SetBlueColor" target="blueslider" targetname="SetValue" />
+    <input-redirect source="SetBlueColor_Text" target="blue255" targetname="SetText" />
+    <input-redirect source="SetGreenColor" target="greenslider" targetname="SetValue" />
+    <input-redirect source="SetGreenColor_Text" target="green255" targetname="SetText" />
+    <input-redirect source="SetRedColor" target="redslider" targetname="SetValue" />
+    <input-redirect source="SetRedColor_Text" target="red255" targetname="SetText" />
+    <input-redirect source="SetTitle" target="title" targetname="SetText" />
+    <control class="IntSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="255" minimum="0" moveable="0" Name="greenslider" position.height="11" position.relative="0" position.width="234" position.x="12" position.y="57" step="1" TotalSteps="256" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1">
+        <output-redirect source="OnScrollChange" target="MessageBoxColorPicker" targetname="OnGreenChange" />
+    </control>
+    <control class="IntSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="255" minimum="0" moveable="0" Name="blueslider" position.height="11" position.relative="0" position.width="234" position.x="9" position.y="85" step="1" TotalSteps="256" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1">
+        <output-redirect source="OnScrollChange" target="MessageBoxColorPicker" targetname="OnBlueChange" />
+    </control>
+    <control class="IntSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="255" minimum="0" moveable="0" Name="alphaslider" position.height="11" position.relative="0" position.width="234" position.x="11" position.y="111" step="1" TotalSteps="256" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1" />
+    <control class="IntSlider" Granularity="1" MatchParentHeight="0" MatchParentWidth="0" maximum="255" minimum="0" moveable="0" Name="redslider" position.height="11" position.relative="0" position.width="234" position.x="10" position.y="30" step="1" TotalSteps="256" TXDName="HorizontalScrollbar" Value="0" visible="1" VisibleSteps="1">
+        <output-redirect source="OnScrollChange" target="MessageBoxColorPicker" targetname="OnRedChange" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="title" position.height="19" position.relative="0" position.width="311" position.x="3" position.y="1" Text="--title unset--" TextID="0" TXDName="Text" visible="1" />
+    <control class="Button" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="StandardButton" position.height="27" position.relative="0" position.width="60" position.x="251" position.y="152" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Ok" TextID="3" TextOffset.x="0" TextOffset.y="0" TXDName="StandardButton" visible="1">
+        <output-connect source="OnPressed" target="MessageBoxColorPicker" targetname="Hide" />
+    </control>
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="alpha255" position.height="18" position.relative="0" position.width="33" position.x="276" position.y="106" Text="000" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="red255" position.height="18" position.relative="0" position.width="33" position.x="278" position.y="26" Text="000" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="green255" position.height="18" position.relative="0" position.width="33" position.x="276" position.y="50" Text="000" TextID="0" TXDName="Text" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="blue255" position.height="18" position.relative="0" position.width="33" position.x="277" position.y="79" Text="000" TextID="0" TXDName="Text" visible="1" />
+</frame>

@@ -1,0 +1,6 @@
+	<!-- News -->
+	<script id='tpl-news' type="text/x-handlebars-template">
+	    <iframe src='{{newsUrl}}' frameborder="0">
+	    </iframe>
+	</script>
+

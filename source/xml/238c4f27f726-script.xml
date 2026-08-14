@@ -1,0 +1,57 @@
+    <!-- Login -->
+    <script id='tpl-login' type="text/x-handlebars-template">
+        <div class='loginWrap'>
+            <h1 class='fullViewTitle' id='loginTitle'>{{loginTitle}}</h1>
+            <h1 class='fullViewTitle' id='2faTitle'>{{login2FATitle}}</h1>
+            <div class='fullViewForm' id='loginView'>
+                <form id='loginForm' name="loginForm">
+
+                    <fieldset class="centered">
+                        <h3 class='note' id='loginNote'><i class='fa fa-exclamation-circle'></i> {{loginNote}}</h3>
+                        <div class="field-sect">
+                            <label for='login-email'>{{loginEmail}}</label>
+                            <input id="login-email" type="text" name="email">
+                        </div>
+                        <!-- <span class='subtext link' id='{{forgotEmail}}'>{{forgotEmailText}}</span> -->
+                        <div class="field-sect">
+                            <label for="login-password">{{loginPass}}</label>
+                            <input id="login-password" type="password" name="password">
+                        </div> 
+                        <p class='subtext link'><span id="{{forgotPass}}">{{forgotPassText}}</span></p>
+                        <div class="field-sect">
+                            <label class="option-label">
+                                <input class="choice" id='rememberMe' type='checkbox'>
+                                <span>{{rememberMeText}}</span>
+                            </label>
+                        </div>
+                    </fieldset>
+                    <div class="actions">
+                        <button id='loginCancel' class="btn btn-grey" type='button'>{{loginBack}}</button>
+                        <input type="submit" class="btn btn-blue" value='{{loginSubmit}}'>
+                    </div>
+                </form>
+                <!-- 2fa -->
+                <form id="twoFactorAuthForm" name="twoFactorAuthForm">
+                    <fieldset class="centered">
+                        <div class="field-sect">
+                            <label for='twoFA'>{{login2FA}}</label>
+                            <input id="twoFA" type="text" name="twoFactorAuthKey">
+                        </div>
+                        <div class="field-sect">
+                            <label class="option-label">
+                                <input class='choice label' id='rememberIP' type='checkbox'>
+                                <span>{{rememberIPText}}</span>
+                            </label>
+                        </div>
+                    </fieldset>
+                    <div class="actions">
+                        <button id='loginCancel' class="btn btn-grey" type='button'>{{loginBack}}</button>
+                        <input type="submit" class="btn btn-blue" value="{{submit2FA}}">
+                        <button id='loginRetry' class="btn btn-purple" type='button'>{{loginRetry}}</button>
+                    </div>
+                </form> 
+                <p id="loginText"></p> 
+            </div>
+        </div>
+    </script>
+

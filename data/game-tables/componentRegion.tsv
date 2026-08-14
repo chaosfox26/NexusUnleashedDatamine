@@ -1,0 +1,33 @@
+Id	EnumName	ComponentMap
+1	Skin_FacialHair	0
+2	Skin_Hair	0
+3	Skin_Ear_Horn	0
+4	Skin_Head	0
+5	Skin_Body	0
+6		0
+7	Skin_Arm	0
+8	Skin_Eye	0
+9	Skin_Teeth	0
+10	Hoverboard_Base	0
+11	Hoverboard_DecalLrg	0
+12	Hoverboard_DecalSml	0
+13	Hoverboard_Trim	0
+14	Skin_Tail	0
+15	Armor_Buckle	0
+16	Armor_Face	0
+17	Armor_Shoulders	0
+18	Armor_Chest	0
+19	Armor_Pants	0
+20	Armor_Head	0
+21	Armor_Sleeves	0
+22	Armor_Misc	0
+23	Armor_Gloves	0
+24	Armor_Boots	0
+25	Guild_Main	0
+26	Guild_Trim	0
+27	Guild_Scanlines	0
+28	Hoverboard_Main	0
+29	Hoverboard_Front	0
+30	Hoverboard_Back	0
+31	Hoverboard_Sides	0
+32		0

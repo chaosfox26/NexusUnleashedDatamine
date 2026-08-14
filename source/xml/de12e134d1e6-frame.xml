@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<frame class="Frame" ipi="LayerCanvas" MatchParentHeight="0" MatchParentWidth="0" moveable="1" Name="LayerCanvas" position.height="259" position.relative="0" position.width="200" position.x="700" position.y="354" transparent="0" TXDFileName="UI\_OLD\256WindowTech.txd" TXDName="TitleFrame" visible="1">
+    <input-redirect source="SetAutoTexture_Selected" target="autotexture" targetname="SetChecked" />
+    <input-redirect source="SetIcon0_FileName" target="icon0" targetname="SetImage" />
+    <input-redirect source="SetIcon0_Selected" target="palette0" targetname="SetChecked" />
+    <input-redirect source="SetIcon1_FileName" target="icon1" targetname="SetImage" />
+    <input-redirect source="SetIcon1_Selected" target="palette1" targetname="SetChecked" />
+    <input-redirect source="SetIcon2_FileName" target="icon2" targetname="SetImage" />
+    <input-redirect source="SetIcon2_Selected" target="palette2" targetname="SetChecked" />
+    <input-redirect source="SetIcon3_FileName" target="icon3" targetname="SetImage" />
+    <input-redirect source="SetIcon3_Selected" target="palette3" targetname="SetChecked" />
+    <input-redirect source="SetIcon4_FileName" target="icon4" targetname="SetImage" />
+    <input-redirect source="SetIcon4_Selected" target="palette4" targetname="SetChecked" />
+    <input-redirect source="SetIcon5_FileName" target="icon5" targetname="SetImage" />
+    <input-redirect source="SetIcon5_Selected" target="palette5" targetname="SetChecked" />
+    <input-redirect source="SetIcon6_FileName" target="icon6" targetname="SetImage" />
+    <input-redirect source="SetIcon6_Selected" target="palette6" targetname="SetChecked" />
+    <input-redirect source="SetIcon7_FileName" target="icon7" targetname="SetImage" />
+    <input-redirect source="SetIcon7_Selected" target="palette7" targetname="SetChecked" />
+    <input-redirect source="SetIcon8_FileName" target="icon8" targetname="SetImage" />
+    <input-redirect source="SetIcon8_Selected" target="palette8" targetname="SetChecked" />
+    <control class="CheckBox" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="editmode" position.height="18" position.relative="0" position.width="85" position.x="55" position.y="231" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Enable Editing" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnEdit_Enable" />
+        <output-redirect source="OnUncheck" target="LayerCanvas" targetname="OnEdit_Disable" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette8" position.height="56" position.relative="0" position.width="56" position.x="130" position.y="150" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon8_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette7" position.height="56" position.relative="0" position.width="56" position.x="70" position.y="150" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon7_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette6" position.height="56" position.relative="0" position.width="56" position.x="10" position.y="150" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon6_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette2" position.height="56" position.relative="0" position.width="56" position.x="130" position.y="30" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon2_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette1" position.height="56" position.relative="0" position.width="56" position.x="70" position.y="30" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon1_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette0" position.height="56" position.relative="0" position.width="56" position.x="10" position.y="30" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon0_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette5" position.height="56" position.relative="0" position.width="56" position.x="130" position.y="90" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon5_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette4" position.height="56" position.relative="0" position.width="56" position.x="70" position.y="90" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon4_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="palette3" position.height="56" position.relative="0" position.width="56" position.x="10" position.y="90" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnIcon3_Select" />
+    </control>
+    <control class="RadioButton" DisableUnselect="0" group="0" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="autotexture" position.height="18" position.relative="0" position.width="140" position.x="31" position.y="211" PressedTextOffset.x="0" PressedTextOffset.y="0" Text="Auto Texture" TextID="0" TextOffset.x="0" TextOffset.y="0" ToggleOffSoundID="0" ToggleOnSoundID="0" TXDName="StandardButton" UnselectAllSoundID="0" visible="1">
+        <output-redirect source="OnCheck" target="LayerCanvas" targetname="OnAutoTexture" />
+    </control>
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon0" position.height="52" position.relative="0" position.width="52" position.x="12" position.y="32" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon1" position.height="52" position.relative="0" position.width="52" position.x="72" position.y="32" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon2" position.height="52" position.relative="0" position.width="52" position.x="132" position.y="32" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon3" position.height="52" position.relative="0" position.width="52" position.x="12" position.y="92" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon4" position.height="52" position.relative="0" position.width="52" position.x="72" position.y="92" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon5" position.height="52" position.relative="0" position.width="52" position.x="132" position.y="92" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon6" position.height="52" position.relative="0" position.width="52" position.x="12" position.y="152" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon7" position.height="52" position.relative="0" position.width="52" position.x="72" position.y="152" TXDName="Icon" visible="1" />
+    <control class="Image" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="icon8" position.height="52" position.relative="0" position.width="52" position.x="132" position.y="152" TXDName="Icon" visible="1" />
+    <control class="Text" font.color="3355443200" font.facename="Arial" font.shadow="0" font.shadowColor="3355443200" MatchParentHeight="0" MatchParentWidth="0" moveable="0" Name="LayersTitleText" position.height="20" position.relative="0" position.width="187" position.x="7" position.y="2" Text="Layers" TextID="0" TXDName="Text" visible="1" />
+</frame>

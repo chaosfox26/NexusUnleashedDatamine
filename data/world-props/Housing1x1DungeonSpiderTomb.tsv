@@ -1,0 +1,14 @@
+# Static object placements for Housing1x1DungeonSpiderTomb, from the .area PROp chunks.
+# +20 model path offset, +32 rotation quaternion, +48 position XYZ.
+area	index	model	x	y	z	qx	qy	qz	qw
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.3f3f.area	0	Art\Prop\Natural\Rock\SweepedPlatedOlive\PRP_Rock_SweepedPlatedMedium_Olive_006.m3	-0.4156	7.0836	-4.1051	-0.110368	-0.028568	-0.637517	0.761955
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.3f3f.area	1	Art\Prop\Natural\Rock\SweepedPlatedOlive\PRP_Rock_SweepedPlatedLarge_Sharp_Olive_005.m3	-331.2809	-83.9106	16.9997	-0.128518	0.171403	-0.585967	0.781503
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.3f3f.area	2	Art\Prop\Natural\Rock\SlantedPointyWhite\Door\PRP_Rock_SlantedPointyWhite_Door_006.m3	-209.6425	-58.7207	-156.9079	0.000000	0.691485	0.000000	0.722391
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.3f3f.area	3	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_Custom_003_STR_NaturalCave_Custom_003_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.3f40.area	0	Art\Prop\Natural\Rock\SweepedPlatedOlive\PRP_Rock_SweepedPlatedMedium_Olive_006.m3	-0.4156	7.0836	-4.1051	-0.110368	-0.028568	-0.637517	0.761955
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.3f40.area	1	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_Custom_003_STR_NaturalCave_Custom_003_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.403f.area	0	Art\Prop\Natural\Rock\SweepedPlatedOlive\PRP_Rock_SweepedPlatedMedium_Olive_006.m3	-0.4156	7.0836	-4.1051	-0.110368	-0.028568	-0.637517	0.761955
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.403f.area	1	Art\Prop\Natural\Rock\SweepedPlatedOlive\PRP_Rock_SweepedPlatedLarge_Sharp_Olive_005.m3	-331.2809	-83.9106	16.9997	-0.128518	0.171403	-0.585967	0.781503
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.403f.area	2	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_Custom_003_STR_NaturalCave_Custom_003_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.4040.area	0	Art\Prop\Natural\Rock\SweepedPlatedOlive\PRP_Rock_SweepedPlatedMedium_Olive_006.m3	-0.4156	7.0836	-4.1051	-0.110368	-0.028568	-0.637517	0.761955
+Map/Housing1x1DungeonSpiderTomb/Housing1x1DungeonSpiderTomb.4040.area	1	Art\Structure\Model\Dungeon_Kits\NaturalCave_Kit\STR_NaturalCave_Custom_003_STR_NaturalCave_Custom_003_000.dgn	0.0000	0.0000	0.0000	0.000000	0.000000	0.000000	1.000000

@@ -1,0 +1,20 @@
+
+
+		<!-- Vendor Files -->
+        <script type="text/javascript" src='js/vendor/handlebars-v3.0.3.js'></script>
+        <script type="text/javascript" src='js/vendor/jquery-1.11.3.min.js'></script>
+        <script type="text/javascript" src='js/vendor/gaLocalStorage_1.1.js'></script>
+
+        <!-- Utils -->
+        <script type="text/javascript" src='docs/langSource.js'></script>
+        <script type="text/javascript" src='js/utils.js'></script>
+
+        <!-- Analytics -->
+        <script type="text/javascript" src='http://static.ncsoft.com/global/js/analytics.min.js'></script>
+        <script type="text/javascript" src='js/analytics.js'></script>
+        
+        <!-- Production Files -->
+        <script type="text/javascript" src='js/server.js'></script>
+
+    </body>
+</html>
