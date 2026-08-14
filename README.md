@@ -153,6 +153,43 @@ the raw table but **every occurrence is on a creature or legacy spell**.
 
 ---
 
+## The class system
+
+Derived from the CDN game tables, and the reason the damage formula above is checkable rather than
+theoretical.
+
+| file | what it holds |
+|---|---|
+| [`data/class-system/ability-coefficients.tsv`](data/class-system/ability-coefficients.tsv) | **the 202 class abilities with per-tier damage scaling** — 1,812 rows, 518 carrying coefficients |
+| [`data/class-system/spell-id-map.tsv`](data/class-system/spell-id-map.tsv) | 44,082 spell name → id rows. **23.2% of spell names are shared**, so names are not identity |
+| [`data/class-system/ability-id-map.tsv`](data/class-system/ability-id-map.tsv) | ability name → base id and the spell id of each of its 9 tiers |
+| [`data/class-system/ability-counts.tsv`](data/class-system/ability-counts.tsv) | how 202 breaks down, and why three different counts are each correct about something |
+| [`data/class-system/class-innate-abilities.tsv`](data/class-system/class-innate-abilities.tsv) | the 10 innates, three of which the ability-book API does not return at all |
+| [`data/class-system/character-stats.tsv`](data/class-system/character-stats.tsv) | the character sheet at the **naked baseline** — 40 stats, from the live client |
+| [`data/class-system/everstar-suspect-entities.tsv`](data/class-system/everstar-suspect-entities.tsv) | 79 AI-bearing entities standing on client scenery — a worked example of using this data as an auditor |
+
+**202 = 192 tiered abilities (32 per class, identical across all six) + 10 innates.** The
+discriminator is tier count: across 220 captured rows the values are exactly 9 and 1, nothing
+between.
+
+`character-stats.tsv` is the one file here not derived from the CDN — it is the client's own
+character sheet, read off-screen. It is included because it is what proves the four-scaling-type
+finding: Brutality, Finesse, Moxie and Tech are absent from the sheet, which independently agrees
+with no ability referencing them.
+
+Two traps recorded in the tier data, both of which cost real time:
+
+- **The tier array is offset by one.** `tTiers[5]` fills the window labelled Tier 4; `tTiers[9]`
+  fills Tier 8. The `tier` column runs 1–9, which is the player's Tier 0–8.
+- **`AssaultPower` and `SupportPower` are both 225 on an ungeared level-50 character**, so no single
+  capture can separate an AP coefficient from an SP one.
+
+Further analysis in [`docs/tables/`](docs/tables/) and [`docs/systems/`](docs/systems/) — including
+`spellEffectType`, whose `DataType00..09` is the decoder ring for `Spell4Effects.DataBits00..09` and
+turns 116 unimplemented spell effects from a research problem into a coding problem.
+
+---
+
 ## The API
 
 Three independent sources, in increasing authority:

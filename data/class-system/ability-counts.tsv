@@ -1,0 +1,59 @@
+# Class ability counts - CONFIRMED AGAINST THE GAME UI, 2026-08-14.
+#
+# Verified by screenshotting the Action Set Builder, ALL THREE TABS, for ALL SIX CLASSES - 18
+# screenshots. Every class reads 11 Assault + 11 Support + 10 Utility = 32. Identical structure,
+# no exceptions. 192 total, measured rather than inferred.
+#
+# The Assault tab shows 2 slotted abilities plus 9 listed; Utility shows 1 slotted plus 9; Support
+# lists all 11. Slotted abilities appear at the top of their tab with a tier bar rather than in the
+# list, which is why a naive count of list rows comes up short by three.
+#
+# The excluded entries differ by class exactly as the maxTiers rule predicted, and the Engineer was
+# the real test: Mode: Provoke and Mode: Eradicate do NOT appear in the ability list at all, so the
+# rule holds for toggles and not just for basic attacks.
+#
+# THERE IS NO SINGLE RIGHT NUMBER - it depends what you are counting, and three different answers
+# are each correct about something:
+#
+#   32  tiered and slottable. What the Action Set Builder lists. Identical for all six classes.
+#   33  the above plus the BASIC ATTACK - real and usable, but cannot be slotted or tiered.
+#       This is what a player means by "my abilities".
+#   35  the whole ability book for a class with no toggles (adds Punch, which appears TWICE).
+#
+# Toggles are class-specific and are the only source of variation above 35: Engineer has 2 Modes,
+# Warrior 2 Stances, Stalker 3 Nano Skins. Spellslinger's 3 extra entries are HOVERBOARDS granted
+# by an !item command during testing - not class content, so its natural total is 35 like the
+# Esper and Medic.
+#
+# Composition, universal across all six: 32 tiered + 1 basic attack + 2 Punch + class toggles.
+#
+# CLASS SKILL TOTAL = 202, per the player's rule that anything not in the 18 Action Set Builder
+# screenshots and not in their named list is not a class skill. That correctly excludes Punch, the
+# basic attacks, and the hoverboards granted during testing.
+#
+#   Warrior 34   Engineer 34   Stalker 35   Medic 33   Esper 33   Spellslinger 33
+#
+# = 32 tiered plus the class innates in docs/client-data/class-innate-abilities.tsv. THREE of those
+# innates are absent from the capture entirely because AbilityBook.GetAbilitiesList does not return
+# them: Medic Energize, Esper Spectral Form, Spellslinger Spell Surge.
+#
+# The discriminator is maxTiers. A real class ability has 9 tiers; everything else in the
+# ability book has 1 and is a different kind of thing entirely:
+#   basic attack     Psyblade Strike, Heavy Shot, Sword Strike, Claw Slash, Pistol Shot, Shock
+#   stance / mode    Stance: Onslaught, Mode: Eradicate, Nano Skin: Lethal, ...
+#   Punch x2         in every class book, the unarmed default
+#   mounts           hoverboards, present only because one was granted
+#
+# I reported 220, then 208, before the player pointed out Spellslinger has 32. Both earlier
+# figures came from counting rows returned by AbilityBook.GetAbilitiesList and calling them
+# abilities without asking what the API actually returns. maxTiers was in the data all along.
+#
+# 192 tiered abilities against 5,854 base spells carrying a ClassIdPlayer flag in Spell4Base.
+class	tieredAbilities	rowsInCapture	nonAbilityEntries
+engineer	32	37	Heavy Shot; Punch; Punch; Mode: Provoke; Mode: Eradicate
+esper	32	35	Psyblade Strike; Punch; Punch
+medic	32	35	Punch; Punch; Shock
+spellslinger	32	38	Punch; Punch; Hoverboard (Flux); Pistol Shot; Hoverboard (Bulldog); Hoverboard (Cyclone)
+stalker	32	38	Punch; Punch; Nano Skin: Lethal; Nano Skin: Evasive; Nano Skin: Agile; Claw Slash
+warrior	32	37	Punch; Punch; Stance: Onslaught; Stance: Juggernaut; Sword Strike
+TOTAL	192	220	28 non-ability entries

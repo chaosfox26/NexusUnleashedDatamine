@@ -1,0 +1,1813 @@
+class	ability	abilityId	tier	spellId	damageType	status	coefficients	scalesWith
+engineer	Energy Auger	20396	1	34426	Tech	ok	AssaultPower=0.2233 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	2	54754	Tech	ok	AssaultPower=0.271 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	3	54755	Tech	ok	AssaultPower=0.3187 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	4	54756	Tech	ok	AssaultPower=0.3664 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	5	54757	Tech	ok	AssaultPower=0.4141 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	6	54758	Tech	ok	AssaultPower=0.4618 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	7	54759	Tech	ok	AssaultPower=0.5095 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	8	54760	Tech	ok	AssaultPower=0.5572 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Energy Auger	20396	9	54761	Tech	ok	AssaultPower=0.6049 PerLevel=7.08	AssaultPower+PerLevel
+engineer	Urgent Withdrawal	20492	1	34522	Physical	ok	AssaultPower=0.0641 PerLevel=3.5 SupportPower=0.0641	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	2	55257	Physical	ok	AssaultPower=0.1021 PerLevel=3.5 SupportPower=0.1021	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	3	55258	Physical	ok	AssaultPower=0.1401 PerLevel=3.5 SupportPower=0.1401	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	4	55259	Physical	ok	AssaultPower=0.1781 PerLevel=3.5 SupportPower=0.1781	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	5	55260	Physical	ok	AssaultPower=0.2161 PerLevel=3.5 SupportPower=0.2161	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	6	55261	Physical	ok	AssaultPower=0.2541 PerLevel=3.5 SupportPower=0.2541	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	7	55262	Physical	ok	AssaultPower=0.2921 PerLevel=3.5 SupportPower=0.2921	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	8	55263	Physical	ok	AssaultPower=0.3301 PerLevel=3.5 SupportPower=0.3301	AssaultPower+PerLevel+SupportPower
+engineer	Urgent Withdrawal	20492	9	55264	Physical	ok	AssaultPower=0.3681 PerLevel=3.5 SupportPower=0.3681	AssaultPower+PerLevel+SupportPower
+engineer	Particle Ejector	20628	1	34658	Tech	ok	PerLevel=6.59 SupportPower=0.2082	PerLevel+SupportPower
+engineer	Particle Ejector	20628	2	56095	Tech	ok	PerLevel=6.59 SupportPower=0.231	PerLevel+SupportPower
+engineer	Particle Ejector	20628	3	56096	Tech	ok	PerLevel=6.59 SupportPower=0.2538	PerLevel+SupportPower
+engineer	Particle Ejector	20628	4	56097	Tech	ok	PerLevel=6.59 SupportPower=0.2766	PerLevel+SupportPower
+engineer	Particle Ejector	20628	5	56098	Tech	ok	PerLevel=6.59 SupportPower=0.2994	PerLevel+SupportPower
+engineer	Particle Ejector	20628	6	56099	Tech	ok	PerLevel=6.59 SupportPower=0.3222	PerLevel+SupportPower
+engineer	Particle Ejector	20628	7	56100	Tech	ok	PerLevel=6.59 SupportPower=0.345	PerLevel+SupportPower
+engineer	Particle Ejector	20628	8	56101	Tech	ok	PerLevel=6.59 SupportPower=0.3678	PerLevel+SupportPower
+engineer	Particle Ejector	20628	9	56102	Tech	ok	PerLevel=6.59 SupportPower=0.3906	PerLevel+SupportPower
+engineer	Particle Ejector	20628	9	56102	Tech	ok	PerLevel=6.59 SupportPower=0.5	PerLevel+SupportPower
+engineer	Unstable Anomaly	20639	1	34669	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	2	55806	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	3	56153	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	4	56154	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	5	56155	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	6	56156	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	7	56157	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	8	56158	-	noDamageEffect		
+engineer	Unstable Anomaly	20639	9	56159	-	noDamageEffect		
+engineer	Bolt Caster	20763	1	34836	Physical	ok	AssaultPower=0.2345 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	2	55545	Physical	ok	AssaultPower=0.2555 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	3	55546	Physical	ok	AssaultPower=0.2765 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	4	55547	Physical	ok	AssaultPower=0.2975 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	5	55548	Physical	ok	AssaultPower=0.3185 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	6	55549	Physical	ok	AssaultPower=0.3395 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	7	55550	Physical	ok	AssaultPower=0.3605 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	8	55551	Physical	ok	AssaultPower=0.3815 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	9	55552	Physical	ok	AssaultPower=0.4025 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Bolt Caster	20763	9	55552	Physical	ok	AssaultPower=0.5225 PerLevel=7.43	AssaultPower+PerLevel
+engineer	Target Acquisition	22652	1	38036	-	noDamageEffect		
+engineer	Target Acquisition	22652	2	54781	-	noDamageEffect		
+engineer	Target Acquisition	22652	3	54782	-	noDamageEffect		
+engineer	Target Acquisition	22652	4	54783	-	noDamageEffect		
+engineer	Target Acquisition	22652	5	54784	-	noDamageEffect		
+engineer	Target Acquisition	22652	6	54785	-	noDamageEffect		
+engineer	Target Acquisition	22652	7	54786	-	noDamageEffect		
+engineer	Target Acquisition	22652	8	54787	-	noDamageEffect		
+engineer	Target Acquisition	22652	9	54788	-	noDamageEffect		
+engineer	Hyper Wave	25472	1	41275	Tech	ok	PerLevel=6.14 SupportPower=0.1941	PerLevel+SupportPower
+engineer	Hyper Wave	25472	2	54924	Tech	ok	PerLevel=6.14 SupportPower=0.2372	PerLevel+SupportPower
+engineer	Hyper Wave	25472	3	54925	Tech	ok	PerLevel=6.14 SupportPower=0.2803	PerLevel+SupportPower
+engineer	Hyper Wave	25472	4	54926	Tech	ok	PerLevel=6.14 SupportPower=0.3235	PerLevel+SupportPower
+engineer	Hyper Wave	25472	5	54927	Tech	ok	PerLevel=6.14 SupportPower=0.3671	PerLevel+SupportPower
+engineer	Hyper Wave	25472	6	54928	Tech	ok	PerLevel=6.14 SupportPower=0.4103	PerLevel+SupportPower
+engineer	Hyper Wave	25472	7	54929	Tech	ok	PerLevel=6.14 SupportPower=0.4534	PerLevel+SupportPower
+engineer	Hyper Wave	25472	8	54930	Tech	ok	PerLevel=6.14 SupportPower=0.4965	PerLevel+SupportPower
+engineer	Hyper Wave	25472	9	54931	Tech	ok	PerLevel=6.14 SupportPower=0.5393	PerLevel+SupportPower
+engineer	Electrocute	25473	1	41276	Tech	ok	AssaultPower=0.2303 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	2	55646	Tech	ok	AssaultPower=0.2556 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	3	55647	Tech	ok	AssaultPower=0.2809 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	4	55648	Tech	ok	AssaultPower=0.3062 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	5	55649	Tech	ok	AssaultPower=0.3315 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	6	55650	Tech	ok	AssaultPower=0.3568 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	7	55651	Tech	ok	AssaultPower=0.3821 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	8	55652	Tech	ok	AssaultPower=0.4074 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Electrocute	25473	9	55653	Tech	ok	AssaultPower=0.4327 PerLevel=7.3	AssaultPower+PerLevel
+engineer	Bio Shell	25538	1	41341	-	noDamageEffect		
+engineer	Bio Shell	25538	2	55332	-	noDamageEffect		
+engineer	Bio Shell	25538	3	55333	-	noDamageEffect		
+engineer	Bio Shell	25538	4	55334	-	noDamageEffect		
+engineer	Bio Shell	25538	5	55335	-	noDamageEffect		
+engineer	Bio Shell	25538	6	55336	-	noDamageEffect		
+engineer	Bio Shell	25538	7	55337	-	noDamageEffect		
+engineer	Bio Shell	25538	8	55338	-	noDamageEffect		
+engineer	Bio Shell	25538	9	55339	-	noDamageEffect		
+engineer	Flak Cannon	25623	1	41426	-	noDamageEffect		
+engineer	Flak Cannon	25623	2	56192	-	noDamageEffect		
+engineer	Flak Cannon	25623	3	56193	-	noDamageEffect		
+engineer	Flak Cannon	25623	4	56194	-	noDamageEffect		
+engineer	Flak Cannon	25623	5	56195	-	noDamageEffect		
+engineer	Flak Cannon	25623	6	56196	-	noDamageEffect		
+engineer	Flak Cannon	25623	7	56197	-	noDamageEffect		
+engineer	Flak Cannon	25623	8	56198	-	noDamageEffect		
+engineer	Flak Cannon	25623	9	56199	-	noDamageEffect		
+engineer	Ricochet	25626	1	41429	Physical	ok	PerLevel=12.33 SupportPower=0.3894	PerLevel+SupportPower
+engineer	Ricochet	25626	2	54829	Physical	ok	PerLevel=12.33 SupportPower=0.4526	PerLevel+SupportPower
+engineer	Ricochet	25626	3	54830	Physical	ok	PerLevel=12.33 SupportPower=0.5158	PerLevel+SupportPower
+engineer	Ricochet	25626	4	54831	Physical	ok	PerLevel=12.33 SupportPower=0.579	PerLevel+SupportPower
+engineer	Ricochet	25626	5	54832	Physical	ok	PerLevel=12.33 SupportPower=0.6422	PerLevel+SupportPower
+engineer	Ricochet	25626	6	54833	Physical	ok	PerLevel=12.33 SupportPower=0.7054	PerLevel+SupportPower
+engineer	Ricochet	25626	7	54834	Physical	ok	PerLevel=12.33 SupportPower=0.7686	PerLevel+SupportPower
+engineer	Ricochet	25626	8	54835	Physical	ok	PerLevel=12.33 SupportPower=0.8318	PerLevel+SupportPower
+engineer	Ricochet	25626	9	54836	Physical	ok	PerLevel=12.33 SupportPower=0.895	PerLevel+SupportPower
+engineer	Zap	25635	1	41438	Physical	ok	AssaultPower=0.1434 PerLevel=9.08 SupportPower=0.1434	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	2	54933	Physical	ok	AssaultPower=0.144 PerLevel=9.08 SupportPower=0.144	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	3	54934	Physical	ok	AssaultPower=0.1448 PerLevel=9.08 SupportPower=0.1448	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	4	54935	Physical	ok	AssaultPower=0.1454 PerLevel=9.08 SupportPower=0.1454	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	5	54936	Physical	ok	AssaultPower=0.146 PerLevel=9.08 SupportPower=0.146	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	6	54937	Physical	ok	AssaultPower=0.1468 PerLevel=9.08 SupportPower=0.1468	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	7	54938	Physical	ok	AssaultPower=0.1474 PerLevel=9.08 SupportPower=0.1474	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	8	54939	Physical	ok	AssaultPower=0.148 PerLevel=9.08 SupportPower=0.148	AssaultPower+PerLevel+SupportPower
+engineer	Zap	25635	9	54940	Physical	ok	AssaultPower=0.1486 PerLevel=9.08 SupportPower=0.1486	AssaultPower+PerLevel+SupportPower
+engineer	Quick Burst	25673	1	41477	-	noDamageEffect		
+engineer	Quick Burst	25673	2	55403	-	noDamageEffect		
+engineer	Quick Burst	25673	3	55404	-	noDamageEffect		
+engineer	Quick Burst	25673	4	55405	-	noDamageEffect		
+engineer	Quick Burst	25673	5	55406	-	noDamageEffect		
+engineer	Quick Burst	25673	6	55407	-	noDamageEffect		
+engineer	Quick Burst	25673	7	55409	-	noDamageEffect		
+engineer	Quick Burst	25673	8	55410	-	noDamageEffect		
+engineer	Quick Burst	25673	9	55411	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	1	41484	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	2	56382	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	3	56383	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	4	56384	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	5	56385	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	6	56386	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	7	56387	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	8	56388	-	noDamageEffect		
+engineer	Unsteady Miasma	25680	9	56389	-	noDamageEffect		
+engineer	Mode: Provoke	25700	1	41504	-	noDamageEffect		
+engineer	Mortar Strike	25739	1	41543	-	noDamageEffect		
+engineer	Mortar Strike	25739	2	55501	-	noDamageEffect		
+engineer	Mortar Strike	25739	3	55502	-	noDamageEffect		
+engineer	Mortar Strike	25739	4	55503	-	noDamageEffect		
+engineer	Mortar Strike	25739	5	55504	-	noDamageEffect		
+engineer	Mortar Strike	25739	6	55505	-	noDamageEffect		
+engineer	Mortar Strike	25739	7	55506	-	noDamageEffect		
+engineer	Mortar Strike	25739	8	55507	-	noDamageEffect		
+engineer	Mortar Strike	25739	9	55508	-	noDamageEffect		
+engineer	Code Red	25819	1	41623	-	noDamageEffect		
+engineer	Code Red	25819	2	55088	-	noDamageEffect		
+engineer	Code Red	25819	3	55089	-	noDamageEffect		
+engineer	Code Red	25819	4	55090	-	noDamageEffect		
+engineer	Code Red	25819	5	55091	-	noDamageEffect		
+engineer	Code Red	25819	6	55092	-	noDamageEffect		
+engineer	Code Red	25819	7	55093	-	noDamageEffect		
+engineer	Code Red	25819	8	55094	-	noDamageEffect		
+engineer	Code Red	25819	9	55095	Physical	ok	AssaultPower=0.1068 SupportPower=0.1068	AssaultPower+SupportPower
+engineer	Volatile Injection	25951	1	41756	-	noDamageEffect		
+engineer	Volatile Injection	25951	2	55187	-	noDamageEffect		
+engineer	Volatile Injection	25951	3	55188	-	noDamageEffect		
+engineer	Volatile Injection	25951	4	55190	-	noDamageEffect		
+engineer	Volatile Injection	25951	5	55191	-	noDamageEffect		
+engineer	Volatile Injection	25951	6	55192	-	noDamageEffect		
+engineer	Volatile Injection	25951	7	55193	-	noDamageEffect		
+engineer	Volatile Injection	25951	8	55194	-	noDamageEffect		
+engineer	Volatile Injection	25951	9	55195	-	noDamageEffect		
+engineer	Disruptive Module	26010	1	41815	Tech	ok	PerLevel=4.34 SupportPower=0.1374	PerLevel+SupportPower
+engineer	Disruptive Module	26010	2	56112	Tech	ok	PerLevel=4.34 SupportPower=0.1494	PerLevel+SupportPower
+engineer	Disruptive Module	26010	3	56113	Tech	ok	PerLevel=4.34 SupportPower=0.1614	PerLevel+SupportPower
+engineer	Disruptive Module	26010	4	56114	Tech	ok	PerLevel=4.34 SupportPower=0.1734	PerLevel+SupportPower
+engineer	Disruptive Module	26010	5	56115	Tech	ok	PerLevel=4.34 SupportPower=0.1854	PerLevel+SupportPower
+engineer	Disruptive Module	26010	6	56116	Tech	ok	PerLevel=4.34 SupportPower=0.1974	PerLevel+SupportPower
+engineer	Disruptive Module	26010	7	56117	Tech	ok	PerLevel=4.34 SupportPower=0.2094	PerLevel+SupportPower
+engineer	Disruptive Module	26010	8	56118	Tech	ok	PerLevel=4.34 SupportPower=0.2214	PerLevel+SupportPower
+engineer	Disruptive Module	26010	9	56119	Tech	ok	PerLevel=4.34 SupportPower=0.2334	PerLevel+SupportPower
+engineer	Feedback	26059	1	41864	Tech	ok	PerLevel=36.39 SupportPower=1.1491	PerLevel+SupportPower
+engineer	Feedback	26059	2	55536	Tech	ok	PerLevel=36.39 SupportPower=1.2091	PerLevel+SupportPower
+engineer	Feedback	26059	3	56103	Tech	ok	PerLevel=36.39 SupportPower=1.2691	PerLevel+SupportPower
+engineer	Feedback	26059	4	56104	Tech	ok	PerLevel=36.39 SupportPower=1.3291	PerLevel+SupportPower
+engineer	Feedback	26059	5	56105	Tech	ok	PerLevel=36.39 SupportPower=1.3891	PerLevel+SupportPower
+engineer	Feedback	26059	6	56106	Tech	ok	PerLevel=36.39 SupportPower=1.4491	PerLevel+SupportPower
+engineer	Feedback	26059	7	56107	Tech	ok	PerLevel=36.39 SupportPower=1.5091	PerLevel+SupportPower
+engineer	Feedback	26059	8	56108	Tech	ok	PerLevel=36.39 SupportPower=1.5691	PerLevel+SupportPower
+engineer	Feedback	26059	9	56109	Tech	ok	PerLevel=36.39 SupportPower=1.629	PerLevel+SupportPower
+engineer	Pulse Blast	26468	1	42276	-	noDamageEffect		
+engineer	Pulse Blast	26468	2	53409	-	noDamageEffect		
+engineer	Pulse Blast	26468	3	56138	-	noDamageEffect		
+engineer	Pulse Blast	26468	4	56139	-	noDamageEffect		
+engineer	Pulse Blast	26468	5	56140	-	noDamageEffect		
+engineer	Pulse Blast	26468	6	56141	-	noDamageEffect		
+engineer	Pulse Blast	26468	7	56142	-	noDamageEffect		
+engineer	Pulse Blast	26468	8	56143	-	noDamageEffect		
+engineer	Pulse Blast	26468	9	56144	-	noDamageEffect		
+engineer	Recursive Matrix	26762	1	42572	-	noDamageEffect		
+engineer	Recursive Matrix	26762	2	55096	-	noDamageEffect		
+engineer	Recursive Matrix	26762	3	55097	-	noDamageEffect		
+engineer	Recursive Matrix	26762	4	55098	-	noDamageEffect		
+engineer	Recursive Matrix	26762	5	55099	-	noDamageEffect		
+engineer	Recursive Matrix	26762	6	55100	-	noDamageEffect		
+engineer	Recursive Matrix	26762	7	55101	-	noDamageEffect		
+engineer	Recursive Matrix	26762	8	55102	-	noDamageEffect		
+engineer	Recursive Matrix	26762	9	55103	-	noDamageEffect		
+engineer	Shock Pulse	26775	1	42585	-	noDamageEffect		
+engineer	Shock Pulse	26775	2	55767	-	noDamageEffect		
+engineer	Shock Pulse	26775	3	55768	-	noDamageEffect		
+engineer	Shock Pulse	26775	4	55769	-	noDamageEffect		
+engineer	Shock Pulse	26775	5	55770	-	noDamageEffect		
+engineer	Shock Pulse	26775	6	55771	-	noDamageEffect		
+engineer	Shock Pulse	26775	7	55772	-	noDamageEffect		
+engineer	Shock Pulse	26775	8	55773	-	noDamageEffect		
+engineer	Shock Pulse	26775	9	55774	-	noDamageEffect		
+engineer	Shatter Impairment	26991	1	42803	-	noDamageEffect		
+engineer	Shatter Impairment	26991	2	55205	-	noDamageEffect		
+engineer	Shatter Impairment	26991	3	55206	-	noDamageEffect		
+engineer	Shatter Impairment	26991	4	55207	-	noDamageEffect		
+engineer	Shatter Impairment	26991	5	55208	-	noDamageEffect		
+engineer	Shatter Impairment	26991	6	55209	-	noDamageEffect		
+engineer	Shatter Impairment	26991	7	55210	-	noDamageEffect		
+engineer	Shatter Impairment	26991	8	55211	-	noDamageEffect		
+engineer	Shatter Impairment	26991	9	55212	-	noDamageEffect		
+engineer	Repairbot	26998	1	42810	-	noDamageEffect		
+engineer	Repairbot	26998	2	55822	-	noDamageEffect		
+engineer	Repairbot	26998	3	55823	-	noDamageEffect		
+engineer	Repairbot	26998	4	55824	-	noDamageEffect		
+engineer	Repairbot	26998	5	55825	-	noDamageEffect		
+engineer	Repairbot	26998	6	55826	-	noDamageEffect		
+engineer	Repairbot	26998	7	55827	-	noDamageEffect		
+engineer	Repairbot	26998	8	55828	-	noDamageEffect		
+engineer	Repairbot	26998	9	55829	-	noDamageEffect		
+engineer	Artillerybot	27002	1	42814	-	noDamageEffect		
+engineer	Artillerybot	27002	2	56249	-	noDamageEffect		
+engineer	Artillerybot	27002	3	56250	-	noDamageEffect		
+engineer	Artillerybot	27002	4	56251	-	noDamageEffect		
+engineer	Artillerybot	27002	5	56252	-	noDamageEffect		
+engineer	Artillerybot	27002	6	56253	-	noDamageEffect		
+engineer	Artillerybot	27002	7	56254	-	noDamageEffect		
+engineer	Artillerybot	27002	8	56255	-	noDamageEffect		
+engineer	Artillerybot	27002	9	56256	-	noDamageEffect		
+engineer	Diminisherbot	27021	1	42833	-	noDamageEffect		
+engineer	Diminisherbot	27021	2	56017	-	noDamageEffect		
+engineer	Diminisherbot	27021	3	56018	-	noDamageEffect		
+engineer	Diminisherbot	27021	4	56019	-	noDamageEffect		
+engineer	Diminisherbot	27021	5	56024	-	noDamageEffect		
+engineer	Diminisherbot	27021	6	56025	-	noDamageEffect		
+engineer	Diminisherbot	27021	7	56026	-	noDamageEffect		
+engineer	Diminisherbot	27021	8	56027	-	noDamageEffect		
+engineer	Diminisherbot	27021	9	56028	-	noDamageEffect		
+engineer	Bruiserbot	27082	1	42894	-	noDamageEffect		
+engineer	Bruiserbot	27082	2	56310	-	noDamageEffect		
+engineer	Bruiserbot	27082	3	56311	-	noDamageEffect		
+engineer	Bruiserbot	27082	4	56312	-	noDamageEffect		
+engineer	Bruiserbot	27082	5	56313	-	noDamageEffect		
+engineer	Bruiserbot	27082	6	56314	-	noDamageEffect		
+engineer	Bruiserbot	27082	7	56315	-	noDamageEffect		
+engineer	Bruiserbot	27082	8	56316	-	noDamageEffect		
+engineer	Bruiserbot	27082	9	56317	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	1	44471	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	2	55723	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	3	55724	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	4	55725	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	5	55726	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	6	55727	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	7	55728	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	8	55729	-	noDamageEffect		
+engineer	Personal Defense Unit	28614	9	55730	-	noDamageEffect		
+engineer	Mode: Eradicate	29076	1	45000	-	noDamageEffect		
+engineer	Obstruct Vision	34176	1	51605	Physical	ok	AssaultPower=0.1563 PerLevel=9.9 SupportPower=0.1563	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	2	55129	Physical	ok	AssaultPower=0.206 PerLevel=9.9 SupportPower=0.206	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	3	55130	Physical	ok	AssaultPower=0.2557 PerLevel=9.9 SupportPower=0.2557	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	4	55131	Physical	ok	AssaultPower=0.3054 PerLevel=9.9 SupportPower=0.3054	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	5	55132	Physical	ok	AssaultPower=0.3551 PerLevel=9.9 SupportPower=0.3551	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	6	55133	Physical	ok	AssaultPower=0.4048 PerLevel=9.9 SupportPower=0.4048	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	7	55134	Physical	ok	AssaultPower=0.4545 PerLevel=9.9 SupportPower=0.4545	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	8	55135	Physical	ok	AssaultPower=0.5042 PerLevel=9.9 SupportPower=0.5042	AssaultPower+PerLevel+SupportPower
+engineer	Obstruct Vision	34176	9	55136	Physical	ok	AssaultPower=0.5539 PerLevel=9.9 SupportPower=0.5539	AssaultPower+PerLevel+SupportPower
+engineer	Thresher	34347	1	52133	-	noDamageEffect		
+engineer	Thresher	34347	2	54858	-	noDamageEffect		
+engineer	Thresher	34347	3	54859	-	noDamageEffect		
+engineer	Thresher	34347	4	54860	-	noDamageEffect		
+engineer	Thresher	34347	5	54861	-	noDamageEffect		
+engineer	Thresher	34347	6	54862	-	noDamageEffect		
+engineer	Thresher	34347	7	54863	-	noDamageEffect		
+engineer	Thresher	34347	8	54864	-	noDamageEffect		
+engineer	Thresher	34347	9	54865	-	noDamageEffect		
+engineer	Electro-Drill	63039	1	87977	-	noDamageEffect		
+engineer	Electro-Drill	63039	2	87983	-	noDamageEffect		
+engineer	Electro-Drill	63039	3	87984	-	noDamageEffect		
+engineer	Electro-Drill	63039	4	87985	-	noDamageEffect		
+engineer	Electro-Drill	63039	5	87986	-	noDamageEffect		
+engineer	Electro-Drill	63039	6	87987	-	noDamageEffect		
+engineer	Electro-Drill	63039	7	87988	-	noDamageEffect		
+engineer	Electro-Drill	63039	8	87989	-	noDamageEffect		
+engineer	Electro-Drill	63039	9	87990	-	noDamageEffect		
+engineer	Portable Black Hole	63071	1	88033	-	noDamageEffect		
+engineer	Portable Black Hole	63071	2	88135	-	noDamageEffect		
+engineer	Portable Black Hole	63071	3	88136	-	noDamageEffect		
+engineer	Portable Black Hole	63071	4	88137	-	noDamageEffect		
+engineer	Portable Black Hole	63071	5	88138	-	noDamageEffect		
+engineer	Portable Black Hole	63071	6	88139	-	noDamageEffect		
+engineer	Portable Black Hole	63071	7	88140	-	noDamageEffect		
+engineer	Portable Black Hole	63071	8	88141	-	noDamageEffect		
+engineer	Portable Black Hole	63071	9	88142	-	noDamageEffect		
+esper	Mind Burst	19019	1	32809	Magic	ok	AssaultPower=0.2595 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	1	32809	Magic	ok	AssaultPower=0.5195 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	1	32809	Magic	ok	AssaultPower=0.7788 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	1	32809	Magic	ok	AssaultPower=1.038 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	1	32809	Magic	ok	AssaultPower=1.298 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	2	51358	Magic	ok	AssaultPower=0.2721 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	2	51358	Magic	ok	AssaultPower=0.5445 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	2	51358	Magic	ok	AssaultPower=0.8167 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	2	51358	Magic	ok	AssaultPower=1.089 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	2	51358	Magic	ok	AssaultPower=1.36 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	3	51359	Magic	ok	AssaultPower=0.285 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	3	51359	Magic	ok	AssaultPower=0.57 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	3	51359	Magic	ok	AssaultPower=0.8546 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	3	51359	Magic	ok	AssaultPower=1.139 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	3	51359	Magic	ok	AssaultPower=1.424 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	4	51360	Magic	ok	AssaultPower=0.2974 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	4	51360	Magic	ok	AssaultPower=0.595 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	4	51360	Magic	ok	AssaultPower=0.8924 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	4	51360	Magic	ok	AssaultPower=1.19 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	4	51360	Magic	ok	AssaultPower=1.487 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	5	51369	Magic	ok	AssaultPower=0.312 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	5	51369	Magic	ok	AssaultPower=0.624 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	5	51369	Magic	ok	AssaultPower=0.9356 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	5	51369	Magic	ok	AssaultPower=1.247 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	5	51369	Magic	ok	AssaultPower=1.56 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	6	51370	Magic	ok	AssaultPower=0.3236 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	6	51370	Magic	ok	AssaultPower=0.6474 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	6	51370	Magic	ok	AssaultPower=0.971 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	6	51370	Magic	ok	AssaultPower=1.294 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	6	51370	Magic	ok	AssaultPower=1.618 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	7	51371	Magic	ok	AssaultPower=0.3354 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	7	51371	Magic	ok	AssaultPower=0.671 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	7	51371	Magic	ok	AssaultPower=1.006 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	7	51371	Magic	ok	AssaultPower=1.342 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	7	51371	Magic	ok	AssaultPower=1.677 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	8	51372	Magic	ok	AssaultPower=0.3472 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	8	51372	Magic	ok	AssaultPower=0.6946 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	8	51372	Magic	ok	AssaultPower=1.042 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	8	51372	Magic	ok	AssaultPower=1.39 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	8	51372	Magic	ok	AssaultPower=1.736 PerLevel=69.23	AssaultPower+PerLevel
+esper	Mind Burst	19019	9	51373	Magic	ok	AssaultPower=0.36 PerLevel=13.85	AssaultPower+PerLevel
+esper	Mind Burst	19019	9	51373	Magic	ok	AssaultPower=0.7204 PerLevel=27.69	AssaultPower+PerLevel
+esper	Mind Burst	19019	9	51373	Magic	ok	AssaultPower=1.08 PerLevel=41.54	AssaultPower+PerLevel
+esper	Mind Burst	19019	9	51373	Magic	ok	AssaultPower=1.44 PerLevel=55.39	AssaultPower+PerLevel
+esper	Mind Burst	19019	9	51373	Magic	ok	AssaultPower=1.792 PerLevel=69.23	AssaultPower+PerLevel
+esper	Crush	19022	1	32812	-	noDamageEffect		
+esper	Crush	19022	2	52050	-	noDamageEffect		
+esper	Crush	19022	3	52051	-	noDamageEffect		
+esper	Crush	19022	4	52052	-	noDamageEffect		
+esper	Crush	19022	5	52053	-	noDamageEffect		
+esper	Crush	19022	6	52054	-	noDamageEffect		
+esper	Crush	19022	7	52055	-	noDamageEffect		
+esper	Crush	19022	8	52056	-	noDamageEffect		
+esper	Crush	19022	9	52057	-	noDamageEffect		
+esper	Telekinetic Storm	19024	1	32814	-	noDamageEffect		
+esper	Telekinetic Storm	19024	2	61063	-	noDamageEffect		
+esper	Telekinetic Storm	19024	3	61064	-	noDamageEffect		
+esper	Telekinetic Storm	19024	4	61065	-	noDamageEffect		
+esper	Telekinetic Storm	19024	5	61066	-	noDamageEffect		
+esper	Telekinetic Storm	19024	6	61067	-	noDamageEffect		
+esper	Telekinetic Storm	19024	7	61068	-	noDamageEffect		
+esper	Telekinetic Storm	19024	8	61069	-	noDamageEffect		
+esper	Telekinetic Storm	19024	9	61070	-	noDamageEffect		
+esper	Restraint	19025	1	32815	-	noDamageEffect		
+esper	Restraint	19025	2	54530	-	noDamageEffect		
+esper	Restraint	19025	3	54531	-	noDamageEffect		
+esper	Restraint	19025	4	54532	-	noDamageEffect		
+esper	Restraint	19025	5	54533	-	noDamageEffect		
+esper	Restraint	19025	6	54534	-	noDamageEffect		
+esper	Restraint	19025	7	54535	-	noDamageEffect		
+esper	Restraint	19025	8	54536	-	noDamageEffect		
+esper	Restraint	19025	9	54537	-	noDamageEffect		
+esper	Meditate	19028	1	32818	-	noDamageEffect		
+esper	Meditate	19028	2	55265	-	noDamageEffect		
+esper	Meditate	19028	3	55266	-	noDamageEffect		
+esper	Meditate	19028	4	55267	-	noDamageEffect		
+esper	Meditate	19028	5	55268	-	noDamageEffect		
+esper	Meditate	19028	6	55269	-	noDamageEffect		
+esper	Meditate	19028	7	55270	-	noDamageEffect		
+esper	Meditate	19028	8	55271	-	noDamageEffect		
+esper	Meditate	19028	9	55272	-	noDamageEffect		
+esper	Shockwave	19029	1	32819	Magic	ok	AssaultPower=0.265 PerLevel=28.3 SupportPower=0.265	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	2	52084	Magic	ok	AssaultPower=0.296 PerLevel=28.3 SupportPower=0.296	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	3	52085	Magic	ok	AssaultPower=0.327 PerLevel=28.3 SupportPower=0.327	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	4	52086	Magic	ok	AssaultPower=0.358 PerLevel=28.3 SupportPower=0.358	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	5	52087	Magic	ok	AssaultPower=0.389 PerLevel=28.3 SupportPower=0.389	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	6	52088	Magic	ok	AssaultPower=0.42 PerLevel=28.3 SupportPower=0.42	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	7	52089	Magic	ok	AssaultPower=0.451 PerLevel=28.3 SupportPower=0.451	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	8	52090	Magic	ok	AssaultPower=0.482 PerLevel=28.3 SupportPower=0.482	AssaultPower+PerLevel+SupportPower
+esper	Shockwave	19029	9	52091	Magic	ok	AssaultPower=0.513 PerLevel=28.3 SupportPower=0.513	AssaultPower+PerLevel+SupportPower
+esper	Mind Over Body	19030	1	32820	-	noDamageEffect		
+esper	Mind Over Body	19030	2	54897	-	noDamageEffect		
+esper	Mind Over Body	19030	3	54898	-	noDamageEffect		
+esper	Mind Over Body	19030	4	54899	-	noDamageEffect		
+esper	Mind Over Body	19030	5	54900	-	noDamageEffect		
+esper	Mind Over Body	19030	6	54901	-	noDamageEffect		
+esper	Mind Over Body	19030	7	54902	-	noDamageEffect		
+esper	Mind Over Body	19030	8	54903	-	noDamageEffect		
+esper	Mind Over Body	19030	9	54904	-	noDamageEffect		
+esper	Bolster	19031	1	32821	-	noDamageEffect		
+esper	Bolster	19031	2	52135	-	noDamageEffect		
+esper	Bolster	19031	3	52136	-	noDamageEffect		
+esper	Bolster	19031	4	52137	-	noDamageEffect		
+esper	Bolster	19031	5	52138	-	noDamageEffect		
+esper	Bolster	19031	6	52139	-	noDamageEffect		
+esper	Bolster	19031	7	52140	-	noDamageEffect		
+esper	Bolster	19031	8	52141	-	noDamageEffect		
+esper	Bolster	19031	9	52142	-	noDamageEffect		
+esper	Phantasmal Armor	19033	1	32823	-	noDamageEffect		
+esper	Phantasmal Armor	19033	2	52338	-	noDamageEffect		
+esper	Phantasmal Armor	19033	3	52339	-	noDamageEffect		
+esper	Phantasmal Armor	19033	4	52340	-	noDamageEffect		
+esper	Phantasmal Armor	19033	5	52341	-	noDamageEffect		
+esper	Phantasmal Armor	19033	6	52342	-	noDamageEffect		
+esper	Phantasmal Armor	19033	7	52343	-	noDamageEffect		
+esper	Phantasmal Armor	19033	8	52344	-	noDamageEffect		
+esper	Phantasmal Armor	19033	9	54806	-	noDamageEffect		
+esper	Telekinetic Strike	19102	1	32893	Magic	ok	AssaultPower=0.336 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	2	52351	Magic	ok	AssaultPower=0.3927 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	3	52352	Magic	ok	AssaultPower=0.4494 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	4	52353	Magic	ok	AssaultPower=0.5061 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	5	52354	Magic	ok	AssaultPower=0.5628 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	5	52354	Magic	ok	AssaultPower=0.9107 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	6	52355	Magic	ok	AssaultPower=0.6195 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	6	52355	Magic	ok	AssaultPower=0.9674 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	7	52356	Magic	ok	AssaultPower=0.6762 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	7	52356	Magic	ok	AssaultPower=1.0241 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	8	52357	Magic	ok	AssaultPower=0.7329 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	8	52357	Magic	ok	AssaultPower=1.0808 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	9	52358	Magic	ok	AssaultPower=0.7896 PerLevel=18	AssaultPower+PerLevel
+esper	Telekinetic Strike	19102	9	52358	Magic	ok	AssaultPower=1.1375 PerLevel=18	AssaultPower+PerLevel
+esper	Reap	19136	1	32936	Magic	ok	AssaultPower=0.5203 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	2	55442	Magic	ok	AssaultPower=0.5544 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	3	55443	Magic	ok	AssaultPower=0.5885 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	4	55444	Magic	ok	AssaultPower=0.6226 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	5	55445	Magic	ok	AssaultPower=0.6567 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	5	55445	Magic	ok	AssaultPower=0.9534 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	6	55446	Magic	ok	AssaultPower=0.6908 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	6	55446	Magic	ok	AssaultPower=0.9875 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	7	55447	Magic	ok	AssaultPower=0.7249 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	7	55447	Magic	ok	AssaultPower=1.0216 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	8	55448	Magic	ok	AssaultPower=0.759 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	8	55448	Magic	ok	AssaultPower=1.0557 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	9	55449	Magic	ok	AssaultPower=0.7931 PerLevel=27.75	AssaultPower+PerLevel
+esper	Reap	19136	9	55449	Magic	ok	AssaultPower=1.0898 PerLevel=27.75	AssaultPower+PerLevel
+esper	Haunt	19139	1	32943	Magic	ok	AssaultPower=0.5125 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	2	55120	Magic	ok	AssaultPower=0.5564 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	3	55121	Magic	ok	AssaultPower=0.6003 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	4	55122	Magic	ok	AssaultPower=0.6441 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	5	55123	Magic	ok	AssaultPower=0.6879 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	6	55124	Magic	ok	AssaultPower=0.7317 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	7	55125	Magic	ok	AssaultPower=0.7755 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	8	55126	Magic	ok	AssaultPower=0.8193 PerLevel=27.34	AssaultPower+PerLevel
+esper	Haunt	19139	9	55127	Magic	ok	AssaultPower=0.8631 PerLevel=27.34	AssaultPower+PerLevel
+esper	Blade Dance	19163	1	32999	-	noDamageEffect		
+esper	Blade Dance	19163	2	54353	-	noDamageEffect		
+esper	Blade Dance	19163	3	54354	-	noDamageEffect		
+esper	Blade Dance	19163	4	54355	-	noDamageEffect		
+esper	Blade Dance	19163	5	54356	-	noDamageEffect		
+esper	Blade Dance	19163	6	54357	-	noDamageEffect		
+esper	Blade Dance	19163	7	54358	-	noDamageEffect		
+esper	Blade Dance	19163	8	54359	-	noDamageEffect		
+esper	Blade Dance	19163	9	54360	-	noDamageEffect		
+esper	Fade Out	19190	1	33081	-	noDamageEffect		
+esper	Fade Out	19190	2	54317	-	noDamageEffect		
+esper	Fade Out	19190	3	54318	-	noDamageEffect		
+esper	Fade Out	19190	4	54319	-	noDamageEffect		
+esper	Fade Out	19190	5	54320	-	noDamageEffect		
+esper	Fade Out	19190	6	54321	-	noDamageEffect		
+esper	Fade Out	19190	7	54322	-	noDamageEffect		
+esper	Fade Out	19190	8	54323	-	noDamageEffect		
+esper	Fade Out	19190	9	54324	-	noDamageEffect		
+esper	Soothe	19207	1	33140	-	noDamageEffect		
+esper	Soothe	19207	2	54247	-	noDamageEffect		
+esper	Soothe	19207	3	54248	-	noDamageEffect		
+esper	Soothe	19207	4	54249	-	noDamageEffect		
+esper	Soothe	19207	5	54250	-	noDamageEffect		
+esper	Soothe	19207	6	54251	-	noDamageEffect		
+esper	Soothe	19207	7	54252	-	noDamageEffect		
+esper	Soothe	19207	8	54253	-	noDamageEffect		
+esper	Soothe	19207	9	54254	-	noDamageEffect		
+esper	Reverie	19218	1	33181	-	noDamageEffect		
+esper	Reverie	19218	2	52238	-	noDamageEffect		
+esper	Reverie	19218	3	52239	-	noDamageEffect		
+esper	Reverie	19218	4	52240	-	noDamageEffect		
+esper	Reverie	19218	5	52241	-	noDamageEffect		
+esper	Reverie	19218	6	52242	-	noDamageEffect		
+esper	Reverie	19218	7	52243	-	noDamageEffect		
+esper	Reverie	19218	8	52244	-	noDamageEffect		
+esper	Reverie	19218	9	52245	-	noDamageEffect		
+esper	Mental Boon	19258	1	33257	-	noDamageEffect		
+esper	Mental Boon	19258	2	55922	-	noDamageEffect		
+esper	Mental Boon	19258	3	55923	-	noDamageEffect		
+esper	Mental Boon	19258	4	55924	-	noDamageEffect		
+esper	Mental Boon	19258	5	55925	-	noDamageEffect		
+esper	Mental Boon	19258	6	55926	-	noDamageEffect		
+esper	Mental Boon	19258	7	55927	-	noDamageEffect		
+esper	Mental Boon	19258	8	55928	-	noDamageEffect		
+esper	Mental Boon	19258	9	55929	-	noDamageEffect		
+esper	Catharsis	19271	1	33270	-	noDamageEffect		
+esper	Catharsis	19271	2	55214	-	noDamageEffect		
+esper	Catharsis	19271	3	55215	-	noDamageEffect		
+esper	Catharsis	19271	4	55216	-	noDamageEffect		
+esper	Catharsis	19271	5	55217	-	noDamageEffect		
+esper	Catharsis	19271	6	55218	-	noDamageEffect		
+esper	Catharsis	19271	7	55219	-	noDamageEffect		
+esper	Catharsis	19271	8	55220	-	noDamageEffect		
+esper	Catharsis	19271	9	55221	-	noDamageEffect		
+esper	Fixation	19273	1	33272	-	noDamageEffect		
+esper	Fixation	19273	2	55236	-	noDamageEffect		
+esper	Fixation	19273	3	55237	-	noDamageEffect		
+esper	Fixation	19273	4	55238	-	noDamageEffect		
+esper	Fixation	19273	5	55239	-	noDamageEffect		
+esper	Fixation	19273	6	55240	-	noDamageEffect		
+esper	Fixation	19273	7	55241	-	noDamageEffect		
+esper	Fixation	19273	8	55242	-	noDamageEffect		
+esper	Fixation	19273	9	55243	-	noDamageEffect		
+esper	Mending Banner	19341	1	33345	-	noDamageEffect		
+esper	Mending Banner	19341	2	54418	-	noDamageEffect		
+esper	Mending Banner	19341	3	54419	-	noDamageEffect		
+esper	Mending Banner	19341	4	54420	-	noDamageEffect		
+esper	Mending Banner	19341	5	54421	-	noDamageEffect		
+esper	Mending Banner	19341	6	54422	-	noDamageEffect		
+esper	Mending Banner	19341	7	54423	-	noDamageEffect		
+esper	Mending Banner	19341	8	54424	-	noDamageEffect		
+esper	Mending Banner	19341	9	54425	-	noDamageEffect		
+esper	Incapacitate	19355	1	33359	Magic	ok	AssaultPower=0.125 PerLevel=13.39 SupportPower=0.125	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	2	55078	Magic	ok	AssaultPower=0.1325 PerLevel=13.39 SupportPower=0.1325	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	3	55079	Magic	ok	AssaultPower=0.14 PerLevel=13.39 SupportPower=0.14	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	4	55080	Magic	ok	AssaultPower=0.1475 PerLevel=13.39 SupportPower=0.1475	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	5	55081	Magic	ok	AssaultPower=0.155 PerLevel=13.39 SupportPower=0.155	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	6	55082	Magic	ok	AssaultPower=0.1625 PerLevel=13.39 SupportPower=0.1625	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	7	55083	Magic	ok	AssaultPower=0.17 PerLevel=13.39 SupportPower=0.17	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	8	55084	Magic	ok	AssaultPower=0.1775 PerLevel=13.39 SupportPower=0.1775	AssaultPower+PerLevel+SupportPower
+esper	Incapacitate	19355	9	55085	Magic	ok	AssaultPower=0.185 PerLevel=13.39 SupportPower=0.185	AssaultPower+PerLevel+SupportPower
+esper	Mirage	19362	1	33366	-	noDamageEffect		
+esper	Mirage	19362	2	55057	-	noDamageEffect		
+esper	Mirage	19362	3	55058	-	noDamageEffect		
+esper	Mirage	19362	4	55059	-	noDamageEffect		
+esper	Mirage	19362	5	55060	-	noDamageEffect		
+esper	Mirage	19362	6	55061	-	noDamageEffect		
+esper	Mirage	19362	7	55062	-	noDamageEffect		
+esper	Mirage	19362	8	55063	-	noDamageEffect		
+esper	Mirage	19362	9	55064	-	noDamageEffect		
+esper	Warden	19379	1	33392	-	noDamageEffect		
+esper	Warden	19379	2	55797	-	noDamageEffect		
+esper	Warden	19379	3	55798	-	noDamageEffect		
+esper	Warden	19379	4	55799	-	noDamageEffect		
+esper	Warden	19379	5	55800	-	noDamageEffect		
+esper	Warden	19379	6	55801	-	noDamageEffect		
+esper	Warden	19379	7	55802	-	noDamageEffect		
+esper	Warden	19379	8	55803	-	noDamageEffect		
+esper	Warden	19379	9	55804	-	noDamageEffect		
+esper	Psychic Frenzy	21613	1	36009	Magic	ok	AssaultPower=0.1465 PerLevel=7.82	AssaultPower+PerLevel
+esper	Psychic Frenzy	21613	2	55374	Magic	ok	AssaultPower=0.1718 PerLevel=7.82	AssaultPower+PerLevel
+esper	Psychic Frenzy	21613	3	55375	Magic	ok	AssaultPower=0.1971 PerLevel=7.82	AssaultPower+PerLevel
+esper	Psychic Frenzy	21613	4	55376	Magic	ok	AssaultPower=0.2224 PerLevel=7.82	AssaultPower+PerLevel
+esper	Psychic Frenzy	21613	5	55377	-	noDamageEffect		
+esper	Psychic Frenzy	21613	6	55378	-	noDamageEffect		
+esper	Psychic Frenzy	21613	7	55379	-	noDamageEffect		
+esper	Psychic Frenzy	21613	8	55380	-	noDamageEffect		
+esper	Psychic Frenzy	21613	9	55381	-	noDamageEffect		
+esper	Geist	21743	1	36155	-	noDamageEffect		
+esper	Geist	21743	2	55888	-	noDamageEffect		
+esper	Geist	21743	3	55889	-	noDamageEffect		
+esper	Geist	21743	4	55890	-	noDamageEffect		
+esper	Geist	21743	5	55891	-	noDamageEffect		
+esper	Geist	21743	6	55892	-	noDamageEffect		
+esper	Geist	21743	7	55893	-	noDamageEffect		
+esper	Geist	21743	8	55894	-	noDamageEffect		
+esper	Geist	21743	9	55895	-	noDamageEffect		
+esper	Spectral Swarm	21779	1	36200	-	noDamageEffect		
+esper	Spectral Swarm	21779	2	55666	-	noDamageEffect		
+esper	Spectral Swarm	21779	3	55667	-	noDamageEffect		
+esper	Spectral Swarm	21779	4	55668	-	noDamageEffect		
+esper	Spectral Swarm	21779	5	55669	-	noDamageEffect		
+esper	Spectral Swarm	21779	6	55670	-	noDamageEffect		
+esper	Spectral Swarm	21779	7	55671	-	noDamageEffect		
+esper	Spectral Swarm	21779	8	55672	-	noDamageEffect		
+esper	Spectral Swarm	21779	9	55673	-	noDamageEffect		
+esper	Projected Spirit	21812	1	36233	-	noDamageEffect		
+esper	Projected Spirit	21812	2	55159	-	noDamageEffect		
+esper	Projected Spirit	21812	3	55160	-	noDamageEffect		
+esper	Projected Spirit	21812	4	55161	-	noDamageEffect		
+esper	Projected Spirit	21812	5	55162	-	noDamageEffect		
+esper	Projected Spirit	21812	6	55163	-	noDamageEffect		
+esper	Projected Spirit	21812	7	55164	-	noDamageEffect		
+esper	Projected Spirit	21812	8	55165	-	noDamageEffect		
+esper	Projected Spirit	21812	9	55166	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	1	36821	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	2	61119	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	3	61120	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	4	61121	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	5	61122	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	6	61123	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	7	61124	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	8	61125	-	noDamageEffect		
+esper	Pyrokinetic Flame	22282	9	61126	-	noDamageEffect		
+esper	Illusionary Blades	27734	1	43568	-	noDamageEffect		
+esper	Illusionary Blades	27734	2	51892	-	noDamageEffect		
+esper	Illusionary Blades	27734	3	51893	-	noDamageEffect		
+esper	Illusionary Blades	27734	4	51894	-	noDamageEffect		
+esper	Illusionary Blades	27734	5	51910	-	noDamageEffect		
+esper	Illusionary Blades	27734	6	51911	-	noDamageEffect		
+esper	Illusionary Blades	27734	7	54811	-	noDamageEffect		
+esper	Illusionary Blades	27734	8	54812	-	noDamageEffect		
+esper	Illusionary Blades	27734	9	54814	-	noDamageEffect		
+esper	Concentrated Blade	28756	1	44641	-	noDamageEffect		
+esper	Concentrated Blade	28756	2	52021	-	noDamageEffect		
+esper	Concentrated Blade	28756	3	52022	-	noDamageEffect		
+esper	Concentrated Blade	28756	4	52023	-	noDamageEffect		
+esper	Concentrated Blade	28756	5	52024	-	noDamageEffect		
+esper	Concentrated Blade	28756	6	52025	-	noDamageEffect		
+esper	Concentrated Blade	28756	7	52026	-	noDamageEffect		
+esper	Concentrated Blade	28756	8	52027	-	noDamageEffect		
+esper	Concentrated Blade	28756	9	52028	-	noDamageEffect		
+esper	Locus of Power	63009	1	87947	-	noDamageEffect		
+esper	Locus of Power	63009	2	88244	-	noDamageEffect		
+esper	Locus of Power	63009	3	88245	-	noDamageEffect		
+esper	Locus of Power	63009	4	88246	-	noDamageEffect		
+esper	Locus of Power	63009	5	88247	-	noDamageEffect		
+esper	Locus of Power	63009	6	88248	-	noDamageEffect		
+esper	Locus of Power	63009	7	88249	-	noDamageEffect		
+esper	Locus of Power	63009	8	88250	-	noDamageEffect		
+esper	Locus of Power	63009	9	88251	-	noDamageEffect		
+esper	Epiphany	63408	1	88558	-	noDamageEffect		
+esper	Epiphany	63408	2	88559	-	noDamageEffect		
+esper	Epiphany	63408	3	88560	-	noDamageEffect		
+esper	Epiphany	63408	4	88561	-	noDamageEffect		
+esper	Epiphany	63408	5	88562	-	noDamageEffect		
+esper	Epiphany	63408	6	88563	-	noDamageEffect		
+esper	Epiphany	63408	7	88564	-	noDamageEffect		
+esper	Epiphany	63408	8	88565	-	noDamageEffect		
+esper	Epiphany	63408	9	88566	-	noDamageEffect		
+medic	Gamma Rays	16322	1	29874	Tech	ok	AssaultPower=0.3141 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	2	52420	Tech	ok	AssaultPower=0.3351 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	3	52421	Tech	ok	AssaultPower=0.3561 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	4	52422	Tech	ok	AssaultPower=0.3771 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	5	52423	Tech	ok	AssaultPower=0.3981 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	6	52424	Tech	ok	AssaultPower=0.4191 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	7	52425	Tech	ok	AssaultPower=0.4401 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	8	52426	Tech	ok	AssaultPower=0.4611 PerLevel=13.66	AssaultPower+PerLevel
+medic	Gamma Rays	16322	9	52427	Tech	ok	AssaultPower=0.4821 PerLevel=13.66	AssaultPower+PerLevel
+medic	Triage	16336	1	29888	-	noDamageEffect		
+medic	Triage	16336	2	59995	-	noDamageEffect		
+medic	Triage	16336	3	59996	-	noDamageEffect		
+medic	Triage	16336	4	59997	-	noDamageEffect		
+medic	Triage	16336	5	59998	-	noDamageEffect		
+medic	Triage	16336	6	59999	-	noDamageEffect		
+medic	Triage	16336	7	60000	-	noDamageEffect		
+medic	Triage	16336	8	60001	-	noDamageEffect		
+medic	Triage	16336	9	60002	-	noDamageEffect		
+medic	Shield Surge	16757	1	30354	-	noDamageEffect		
+medic	Shield Surge	16757	2	60272	-	noDamageEffect		
+medic	Shield Surge	16757	3	60273	-	noDamageEffect		
+medic	Shield Surge	16757	4	60274	-	noDamageEffect		
+medic	Shield Surge	16757	5	60275	-	noDamageEffect		
+medic	Shield Surge	16757	6	60278	-	noDamageEffect		
+medic	Shield Surge	16757	7	60279	-	noDamageEffect		
+medic	Shield Surge	16757	8	60294	-	noDamageEffect		
+medic	Shield Surge	16757	9	60297	-	noDamageEffect		
+medic	Restrictor	22861	1	38279	-	noDamageEffect		
+medic	Restrictor	22861	2	60003	-	noDamageEffect		
+medic	Restrictor	22861	3	60004	-	noDamageEffect		
+medic	Restrictor	22861	4	60005	-	noDamageEffect		
+medic	Restrictor	22861	5	60006	-	noDamageEffect		
+medic	Restrictor	22861	6	60007	-	noDamageEffect		
+medic	Restrictor	22861	7	60008	-	noDamageEffect		
+medic	Restrictor	22861	8	60009	-	noDamageEffect		
+medic	Restrictor	22861	9	60010	-	noDamageEffect		
+medic	Rejuvenator	24867	1	40653	-	noDamageEffect		
+medic	Rejuvenator	24867	2	60368	-	noDamageEffect		
+medic	Rejuvenator	24867	3	60369	-	noDamageEffect		
+medic	Rejuvenator	24867	4	60370	-	noDamageEffect		
+medic	Rejuvenator	24867	5	60371	-	noDamageEffect		
+medic	Rejuvenator	24867	6	60372	-	noDamageEffect		
+medic	Rejuvenator	24867	7	60373	-	noDamageEffect		
+medic	Rejuvenator	24867	8	60375	-	noDamageEffect		
+medic	Rejuvenator	24867	9	60376	-	noDamageEffect		
+medic	Mending Probes	25530	1	41333	-	noDamageEffect		
+medic	Mending Probes	25530	2	60162	-	noDamageEffect		
+medic	Mending Probes	25530	3	60163	-	noDamageEffect		
+medic	Mending Probes	25530	4	60164	-	noDamageEffect		
+medic	Mending Probes	25530	5	60165	-	noDamageEffect		
+medic	Mending Probes	25530	6	60166	-	noDamageEffect		
+medic	Mending Probes	25530	7	60167	-	noDamageEffect		
+medic	Mending Probes	25530	8	60168	-	noDamageEffect		
+medic	Mending Probes	25530	9	60169	-	noDamageEffect		
+medic	Crisis Wave	25579	1	41382	-	noDamageEffect		
+medic	Crisis Wave	25579	2	60334	-	noDamageEffect		
+medic	Crisis Wave	25579	3	60335	-	noDamageEffect		
+medic	Crisis Wave	25579	4	60336	-	noDamageEffect		
+medic	Crisis Wave	25579	5	60337	-	noDamageEffect		
+medic	Crisis Wave	25579	6	60342	-	noDamageEffect		
+medic	Crisis Wave	25579	7	60344	-	noDamageEffect		
+medic	Crisis Wave	25579	8	60345	-	noDamageEffect		
+medic	Crisis Wave	25579	9	60346	-	noDamageEffect		
+medic	Field Probes	25595	1	41398	-	noDamageEffect		
+medic	Field Probes	25595	2	60438	-	noDamageEffect		
+medic	Field Probes	25595	3	60439	-	noDamageEffect		
+medic	Field Probes	25595	4	60440	-	noDamageEffect		
+medic	Field Probes	25595	5	60441	-	noDamageEffect		
+medic	Field Probes	25595	6	60450	-	noDamageEffect		
+medic	Field Probes	25595	7	60451	-	noDamageEffect		
+medic	Field Probes	25595	8	60452	-	noDamageEffect		
+medic	Field Probes	25595	9	60453	-	noDamageEffect		
+medic	Protection Probes	25613	1	41416	-	noDamageEffect		
+medic	Protection Probes	25613	2	60401	-	noDamageEffect		
+medic	Protection Probes	25613	3	60402	-	noDamageEffect		
+medic	Protection Probes	25613	4	60403	-	noDamageEffect		
+medic	Protection Probes	25613	5	60404	-	noDamageEffect		
+medic	Protection Probes	25613	6	60405	-	noDamageEffect		
+medic	Protection Probes	25613	7	60406	-	noDamageEffect		
+medic	Protection Probes	25613	8	60407	-	noDamageEffect		
+medic	Protection Probes	25613	9	60408	-	noDamageEffect		
+medic	Antidote	25617	1	41420	-	noDamageEffect		
+medic	Antidote	25617	2	52477	-	noDamageEffect		
+medic	Antidote	25617	3	52478	-	noDamageEffect		
+medic	Antidote	25617	4	52479	-	noDamageEffect		
+medic	Antidote	25617	5	52480	-	noDamageEffect		
+medic	Antidote	25617	6	52481	-	noDamageEffect		
+medic	Antidote	25617	7	52482	-	noDamageEffect		
+medic	Antidote	25617	8	52488	-	noDamageEffect		
+medic	Antidote	25617	9	52489	-	noDamageEffect		
+medic	Devastator Probes	25666	1	41470	-	noDamageEffect		
+medic	Devastator Probes	25666	2	52293	-	noDamageEffect		
+medic	Devastator Probes	25666	3	52294	-	noDamageEffect		
+medic	Devastator Probes	25666	4	52295	-	noDamageEffect		
+medic	Devastator Probes	25666	5	52296	-	noDamageEffect		
+medic	Devastator Probes	25666	6	52297	-	noDamageEffect		
+medic	Devastator Probes	25666	7	52298	-	noDamageEffect		
+medic	Devastator Probes	25666	8	52299	-	noDamageEffect		
+medic	Devastator Probes	25666	9	52300	-	noDamageEffect		
+medic	Atomize	25692	1	41496	Tech	ok	AssaultPower=0.4303 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	2	59806	Tech	ok	AssaultPower=0.4766 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	3	59807	Tech	ok	AssaultPower=0.5229 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	4	59808	Tech	ok	AssaultPower=0.5692 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	5	59809	Tech	ok	AssaultPower=0.6155 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	6	59810	Tech	ok	AssaultPower=0.6618 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	7	59811	Tech	ok	AssaultPower=0.7081 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	8	59812	Tech	ok	AssaultPower=0.7544 PerLevel=18.72	AssaultPower+PerLevel
+medic	Atomize	25692	9	59813	Tech	ok	AssaultPower=0.8007 PerLevel=18.72	AssaultPower+PerLevel
+medic	Empowering Probes	25729	1	41533	-	noDamageEffect		
+medic	Empowering Probes	25729	2	60420	-	noDamageEffect		
+medic	Empowering Probes	25729	3	60421	-	noDamageEffect		
+medic	Empowering Probes	25729	4	60422	-	noDamageEffect		
+medic	Empowering Probes	25729	5	60423	-	noDamageEffect		
+medic	Empowering Probes	25729	6	60424	-	noDamageEffect		
+medic	Empowering Probes	25729	7	60425	-	noDamageEffect		
+medic	Empowering Probes	25729	8	60426	-	noDamageEffect		
+medic	Empowering Probes	25729	9	60427	-	noDamageEffect		
+medic	Dematerialize	25735	1	41539	-	noDamageEffect		
+medic	Dematerialize	25735	2	52492	-	noDamageEffect		
+medic	Dematerialize	25735	3	52493	-	noDamageEffect		
+medic	Dematerialize	25735	4	52494	-	noDamageEffect		
+medic	Dematerialize	25735	5	52495	-	noDamageEffect		
+medic	Dematerialize	25735	6	52496	-	noDamageEffect		
+medic	Dematerialize	25735	7	52497	-	noDamageEffect		
+medic	Dematerialize	25735	8	52499	-	noDamageEffect		
+medic	Dematerialize	25735	9	52500	-	noDamageEffect		
+medic	Urgency	25747	1	41551	-	noDamageEffect		
+medic	Urgency	25747	2	52382	-	noDamageEffect		
+medic	Urgency	25747	3	52383	-	noDamageEffect		
+medic	Urgency	25747	4	52384	-	noDamageEffect		
+medic	Urgency	25747	5	52385	-	noDamageEffect		
+medic	Urgency	25747	6	52386	-	noDamageEffect		
+medic	Urgency	25747	7	52387	-	noDamageEffect		
+medic	Urgency	25747	8	52388	-	noDamageEffect		
+medic	Urgency	25747	9	52390	-	noDamageEffect		
+medic	Calm	25799	1	41603	-	noDamageEffect		
+medic	Calm	25799	2	52455	-	noDamageEffect		
+medic	Calm	25799	3	52456	-	noDamageEffect		
+medic	Calm	25799	4	52457	-	noDamageEffect		
+medic	Calm	25799	5	52458	-	noDamageEffect		
+medic	Calm	25799	6	52459	-	noDamageEffect		
+medic	Calm	25799	7	52460	-	noDamageEffect		
+medic	Calm	25799	8	52461	-	noDamageEffect		
+medic	Calm	25799	9	52462	-	noDamageEffect		
+medic	Fissure	26038	1	41843	-	noDamageEffect		
+medic	Fissure	26038	2	60096	-	noDamageEffect		
+medic	Fissure	26038	3	60097	-	noDamageEffect		
+medic	Fissure	26038	4	60098	-	noDamageEffect		
+medic	Fissure	26038	5	60099	-	noDamageEffect		
+medic	Fissure	26038	6	60100	-	noDamageEffect		
+medic	Fissure	26038	7	60101	-	noDamageEffect		
+medic	Fissure	26038	8	60102	-	noDamageEffect		
+medic	Fissure	26038	9	60103	-	noDamageEffect		
+medic	Quantum Cascade	26061	1	41866	Tech	ok	AssaultPower=0.2412 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	2	60086	Tech	ok	AssaultPower=0.2496 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	3	60087	Tech	ok	AssaultPower=0.258 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	4	60088	Tech	ok	AssaultPower=0.2664 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	5	60089	Tech	ok	AssaultPower=0.2748 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	6	60090	Tech	ok	AssaultPower=0.2832 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	7	60091	Tech	ok	AssaultPower=0.2916 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	8	60092	Tech	ok	AssaultPower=0.3 PerLevel=10.49	AssaultPower+PerLevel
+medic	Quantum Cascade	26061	9	60093	Tech	ok	AssaultPower=0.3084 PerLevel=10.49	AssaultPower+PerLevel
+medic	Flash	26120	1	41926	-	noDamageEffect		
+medic	Flash	26120	2	59908	-	noDamageEffect		
+medic	Flash	26120	3	59909	-	noDamageEffect		
+medic	Flash	26120	4	59910	-	noDamageEffect		
+medic	Flash	26120	5	59911	-	noDamageEffect		
+medic	Flash	26120	6	59919	-	noDamageEffect		
+medic	Flash	26120	7	59921	-	noDamageEffect		
+medic	Flash	26120	8	59922	-	noDamageEffect		
+medic	Flash	26120	9	59925	-	noDamageEffect		
+medic	Extricate	26433	1	42241	-	noDamageEffect		
+medic	Extricate	26433	2	59847	-	noDamageEffect		
+medic	Extricate	26433	3	59848	-	noDamageEffect		
+medic	Extricate	26433	4	59849	-	noDamageEffect		
+medic	Extricate	26433	5	59850	-	noDamageEffect		
+medic	Extricate	26433	6	59851	-	noDamageEffect		
+medic	Extricate	26433	7	59852	-	noDamageEffect		
+medic	Extricate	26433	8	59853	-	noDamageEffect		
+medic	Extricate	26433	9	59854	-	noDamageEffect		
+medic	Magnetic Lockdown	26529	1	42338	Tech	ok	AssaultPower=0.0789 PerLevel=6.75 SupportPower=0.0789	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	2	60503	Tech	ok	AssaultPower=0.1021 PerLevel=6.75 SupportPower=0.1021	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	3	60504	Tech	ok	AssaultPower=0.1253 PerLevel=6.75 SupportPower=0.1253	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	4	60505	Tech	ok	AssaultPower=0.1485 PerLevel=6.75 SupportPower=0.1485	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	5	60506	Tech	ok	AssaultPower=0.1717 PerLevel=6.75 SupportPower=0.1717	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	6	60507	Tech	ok	AssaultPower=0.1949 PerLevel=6.75 SupportPower=0.1949	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	7	60508	Tech	ok	AssaultPower=0.2181 PerLevel=6.75 SupportPower=0.2181	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	8	60509	Tech	ok	AssaultPower=0.2413 PerLevel=6.75 SupportPower=0.2413	AssaultPower+PerLevel+SupportPower
+medic	Magnetic Lockdown	26529	9	60510	Tech	ok	AssaultPower=0.2645 PerLevel=6.75 SupportPower=0.2645	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	1	42352	Tech	ok	AssaultPower=0.0935 PerLevel=8.14 SupportPower=0.0935	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	2	51979	Tech	ok	AssaultPower=0.09515 PerLevel=8.14 SupportPower=0.09515	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	3	51980	Tech	ok	AssaultPower=0.0968 PerLevel=8.14 SupportPower=0.0968	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	4	51981	Tech	ok	AssaultPower=0.09845 PerLevel=8.14 SupportPower=0.09845	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	5	51982	Tech	ok	AssaultPower=0.1001 PerLevel=8.14 SupportPower=0.1001	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	6	51983	Tech	ok	AssaultPower=0.10175 PerLevel=8.14 SupportPower=0.10175	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	7	51984	Tech	ok	AssaultPower=0.1034 PerLevel=8.14 SupportPower=0.1034	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	8	51988	Tech	ok	AssaultPower=0.10505 PerLevel=8.14 SupportPower=0.10505	AssaultPower+PerLevel+SupportPower
+medic	Paralytic Surge	26543	9	51989	Tech	ok	AssaultPower=0.1067 PerLevel=8.14 SupportPower=0.1067	AssaultPower+PerLevel+SupportPower
+medic	Recharge	26786	1	42596	-	noDamageEffect		
+medic	Recharge	26786	2	59882	-	noDamageEffect		
+medic	Recharge	26786	3	59883	-	noDamageEffect		
+medic	Recharge	26786	4	59884	-	noDamageEffect		
+medic	Recharge	26786	5	59885	-	noDamageEffect		
+medic	Recharge	26786	6	59886	-	noDamageEffect		
+medic	Recharge	26786	7	59887	-	noDamageEffect		
+medic	Recharge	26786	8	59888	-	noDamageEffect		
+medic	Recharge	26786	9	59889	-	noDamageEffect		
+medic	Annihilation	27080	1	42892	-	noDamageEffect		
+medic	Annihilation	27080	2	60019	-	noDamageEffect		
+medic	Annihilation	27080	3	60020	-	noDamageEffect		
+medic	Annihilation	27080	4	60021	-	noDamageEffect		
+medic	Annihilation	27080	5	60022	-	noDamageEffect		
+medic	Annihilation	27080	6	60023	-	noDamageEffect		
+medic	Annihilation	27080	7	60024	-	noDamageEffect		
+medic	Annihilation	27080	8	60025	-	noDamageEffect		
+medic	Annihilation	27080	9	60026	-	noDamageEffect		
+medic	Discharge	38201	1	58832	Tech	ok	AssaultPower=0.098 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	2	59976	Tech	ok	AssaultPower=0.119 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	3	59977	Tech	ok	AssaultPower=0.14 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	4	59978	Tech	ok	AssaultPower=0.161 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	5	59979	Tech	ok	AssaultPower=0.182 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	6	59982	Tech	ok	AssaultPower=0.203 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	7	59983	Tech	ok	AssaultPower=0.224 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	8	59984	Tech	ok	AssaultPower=0.245 PerLevel=4.26	AssaultPower+PerLevel
+medic	Discharge	38201	9	59985	Tech	ok	AssaultPower=0.266 PerLevel=4.26	AssaultPower+PerLevel
+medic	Emission	38210	1	58841	-	noDamageEffect		
+medic	Emission	38210	2	60112	-	noDamageEffect		
+medic	Emission	38210	3	60113	-	noDamageEffect		
+medic	Emission	38210	4	60114	-	noDamageEffect		
+medic	Emission	38210	5	60115	-	noDamageEffect		
+medic	Emission	38210	6	60116	-	noDamageEffect		
+medic	Emission	38210	7	60117	-	noDamageEffect		
+medic	Emission	38210	8	60118	-	noDamageEffect		
+medic	Emission	38210	9	60119	-	noDamageEffect		
+medic	Nullifier	47675	1	70757	-	noDamageEffect		
+medic	Nullifier	47675	2	70758	-	noDamageEffect		
+medic	Nullifier	47675	3	70759	-	noDamageEffect		
+medic	Nullifier	47675	4	70760	-	noDamageEffect		
+medic	Nullifier	47675	5	70761	-	noDamageEffect		
+medic	Nullifier	47675	6	70762	-	noDamageEffect		
+medic	Nullifier	47675	7	70763	-	noDamageEffect		
+medic	Nullifier	47675	8	70764	-	noDamageEffect		
+medic	Nullifier	47675	9	70765	-	noDamageEffect		
+medic	Collider	47793	1	70953	-	noDamageEffect		
+medic	Collider	47793	2	70956	-	noDamageEffect		
+medic	Collider	47793	3	70957	-	noDamageEffect		
+medic	Collider	47793	4	70958	-	noDamageEffect		
+medic	Collider	47793	5	70959	-	noDamageEffect		
+medic	Collider	47793	6	70960	-	noDamageEffect		
+medic	Collider	47793	7	70961	-	noDamageEffect		
+medic	Collider	47793	8	70962	-	noDamageEffect		
+medic	Collider	47793	9	70963	-	noDamageEffect		
+medic	Dual Shock	47807	1	70975	-	noDamageEffect		
+medic	Dual Shock	47807	2	70976	-	noDamageEffect		
+medic	Dual Shock	47807	3	70977	-	noDamageEffect		
+medic	Dual Shock	47807	4	70978	-	noDamageEffect		
+medic	Dual Shock	47807	5	70979	-	noDamageEffect		
+medic	Dual Shock	47807	6	70980	-	noDamageEffect		
+medic	Dual Shock	47807	7	70981	-	noDamageEffect		
+medic	Dual Shock	47807	8	70982	-	noDamageEffect		
+medic	Dual Shock	47807	9	70983	-	noDamageEffect		
+medic	Barrier	53946	1	78081	-	noDamageEffect		
+medic	Barrier	53946	2	78098	-	noDamageEffect		
+medic	Barrier	53946	3	78099	-	noDamageEffect		
+medic	Barrier	53946	4	78100	-	noDamageEffect		
+medic	Barrier	53946	5	78101	-	noDamageEffect		
+medic	Barrier	53946	6	78102	-	noDamageEffect		
+medic	Barrier	53946	7	78103	-	noDamageEffect		
+medic	Barrier	53946	8	78104	-	noDamageEffect		
+medic	Barrier	53946	9	78105	-	noDamageEffect		
+medic	Nerve Induction	63087	1	88169	-	noDamageEffect		
+medic	Nerve Induction	63087	2	88220	-	noDamageEffect		
+medic	Nerve Induction	63087	3	88221	-	noDamageEffect		
+medic	Nerve Induction	63087	4	88222	-	noDamageEffect		
+medic	Nerve Induction	63087	5	88223	-	noDamageEffect		
+medic	Nerve Induction	63087	6	88224	-	noDamageEffect		
+medic	Nerve Induction	63087	7	88225	-	noDamageEffect		
+medic	Nerve Induction	63087	8	88226	-	noDamageEffect		
+medic	Nerve Induction	63087	9	88227	-	noDamageEffect		
+medic	Fusion Probe	63410	1	88568	-	noDamageEffect		
+medic	Fusion Probe	63410	2	88571	-	noDamageEffect		
+medic	Fusion Probe	63410	3	88572	-	noDamageEffect		
+medic	Fusion Probe	63410	4	88573	-	noDamageEffect		
+medic	Fusion Probe	63410	5	88574	-	noDamageEffect		
+medic	Fusion Probe	63410	6	88575	-	noDamageEffect		
+medic	Fusion Probe	63410	7	88576	-	noDamageEffect		
+medic	Fusion Probe	63410	8	88577	-	noDamageEffect		
+medic	Fusion Probe	63410	9	88578	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	1	30006	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	2	51653	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	3	51654	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	4	51655	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	5	51656	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	6	51657	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	7	51658	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	8	51659	-	noDamageEffect		
+spellslinger	Spatial Shift	16454	9	51660	-	noDamageEffect		
+spellslinger	Flash Freeze	20323	1	34353	Magic	ok	AssaultPower=0.15545 PerLevel=16.59 SupportPower=0.15545	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	2	48892	Magic	ok	AssaultPower=0.16705 PerLevel=16.59 SupportPower=0.16705	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	3	48893	Magic	ok	AssaultPower=0.17865 PerLevel=16.59 SupportPower=0.17865	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	4	48894	Magic	ok	AssaultPower=0.19025 PerLevel=16.59 SupportPower=0.19025	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	5	48895	Magic	ok	AssaultPower=0.20185 PerLevel=16.59 SupportPower=0.20185	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	6	48896	Magic	ok	AssaultPower=0.21345 PerLevel=16.59 SupportPower=0.21345	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	7	48897	Magic	ok	AssaultPower=0.22505 PerLevel=16.59 SupportPower=0.22505	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	8	48898	Magic	ok	AssaultPower=0.23665 PerLevel=16.59 SupportPower=0.23665	AssaultPower+PerLevel+SupportPower
+spellslinger	Flash Freeze	20323	9	48899	Magic	ok	AssaultPower=0.24825 PerLevel=16.59 SupportPower=0.24825	AssaultPower+PerLevel+SupportPower
+spellslinger	Gate	20325	1	34355	-	noDamageEffect		
+spellslinger	Gate	20325	2	48870	-	noDamageEffect		
+spellslinger	Gate	20325	3	48871	-	noDamageEffect		
+spellslinger	Gate	20325	4	48872	-	noDamageEffect		
+spellslinger	Gate	20325	5	48873	-	noDamageEffect		
+spellslinger	Gate	20325	6	48874	-	noDamageEffect		
+spellslinger	Gate	20325	7	48875	-	noDamageEffect		
+spellslinger	Gate	20325	8	48877	-	noDamageEffect		
+spellslinger	Gate	20325	9	48878	-	noDamageEffect		
+spellslinger	Charged Shot	20684	1	34718	-	noDamageEffect		
+spellslinger	Charged Shot	20684	2	48940	-	noDamageEffect		
+spellslinger	Charged Shot	20684	3	48941	-	noDamageEffect		
+spellslinger	Charged Shot	20684	4	48942	-	noDamageEffect		
+spellslinger	Charged Shot	20684	5	48943	-	noDamageEffect		
+spellslinger	Charged Shot	20684	6	48944	-	noDamageEffect		
+spellslinger	Charged Shot	20684	7	48945	-	noDamageEffect		
+spellslinger	Charged Shot	20684	8	48946	-	noDamageEffect		
+spellslinger	Charged Shot	20684	9	48947	-	noDamageEffect		
+spellslinger	Ignite	20718	1	34756	-	noDamageEffect		
+spellslinger	Ignite	20718	2	49160	-	noDamageEffect		
+spellslinger	Ignite	20718	3	49161	-	noDamageEffect		
+spellslinger	Ignite	20718	4	49162	-	noDamageEffect		
+spellslinger	Ignite	20718	5	49163	-	noDamageEffect		
+spellslinger	Ignite	20718	6	49164	-	noDamageEffect		
+spellslinger	Ignite	20718	7	49165	-	noDamageEffect		
+spellslinger	Ignite	20718	8	49166	-	noDamageEffect		
+spellslinger	Ignite	20718	9	49167	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	1	34772	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	2	48904	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	3	48905	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	4	48906	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	5	48907	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	6	48908	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	7	48909	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	8	48910	-	noDamageEffect		
+spellslinger	Wild Barrage	20734	9	48911	-	noDamageEffect		
+spellslinger	Phase Shift	20901	1	35170	-	noDamageEffect		
+spellslinger	Phase Shift	20901	2	49766	-	noDamageEffect		
+spellslinger	Phase Shift	20901	3	49767	-	noDamageEffect		
+spellslinger	Phase Shift	20901	4	49768	-	noDamageEffect		
+spellslinger	Phase Shift	20901	5	49769	-	noDamageEffect		
+spellslinger	Phase Shift	20901	6	49770	-	noDamageEffect		
+spellslinger	Phase Shift	20901	7	49771	-	noDamageEffect		
+spellslinger	Phase Shift	20901	8	49772	-	noDamageEffect		
+spellslinger	Phase Shift	20901	9	49773	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	1	35356	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	2	51391	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	3	51392	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	4	51393	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	5	51394	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	6	51395	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	7	51396	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	8	51397	-	noDamageEffect		
+spellslinger	Rapid Fire	21056	9	51398	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	1	35870	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	2	49730	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	3	49731	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	4	49732	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	5	49733	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	6	49734	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	7	49735	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	8	49736	-	noDamageEffect		
+spellslinger	Astral Infusion	21490	9	49737	-	noDamageEffect		
+spellslinger	True Shot	21650	1	36052	Physical	ok	AssaultPower=0.5575 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	2	49078	Physical	ok	AssaultPower=0.6215 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	3	49079	Physical	ok	AssaultPower=0.6855 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	4	49080	Physical	ok	AssaultPower=0.7495 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	5	49081	Physical	ok	AssaultPower=0.8135 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	6	49082	Physical	ok	AssaultPower=0.8775 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	7	49083	Physical	ok	AssaultPower=0.9415 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	8	49084	Physical	ok	AssaultPower=1.0055 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	True Shot	21650	9	49085	Physical	ok	AssaultPower=1.0695 PerLevel=31.25	AssaultPower+PerLevel
+spellslinger	Runic Healing	23012	1	38507	-	noDamageEffect		
+spellslinger	Runic Healing	23012	2	49577	-	noDamageEffect		
+spellslinger	Runic Healing	23012	3	49578	-	noDamageEffect		
+spellslinger	Runic Healing	23012	4	49579	-	noDamageEffect		
+spellslinger	Runic Healing	23012	5	49580	-	noDamageEffect		
+spellslinger	Runic Healing	23012	6	49581	-	noDamageEffect		
+spellslinger	Runic Healing	23012	7	49582	-	noDamageEffect		
+spellslinger	Runic Healing	23012	8	49583	-	noDamageEffect		
+spellslinger	Runic Healing	23012	9	49584	-	noDamageEffect		
+spellslinger	Purify	23255	1	38881	-	noDamageEffect		
+spellslinger	Purify	23255	2	49748	-	noDamageEffect		
+spellslinger	Purify	23255	3	49749	-	noDamageEffect		
+spellslinger	Purify	23255	4	49750	-	noDamageEffect		
+spellslinger	Purify	23255	5	49751	-	noDamageEffect		
+spellslinger	Purify	23255	6	49752	-	noDamageEffect		
+spellslinger	Purify	23255	7	49753	-	noDamageEffect		
+spellslinger	Purify	23255	8	49754	-	noDamageEffect		
+spellslinger	Purify	23255	9	49755	-	noDamageEffect		
+spellslinger	Assassinate	23274	1	38905	-	noDamageEffect		
+spellslinger	Assassinate	23274	2	49051	-	noDamageEffect		
+spellslinger	Assassinate	23274	3	49052	-	noDamageEffect		
+spellslinger	Assassinate	23274	4	49053	-	noDamageEffect		
+spellslinger	Assassinate	23274	5	49054	-	noDamageEffect		
+spellslinger	Assassinate	23274	6	49055	-	noDamageEffect		
+spellslinger	Assassinate	23274	7	49056	-	noDamageEffect		
+spellslinger	Assassinate	23274	8	49057	-	noDamageEffect		
+spellslinger	Assassinate	23274	9	49058	-	noDamageEffect		
+spellslinger	Affinity	23414	1	39063	-	noDamageEffect		
+spellslinger	Affinity	23414	2	49739	-	noDamageEffect		
+spellslinger	Affinity	23414	3	49740	-	noDamageEffect		
+spellslinger	Affinity	23414	4	49741	-	noDamageEffect		
+spellslinger	Affinity	23414	5	49742	-	noDamageEffect		
+spellslinger	Affinity	23414	6	49743	-	noDamageEffect		
+spellslinger	Affinity	23414	7	49744	-	noDamageEffect		
+spellslinger	Affinity	23414	8	49745	-	noDamageEffect		
+spellslinger	Affinity	23414	9	49746	-	noDamageEffect		
+spellslinger	Dual Fire	23418	1	39068	-	noDamageEffect		
+spellslinger	Dual Fire	23418	2	49558	-	noDamageEffect		
+spellslinger	Dual Fire	23418	3	49560	-	noDamageEffect		
+spellslinger	Dual Fire	23418	4	49561	-	noDamageEffect		
+spellslinger	Dual Fire	23418	5	49562	-	noDamageEffect		
+spellslinger	Dual Fire	23418	6	49563	-	noDamageEffect		
+spellslinger	Dual Fire	23418	7	49564	-	noDamageEffect		
+spellslinger	Dual Fire	23418	8	49565	-	noDamageEffect		
+spellslinger	Dual Fire	23418	9	49566	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	1	39092	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	2	49225	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	3	49226	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	4	49227	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	5	49228	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	6	49229	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	7	49230	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	8	49231	-	noDamageEffect		
+spellslinger	Runes of Protection	23441	9	49232	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	1	39116	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	2	49640	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	3	49641	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	4	49642	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	5	49643	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	6	49644	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	7	49645	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	8	49646	-	noDamageEffect		
+spellslinger	Healing Torrent	23463	9	49647	-	noDamageEffect		
+spellslinger	Healing Salve	23468	1	39121	-	noDamageEffect		
+spellslinger	Healing Salve	23468	2	49586	-	noDamageEffect		
+spellslinger	Healing Salve	23468	3	49587	-	noDamageEffect		
+spellslinger	Healing Salve	23468	4	49588	-	noDamageEffect		
+spellslinger	Healing Salve	23468	5	49589	-	noDamageEffect		
+spellslinger	Healing Salve	23468	6	49590	-	noDamageEffect		
+spellslinger	Healing Salve	23468	7	49591	-	noDamageEffect		
+spellslinger	Healing Salve	23468	8	49592	-	noDamageEffect		
+spellslinger	Healing Salve	23468	9	49593	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	1	39132	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	2	49658	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	3	49659	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	4	49660	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	5	49661	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	6	49662	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	7	49663	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	8	49664	-	noDamageEffect		
+spellslinger	Vitality Burst	23479	9	49665	-	noDamageEffect		
+spellslinger	Voidspring	23481	1	39134	-	noDamageEffect		
+spellslinger	Voidspring	23481	2	51800	-	noDamageEffect		
+spellslinger	Voidspring	23481	3	51801	-	noDamageEffect		
+spellslinger	Voidspring	23481	4	51802	-	noDamageEffect		
+spellslinger	Voidspring	23481	5	51803	-	noDamageEffect		
+spellslinger	Voidspring	23481	6	51804	-	noDamageEffect		
+spellslinger	Voidspring	23481	7	51805	-	noDamageEffect		
+spellslinger	Voidspring	23481	8	51806	-	noDamageEffect		
+spellslinger	Voidspring	23481	9	51807	-	noDamageEffect		
+spellslinger	Gather Focus	23664	1	39330	-	noDamageEffect		
+spellslinger	Gather Focus	23664	2	49757	-	noDamageEffect		
+spellslinger	Gather Focus	23664	3	49758	-	noDamageEffect		
+spellslinger	Gather Focus	23664	4	49759	-	noDamageEffect		
+spellslinger	Gather Focus	23664	5	49760	-	noDamageEffect		
+spellslinger	Gather Focus	23664	6	49761	-	noDamageEffect		
+spellslinger	Gather Focus	23664	7	49762	-	noDamageEffect		
+spellslinger	Gather Focus	23664	8	49763	-	noDamageEffect		
+spellslinger	Gather Focus	23664	9	49764	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	1	39646	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	2	51691	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	3	51692	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	4	51693	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	5	51695	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	6	51696	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	7	51697	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	8	51698	-	noDamageEffect		
+spellslinger	Regenerative Pulse	23959	9	51699	-	noDamageEffect		
+spellslinger	Sustain	27504	1	43326	-	noDamageEffect		
+spellslinger	Sustain	27504	2	51850	-	noDamageEffect		
+spellslinger	Sustain	27504	3	51851	-	noDamageEffect		
+spellslinger	Sustain	27504	4	51852	-	noDamageEffect		
+spellslinger	Sustain	27504	5	51853	-	noDamageEffect		
+spellslinger	Sustain	27504	6	51854	-	noDamageEffect		
+spellslinger	Sustain	27504	7	51855	-	noDamageEffect		
+spellslinger	Sustain	27504	8	51856	-	noDamageEffect		
+spellslinger	Sustain	27504	9	51857	-	noDamageEffect		
+spellslinger	Quick Draw	27638	1	43468	-	noDamageEffect		
+spellslinger	Quick Draw	27638	2	49023	-	noDamageEffect		
+spellslinger	Quick Draw	27638	3	49025	-	noDamageEffect		
+spellslinger	Quick Draw	27638	4	49026	-	noDamageEffect		
+spellslinger	Quick Draw	27638	5	49027	-	noDamageEffect		
+spellslinger	Quick Draw	27638	6	49028	-	noDamageEffect		
+spellslinger	Quick Draw	27638	7	49029	-	noDamageEffect		
+spellslinger	Quick Draw	27638	8	49030	-	noDamageEffect		
+spellslinger	Quick Draw	27638	9	49031	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	1	43570	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	2	54941	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	3	54942	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	4	54943	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	5	54944	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	6	54945	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	7	54946	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	8	54947	-	noDamageEffect		
+spellslinger	Arcane Missiles	27736	9	54948	-	noDamageEffect		
+spellslinger	Chill	27774	1	43609	Magic	ok	AssaultPower=0.2325 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	2	49178	Magic	ok	AssaultPower=0.2436 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	3	49179	Magic	ok	AssaultPower=0.2547 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	4	49180	Magic	ok	AssaultPower=0.2658 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	5	49181	Magic	ok	AssaultPower=0.2769 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	6	49182	Magic	ok	AssaultPower=0.288 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	7	49183	Magic	ok	AssaultPower=0.2991 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	8	49184	Magic	ok	AssaultPower=0.3102 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Chill	27774	9	49185	Magic	ok	AssaultPower=0.3213 PerLevel=12.39	AssaultPower+PerLevel
+spellslinger	Arcane Shock	30160	1	46160	Magic	ok	AssaultPower=0.1695 PerLevel=18.08 SupportPower=0.1695	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	2	51624	Magic	ok	AssaultPower=0.2036 PerLevel=18.08 SupportPower=0.2036	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	3	51625	Magic	ok	AssaultPower=0.2377 PerLevel=18.08 SupportPower=0.2377	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	4	51626	Magic	ok	AssaultPower=0.2718 PerLevel=18.08 SupportPower=0.2718	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	5	51627	Magic	ok	AssaultPower=0.3059 PerLevel=18.08 SupportPower=0.3059	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	6	51628	Magic	ok	AssaultPower=0.34 PerLevel=18.08 SupportPower=0.34	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	7	51629	Magic	ok	AssaultPower=0.3741 PerLevel=18.08 SupportPower=0.3741	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	8	51630	Magic	ok	AssaultPower=0.4082 PerLevel=18.08 SupportPower=0.4082	AssaultPower+PerLevel+SupportPower
+spellslinger	Arcane Shock	30160	9	51631	Magic	ok	AssaultPower=0.4423 PerLevel=18.08 SupportPower=0.4423	AssaultPower+PerLevel+SupportPower
+spellslinger	Flame Burst	30666	1	46690	Magic	ok	AssaultPower=0.5416 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	2	53083	Magic	ok	AssaultPower=0.5716 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	3	53084	Magic	ok	AssaultPower=0.6016 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	4	53085	Magic	ok	AssaultPower=0.6316 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	5	53086	Magic	ok	AssaultPower=0.6616 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	6	53087	Magic	ok	AssaultPower=0.6916 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	7	53088	Magic	ok	AssaultPower=0.7216 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	8	53089	Magic	ok	AssaultPower=0.7516 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Flame Burst	30666	9	53090	Magic	ok	AssaultPower=0.7816 PerLevel=28.9	AssaultPower+PerLevel
+spellslinger	Void Pact	34372	1	52233	-	noDamageEffect		
+spellslinger	Void Pact	34372	2	52814	-	noDamageEffect		
+spellslinger	Void Pact	34372	3	52815	-	noDamageEffect		
+spellslinger	Void Pact	34372	4	52816	-	noDamageEffect		
+spellslinger	Void Pact	34372	5	52817	-	noDamageEffect		
+spellslinger	Void Pact	34372	6	52818	-	noDamageEffect		
+spellslinger	Void Pact	34372	7	52819	-	noDamageEffect		
+spellslinger	Void Pact	34372	8	52820	-	noDamageEffect		
+spellslinger	Void Pact	34372	9	52821	-	noDamageEffect		
+spellslinger	Void Slip	37920	1	58428	-	noDamageEffect		
+spellslinger	Void Slip	37920	2	58437	-	noDamageEffect		
+spellslinger	Void Slip	37920	3	58438	-	noDamageEffect		
+spellslinger	Void Slip	37920	4	58439	-	noDamageEffect		
+spellslinger	Void Slip	37920	5	58440	-	noDamageEffect		
+spellslinger	Void Slip	37920	6	58441	-	noDamageEffect		
+spellslinger	Void Slip	37920	7	58442	-	noDamageEffect		
+spellslinger	Void Slip	37920	8	58443	-	noDamageEffect		
+spellslinger	Void Slip	37920	9	58444	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	1	88020	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	2	88119	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	3	88120	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	4	88121	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	5	88122	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	6	88123	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	7	88124	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	8	88125	-	noDamageEffect		
+spellslinger	Sigil of Recovery	63058	9	88126	-	noDamageEffect		
+spellslinger	Magnum	63078	1	88040	Physical	ok	AssaultPower=1.8 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	2	88151	Physical	ok	AssaultPower=1.85 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	3	88152	Physical	ok	AssaultPower=1.9 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	4	88153	Physical	ok	AssaultPower=1.95 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	5	88154	Physical	ok	AssaultPower=2 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	5	88154	Magic	ok	AssaultPower=0.5 PerLevel=24	AssaultPower+PerLevel
+spellslinger	Magnum	63078	6	88155	Physical	ok	AssaultPower=2.05 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	6	88155	Magic	ok	AssaultPower=0.5 PerLevel=24	AssaultPower+PerLevel
+spellslinger	Magnum	63078	7	88156	Physical	ok	AssaultPower=2.1 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	7	88156	Magic	ok	AssaultPower=0.5 PerLevel=24	AssaultPower+PerLevel
+spellslinger	Magnum	63078	8	88157	Physical	ok	AssaultPower=2.15 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	8	88157	Magic	ok	AssaultPower=0.5 PerLevel=24	AssaultPower+PerLevel
+spellslinger	Magnum	63078	9	88158	Physical	ok	AssaultPower=2.2 PerLevel=90	AssaultPower+PerLevel
+spellslinger	Magnum	63078	9	88158	Magic	ok	AssaultPower=0.5 PerLevel=24	AssaultPower+PerLevel
+stalker	Shred	23148	1	38765	-	noDamageEffect		
+stalker	Shred	23148	2	59229	-	noDamageEffect		
+stalker	Shred	23148	3	59230	-	noDamageEffect		
+stalker	Shred	23148	4	59231	-	noDamageEffect		
+stalker	Shred	23148	5	59232	-	noDamageEffect		
+stalker	Shred	23148	6	59233	-	noDamageEffect		
+stalker	Shred	23148	7	59234	-	noDamageEffect		
+stalker	Shred	23148	8	59235	-	noDamageEffect		
+stalker	Shred	23148	9	59236	-	noDamageEffect		
+stalker	Impale	23161	1	38779	-	noDamageEffect		
+stalker	Impale	23161	2	59354	-	noDamageEffect		
+stalker	Impale	23161	3	59355	-	noDamageEffect		
+stalker	Impale	23161	4	59356	-	noDamageEffect		
+stalker	Impale	23161	5	59358	-	noDamageEffect		
+stalker	Impale	23161	6	59359	-	noDamageEffect		
+stalker	Impale	23161	7	59360	-	noDamageEffect		
+stalker	Impale	23161	8	59361	-	noDamageEffect		
+stalker	Impale	23161	9	59362	-	noDamageEffect		
+stalker	Stagger	23173	1	38791	-	noDamageEffect		
+stalker	Stagger	23173	2	59466	-	noDamageEffect		
+stalker	Stagger	23173	3	59467	-	noDamageEffect		
+stalker	Stagger	23173	4	59468	-	noDamageEffect		
+stalker	Stagger	23173	5	59469	-	noDamageEffect		
+stalker	Stagger	23173	6	59470	-	noDamageEffect		
+stalker	Stagger	23173	7	59471	-	noDamageEffect		
+stalker	Stagger	23173	8	59472	-	noDamageEffect		
+stalker	Stagger	23173	9	59473	-	noDamageEffect		
+stalker	Analyze Weakness	23183	1	38803	-	noDamageEffect		
+stalker	Analyze Weakness	23183	2	60122	-	noDamageEffect		
+stalker	Analyze Weakness	23183	3	60123	-	noDamageEffect		
+stalker	Analyze Weakness	23183	4	60124	-	noDamageEffect		
+stalker	Analyze Weakness	23183	5	60125	-	noDamageEffect		
+stalker	Analyze Weakness	23183	6	60126	-	noDamageEffect		
+stalker	Analyze Weakness	23183	7	60127	-	noDamageEffect		
+stalker	Analyze Weakness	23183	8	60128	-	noDamageEffect		
+stalker	Analyze Weakness	23183	9	60129	-	noDamageEffect		
+stalker	Cripple	23205	1	38825	-	noDamageEffect		
+stalker	Cripple	23205	2	60186	-	noDamageEffect		
+stalker	Cripple	23205	3	60187	-	noDamageEffect		
+stalker	Cripple	23205	4	60188	-	noDamageEffect		
+stalker	Cripple	23205	5	60189	-	noDamageEffect		
+stalker	Cripple	23205	6	60190	-	noDamageEffect		
+stalker	Cripple	23205	7	60191	-	noDamageEffect		
+stalker	Cripple	23205	8	60192	-	noDamageEffect		
+stalker	Cripple	23205	9	60193	-	noDamageEffect		
+stalker	Neutralize	23218	1	38838	Tech	ok	AssaultPower=0.6149 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	1	38838	Tech	ok	AssaultPower=0.8149 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	2	59527	Tech	ok	AssaultPower=0.6654 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	2	59527	Tech	ok	AssaultPower=0.8704 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	3	59528	Tech	ok	AssaultPower=0.7159 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	3	59528	Tech	ok	AssaultPower=0.9259 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	4	59529	Tech	ok	AssaultPower=0.7664 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	4	59529	Tech	ok	AssaultPower=0.9814 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	5	59530	Tech	ok	AssaultPower=0.8169 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	5	59530	Tech	ok	AssaultPower=1.0369 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	6	59531	Tech	ok	AssaultPower=0.8674 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	6	59531	Tech	ok	AssaultPower=1.0924 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	7	59532	Tech	ok	AssaultPower=0.9179 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	7	59532	Tech	ok	AssaultPower=1.1479 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	8	59533	Tech	ok	AssaultPower=0.9684 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	8	59533	Tech	ok	AssaultPower=1.2034 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	9	59534	Tech	ok	AssaultPower=1.0189 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Neutralize	23218	9	59534	Tech	ok	AssaultPower=1.2589 PerLevel=26.77	AssaultPower+PerLevel
+stalker	Ruin	23221	1	38841	Tech	ok	AssaultPower=0.1477 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	1	38841	Tech	ok	AssaultPower=0.1477 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	2	59499	Tech	ok	AssaultPower=0.1693 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	2	59499	Tech	ok	AssaultPower=0.1693 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	3	59500	Tech	ok	AssaultPower=0.1909 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	3	59500	Tech	ok	AssaultPower=0.1909 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	4	59501	Tech	ok	AssaultPower=0.2125 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	4	59501	Tech	ok	AssaultPower=0.2125 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	5	59502	Tech	ok	AssaultPower=0.2341 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	5	59502	Tech	ok	AssaultPower=0.2341 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	6	59503	Tech	ok	AssaultPower=0.2557 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	6	59503	Tech	ok	AssaultPower=0.2557 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	7	59504	Tech	ok	AssaultPower=0.2773 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	7	59504	Tech	ok	AssaultPower=0.2773 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	8	59505	Tech	ok	AssaultPower=0.2989 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	8	59505	Tech	ok	AssaultPower=0.2989 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	9	59506	Tech	ok	AssaultPower=0.3205 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Ruin	23221	9	59506	Tech	ok	AssaultPower=0.3205 PerLevel=6.42	AssaultPower+PerLevel
+stalker	Tether Mine	23236	1	38860	-	noDamageEffect		
+stalker	Tether Mine	23236	2	59912	-	noDamageEffect		
+stalker	Tether Mine	23236	3	59913	-	noDamageEffect		
+stalker	Tether Mine	23236	4	59914	-	noDamageEffect		
+stalker	Tether Mine	23236	5	59915	-	noDamageEffect		
+stalker	Tether Mine	23236	6	59916	-	noDamageEffect		
+stalker	Tether Mine	23236	7	59917	-	noDamageEffect		
+stalker	Tether Mine	23236	8	59918	-	noDamageEffect		
+stalker	Tether Mine	23236	9	59920	-	noDamageEffect		
+stalker	Phlebotomize	23268	1	38899	-	noDamageEffect		
+stalker	Phlebotomize	23268	2	60027	-	noDamageEffect		
+stalker	Phlebotomize	23268	3	60028	-	noDamageEffect		
+stalker	Phlebotomize	23268	4	60029	-	noDamageEffect		
+stalker	Phlebotomize	23268	5	60030	-	noDamageEffect		
+stalker	Phlebotomize	23268	6	60031	-	noDamageEffect		
+stalker	Phlebotomize	23268	7	60032	-	noDamageEffect		
+stalker	Phlebotomize	23268	8	60034	-	noDamageEffect		
+stalker	Phlebotomize	23268	9	60035	-	noDamageEffect		
+stalker	Tactical Retreat	23281	1	38912	-	noDamageEffect		
+stalker	Tactical Retreat	23281	2	59725	-	noDamageEffect		
+stalker	Tactical Retreat	23281	3	59726	-	noDamageEffect		
+stalker	Tactical Retreat	23281	4	59727	-	noDamageEffect		
+stalker	Tactical Retreat	23281	5	59728	-	noDamageEffect		
+stalker	Tactical Retreat	23281	6	59729	-	noDamageEffect		
+stalker	Tactical Retreat	23281	7	59730	-	noDamageEffect		
+stalker	Tactical Retreat	23281	8	59731	-	noDamageEffect		
+stalker	Tactical Retreat	23281	9	59732	-	noDamageEffect		
+stalker	Clone	23337	1	38973	-	noDamageEffect		
+stalker	Clone	23337	2	60604	-	noDamageEffect		
+stalker	Clone	23337	3	60605	-	noDamageEffect		
+stalker	Clone	23337	4	60606	-	noDamageEffect		
+stalker	Clone	23337	5	60607	-	noDamageEffect		
+stalker	Clone	23337	6	60608	-	noDamageEffect		
+stalker	Clone	23337	7	60609	-	noDamageEffect		
+stalker	Clone	23337	8	60610	-	noDamageEffect		
+stalker	Clone	23337	9	60611	-	noDamageEffect		
+stalker	Whiplash	23500	1	39157	-	noDamageEffect		
+stalker	Whiplash	23500	2	59934	-	noDamageEffect		
+stalker	Whiplash	23500	3	59935	-	noDamageEffect		
+stalker	Whiplash	23500	4	59936	-	noDamageEffect		
+stalker	Whiplash	23500	5	59937	-	noDamageEffect		
+stalker	Whiplash	23500	6	59938	-	noDamageEffect		
+stalker	Whiplash	23500	7	59939	-	noDamageEffect		
+stalker	Whiplash	23500	8	59940	-	noDamageEffect		
+stalker	Whiplash	23500	9	59941	-	noDamageEffect		
+stalker	Nano Field	23523	1	39180	-	noDamageEffect		
+stalker	Nano Field	23523	2	60240	-	noDamageEffect		
+stalker	Nano Field	23523	3	60241	-	noDamageEffect		
+stalker	Nano Field	23523	4	60242	-	noDamageEffect		
+stalker	Nano Field	23523	5	60243	-	noDamageEffect		
+stalker	Nano Field	23523	6	60244	-	noDamageEffect		
+stalker	Nano Field	23523	7	60245	-	noDamageEffect		
+stalker	Nano Field	23523	8	60246	-	noDamageEffect		
+stalker	Nano Field	23523	9	60247	-	noDamageEffect		
+stalker	False Retreat	23587	1	39246	-	noDamageEffect		
+stalker	False Retreat	23587	2	60280	-	noDamageEffect		
+stalker	False Retreat	23587	3	60281	-	noDamageEffect		
+stalker	False Retreat	23587	4	60282	-	noDamageEffect		
+stalker	False Retreat	23587	5	60283	-	noDamageEffect		
+stalker	False Retreat	23587	6	60284	-	noDamageEffect		
+stalker	False Retreat	23587	7	60285	-	noDamageEffect		
+stalker	False Retreat	23587	8	60286	-	noDamageEffect		
+stalker	False Retreat	23587	9	60287	-	noDamageEffect		
+stalker	Razor Disk	23608	1	39268	-	noDamageEffect		
+stalker	Razor Disk	23608	2	59552	-	noDamageEffect		
+stalker	Razor Disk	23608	3	59553	-	noDamageEffect		
+stalker	Razor Disk	23608	4	59554	-	noDamageEffect		
+stalker	Razor Disk	23608	5	59555	-	noDamageEffect		
+stalker	Razor Disk	23608	6	59556	-	noDamageEffect		
+stalker	Razor Disk	23608	7	59557	-	noDamageEffect		
+stalker	Razor Disk	23608	8	59558	-	noDamageEffect		
+stalker	Razor Disk	23608	9	59559	-	noDamageEffect		
+stalker	Nano Virus	23694	1	39361	-	noDamageEffect		
+stalker	Nano Virus	23694	2	60350	-	noDamageEffect		
+stalker	Nano Virus	23694	3	60351	-	noDamageEffect		
+stalker	Nano Virus	23694	4	60352	-	noDamageEffect		
+stalker	Nano Virus	23694	5	60353	-	noDamageEffect		
+stalker	Nano Virus	23694	6	60354	-	noDamageEffect		
+stalker	Nano Virus	23694	7	60355	-	noDamageEffect		
+stalker	Nano Virus	23694	8	60356	-	noDamageEffect		
+stalker	Nano Virus	23694	9	60357	-	noDamageEffect		
+stalker	Frenzy	23699	1	39366	-	noDamageEffect		
+stalker	Frenzy	23699	2	59824	-	noDamageEffect		
+stalker	Frenzy	23699	3	59825	-	noDamageEffect		
+stalker	Frenzy	23699	4	59826	-	noDamageEffect		
+stalker	Frenzy	23699	5	59827	-	noDamageEffect		
+stalker	Frenzy	23699	6	59828	-	noDamageEffect		
+stalker	Frenzy	23699	7	59830	-	noDamageEffect		
+stalker	Frenzy	23699	8	59831	-	noDamageEffect		
+stalker	Frenzy	23699	9	59832	-	noDamageEffect		
+stalker	Reaver	23704	1	39371	Tech	ok	AssaultPower=0.1361 PerLevel=11.84 SupportPower=0.1361	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	2	59782	Tech	ok	AssaultPower=0.13915 PerLevel=11.84 SupportPower=0.13915	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	3	59783	Tech	ok	AssaultPower=0.14215 PerLevel=11.84 SupportPower=0.14215	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	4	59784	Tech	ok	AssaultPower=0.1452 PerLevel=11.84 SupportPower=0.1452	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	5	59785	Tech	ok	AssaultPower=0.1482 PerLevel=11.84 SupportPower=0.1482	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	6	59786	Tech	ok	AssaultPower=0.1512 PerLevel=11.84 SupportPower=0.1512	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	7	59787	Tech	ok	AssaultPower=0.1542 PerLevel=11.84 SupportPower=0.1542	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	8	59788	Tech	ok	AssaultPower=0.15725 PerLevel=11.84 SupportPower=0.15725	AssaultPower+PerLevel+SupportPower
+stalker	Reaver	23704	9	59789	Tech	ok	AssaultPower=0.16025 PerLevel=11.84 SupportPower=0.16025	AssaultPower+PerLevel+SupportPower
+stalker	Collapse	23705	1	39372	-	noDamageEffect		
+stalker	Collapse	23705	2	59960	-	noDamageEffect		
+stalker	Collapse	23705	3	59961	-	noDamageEffect		
+stalker	Collapse	23705	4	59962	-	noDamageEffect		
+stalker	Collapse	23705	5	59963	-	noDamageEffect		
+stalker	Collapse	23705	6	59964	-	noDamageEffect		
+stalker	Collapse	23705	7	59965	-	noDamageEffect		
+stalker	Collapse	23705	8	59966	-	noDamageEffect		
+stalker	Collapse	23705	9	59967	-	noDamageEffect		
+stalker	Bloodthirst	23829	1	39497	-	noDamageEffect		
+stalker	Bloodthirst	23829	2	59515	-	noDamageEffect		
+stalker	Bloodthirst	23829	3	59516	-	noDamageEffect		
+stalker	Bloodthirst	23829	4	59517	-	noDamageEffect		
+stalker	Bloodthirst	23829	5	59518	-	noDamageEffect		
+stalker	Bloodthirst	23829	6	59519	-	noDamageEffect		
+stalker	Bloodthirst	23829	7	59520	-	noDamageEffect		
+stalker	Bloodthirst	23829	8	59521	-	noDamageEffect		
+stalker	Bloodthirst	23829	9	59522	-	noDamageEffect		
+stalker	Razor Storm	23892	1	39561	Tech	ok	PerLevel=9.68 SupportPower=0.2222	PerLevel+SupportPower
+stalker	Razor Storm	23892	2	59582	Tech	ok	PerLevel=9.68 SupportPower=0.245	PerLevel+SupportPower
+stalker	Razor Storm	23892	3	59583	Tech	ok	PerLevel=9.68 SupportPower=0.2678	PerLevel+SupportPower
+stalker	Razor Storm	23892	4	59584	Tech	ok	PerLevel=9.68 SupportPower=0.2906	PerLevel+SupportPower
+stalker	Razor Storm	23892	5	59585	Tech	ok	PerLevel=9.68 SupportPower=0.3134	PerLevel+SupportPower
+stalker	Razor Storm	23892	6	59586	Tech	ok	PerLevel=9.68 SupportPower=0.3362	PerLevel+SupportPower
+stalker	Razor Storm	23892	7	59587	Tech	ok	PerLevel=9.68 SupportPower=0.359	PerLevel+SupportPower
+stalker	Razor Storm	23892	8	59588	Tech	ok	PerLevel=9.68 SupportPower=0.3818	PerLevel+SupportPower
+stalker	Razor Storm	23892	9	59589	Tech	ok	PerLevel=9.68 SupportPower=0.4046	PerLevel+SupportPower
+stalker	Stim Drone	23896	1	39565	-	noDamageEffect		
+stalker	Stim Drone	23896	2	59602	-	noDamageEffect		
+stalker	Stim Drone	23896	3	59603	-	noDamageEffect		
+stalker	Stim Drone	23896	4	59604	-	noDamageEffect		
+stalker	Stim Drone	23896	5	59605	-	noDamageEffect		
+stalker	Stim Drone	23896	6	59606	-	noDamageEffect		
+stalker	Stim Drone	23896	7	59607	-	noDamageEffect		
+stalker	Stim Drone	23896	8	59608	-	noDamageEffect		
+stalker	Stim Drone	23896	9	59609	-	noDamageEffect		
+stalker	Nano Dart	23908	1	39581	-	noDamageEffect		
+stalker	Nano Dart	23908	2	59858	-	noDamageEffect		
+stalker	Nano Dart	23908	3	59859	-	noDamageEffect		
+stalker	Nano Dart	23908	4	59860	-	noDamageEffect		
+stalker	Nano Dart	23908	5	59861	-	noDamageEffect		
+stalker	Nano Dart	23908	6	59862	-	noDamageEffect		
+stalker	Nano Dart	23908	7	59863	-	noDamageEffect		
+stalker	Nano Dart	23908	8	59864	-	noDamageEffect		
+stalker	Nano Dart	23908	9	59865	-	noDamageEffect		
+stalker	Amplification Spike	23955	1	39642	-	noDamageEffect		
+stalker	Amplification Spike	23955	2	60483	-	noDamageEffect		
+stalker	Amplification Spike	23955	3	60484	-	noDamageEffect		
+stalker	Amplification Spike	23955	4	60486	-	noDamageEffect		
+stalker	Amplification Spike	23955	5	60487	-	noDamageEffect		
+stalker	Amplification Spike	23955	6	60488	-	noDamageEffect		
+stalker	Amplification Spike	23955	7	60489	-	noDamageEffect		
+stalker	Amplification Spike	23955	8	60490	-	noDamageEffect		
+stalker	Amplification Spike	23955	9	60499	-	noDamageEffect		
+stalker	Concussive Kicks	23984	1	39671	Physical	ok	AssaultPower=0.3864 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	2	59711	Physical	ok	AssaultPower=0.4064 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	3	59712	Physical	ok	AssaultPower=0.4264 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	4	59713	Physical	ok	AssaultPower=0.4464 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	5	59714	Physical	ok	AssaultPower=0.4664 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	6	59715	Physical	ok	AssaultPower=0.4864 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	7	59716	Physical	ok	AssaultPower=0.5064 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	8	59717	Physical	ok	AssaultPower=0.5264 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Concussive Kicks	23984	9	59718	Physical	ok	AssaultPower=0.5464 PerLevel=16.74	AssaultPower+PerLevel
+stalker	Pounce	26865	1	42676	-	noDamageEffect		
+stalker	Pounce	26865	2	60519	-	noDamageEffect		
+stalker	Pounce	26865	3	60520	-	noDamageEffect		
+stalker	Pounce	26865	4	60521	-	noDamageEffect		
+stalker	Pounce	26865	5	60522	-	noDamageEffect		
+stalker	Pounce	26865	6	60523	-	noDamageEffect		
+stalker	Pounce	26865	7	60524	-	noDamageEffect		
+stalker	Pounce	26865	8	60525	-	noDamageEffect		
+stalker	Pounce	26865	9	60526	-	noDamageEffect		
+stalker	Nano Skin: Lethal	29131	1	45057	-	noDamageEffect		
+stalker	Nano Skin: Evasive	29132	1	45058	-	noDamageEffect		
+stalker	Nano Skin: Agile	30061	1	46059	-	noDamageEffect		
+stalker	Decimate	31937	1	48033	Physical	ok	PerLevel=11.14 SupportPower=0.2562	PerLevel+SupportPower
+stalker	Decimate	31937	2	59664	Physical	ok	PerLevel=11.14 SupportPower=0.2704	PerLevel+SupportPower
+stalker	Decimate	31937	3	59665	Physical	ok	PerLevel=11.14 SupportPower=0.2846	PerLevel+SupportPower
+stalker	Decimate	31937	4	59666	Physical	ok	PerLevel=11.14 SupportPower=0.2988	PerLevel+SupportPower
+stalker	Decimate	31937	5	59667	Physical	ok	PerLevel=11.14 SupportPower=0.313	PerLevel+SupportPower
+stalker	Decimate	31937	6	59668	Physical	ok	PerLevel=11.14 SupportPower=0.3272	PerLevel+SupportPower
+stalker	Decimate	31937	7	59669	Physical	ok	PerLevel=11.14 SupportPower=0.3414	PerLevel+SupportPower
+stalker	Decimate	31937	8	59670	Physical	ok	PerLevel=11.14 SupportPower=0.3556	PerLevel+SupportPower
+stalker	Decimate	31937	9	59671	Physical	ok	PerLevel=11.14 SupportPower=0.3698	PerLevel+SupportPower
+stalker	Steadfast	31976	1	48117	-	noDamageEffect		
+stalker	Steadfast	31976	2	59640	-	noDamageEffect		
+stalker	Steadfast	31976	3	59641	-	noDamageEffect		
+stalker	Steadfast	31976	4	59642	-	noDamageEffect		
+stalker	Steadfast	31976	5	59643	-	noDamageEffect		
+stalker	Steadfast	31976	6	59644	-	noDamageEffect		
+stalker	Steadfast	31976	7	59645	-	noDamageEffect		
+stalker	Steadfast	31976	8	59646	-	noDamageEffect		
+stalker	Steadfast	31976	9	59647	-	noDamageEffect		
+stalker	Punish	32336	1	48584	Physical	ok	AssaultPower=0.702 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	2	59619	Physical	ok	AssaultPower=0.7743 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	3	59620	Physical	ok	AssaultPower=0.8466 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	4	59621	Physical	ok	AssaultPower=0.9189 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	5	59622	Physical	ok	AssaultPower=0.9912 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	6	59623	Physical	ok	AssaultPower=1.0635 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	7	59624	Physical	ok	AssaultPower=1.1358 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	8	59625	Physical	ok	AssaultPower=1.2081 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Punish	32336	9	59626	Physical	ok	AssaultPower=1.2804 PerLevel=30.57	AssaultPower+PerLevel
+stalker	Preparation	32921	1	50184	-	noDamageEffect		
+stalker	Preparation	32921	2	60140	-	noDamageEffect		
+stalker	Preparation	32921	3	60141	-	noDamageEffect		
+stalker	Preparation	32921	4	60142	-	noDamageEffect		
+stalker	Preparation	32921	5	60143	-	noDamageEffect		
+stalker	Preparation	32921	6	60144	-	noDamageEffect		
+stalker	Preparation	32921	7	60145	-	noDamageEffect		
+stalker	Preparation	32921	8	60146	-	noDamageEffect		
+stalker	Preparation	32921	9	60147	-	noDamageEffect		
+stalker	Maelstrom	63086	1	88168	Physical	ok	AssaultPower=0.228 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	2	88228	Physical	ok	AssaultPower=0.253 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	3	88229	Physical	ok	AssaultPower=0.278 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	4	88230	Physical	ok	AssaultPower=0.303 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	5	88231	Physical	ok	AssaultPower=0.328 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	6	88232	Physical	ok	AssaultPower=0.353 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	7	88233	Physical	ok	AssaultPower=0.378 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	8	88234	Physical	ok	AssaultPower=0.403 PerLevel=10.36	AssaultPower+PerLevel
+stalker	Maelstrom	63086	9	88235	-	noDamageEffect		
+stalker	Nano Spike	63137	1	88219	Tech	ok	PerLevel=33.65 SupportPower=0.7728	PerLevel+SupportPower
+stalker	Nano Spike	63137	2	88236	Tech	ok	PerLevel=33.65 SupportPower=0.817	PerLevel+SupportPower
+stalker	Nano Spike	63137	3	88237	Tech	ok	PerLevel=33.65 SupportPower=0.8612	PerLevel+SupportPower
+stalker	Nano Spike	63137	4	88238	Tech	ok	PerLevel=33.65 SupportPower=0.9054	PerLevel+SupportPower
+stalker	Nano Spike	63137	5	88239	Tech	ok	PerLevel=33.65 SupportPower=0.9496	PerLevel+SupportPower
+stalker	Nano Spike	63137	6	88240	Tech	ok	PerLevel=33.65 SupportPower=0.9938	PerLevel+SupportPower
+stalker	Nano Spike	63137	7	88241	Tech	ok	PerLevel=33.65 SupportPower=1.038	PerLevel+SupportPower
+stalker	Nano Spike	63137	8	88242	Tech	ok	PerLevel=33.65 SupportPower=1.0822	PerLevel+SupportPower
+stalker	Nano Spike	63137	9	88243	Tech	ok	PerLevel=33.65 SupportPower=1.1264	PerLevel+SupportPower
+warrior	Unstoppable Force	16970	1	30568	-	noDamageEffect		
+warrior	Unstoppable Force	16970	2	49547	-	noDamageEffect		
+warrior	Unstoppable Force	16970	3	49548	-	noDamageEffect		
+warrior	Unstoppable Force	16970	4	49549	-	noDamageEffect		
+warrior	Unstoppable Force	16970	5	49550	-	noDamageEffect		
+warrior	Unstoppable Force	16970	6	49551	-	noDamageEffect		
+warrior	Unstoppable Force	16970	7	49552	-	noDamageEffect		
+warrior	Unstoppable Force	16970	8	49553	-	noDamageEffect		
+warrior	Unstoppable Force	16970	9	49554	-	noDamageEffect		
+warrior	Relentless Strikes	18309	1	32078	-	noDamageEffect		
+warrior	Relentless Strikes	18309	2	48040	-	noDamageEffect		
+warrior	Relentless Strikes	18309	3	48044	-	noDamageEffect		
+warrior	Relentless Strikes	18309	4	48045	-	noDamageEffect		
+warrior	Relentless Strikes	18309	5	48046	-	noDamageEffect		
+warrior	Relentless Strikes	18309	6	48047	-	noDamageEffect		
+warrior	Relentless Strikes	18309	7	48048	-	noDamageEffect		
+warrior	Relentless Strikes	18309	8	48049	-	noDamageEffect		
+warrior	Relentless Strikes	18309	9	48050	-	noDamageEffect		
+warrior	Leap	18359	1	32128	-	noDamageEffect		
+warrior	Leap	18359	2	48251	-	noDamageEffect		
+warrior	Leap	18359	3	48252	-	noDamageEffect		
+warrior	Leap	18359	4	48253	-	noDamageEffect		
+warrior	Leap	18359	5	48254	-	noDamageEffect		
+warrior	Leap	18359	6	48255	-	noDamageEffect		
+warrior	Leap	18359	7	48256	-	noDamageEffect		
+warrior	Leap	18359	8	48257	-	noDamageEffect		
+warrior	Leap	18359	9	48258	-	noDamageEffect		
+warrior	Atomic Spear	18360	1	32129	-	noDamageEffect		
+warrior	Atomic Spear	18360	2	50159	-	noDamageEffect		
+warrior	Atomic Spear	18360	3	50160	-	noDamageEffect		
+warrior	Atomic Spear	18360	4	50161	-	noDamageEffect		
+warrior	Atomic Spear	18360	5	50162	-	noDamageEffect		
+warrior	Atomic Spear	18360	6	50163	-	noDamageEffect		
+warrior	Atomic Spear	18360	7	50164	-	noDamageEffect		
+warrior	Atomic Spear	18360	8	50165	-	noDamageEffect		
+warrior	Atomic Spear	18360	9	50167	-	noDamageEffect		
+warrior	Grapple	18363	1	32132	Tech	ok	AssaultPower=0.0916 PerLevel=5.8 SupportPower=0.0916	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	2	49507	Tech	ok	AssaultPower=0.101 PerLevel=5.8 SupportPower=0.101	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	3	49508	Tech	ok	AssaultPower=0.1104 PerLevel=5.8 SupportPower=0.1104	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	4	49509	Tech	ok	AssaultPower=0.1198 PerLevel=5.8 SupportPower=0.1198	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	5	49510	Tech	ok	AssaultPower=0.1292 PerLevel=5.8 SupportPower=0.1292	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	6	49511	Tech	ok	AssaultPower=0.1386 PerLevel=5.8 SupportPower=0.1386	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	7	49512	Tech	ok	AssaultPower=0.148 PerLevel=5.8 SupportPower=0.148	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	8	49513	Tech	ok	AssaultPower=0.1574 PerLevel=5.8 SupportPower=0.1574	AssaultPower+PerLevel+SupportPower
+warrior	Grapple	18363	9	49514	Tech	ok	AssaultPower=0.1668 PerLevel=5.8 SupportPower=0.1668	AssaultPower+PerLevel+SupportPower
+warrior	Flash Bang	18547	1	32320	-	noDamageEffect		
+warrior	Flash Bang	18547	2	49381	-	noDamageEffect		
+warrior	Flash Bang	18547	3	49382	-	noDamageEffect		
+warrior	Flash Bang	18547	4	49383	-	noDamageEffect		
+warrior	Flash Bang	18547	5	49384	-	noDamageEffect		
+warrior	Flash Bang	18547	6	49385	-	noDamageEffect		
+warrior	Flash Bang	18547	7	49386	-	noDamageEffect		
+warrior	Flash Bang	18547	8	49387	-	noDamageEffect		
+warrior	Flash Bang	18547	9	49388	-	noDamageEffect		
+warrior	Plasma Blast	18569	1	32342	Tech	ok	AssaultPower=0.09485 PerLevel=6.02 SupportPower=0.09485	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	2	49857	Tech	ok	AssaultPower=0.1047 PerLevel=6.02 SupportPower=0.1047	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	3	49858	Tech	ok	AssaultPower=0.11455 PerLevel=6.02 SupportPower=0.11455	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	4	49859	Tech	ok	AssaultPower=0.1244 PerLevel=6.02 SupportPower=0.1244	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	5	49860	Tech	ok	AssaultPower=0.13425 PerLevel=6.02 SupportPower=0.13425	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	6	49861	Tech	ok	AssaultPower=0.1441 PerLevel=6.02 SupportPower=0.1441	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	7	49862	Tech	ok	AssaultPower=0.15395 PerLevel=6.02 SupportPower=0.15395	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	8	49863	Tech	ok	AssaultPower=0.1638 PerLevel=6.02 SupportPower=0.1638	AssaultPower+PerLevel+SupportPower
+warrior	Plasma Blast	18569	9	49864	Tech	ok	AssaultPower=0.17365 PerLevel=6.02 SupportPower=0.17365	AssaultPower+PerLevel+SupportPower
+warrior	Bolstering Strike	18572	1	32345	-	noDamageEffect		
+warrior	Bolstering Strike	18572	2	49328	-	noDamageEffect		
+warrior	Bolstering Strike	18572	3	49329	-	noDamageEffect		
+warrior	Bolstering Strike	18572	4	49330	-	noDamageEffect		
+warrior	Bolstering Strike	18572	5	49331	-	noDamageEffect		
+warrior	Bolstering Strike	18572	6	49332	-	noDamageEffect		
+warrior	Bolstering Strike	18572	7	49334	-	noDamageEffect		
+warrior	Bolstering Strike	18572	8	49335	-	noDamageEffect		
+warrior	Bolstering Strike	18572	9	49336	-	noDamageEffect		
+warrior	Atomic Surge	18578	1	32351	Tech	ok	PerLevel=2.49 SupportPower=0.0786	PerLevel+SupportPower
+warrior	Atomic Surge	18578	2	49525	Tech	ok	PerLevel=2.49 SupportPower=0.1093	PerLevel+SupportPower
+warrior	Atomic Surge	18578	3	49526	Tech	ok	PerLevel=2.49 SupportPower=0.14	PerLevel+SupportPower
+warrior	Atomic Surge	18578	4	49527	Tech	ok	PerLevel=2.49 SupportPower=0.1707	PerLevel+SupportPower
+warrior	Atomic Surge	18578	5	49528	Tech	ok	PerLevel=2.49 SupportPower=0.2014	PerLevel+SupportPower
+warrior	Atomic Surge	18578	6	49529	Tech	ok	PerLevel=2.49 SupportPower=0.2321	PerLevel+SupportPower
+warrior	Atomic Surge	18578	7	49530	Tech	ok	PerLevel=2.49 SupportPower=0.2628	PerLevel+SupportPower
+warrior	Atomic Surge	18578	8	49531	Tech	ok	PerLevel=2.49 SupportPower=0.2935	PerLevel+SupportPower
+warrior	Atomic Surge	18578	9	49532	Tech	ok	PerLevel=2.49 SupportPower=0.3242	PerLevel+SupportPower
+warrior	Breaching Strikes	18580	1	32353	-	noDamageEffect		
+warrior	Breaching Strikes	18580	2	49988	-	noDamageEffect		
+warrior	Breaching Strikes	18580	3	49989	-	noDamageEffect		
+warrior	Breaching Strikes	18580	4	49990	-	noDamageEffect		
+warrior	Breaching Strikes	18580	5	49991	-	noDamageEffect		
+warrior	Breaching Strikes	18580	6	49992	-	noDamageEffect		
+warrior	Breaching Strikes	18580	7	49993	-	noDamageEffect		
+warrior	Breaching Strikes	18580	8	49994	-	noDamageEffect		
+warrior	Breaching Strikes	18580	9	49995	-	noDamageEffect		
+warrior	Emergency Reserves	18585	1	32358	-	noDamageEffect		
+warrior	Emergency Reserves	18585	2	49516	-	noDamageEffect		
+warrior	Emergency Reserves	18585	3	49517	-	noDamageEffect		
+warrior	Emergency Reserves	18585	4	49518	-	noDamageEffect		
+warrior	Emergency Reserves	18585	5	49519	-	noDamageEffect		
+warrior	Emergency Reserves	18585	6	49520	-	noDamageEffect		
+warrior	Emergency Reserves	18585	7	49521	-	noDamageEffect		
+warrior	Emergency Reserves	18585	8	49522	-	noDamageEffect		
+warrior	Emergency Reserves	18585	9	49524	-	noDamageEffect		
+warrior	Whirlwind	19778	1	33802	-	noDamageEffect		
+warrior	Whirlwind	19778	2	48295	-	noDamageEffect		
+warrior	Whirlwind	19778	3	48296	-	noDamageEffect		
+warrior	Whirlwind	19778	4	48297	-	noDamageEffect		
+warrior	Whirlwind	19778	5	48298	-	noDamageEffect		
+warrior	Whirlwind	19778	6	48299	-	noDamageEffect		
+warrior	Whirlwind	19778	7	48300	-	noDamageEffect		
+warrior	Whirlwind	19778	8	48301	-	noDamageEffect		
+warrior	Whirlwind	19778	9	48302	-	noDamageEffect		
+warrior	Tremor	21806	1	36227	-	noDamageEffect		
+warrior	Tremor	21806	2	49919	-	noDamageEffect		
+warrior	Tremor	21806	3	49920	-	noDamageEffect		
+warrior	Tremor	21806	4	49921	-	noDamageEffect		
+warrior	Tremor	21806	5	49922	-	noDamageEffect		
+warrior	Tremor	21806	6	49923	-	noDamageEffect		
+warrior	Tremor	21806	7	49924	-	noDamageEffect		
+warrior	Tremor	21806	8	49925	-	noDamageEffect		
+warrior	Tremor	21806	9	49926	-	noDamageEffect		
+warrior	Plasma Wall	23169	1	38787	-	noDamageEffect		
+warrior	Plasma Wall	23169	2	50214	-	noDamageEffect		
+warrior	Plasma Wall	23169	3	50215	-	noDamageEffect		
+warrior	Plasma Wall	23169	4	50216	-	noDamageEffect		
+warrior	Plasma Wall	23169	5	50217	-	noDamageEffect		
+warrior	Plasma Wall	23169	6	50218	-	noDamageEffect		
+warrior	Plasma Wall	23169	7	50219	-	noDamageEffect		
+warrior	Plasma Wall	23169	8	50220	-	noDamageEffect		
+warrior	Plasma Wall	23169	9	50221	-	noDamageEffect		
+warrior	Polarity Field	23328	1	38964	-	noDamageEffect		
+warrior	Polarity Field	23328	2	50118	-	noDamageEffect		
+warrior	Polarity Field	23328	3	50119	-	noDamageEffect		
+warrior	Polarity Field	23328	4	50120	-	noDamageEffect		
+warrior	Polarity Field	23328	5	50121	-	noDamageEffect		
+warrior	Polarity Field	23328	6	50122	-	noDamageEffect		
+warrior	Polarity Field	23328	7	50123	-	noDamageEffect		
+warrior	Polarity Field	23328	8	50124	-	noDamageEffect		
+warrior	Polarity Field	23328	9	50125	-	noDamageEffect		
+warrior	Stance: Onslaught	29035	1	44926	-	noDamageEffect		
+warrior	Stance: Juggernaut	29041	1	44932	-	noDamageEffect		
+warrior	Augmented Blade	30896	1	46935	-	noDamageEffect		
+warrior	Augmented Blade	30896	2	49300	-	noDamageEffect		
+warrior	Augmented Blade	30896	3	49301	-	noDamageEffect		
+warrior	Augmented Blade	30896	4	49302	-	noDamageEffect		
+warrior	Augmented Blade	30896	5	49307	-	noDamageEffect		
+warrior	Augmented Blade	30896	6	49308	-	noDamageEffect		
+warrior	Augmented Blade	30896	7	49309	-	noDamageEffect		
+warrior	Augmented Blade	30896	8	49310	-	noDamageEffect		
+warrior	Augmented Blade	30896	9	49311	-	noDamageEffect		
+warrior	Expulsion	31155	1	47214	Tech	ok	PerLevel=10.04 SupportPower=0.3171	PerLevel+SupportPower
+warrior	Expulsion	31155	2	50255	Tech	ok	PerLevel=10.04 SupportPower=0.355	PerLevel+SupportPower
+warrior	Expulsion	31155	3	50256	Tech	ok	PerLevel=10.04 SupportPower=0.3929	PerLevel+SupportPower
+warrior	Expulsion	31155	4	50257	Tech	ok	PerLevel=10.04 SupportPower=0.4308	PerLevel+SupportPower
+warrior	Expulsion	31155	5	50258	Tech	ok	PerLevel=10.04 SupportPower=0.4687	PerLevel+SupportPower
+warrior	Expulsion	31155	6	50259	Tech	ok	PerLevel=10.04 SupportPower=0.5066	PerLevel+SupportPower
+warrior	Expulsion	31155	7	50260	Tech	ok	PerLevel=10.04 SupportPower=0.5445	PerLevel+SupportPower
+warrior	Expulsion	31155	8	50261	Tech	ok	PerLevel=10.04 SupportPower=0.5824	PerLevel+SupportPower
+warrior	Expulsion	31155	9	50262	Tech	ok	PerLevel=10.04 SupportPower=0.6203	PerLevel+SupportPower
+warrior	Tether Bolt	32720	1	49557	Tech	ok	AssaultPower=0.09175 PerLevel=5.8 SupportPower=0.09175	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	2	49784	Tech	ok	AssaultPower=0.0999 PerLevel=5.8 SupportPower=0.0999	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	3	49785	Tech	ok	AssaultPower=0.10805 PerLevel=5.8 SupportPower=0.10805	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	4	49786	Tech	ok	AssaultPower=0.1162 PerLevel=5.8 SupportPower=0.1162	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	5	49787	Tech	ok	AssaultPower=0.12435 PerLevel=5.8 SupportPower=0.12435	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	6	49788	Tech	ok	AssaultPower=0.1325 PerLevel=5.8 SupportPower=0.1325	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	7	49789	Tech	ok	AssaultPower=0.14065 PerLevel=5.8 SupportPower=0.14065	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	8	49790	Tech	ok	AssaultPower=0.1488 PerLevel=5.8 SupportPower=0.1488	AssaultPower+PerLevel+SupportPower
+warrior	Tether Bolt	32720	9	49791	Tech	ok	AssaultPower=0.15695 PerLevel=5.8 SupportPower=0.15695	AssaultPower+PerLevel+SupportPower
+warrior	Power Link	35146	1	53599	-	noDamageEffect		
+warrior	Power Link	35146	2	57713	-	noDamageEffect		
+warrior	Power Link	35146	3	57714	-	noDamageEffect		
+warrior	Power Link	35146	4	57715	-	noDamageEffect		
+warrior	Power Link	35146	5	57716	-	noDamageEffect		
+warrior	Power Link	35146	6	57719	-	noDamageEffect		
+warrior	Power Link	35146	7	57720	-	noDamageEffect		
+warrior	Power Link	35146	8	57721	-	noDamageEffect		
+warrior	Power Link	35146	9	57722	-	noDamageEffect		
+warrior	Jolt	35468	1	54342	Tech	ok	PerLevel=14.69 SupportPower=0.4638	PerLevel+SupportPower
+warrior	Jolt	35468	2	57645	Tech	ok	PerLevel=14.69 SupportPower=0.5143	PerLevel+SupportPower
+warrior	Jolt	35468	3	57646	Tech	ok	PerLevel=14.69 SupportPower=0.5648	PerLevel+SupportPower
+warrior	Jolt	35468	4	57647	Tech	ok	PerLevel=14.69 SupportPower=0.6153	PerLevel+SupportPower
+warrior	Jolt	35468	5	57648	Tech	ok	PerLevel=14.69 SupportPower=0.6658	PerLevel+SupportPower
+warrior	Jolt	35468	6	57651	Tech	ok	PerLevel=14.69 SupportPower=0.7163	PerLevel+SupportPower
+warrior	Jolt	35468	7	57652	Tech	ok	PerLevel=14.69 SupportPower=0.7668	PerLevel+SupportPower
+warrior	Jolt	35468	8	57653	Tech	ok	PerLevel=14.69 SupportPower=0.8173	PerLevel+SupportPower
+warrior	Jolt	35468	9	57654	Tech	ok	PerLevel=14.69 SupportPower=0.8678	PerLevel+SupportPower
+warrior	Sentinel	35501	1	54395	-	noDamageEffect		
+warrior	Sentinel	35501	2	58453	-	noDamageEffect		
+warrior	Sentinel	35501	3	58454	-	noDamageEffect		
+warrior	Sentinel	35501	4	58455	-	noDamageEffect		
+warrior	Sentinel	35501	5	58456	-	noDamageEffect		
+warrior	Sentinel	35501	6	58457	-	noDamageEffect		
+warrior	Sentinel	35501	7	58458	-	noDamageEffect		
+warrior	Sentinel	35501	8	58459	-	noDamageEffect		
+warrior	Sentinel	35501	9	58460	-	noDamageEffect		
+warrior	Defense Grid	35526	1	54475	-	noDamageEffect		
+warrior	Defense Grid	35526	2	57678	-	noDamageEffect		
+warrior	Defense Grid	35526	3	57679	-	noDamageEffect		
+warrior	Defense Grid	35526	4	57680	-	noDamageEffect		
+warrior	Defense Grid	35526	5	57681	-	noDamageEffect		
+warrior	Defense Grid	35526	6	57682	-	noDamageEffect		
+warrior	Defense Grid	35526	7	57683	-	noDamageEffect		
+warrior	Defense Grid	35526	8	57684	-	noDamageEffect		
+warrior	Defense Grid	35526	9	57685	-	noDamageEffect		
+warrior	Savage Strike	36860	1	57248	-	noDamageEffect		
+warrior	Savage Strike	36860	2	57263	-	noDamageEffect		
+warrior	Savage Strike	36860	3	57264	-	noDamageEffect		
+warrior	Savage Strike	36860	4	57265	-	noDamageEffect		
+warrior	Savage Strike	36860	5	57266	-	noDamageEffect		
+warrior	Savage Strike	36860	6	57267	-	noDamageEffect		
+warrior	Savage Strike	36860	7	57268	-	noDamageEffect		
+warrior	Savage Strike	36860	8	57269	-	noDamageEffect		
+warrior	Savage Strike	36860	9	57270	-	noDamageEffect		
+warrior	Shield Burst	37245	1	57694	Tech	ok	PerLevel=14.66 SupportPower=0.4629	PerLevel+SupportPower
+warrior	Shield Burst	37245	2	57696	Tech	ok	PerLevel=14.66 SupportPower=0.5134	PerLevel+SupportPower
+warrior	Shield Burst	37245	3	57697	Tech	ok	PerLevel=14.66 SupportPower=0.5639	PerLevel+SupportPower
+warrior	Shield Burst	37245	4	57698	Tech	ok	PerLevel=14.66 SupportPower=0.6144	PerLevel+SupportPower
+warrior	Shield Burst	37245	5	57699	Tech	ok	PerLevel=14.66 SupportPower=0.6649	PerLevel+SupportPower
+warrior	Shield Burst	37245	5	57699	Tech	ok	PerLevel=14.66 SupportPower=1.0439	PerLevel+SupportPower
+warrior	Shield Burst	37245	6	57700	Tech	ok	PerLevel=14.66 SupportPower=0.7154	PerLevel+SupportPower
+warrior	Shield Burst	37245	6	57700	Tech	ok	PerLevel=14.66 SupportPower=1.0944	PerLevel+SupportPower
+warrior	Shield Burst	37245	7	57701	Tech	ok	PerLevel=14.66 SupportPower=0.7659	PerLevel+SupportPower
+warrior	Shield Burst	37245	7	57701	Tech	ok	PerLevel=14.66 SupportPower=1.1449	PerLevel+SupportPower
+warrior	Shield Burst	37245	8	57702	Tech	ok	PerLevel=14.66 SupportPower=0.8164	PerLevel+SupportPower
+warrior	Shield Burst	37245	8	57702	Tech	ok	PerLevel=14.66 SupportPower=1.1954	PerLevel+SupportPower
+warrior	Shield Burst	37245	9	57703	Tech	ok	PerLevel=14.66 SupportPower=0.8669	PerLevel+SupportPower
+warrior	Shield Burst	37245	9	57703	Tech	ok	PerLevel=14.66 SupportPower=1.2459	PerLevel+SupportPower
+warrior	Smackdown	37482	1	57978	-	noDamageEffect		
+warrior	Smackdown	37482	2	58019	-	noDamageEffect		
+warrior	Smackdown	37482	3	58020	-	noDamageEffect		
+warrior	Smackdown	37482	4	58022	-	noDamageEffect		
+warrior	Smackdown	37482	5	58024	-	noDamageEffect		
+warrior	Smackdown	37482	6	58025	-	noDamageEffect		
+warrior	Smackdown	37482	7	58027	-	noDamageEffect		
+warrior	Smackdown	37482	8	58028	-	noDamageEffect		
+warrior	Smackdown	37482	9	58030	-	noDamageEffect		
+warrior	Rampage	37968	1	58524	-	noDamageEffect		
+warrior	Rampage	37968	2	58528	-	noDamageEffect		
+warrior	Rampage	37968	3	58529	-	noDamageEffect		
+warrior	Rampage	37968	4	58530	-	noDamageEffect		
+warrior	Rampage	37968	5	58531	-	noDamageEffect		
+warrior	Rampage	37968	6	58532	-	noDamageEffect		
+warrior	Rampage	37968	7	58533	-	noDamageEffect		
+warrior	Rampage	37968	8	58534	-	noDamageEffect		
+warrior	Rampage	37968	9	58535	-	noDamageEffect		
+warrior	Kick	38017	1	58591	Physical	ok	AssaultPower=0.0656 PerLevel=4.16 SupportPower=0.0656	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	2	58594	Physical	ok	AssaultPower=0.06925 PerLevel=4.16 SupportPower=0.06925	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	3	58595	Physical	ok	AssaultPower=0.0729 PerLevel=4.16 SupportPower=0.0729	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	4	58596	Physical	ok	AssaultPower=0.07655 PerLevel=4.16 SupportPower=0.07655	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	5	58597	Physical	ok	AssaultPower=0.0802 PerLevel=4.16 SupportPower=0.0802	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	6	58598	Physical	ok	AssaultPower=0.08385 PerLevel=4.16 SupportPower=0.08385	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	7	58599	Physical	ok	AssaultPower=0.0875 PerLevel=4.16 SupportPower=0.0875	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	8	58600	Physical	ok	AssaultPower=0.09115 PerLevel=4.16 SupportPower=0.09115	AssaultPower+PerLevel+SupportPower
+warrior	Kick	38017	9	58601	Physical	ok	AssaultPower=0.0948 PerLevel=4.16 SupportPower=0.0948	AssaultPower+PerLevel+SupportPower
+warrior	Bum Rush	38445	1	59080	-	noDamageEffect		
+warrior	Bum Rush	38445	2	59111	-	noDamageEffect		
+warrior	Bum Rush	38445	3	59113	-	noDamageEffect		
+warrior	Bum Rush	38445	4	59114	-	noDamageEffect		
+warrior	Bum Rush	38445	5	59115	-	noDamageEffect		
+warrior	Bum Rush	38445	6	59117	-	noDamageEffect		
+warrior	Bum Rush	38445	7	59118	-	noDamageEffect		
+warrior	Bum Rush	38445	8	59119	-	noDamageEffect		
+warrior	Bum Rush	38445	9	59120	-	noDamageEffect		
+warrior	Menacing Strike	39339	1	61053	Physical	ok	PerLevel=4.27 SupportPower=0.1346	PerLevel+SupportPower
+warrior	Menacing Strike	39339	2	61054	Physical	ok	PerLevel=4.27 SupportPower=0.1662	PerLevel+SupportPower
+warrior	Menacing Strike	39339	3	61055	Physical	ok	PerLevel=4.27 SupportPower=0.1978	PerLevel+SupportPower
+warrior	Menacing Strike	39339	4	61056	Physical	ok	PerLevel=4.27 SupportPower=0.2294	PerLevel+SupportPower
+warrior	Menacing Strike	39339	5	61057	Physical	ok	PerLevel=4.27 SupportPower=0.261	PerLevel+SupportPower
+warrior	Menacing Strike	39339	6	61058	Physical	ok	PerLevel=4.27 SupportPower=0.2926	PerLevel+SupportPower
+warrior	Menacing Strike	39339	7	61059	Physical	ok	PerLevel=4.27 SupportPower=0.3242	PerLevel+SupportPower
+warrior	Menacing Strike	39339	8	61060	Physical	ok	PerLevel=4.27 SupportPower=0.3558	PerLevel+SupportPower
+warrior	Menacing Strike	39339	9	61061	Physical	ok	PerLevel=4.27 SupportPower=0.3874	PerLevel+SupportPower
+warrior	Menacing Strike	39339	9	61061	Physical	ok	PerLevel=4.27 SupportPower=0.6912	PerLevel+SupportPower
+warrior	Ripsaw	47091	1	70016	Tech	ok	AssaultPower=0.4186 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	2	70019	Tech	ok	AssaultPower=0.4206 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	3	70020	Tech	ok	AssaultPower=0.4226 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	4	70021	Tech	ok	AssaultPower=0.4246 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	5	70022	Tech	ok	AssaultPower=0.4266 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	6	70023	Tech	ok	AssaultPower=0.4286 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	7	70024	Tech	ok	AssaultPower=0.4306 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	8	70025	Tech	ok	AssaultPower=0.4326 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Ripsaw	47091	9	70026	Tech	ok	AssaultPower=0.4346 PerLevel=13.26	AssaultPower+PerLevel
+warrior	Atomic Slash	63026	1	87964	-	noDamageEffect		
+warrior	Atomic Slash	63026	2	88046	-	noDamageEffect		
+warrior	Atomic Slash	63026	3	88047	-	noDamageEffect		
+warrior	Atomic Slash	63026	4	88048	-	noDamageEffect		
+warrior	Atomic Slash	63026	5	88049	-	noDamageEffect		
+warrior	Atomic Slash	63026	6	88050	-	noDamageEffect		
+warrior	Atomic Slash	63026	7	88051	-	noDamageEffect		
+warrior	Atomic Slash	63026	8	88052	-	noDamageEffect		
+warrior	Atomic Slash	63026	9	88053	-	noDamageEffect		
+warrior	Rive	63050	1	88012	-	noDamageEffect		
+warrior	Rive	63050	2	88111	-	noDamageEffect		
+warrior	Rive	63050	3	88112	-	noDamageEffect		
+warrior	Rive	63050	4	88113	-	noDamageEffect		
+warrior	Rive	63050	5	88114	Tech	ok	CasterShieldCapacity=0.1	CasterShieldCapacity
+warrior	Rive	63050	6	88115	Tech	ok	CasterShieldCapacity=0.1	CasterShieldCapacity
+warrior	Rive	63050	7	88116	Tech	ok	CasterShieldCapacity=0.1	CasterShieldCapacity
+warrior	Rive	63050	8	88117	Tech	ok	CasterShieldCapacity=0.1	CasterShieldCapacity
+warrior	Rive	63050	9	88118	Tech	ok	CasterShieldCapacity=0.1	CasterShieldCapacity

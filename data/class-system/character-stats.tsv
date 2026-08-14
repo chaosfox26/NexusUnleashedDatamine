@@ -1,0 +1,60 @@
+# The character sheet as the client itself displays it, build 16042.
+#
+# Source: three screenshots of the Display: Stats panel plus the paperdoll, Channa Silverthorn,
+# level 50, NO GEAR EQUIPPED. Taken 2026-08-14 and supplied by the player. This is the CLIENT, not a
+# capture of it, so where this disagrees with anything else this wins (CLAUDE.md rule 7b).
+#
+# THIS IS THE DEFINITIVE LIST OF STATS THAT EXIST IN 16042. If a stat is not on this sheet it is not
+# a live stat, whatever the tables or an API reference say. Brutality, Finesse, Moxie, Tech, Insight
+# and Grit are absent and are confirmed legacy - independently, no ability among the 202 scales off
+# any of them (docs/client-data/ability-coefficients.tsv).
+#
+# THE NAKED BASELINE IS THE ZERO POINT. Every value here is what the character has with nothing
+# equipped, so any scaling measurement starts from these numbers and a coefficient derived from a
+# geared capture must reduce to these when the gear comes off.
+#
+# ASSAULT POWER AND SUPPORT POWER ARE BOTH 225 ON THIS CHARACTER. That matters more than it looks:
+# an AssaultPower coefficient and a SupportPower coefficient produce IDENTICAL contributions here,
+# so a single naked capture cannot tell them apart. Anything claiming to have separated them from
+# Channa alone has not. They must be moved independently - which is what !entity setprop and
+# /nuscale exist for.
+#
+# panel	stat	value	unit	note
+core	AssaultPower	225		paperdoll, left
+core	SupportPower	225		paperdoll, second - EQUAL to AssaultPower, see header
+core	Health	10000		paperdoll
+core	Shield	0		paperdoll
+offensive	Strikethrough	0.00	%
+offensive	CriticalHitChance	5.00	%	base 5% with no gear
+offensive	CriticalHitSeverity	150.00	%	base multiplier, not a bonus
+offensive	MultiHitChance	5.00	%	base 5% with no gear
+offensive	MultiHitSeverity	30.00	%	the sheet says Severity, NOT "Amount"
+offensive	Vigor	0.00	%
+offensive	Tenacity	0.00	%	EXISTS - was absent from the API reference
+offensive	ArmorPierce	0.00	%
+defensive	PhysicalMitigation	30.29	%	non-zero with no gear - a floor, not a gear contribution
+defensive	TechnologyMitigation	30.29	%	sheet says Technology, not "Tech"
+defensive	MagicMitigation	30.29	%
+defensive	Toughness	0.00	%	EXISTS - was absent from the API reference
+defensive	GlanceMitigation	30.00	%	distinct from GlanceChance
+defensive	GlanceChance	0.00	%
+defensive	CriticalMitigation	0.00	%
+defensive	DeflectChance	5.00	%	base 5% with no gear
+defensive	DeflectCriticalHitChance	0.00	%
+shield	ShieldMitigation	50.00	%	non-zero at baseline
+shield	ShieldRegenRate	5.00	%
+shield	ShieldRebootTime	10.00	sec	a TIME, not a percent
+shield	ShieldTickTime	0.50	sec	a TIME, not a percent
+utility	CooldownReduction	0.00	%	EXISTS - was absent from the API reference
+utility	CCDuration	100.00	%	100 = unmodified. A reduction moves this DOWN.
+utility	Lifesteal	0.00	%
+utility	FocusPool	0		a COUNT, not a percent. EXISTS.
+utility	FocusRecoveryRate	0.00	%
+utility	FocusCostModifier	100.00	%	100 = unmodified, same shape as CCDuration
+utility	ReflectChance	0.00	%	sheet says Reflect, not "DamageReflect"
+utility	ReflectDamage	5.00	%	non-zero at baseline
+utility	Intensity	0.00	%
+utility	Hope	0.00	%	EXISTS - was absent from the API reference
+pvp	PvPPower	75.00	%	sheet says Power, not "Offense"
+pvp	PvPHealing	47.50	%
+pvp	PvPDefense	25.00	%

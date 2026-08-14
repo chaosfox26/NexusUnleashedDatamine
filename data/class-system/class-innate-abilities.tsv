@@ -1,0 +1,26 @@
+# Class abilities the ability book API did NOT return, named by the player 2026-08-14.
+#
+# AbilityBook.GetAbilitiesList omits these entirely. An ability the API does not return is
+# indistinguishable from one that does not exist, so no amount of re-reading the capture would have
+# found them - they came from the player knowing their own classes.
+#
+# Stances, Nano Skins and Modes ARE in the capture as maxTiers=1 entries. Energize, Spectral Form
+# and Spell Surge are NOT in it at all, and are recovered here from the tables.
+#
+# ClassIdPlayer mapping, established from a signature ability per class:
+#   1 Warrior   2 Engineer   3 Esper   4 Medic   5 Stalker   7 Spellslinger
+#
+# Names are heavily reused: "Spell Surge" has ELEVEN base ids of which four are Spellslinger,
+# "Spectral Form" has three of which two are Esper. Where more than one candidate carries the right
+# class, the correct one is NOT yet determined - recorded honestly rather than guessed.
+class	ability	inCapture	baseIds	classId	note
+warrior	Stance: Onslaught	yes	29035	1	maxTiers=1 in capture
+warrior	Stance: Juggernaut	yes	29041	1	maxTiers=1 in capture
+engineer	Mode: Provoke	yes	25700	2	maxTiers=1 in capture
+engineer	Mode: Eradicate	yes	29076	2	maxTiers=1 in capture
+stalker	Nano Skin: Lethal	yes	29131	5	maxTiers=1 in capture
+stalker	Nano Skin: Evasive	yes	29132	5	maxTiers=1 in capture
+stalker	Nano Skin: Agile	yes	30061	5	maxTiers=1 in capture
+medic	Energize	NO	46615	4	RESOLVED - only one candidate carries class 4
+esper	Spectral Form	NO	38012,47358	3	AMBIGUOUS - two candidates both class 3
+spellslinger	Spell Surge	NO	31213,31370,36870,41572	7	AMBIGUOUS - four candidates all class 7
